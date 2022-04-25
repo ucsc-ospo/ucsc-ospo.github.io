@@ -2,7 +2,7 @@
 name = "carlos"
 
 # Is theme light or dark?
-light = true
+[light]
 
 # Primary
 primary = "#1f6daa"
