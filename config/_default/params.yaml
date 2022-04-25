@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: carlos
   theme_night:
-  font: native
+  font: carlos
   font_size: L
 
 # SEO
