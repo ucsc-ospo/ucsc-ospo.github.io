@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Regents of the University of California. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
