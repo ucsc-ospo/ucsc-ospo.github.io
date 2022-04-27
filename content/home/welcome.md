@@ -18,6 +18,5 @@ design:
   css_class:
 ---
 
-{{< video library="true" src="UCSC_final.mp4" controls="yes">}}
-
+{{< youtube TceTFrDStVE >}}
 
