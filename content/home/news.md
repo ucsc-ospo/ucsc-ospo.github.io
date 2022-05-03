@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false
+active: true
 headless: true
 weight: 20
 
@@ -20,6 +20,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
+  view: compact
   columns: '1'
+
 ---

@@ -63,14 +63,14 @@ features:
   syntax_highlighter:
     enable: false
     extra_languages:
-      - r
+      - python
       - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/carlosmalt/ucsc-ospo'
     content_dir: content
     branch: main
   avatar:
