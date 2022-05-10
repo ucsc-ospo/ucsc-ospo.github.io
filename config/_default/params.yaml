@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'university'
+    org_name: 'University of California, Santa Cruz'
+    description: 'The Open Source Program Office, University of California, Santa Cruz.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
