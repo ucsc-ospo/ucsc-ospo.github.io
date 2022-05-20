@@ -14,6 +14,3 @@ design:
 ---
 
 {{< youtube FTI245WykIg >}}
-
-<br><br>
-<center>More details soon!</center>
