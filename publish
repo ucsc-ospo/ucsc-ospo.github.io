@@ -1,11 +1,17 @@
 #! /bin/bash
 
-#REMOTE='carlosm@raindance.cse.ucsc.edu'
-#REMOTE='carlosm@soe.ucsc.edu'
-REMOTE='carlosm@riverdance.soe.ucsc.edu'
+# Usage: ./publish <CruzID>
+# Will prompt for blue password
+REMOTE="$1@sftp.ic.ucsc.edu"
 RSH='ssh'
 RSYNC='/usr/bin/rsync -avz'
-ACADEMIC=$HOME/git/carlosmalt/ucsc-ospo
+WWWDIR='/afs/cats.ucsc.edu/www/ospo'
+PROD='prod/public_html'
+DEV='dev/public_html'
 
-(pushd $ACADEMIC; academic import --bibtex ospo.bib; python3 addpdfs.py; hugo; popd)
-$RSYNC -e "$RSH" $ACADEMIC/public/* $REMOTE:.html/dev/
+#(pushd $ACADEMIC; academic import --bibtex ospo.bib; python3 addpdfs.py; hugo; popd)
+
+# Assume this is executed at the top directory of the repository
+# Swap commands depending on whether it's production or development
+#$RSYNC -e "$RSH" ./public/* $REMOTE:$WWWDIR/$DEV
+$RSYNC -e "$RSH" ./public/* $REMOTE:$WWWDIR/$PROD
