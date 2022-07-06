@@ -5,23 +5,29 @@
 
 main:
   - name: Home
-    url: "#welcome"
+    url: "#home"
     weight: 10
-  - name: News
-    url: "#news"
+  - name: About
+    url: "#about"
     weight: 20
-  - name: Overview
-    url: "#intro_slides"
+  - name: 📚 Guides & Resources
+    url: "#guides"
     weight: 30
-#  - name: People
-#    url: people
-#    weight: 30
-#  - name: Events
-#    url: event
-#    weight: 40
-#  - name: Publications
-#    url: publication
-#    weight: 50
-#  - name: Contact
-#    url: contact
-#    weight: 60
+  - name: 🙋 Community & Network
+    url: "#community"
+    weight: 30
+  - name: 📝 Blog
+    url: "#blog"
+    weight: 40
+  - name: 💚 Members
+    url: "#members"
+    weight: 50
+  - name: 🤝 Associates
+    url: "#associates"
+    weight: 60
+  - name: 👋 Join
+    url: "#join"
+    weight: 70
+  - name: 💬 Q&A
+    url: "#faq"
+    weight: 80
