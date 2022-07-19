@@ -10,6 +10,9 @@ main:
   - name: About
     url: "#about"
     weight: 20
+  - name: Projects
+    url: "#projects"
+    weight: 25
   - name: 📚 Guides & Resources
     url: "#guides"
     weight: 30
