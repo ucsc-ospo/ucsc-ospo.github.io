@@ -34,7 +34,7 @@ The UC Open Source Research Symposium (successor to the CROSS Research Symposia 
 
 AND returning after a two year hiatus, the Symposium will once again include the annual UC Santa Cruz Systems Research Lab’s Oktoberfest barbeque on the evening of the first day of the symposium.
 
-This year’s event is organized by the UC Santa Cruz Open Source Program Office (OSPO) and sponsored by CROSS. It will include keynote speakers, expert panels, and technical workshops, as well as poster presentations highlighting the work of our Open Source Research Experience students.
+This year’s event is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO) and sponsored by the [Alfred P. Sloan Foundation](https://sloan.org/) and [CROSS](https://cross.ucsc.edu/). It will include keynote speakers, expert panels, and technical workshops, as well as poster presentations highlighting the work of our Open Source Research Experience students.
 
 #### Cost for non-UC affiliated participants: $299
 _Interested in Sponsoring this Event? Contact [Stephanie Lieggi]({{< relref "/authors/slieggi">}}). Sponsors get complimentary registration, recognition and other benefits_
@@ -58,3 +58,9 @@ Technical workshops (two tracks) focusing on open source research and communitie
 Venue: Online Only  
 
 Technical workshops as well as presentations by contributors from the Open Source Research Experience Program.  
+
+### Sponsors
+
+![Alfred P. Sloan Froundation](Logo-2B-SMALL-Gold-Blue.png)  
+
+![Center for Research in Open Source Software - cross.ucsc.edu](SwagLogo.stickerCropped.png)
