@@ -50,7 +50,7 @@ __Day closes with the return of the 12th UCSC Systems / CROSS sponsored Oktoberf
 
 #### September 28, 2022
 Venue: UC Santa Cruz Baskin Engineering 2
-_n-person participation limited to 60 people; Remote participation also available_
+_In-person participation limited to 60 people; Remote participation also available_
 
 Technical workshops (two tracks) focusing on open source research and communities at UC Santa Cruz and other UC campuses.
 
