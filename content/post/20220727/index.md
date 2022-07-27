@@ -42,19 +42,19 @@ _Interested in Sponsoring this Event? Contact [Stephanie Lieggi]({{< relref "/au
 ### Tentative Agenda
 
 #### September 27, 2022
-Venue: UC Santa Cruz Hay Barn
+Venue: UC Santa Cruz Hay Barn  
 _In-person participation limited to 50 people; Remote participation also available_  
 
 Plenary sessions including keynote speakers, expert panels and poster sessions.  
 __Day closes with the return of the 12th UCSC Systems / CROSS sponsored Oktoberfest BBQ!__
 
 #### September 28, 2022
-Venue: UC Santa Cruz Baskin Engineering 2
+Venue: UC Santa Cruz Baskin Engineering 2  
 _In-person participation limited to 60 people; Remote participation also available_
 
 Technical workshops (two tracks) focusing on open source research and communities at UC Santa Cruz and other UC campuses.
 
 #### September 29, 2022
-Venue: Online Only
+Venue: Online Only  
 
 Technical workshops as well as presentations by contributors from the Open Source Research Experience Program.  
