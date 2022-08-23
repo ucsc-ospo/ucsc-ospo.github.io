@@ -3,6 +3,7 @@
 title: Carlos Maltzahn
 
 # Username (this should match the folder name)
+author: "admin"
 authors:
 - admin
 
