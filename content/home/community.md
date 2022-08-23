@@ -3,6 +3,7 @@ widget: blank
 headless: true
 weight: 40
 title: Community and Network
+active: false
 design:
   columns: "1"
   css_style: null

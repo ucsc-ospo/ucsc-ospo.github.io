@@ -3,6 +3,8 @@ widget: blank
 headless: true
 weight: 30
 title: Guides and Resources
+draft: false
+active: false
 design:
   columns: "1"
   css_style: null

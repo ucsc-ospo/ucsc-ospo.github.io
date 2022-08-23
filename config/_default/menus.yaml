@@ -10,27 +10,27 @@ main:
   - name: About
     url: "#about"
     weight: 20
-  - name: Projects
-    url: "#projects"
+  - name: Programs
+    url: "#programs"
     weight: 25
-  - name: 📚 Guides & Resources
-    url: "#guides"
-    weight: 30
-  - name: 🙋 Community & Network
-    url: "#community"
-    weight: 30
+#  - name: 📚 Guides & Resources
+#    url: "#guides"
+#    weight: 30
+#  - name: 🙋 Community & Network
+#    url: "#community"
+#    weight: 30
   - name: 📝 Blog
     url: "#blog"
     weight: 40
-  - name: 💚 Members
-    url: "#members"
-    weight: 50
-  - name: 🤝 Associates
-    url: "#associates"
-    weight: 60
-  - name: 👋 Join
-    url: "#join"
-    weight: 70
-  - name: 💬 Q&A
-    url: "#faq"
-    weight: 80
+#  - name: 💚 Members
+#    url: "#members"
+#    weight: 50
+#  - name: 🤝 Associates
+#    url: "#associates"
+#    weight: 60
+#  - name: 👋 Join
+#    url: "#join"
+#    weight: 70
+#  - name: 💬 Q&A
+#    url: "#faq"
+#    weight: 80

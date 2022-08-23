@@ -3,6 +3,7 @@ widget: blank
 headless: true
 weight: 60
 title: Members
+active: false
 design:
   columns: "1"
   css_style: null
@@ -14,4 +15,3 @@ The OSPO UC Santa Cruz is a community of practitioners who aims to create and sh
 The OSPO UC Santa Cruz Community is open to all. Usually, practitioners coming from a University of California campus or UC-associated national lab (LBL, LLNL, LANL) with an OSPO or an established strategy and policies around open source efforts within its organization join the OSPO UC Santa Cruz as a [Member](#members). Our Mebers include:
 
 (List of UC campus and national lab logos)
-
