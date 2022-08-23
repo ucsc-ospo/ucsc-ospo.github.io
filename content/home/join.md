@@ -4,6 +4,7 @@ headless: true
 weight: 80
 title: Join
 subtitle: Interested in joining the OSPO UC Santa Cruz as Member?
+active: false
 design:
   columns: "1"
   css_style: null
