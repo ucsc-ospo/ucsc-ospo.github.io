@@ -158,4 +158,4 @@ Dr. Carlos Maltzahn is the founder and director of the UC Santa Cruz Center for 
 
 His work is funded by nonprofits, government, and industry, including [NSF OAC-2226407](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226407), the [Alfred P. Sloan Foundation G-2021-16957](https://sloan.org/grant-detail/9723), DOE ASCR DE-NA0003525 (FWP 20-023266, subcontractor of Sandia National Labs), [NSF OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650), [NSF CNS-1764102](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1764102), [NSF CNS-1705021](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1705021), DOE ASCR DE-SC0016074, [NSF OAC-1450488](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450488), and [CROSS](https://cross.ucsc.edu)
 
-For more details, you can read his [vitae](https://drive.google.com/file/d/0B5rZ7hI6vXv3R2p0SEYxZlk5Vjg/view?usp=sharing).
+For more details, see his [homepage](https://people.ucsc.edu/carlosm) and his [vitae](https://drive.google.com/file/d/0B5rZ7hI6vXv3R2p0SEYxZlk5Vjg/view?usp=sharing).
