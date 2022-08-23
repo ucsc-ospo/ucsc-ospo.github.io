@@ -4,6 +4,7 @@ headless: true
 weight: 90
 title: FAQ
 subtitle: Table of contents
+active: false
 design:
   columns: "1"
   css_style: null

@@ -3,6 +3,7 @@ widget: blank
 headless: true
 weight: 70
 title: Associates
+active: false
 design:
   columns: "1"
   css_style: null
