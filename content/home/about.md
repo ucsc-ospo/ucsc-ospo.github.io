@@ -28,8 +28,3 @@ Led by [Carlos Maltzahn]({{< relref "/authors/admin" >}}) and [Stephanie Lieggi]
 - Organizing a yearly undergraduate "Open Source Research Experience", a UC-wide mentor organization that works with Google Summer of Code and other global outreach efforts and engages with industry, government, and foundation sponsorships
 - Creating partnerships with innovative open source teaching initiatives inside and outside the UC system
 
-## Overview slides
-
-<center>
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTosZHKmHPFX6maOVT7sS0aLV-AjLUstzN2_T7wwP4kNtngbwkxhgkYz_d3ZwPhRw/embed?start=false&loop=false&delayms=3000" >}}
-</center>
