@@ -32,25 +32,25 @@ projects: []
 
 # Overview
 
-Inspired by Google Summer of Code, CROSS launched the Open Source Research Experience (OSRE) in the summer of 2020, a marketplace for open source project ideas that matches students to mentors, and engages members of industry to fund and participate in open source based summer internships. The goal of this program is to increase student capabilities in working in open source, add productive contributors to on-going projects, and further promote open source at UC Santa Cruz and other UC campuses. OSRE rounds out the mission of CROSS to educate students by supporting their contribution to developer communities in open source projects and providing highly relevant open source experiences to undergrads.
+Inspired by [Google Summer of Code](https://cross.ucsc.edu/programs/gsoc_cross.html), the Center for Research in Open Source Software (CROSS) pioneered the Open Source Research Experience (OSRE) in the [summer of 2020](https://youtu.be/jXh-y3BQqbw), a marketplace for open source project ideas that matches students to mentors, and engages members of industry to fund and participate in open source based summer internships. The goal of this program is to increase student capabilities in working in open source, add productive contributors to on-going projects, and further promote open source at UC Santa Cruz and other UC campuses. OSRE is now run by the OSPO to educate students by supporting their contribution to developer communities in open source projects and providing highly relevant open source experiences to undergrads.
 
 > The benefits for industry partners and other interested sponsors include the identification of potential recruits, the encouragement of open source practices in academic research, and early access to technologies in research prototypes.  
 The benefits for participating mentors include the opportunity to attract and support talented student developers to their open source community.  
 The benefits for participating students include the opportunity to work with mentors who are genuinely interested in outcomes and exposure to technologies that can significantly improve their job opportunities.
 
-**CROSS values diversity and inclusion in all our projects.** We invite students from traditionally excluded groups in tech and open source communities to apply to this program. Due to the open source nature of all CROSS projects, contributions are welcomed from both UC Santa Cruz and non-UC Santa Cruz students. CROSS is partnering with the Baskin Engineering Inclusive Excellence Hub to increase our ability to reach a more diverse pool of students and mentors.
+**The OSPO values diversity and inclusion in all of our projects.** We invite students from traditionally excluded groups in tech and open source communities to apply to this program. Contributions are welcomed from both UC Santa Cruz and non-UC Santa Cruz students. The OSPO is partnering with the Baskin Engineering [Inclusive Excellence Hub](https://ieh.soe.ucsc.edu/inclusive-excellence-hub) to increase our ability to reach a more diverse pool of students and mentors.
 
-CROSS also accepts project ideas from mentors (UC faculty, researchers and PhD students) not currently supported by CROSS. All projects must be open source to be considered for this program. See information for interested mentors below. 
+OSRE accepts project ideas from researchers at the University of California at any of the affiliated national labs (LANL, LBL, LLNL). All projects must be open source to be considered for this program. See information for interested mentors below. 
 
-Industry partners and other sponsors are welcome to support this program by signalling their interest in particular project idea portfolios. Sponsors support is used directly to fund these student summer internships. CROSS fellows will invite sponsoring organizations to participate in a blend of open source software strategies with graduate-level research in a concentrated environment of mentorship, including the opportunity to meet and interact with students and mentors, and an invitation to an end-of-summer presentation where they will show off the results of their work.
+Industry partners and other sponsors are welcome to support this program by signalling their interest in particular project idea portfolios. Sponsors support is used directly to fund these student summer internships. OSRE mentors will invite sponsoring organizations to participate in a blend of open source software strategies with graduate-level research in a concentrated environment of mentorship, including the opportunity to meet and interact with students and mentors, and an invitation to an end-of-summer presentation where they will show off the results of their work.
 
-An overview of the sponsorship framework for the 2021 summer program is available. The 2022 framework is available here.
+An overview of the sponsorship framework for the 2021 summer program is [available](https://cross.ucsc.edu/programs/sponsorinformation.html#video). The 2022 framework is available [here](https://cross.ucsc.edu/2022-osre/osre2022sponsor.html).
 
 # Highlights from Previous Years
 
-[2020](https://cross.ucsc.edu/programs/osreprogram.html#Students2020)    [2021](https://cross.ucsc.edu/programs/osreprogram.html#Students2021)  
-
-See also [GSoC participation 2018 and 2019](https://cross.ucsc.edu/programs/gsoc_cross.html)
+- [2020](https://cross.ucsc.edu/programs/osreprogram.html#Students2020)
+- [2021](https://cross.ucsc.edu/programs/osreprogram.html#Students2021)  
+- See also [GSoC participation 2018 and 2019](https://cross.ucsc.edu/programs/gsoc_cross.html)
 
 # Information for Interested Participants
 
@@ -76,7 +76,7 @@ How do I apply?
 
 - Look at the List of Project Ideas.
 - Contact the relevant mentor and discuss the project and timeline to assure it is right for you. Complete the summer research experience application for students (see below) explaining your work plan for the summer. 
-- Send the final applications to the project mentor and cross-info@ucsc.edu by the deadline.
+- Send the final applications to the project mentor and [Stephanie Lieggi]({{< relref "/authors/slieggi" >}}) by the deadline.
 
  
 
@@ -96,7 +96,7 @@ Does my project have to be open source?
 
 - Yes. All work under this program must be open sourced upon completion. 
 
-- *Note: All software created as part of a CROSS project must be released as free and open source under a license that is both approved by the Open Source Initiative (OSI) and recognized as free by the Free Software Foundation (FSF).*
+- *Note: All software created as part of an OSRE project must be released as free and open source under a license that is both approved by the Open Source Initiative (OSI) and recognized as free by the Free Software Foundation (FSF).*
 
  
 
@@ -108,13 +108,11 @@ Do I have to be on-campus to do this program?
 
 Is this program open to non-UC Santa Cruz students?
 
-- Yes. Any student over 18 can apply. This includes community college students. For students at non-U.S. universities, please reach out to CROSS (cross-info@ucsc.edu) to discuss your eligibility.
+- Yes. Any student over 18 can apply. This includes community college students. For students at non-U.S. universities, please reach out to [Stephanie Lieggi]({{< relref "/authors/slieggi" >}}) to discuss your eligibility.
 
 # OSRE Application
 
-CROSS teaches students how to productively engage in open source communities, funds high-impact research with potential of creating successful open source projects, and incubates developer communities around research prototypes. As part of this, CROSS supports a number of research and incubator fellows and their open source projects on a varying range of topics at the UC Santa Cruz Baskin School of Engineering. If you don't see a specific topic or activity listed on our ideas page feel free to suggest your own idea. Check out our research and incubator lists for our on-going projects.
-
-Our ideas page also gives the contact information for our mentors. Students are expected to reach out to these mentors early on in the proposals stage and should have had some interaction with them prior to finalizing their proposals. Please follow the template below to apply for the CROSS Summer Research Program.  If you have questions please feel free to reach out to your mentor or CROSS staff (ospo-info@ucsc.edu).
+If you find a project in the project ideas page that interests you, please first contact the mentor of the project and discuss details of how you might be able to contribute. Students are expected to reach out to these mentors early on in the proposals stage and should have had some interaction with them prior to their applications. Once you and the mentor come to an agreement, the next step is to formerly apply to this program. For your application, please follow the template below. If you don't see a specific topic or activity listed on our ideas page feel free to suggest your own idea by contacting [Stephanie Lieggi]({{< relref "/authors/slieggi" >}}). 
 
 # Proposal Template
 
@@ -170,10 +168,10 @@ Who can be a mentor?
 
 Do the projects we want help with need to be open source?
 
-- Yes. All projects funded by CROSS or facilitated through this program must be open source projects.
+- Yes. All projects facilitated through this program must be open source projects.
 
-- *Note: All software created as part of a CROSS project must be released as free and open source under a license that is both approved by the Open Source Initiative (OSI) and recognized as free by the Free Software Foundation (FSF).*
+- *Note: All software created as part of a OSRE project must be released as free and open source under a license that is both approved by the Open Source Initiative (OSI) and recognized as free by the Free Software Foundation (FSF).*
 
 What kind of projects are you accepting? Are their specific technologies or topics that you prefer?
 
-- CROSS is interested in supporting a wide range of open source communities within the UC system. We have no requirement for the type of technology being worked on so long as it is or ultimately will be part of an open source project or community.
+- The OSPO is interested in supporting a wide range of open source communities within the UC system. We have no requirement for the type of technology being worked on so long as it is or ultimately will be part of an open source project or community.
