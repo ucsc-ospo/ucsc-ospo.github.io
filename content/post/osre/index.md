@@ -32,7 +32,7 @@ projects: []
 
 # Overview
 
-Inspired by [Google Summer of Code](https://cross.ucsc.edu/programs/gsoc_cross.html), the Center for Research in Open Source Software (CROSS) pioneered the Open Source Research Experience (OSRE) in the [summer of 2020](https://youtu.be/jXh-y3BQqbw), a marketplace for open source project ideas that matches students to mentors, and engages members of industry to fund and participate in open source based summer internships. The goal of this program is to increase student capabilities in working in open source, add productive contributors to on-going projects, and further promote open source at UC Santa Cruz and other UC campuses. OSRE is now run by the OSPO to educate students by supporting their contribution to developer communities in open source projects and providing highly relevant open source experiences to undergrads.
+Inspired by [Google Summer of Code](https://cross.ucsc.edu/programs/gsoc_cross.html), the Center for Research in Open Source Software (CROSS) pioneered the Open Source Research Experience (OSRE) in the [summer of 2020](https://youtu.be/jXh-y3BQqbw), a marketplace for [open source project ideas](https://uccross.github.io/projects) that matches students to mentors, and engages members of industry to fund and participate in open source based summer internships. The goal of this program is to increase student capabilities in working in open source, add productive contributors to on-going projects, and further promote open source at UC Santa Cruz and other UC campuses. OSRE is now run by the OSPO to educate students by supporting their contribution to developer communities in open source projects and providing highly relevant open source experiences to undergrads.
 
 > The benefits for industry partners and other interested sponsors include the identification of potential recruits, the encouragement of open source practices in academic research, and early access to technologies in research prototypes.  
 The benefits for participating mentors include the opportunity to attract and support talented student developers to their open source community.  
@@ -40,13 +40,13 @@ The benefits for participating students include the opportunity to work with men
 
 **The OSPO values diversity and inclusion in all of our projects.** We invite students from traditionally excluded groups in tech and open source communities to apply to this program. Contributions are welcomed from both UC Santa Cruz and non-UC Santa Cruz students. The OSPO is partnering with the Baskin Engineering [Inclusive Excellence Hub](https://ieh.soe.ucsc.edu/inclusive-excellence-hub) to increase our ability to reach a more diverse pool of students and mentors.
 
-OSRE accepts project ideas from researchers at the University of California at any of the affiliated national labs (LANL, LBL, LLNL). All projects must be open source to be considered for this program. See information for interested mentors below. 
+OSRE accepts [project ideas](https://uccross.github.io/projects) from researchers at the University of California at any of the affiliated national labs (LANL, LBL, LLNL). All projects must be open source to be considered for this program. See information for interested mentors below. 
 
-Industry partners and other sponsors are welcome to support this program by signalling their interest in particular project idea portfolios. Sponsors support is used directly to fund these student summer internships. OSRE mentors will invite sponsoring organizations to participate in a blend of open source software strategies with graduate-level research in a concentrated environment of mentorship, including the opportunity to meet and interact with students and mentors, and an invitation to an end-of-summer presentation where they will show off the results of their work.
+Industry partners and other sponsors are welcome to support this program by [indicating their interest in particular project idea portfolios](https://uccross.github.io/projectstolike). Sponsors support is used directly to fund these student summer internships. OSRE mentors will invite sponsoring organizations to participate in a blend of open source software strategies with graduate-level research in a concentrated environment of mentorship, including the opportunity to meet and interact with students and mentors, and an invitation to an end-of-summer presentation where they will show off the results of their work.
 
 An overview of the sponsorship framework for the 2021 summer program is [available](https://cross.ucsc.edu/programs/sponsorinformation.html#video). The 2022 framework is available [here](https://cross.ucsc.edu/2022-osre/osre2022sponsor.html).
 
-# Highlights from Previous Years
+### Highlights from Previous Years
 
 - [2020](https://cross.ucsc.edu/programs/osreprogram.html#Students2020)
 - [2021](https://cross.ucsc.edu/programs/osreprogram.html#Students2021)  
@@ -58,7 +58,7 @@ An overview of the sponsorship framework for the 2021 summer program is [availab
 - [OSRE Application](#osre-application)
 - [Information for Interested Mentors](#information-for-interested-mentors)
 
-## Information for Undergraduates Students Interest in Applying
+### Information for Undergraduates Students Interest in Applying
 
 Why should I apply?
 
@@ -74,15 +74,15 @@ What skills do I need to apply?
 
 How do I apply?
 
-- Look at the List of Project Ideas.
-- Contact the relevant mentor and discuss the project and timeline to assure it is right for you. Complete the summer research experience application for students (see below) explaining your work plan for the summer. 
+- Look at the [List of Project Ideas](https://uccross.github.io/projects).
+- Contact the relevant mentor and discuss the project and timeline to assure it is right for you. Complete the [OSRE application](#osre-application) explaining your work plan for the summer. 
 - Send the final applications to the project mentor and [Stephanie Lieggi]({{< relref "/authors/slieggi" >}}) by the deadline.
 
  
 
 What are the application deadlines?
 
-- Applications deadlines will be posted towards the end of Winter quarter. The deadline for Summer 2022 OSRE slots will be end of April (exact date TBC).
+- Applications deadlines will be posted towards the end of Winter quarter. They are usually in April.
 
  
 
@@ -110,11 +110,11 @@ Is this program open to non-UC Santa Cruz students?
 
 - Yes. Any student over 18 can apply. This includes community college students. For students at non-U.S. universities, please reach out to [Stephanie Lieggi]({{< relref "/authors/slieggi" >}}) to discuss your eligibility.
 
-# OSRE Application
+#### OSRE Application
 
-If you find a project in the project ideas page that interests you, please first contact the mentor of the project and discuss details of how you might be able to contribute. Students are expected to reach out to these mentors early on in the proposals stage and should have had some interaction with them prior to their applications. Once you and the mentor come to an agreement, the next step is to formerly apply to this program. For your application, please follow the template below. If you don't see a specific topic or activity listed on our ideas page feel free to suggest your own idea by contacting [Stephanie Lieggi]({{< relref "/authors/slieggi" >}}). 
+If you find a project in the [project ideas page](https://uccross.github.io/projects) that interests you, please first contact the mentor of the project and discuss details of how you might be able to contribute. Students are expected to reach out to these mentors early on in the proposals stage and should have had some interaction with them prior to their applications. Once you and the mentor come to an agreement, the next step is to formerly apply to this program. For your application, please follow the template below. If you don't see a specific topic or activity listed on our [ideas page](https://uccross.github.io/projects) feel free to suggest your own idea by contacting [Stephanie Lieggi]({{< relref "/authors/slieggi" >}}). 
 
-# Proposal Template
+#### Proposal Template
 
 *Introduction*
 
@@ -154,7 +154,7 @@ If you find a project in the project ideas page that interests you, please first
 
 - **Seek out mentors and other relevant contributors to learn more about the communities you want to work in. You are encouraged to ask questions and mentors are here to help you improve your application.**
 
-## Information for Interested Mentors
+### Information for Interested Mentors
 
 Why should I be a mentor?
 
