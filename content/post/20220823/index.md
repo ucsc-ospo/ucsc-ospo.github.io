@@ -34,11 +34,12 @@ projects: [ospo]
 
 The UC Open Source Research Symposium (successor to the CROSS Research Symposia series) is happy to be able to mix in-person, hybrid and fully remote activities in an effort to provide a larger audience the opportunity to learn about the cutting edge open source research being done throughout the University of California.  Participants can interact with UC faculty, graduate students, and affiliated researchers, and discuss future directions and discover areas of collaboration from campuses throughout the UC system. 
 
-> AND returning after a two year hiatus, the Symposium will once again include the annual UC Santa Cruz Systems Research Lab’s Oktoberfest barbeque on the evening of the first day of the symposium.
+> Returning after a two year hiatus, the Symposium will once again include the annual UC Santa Cruz Systems Research Lab’s Oktoberfest barbeque on the evening of the first day of the symposium.
 
 This year’s event is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO) and we thank our [sponsors](#sponsors) to help make this event possible. It will include keynote speakers, expert panels, and technical workshops, as well as poster presentations highlighting the work of our Open Source Research Experience students. This year we are excited to host keynotes by Demetris Cheatham (GitHub), Nithya Ruff (Amazon), Karsten Wade (Red Hat), and Stephen Walli (Microsoft).
 
-#### Cost for non-UC affiliated participants: $299
+> Free for UC affiliated and remote participants  
+> Cost for non-UC affiliated participants: $299
 
 Interested in sponsoring this event? Sponsors get complimentary registration, recognition and other benefits (see [below](#sponsor-benefits))
 
@@ -46,11 +47,11 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 # Agenda Overview
 
-- September 27 @ UC Santa Cruz Hay Barn. Plenary (single-track) sessions. In-person participation limited to 50 people; remote participation also available.
+- **Tue 9/27** @ UC Santa Cruz Hay Barn. Plenary (single-track) sessions. In-person participation limited to 50 people; remote participation also available.
 
-- September 28 @ UC Santa Cruz Baskin Engineering 2, 5th Floor. Technical Workshops (two-track). In-person participation limited to 60 people; Remote participation also available.
+- **Wed 9/28** @ UC Santa Cruz Baskin Engineering 2, 5th Floor. Technical Workshops (two-track). In-person participation limited to 60 people; Remote participation also available.
 
-- September 29, Fully Remote. Technical Workshops (two-track).
+- **Thu 9/29**, Fully Remote. Technical Workshops (two-track).
 
 # Detailed Agenda (scroll)
 
@@ -76,10 +77,39 @@ Does your organization want to support and promote open source innovation in aca
 
 Organizations that sponsor this event will be given public acknowledgement on the Symposium website and agenda, and get free passes for in-person participation.
 
-> | Sponsorship Level | Amount | Benefits |
-|---|---|---|
-| Silver | $500 | Acknowledgements + 1 free registration  |
-| Gold | $1,000 | Acknowledgements + 2 free registrations |
-| Platinum | $2,000 | Acknowledgements + 4 free registrations |
+> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="th-0pky">Sponsorship Level</th>
+    <th class="th-0pky">Amount</th>
+    <th class="th-0pky">Benefits</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Silver</td>
+    <td class="tg-0pky">$500</td>
+    <td class="tg-0pky">Acknowledgements + 1 free registration</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Gold</td>
+    <td class="tg-0pky">$1,000</td>
+    <td class="tg-0pky">Acknowledgements + 2 free registrations</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Platinum</td>
+    <td class="tg-0pky">$2,000</td>
+    <td class="tg-0pky">Acknowledgements + 4 free registrations</td>
+  </tr>
+</tbody>
+</table>  
 
-If your organization might be interested in sponsoring, please contact Stephanie Lieggi [slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)
+If your organization might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)).
