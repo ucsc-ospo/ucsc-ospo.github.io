@@ -48,7 +48,7 @@ An overview of the sponsorship framework for the 2021 summer program is availabl
 
 # Highlights from Previous Years
 
-[2021](https://cross.ucsc.edu/programs/osreprogram.html#Students2020)    [2021](https://cross.ucsc.edu/programs/osreprogram.html#Students2021)  
+[2020](https://cross.ucsc.edu/programs/osreprogram.html#Students2020)    [2021](https://cross.ucsc.edu/programs/osreprogram.html#Students2021)  
 
 See also [GSoC participation 2018 and 2019](https://cross.ucsc.edu/programs/gsoc_cross.html)
 
