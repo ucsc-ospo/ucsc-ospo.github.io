@@ -10,7 +10,7 @@ main:
   - name: About
     url: "#about"
     weight: 20
-  - name: Programs
+  - name: 📺 Programs
     url: "#programs"
     weight: 25
 #  - name: 📚 Guides & Resources
