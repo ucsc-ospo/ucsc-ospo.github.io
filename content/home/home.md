@@ -35,7 +35,8 @@ Today’s universe of open source communities has immense potential to amplify t
 
 The OSPO's mission is to create partnerships with stakeholders within and outside the UC system to promote open source literacy and best practices, helping students learn from open source communities, letting scientists use open source to accelerate research efforts, and connecting students and scientists with sponsors from industry, government, and foundations. 
 
-Through a number of continually refined [programs](#programs) that are designed to amplify impact of the UC research enterprise the OSPO is building a community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective open source research efforts. The OSPO is formed by its [Community](#community) participants and [Members](#members).
+Through a number of continually refined [programs](#programs) that are designed to amplify impact of the UC research enterprise the OSPO is building a community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective open source research efforts. 
+<!--- The OSPO is formed by its [Community](#community) participants and [Members](#members). --->
 
 [Read more about the OSPO](#about).
 
