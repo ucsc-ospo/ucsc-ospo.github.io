@@ -27,6 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [ospo]
 ---
+{{% callout note %}}
+Agenda and registration information is [here]({{< relref "/post/20220823" >}}).
+{{% /callout %}}
 
 ### Hybrid In-Person and Online Event 
 #### Registration to open in late August!  
