@@ -47,9 +47,9 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 # Agenda Overview
 
-- **Tue 9/27** @ [UC Santa Cruz Hay Barn](https://agroecology.ucsc.edu/visit/haybarn.html). Plenary (single-track) sessions. In-person participation limited to 50 people; remote participation also available.
+- **Tue 9/27** @ [UC Santa Cruz Hay Barn](https://agroecology.ucsc.edu/visit/haybarn.html) ([directions](https://taps.ucsc.edu/pdf/parking-map.pdf)). Plenary (single-track) sessions. In-person participation limited to 50 people; remote participation also available.
 
-- **Wed 9/28** @ [UC Santa Cruz Baskin Engineering 2](https://coarchitects.com/project/engineering-2/), 5th Floor. Technical Workshops (two-track). In-person participation limited to 60 people; Remote participation also available.
+- **Wed 9/28** @ [UC Santa Cruz Baskin Engineering 2](https://coarchitects.com/project/engineering-2/), 5th Floor ([directions](https://taps.ucsc.edu/pdf/parking-map.pdf)). Technical Workshops (two-track). In-person participation limited to 60 people; Remote participation also available.
 
 - **Thu 9/29**, Fully Remote. Technical Workshops (two-track).
 
