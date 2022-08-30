@@ -32,7 +32,7 @@ projects: [ospo]
 
 {{% cta cta_link="https://ucsc.irisregistration.com/Register/Form/Form?formId=10271" cta_text="Register →" %}}
 
-The UC Open Source Research Symposium (successor to the CROSS Research Symposia series) is happy to be able to mix in-person, hybrid and fully remote activities in an effort to provide a larger audience the opportunity to learn about the cutting edge open source research being done throughout the University of California.  Participants can interact with UC faculty, graduate students, and affiliated researchers, and discuss future directions and discover areas of collaboration from campuses throughout the UC system. 
+The UC Open Source Research Symposium (successor to the CROSS Research Symposia series) is happy to be able to mix in-person, hybrid and fully remote activities in an effort to provide a larger audience the opportunity to learn about open source research at the University of California.  Participants can interact with UC faculty, graduate students, and affiliated researchers, and discuss future directions and discover areas of collaboration from campuses throughout the UC system. 
 
 > Returning after a two year hiatus, the Symposium will once again include the annual UC Santa Cruz Systems Research Lab’s Oktoberfest barbeque on the evening of the first day of the symposium.
 
@@ -47,9 +47,9 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 # Agenda Overview
 
-- **Tue 9/27** @ UC Santa Cruz Hay Barn. Plenary (single-track) sessions. In-person participation limited to 50 people; remote participation also available.
+- **Tue 9/27** @ [UC Santa Cruz Hay Barn](https://agroecology.ucsc.edu/visit/haybarn.html). Plenary (single-track) sessions. In-person participation limited to 50 people; remote participation also available.
 
-- **Wed 9/28** @ UC Santa Cruz Baskin Engineering 2, 5th Floor. Technical Workshops (two-track). In-person participation limited to 60 people; Remote participation also available.
+- **Wed 9/28** @ [UC Santa Cruz Baskin Engineering 2](https://coarchitects.com/project/engineering-2/), 5th Floor. Technical Workshops (two-track). In-person participation limited to 60 people; Remote participation also available.
 
 - **Thu 9/29**, Fully Remote. Technical Workshops (two-track).
 
