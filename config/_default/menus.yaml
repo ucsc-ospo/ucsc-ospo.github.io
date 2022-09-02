@@ -4,14 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 🏠 Home
     url: "#home"
     weight: 10
-  - name: About
+  - name: 🔭 About
     url: "#about"
     weight: 20
   - name: 📺 Programs
-    url: "#programs"
     weight: 25
 #  - name: 📚 Guides & Resources
 #    url: "#guides"
@@ -22,6 +21,8 @@ main:
   - name: 📝 Blog
     url: "#blog"
     weight: 40
+  - name: 🎪 Symposium
+    url: "event"
 #  - name: 💚 Members
 #    url: "#members"
 #    weight: 50
