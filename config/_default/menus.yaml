@@ -11,6 +11,7 @@ main:
     url: "#about"
     weight: 20
   - name: 📺 Programs
+    url: "#programs"
     weight: 25
 #  - name: 📚 Guides & Resources
 #    url: "#guides"
