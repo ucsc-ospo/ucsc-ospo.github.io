@@ -10,10 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Director of CROSS
+role: Executive Director of OSPO, Executive Director of CROSS
 
 # Organizations/Affiliations
 organizations:
+- name: Open Source Program Office, UC Santa Cruz (OSPO)
+  url: "https://ospo.ucsc.edu"
 - name: Center for Research in Open Source Software (CROSS)
   url: "https://cross.ucsc.edu"
 - name: Jack Baskin School of Engineering
