@@ -98,7 +98,9 @@ Organizations that sponsor this event will be given public acknowledgement on th
 </table>  
 
 
-If your organization might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)). You can sponsor by credit card during [registration](https://ucsc.irisregistration.com/Register/Form/Form?formId=10271), [send a check, or use wire transfer]({{< ref "bankinfo" >}}).
+If your organization might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)). You can 
+- sponsor by credit card during [registration](https://ucsc.irisregistration.com/Register/Form/Form?formId=10271), 
+- [send a check, or use wire transfer]({{< relref "/bankinfo" >}}).
 
 # Logistics
 
