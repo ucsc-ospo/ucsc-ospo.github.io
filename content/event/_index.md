@@ -44,7 +44,7 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 # Sponsors
 
-## Platinum 
+## {{< figure src="platinum.png" alt="Platinum Sponsors" caption="Platinum Sponsors" width="20%" >}}
 
 [![Alfred P. Sloan Froundation](Logo-2B-SMALL-Gold-Blue.png)](https://sloan.org)
 
@@ -52,9 +52,9 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 [![Baskin Engineering Inclusive Excellence Hub - ieh.soe.ucsc.edu](IEH-logo.png)](https://ieh.soe.ucsc.edu.edu)
 
-## Gold
+## {{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="20%" >}}
 
-## Silver
+## {{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="20%" >}}
 
 # Sponsor Benefits
 
@@ -68,7 +68,7 @@ Organizations that sponsor this event will be given public acknowledgement on th
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align: middle}
 </style>
 <table class="tg">
 <thead>
@@ -80,17 +80,17 @@ Organizations that sponsor this event will be given public acknowledgement on th
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Silver</td>
+    <td class="tg-0pky">{{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="50%" >}}</td>
     <td class="tg-0pky">$500</td>
     <td class="tg-0pky">Acknowledgements + 1 free registration</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Gold</td>
+    <td class="tg-0pky">{{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="50%" >}}</td>
     <td class="tg-0pky">$1,000</td>
     <td class="tg-0pky">Acknowledgements + 2 free registrations</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Platinum</td>
+    <td class="tg-0pky">{{< figure src="platinum.png" alt="Platinum Sponsors" caption="Platinum Sponsors" width="50%" >}}</td>
     <td class="tg-0pky">$2,000</td>
     <td class="tg-0pky">Acknowledgements + 4 free registrations</td>
   </tr>
