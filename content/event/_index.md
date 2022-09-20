@@ -50,6 +50,8 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 [![Center for Research in Open Source Software - cross.ucsc.edu](SwagLogo.stickerCropped.png)](https://cross.ucsc.edu)
 
+[![Baskin Engineering Inclusive Excellence Hub - ieh.soe.ucsc.edu](IEH-logo.png)](https://ieh.soe.ucsc.edu.edu)
+
 ## Gold
 
 ## Silver
