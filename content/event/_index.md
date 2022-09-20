@@ -54,8 +54,6 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 ## {{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="20%" >}}
 
-[![IBM](IBM-logo.png)](https://www.ibm.com)
-
 ## {{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="20%" >}}
 
 # Sponsor Benefits
