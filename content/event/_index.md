@@ -52,7 +52,11 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 [![Baskin Engineering Inclusive Excellence Hub - ieh.soe.ucsc.edu](IEH-logo.png)](https://ieh.soe.ucsc.edu.edu)
 
+[![The Linux Foundation](LF-logo.png)](https://www.linuxfoundation.org)
+
 ## {{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="20%" >}}
+
+[![IBM](IBM-logo.jpeg)](https://research.ibm.com)
 
 ## {{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="20%" >}}
 
