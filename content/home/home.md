@@ -33,7 +33,7 @@ design:
 ---
 
 <div id="twitter-feed" style="float:right; width:30%; text-align:right; margin-top:-10px; ">
-<a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" href="https://twitter.com/UC_OSPO?ref_src=twsrc%5Etfw">Tweets by UC_OSPO</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<a class="twitter-timeline" data-width="300" data-height="800" data-theme="light" href="https://twitter.com/UC_OSPO?ref_src=twsrc%5Etfw">Tweets by UC_OSPO</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 Today’s universe of open source communities has immense potential to amplify the impact of scientific research. Thanks to a generous [grant](https://sloan.org/grant-detail/9723) by the Alfred P. Sloan Foundation, the OSPO UC Santa Cruz is being established to provide a center of gravity that brings together everything needed to unlock that potential. 
 
