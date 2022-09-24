@@ -1,14 +1,15 @@
 ---
-title: 2022 UC Santa Cruz Open Source Symposium
+title: 'UC Santa Cruz Open Source Symposium 2022'
 
 # Listing view
 view: compact
 
 # Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
+image:
+  placement: 3
+  focal_point: "Center"
   #caption: 'Keynote speakers of the UC Santa Cruz Open Source Symposium on September 27-29 at UC Santa Cruz feature keynote speakers Demetris White Cheatham, Senior Director, diversity, Inclusion & Belonging Strategy, GitHub, Stephen Walli, Principal Program Manager, Azure Office of CTO, Microsoft, Karsten Wade, Principal Community Architect, Red Hat, Nithya Ruff, Head, Open Source Program Office, Amazon, Chair, Linux Foundation Board of Directors'
-  image: '2022symposium.png'
+  filename: '2022symposium.png'
 ---
 
 {{% cta cta_link="https://ucsc.irisregistration.com/Register/Form/Form?formId=10271" cta_text="Register →" %}}
