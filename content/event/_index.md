@@ -45,23 +45,23 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 # Sponsors
 
-## {{< figure src="platinum.png" alt="Platinum Sponsors" caption="Platinum Sponsors" width="20%" >}}
+## {{< figure src="platinum.png" alt="Platinum Sponsors" caption="Platinum Sponsors" width="15%" >}}
 
-[![Alfred P. Sloan Froundation](Logo-2B-SMALL-Gold-Blue.png)](https://sloan.org)
+[{{< figure src="Logo-2B-SMALL-Gold-Blue.png" alt="Alfred P. Sloan Froundation" width="50%" >}}](https://sloan.org)
 
-[![Center for Research in Open Source Software - cross.ucsc.edu](SwagLogo.stickerCropped.png)](https://cross.ucsc.edu)
+[{{< figure src="LF-logo.png" alt="The Linux Foundation" width="40%" >}}](https://www.linuxfoundation.org)
 
-[![Baskin Engineering Inclusive Excellence Hub - ieh.soe.ucsc.edu](IEH-logo.png)](https://ieh.soe.ucsc.edu/)
+[{{< figure src="IEH-logo.png" alt="Baskin Engineering Inclusive Excellence Hub - ieh.soe.ucsc.edu" width="45%" >}}](https://ieh.soe.ucsc.edu/)
 
-[![The Linux Foundation](LF-logo.png)](https://www.linuxfoundation.org)
+[{{< figure src="SwagLogo.stickerCropped.png" alt="Center for Research in Open Source Software - cross.ucsc.edu" width="50%" >}}](https://cross.ucsc.edu)
 
-## {{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="20%" >}}
+## {{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="15%" >}}
 
-[![IBM](IBM-logo.jpeg)](https://research.ibm.com)
+[{{< figure src="IBM-logo.jpeg" alt="IBM Research" width="50%" >}}](https://research.ibm.com)
 
-## {{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="20%" >}}
+## {{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="15%" >}}
 
-[![Intel](intel-logo.png)](https://www.intel.com)
+[{{< figure src="intel-logo.png" alt="Intel" width="30%" >}}](https://www.intel.com)
 
 # Sponsor Benefits
 
