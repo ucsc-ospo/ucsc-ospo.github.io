@@ -11,7 +11,7 @@ tags: [ospo]
 categories: [News]
 date: 2022-08-23T11:22:07-07:00
 lastmod: 2022-08-23T11:22:07-07:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

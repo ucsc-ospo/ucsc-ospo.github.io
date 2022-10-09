@@ -30,6 +30,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
+categories: [News]
+
 image:
   caption: ''
   focal_point: Right
