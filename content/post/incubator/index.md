@@ -8,7 +8,7 @@ authors: [slieggi,admin]
 tags: [ospo]
 categories: [programs]
 date: 2022-08-24T11:10:07-07:00
-lastmod: 2022-08-24T11:10:07-07:00
+lastmod: 2022-10-31T11:10:07-07:00
 featured: false
 draft: false
 
@@ -33,6 +33,26 @@ projects: []
 The Open Source Incubator Fellowship, funded through through the UCSC Open Source Program Office (OSPO), supports the work of postdoctoral scholars aiming to create and grow productive open source contributor communities around innovative research prototypes in order to amplify the impact of their research. A successful application includes (1) a research prototype with significant open source software or hardware infrastructure typically created as part of the applicant’s Ph.D. project and (2) strong evidence that the proposed project would be met with great interest by at least one well-established open source community.
 
 Incubator Fellows play the role of "open source ambassadors" at UC Santa Cruz by displaying exemplary open source project and community management practices and by sharing their experience via mentorship and classroom instructions so students learn how to productively engage in open source projects. Ideal incubator fellows are inclusive, comfortable reaching across different scientific disciplines, and run compelling projects that have broad interdisciplinary appeal.
+
+# Current Incubator Fellows
+
+Thanks to the Alfred P. Sloan Foundation the OSPO can currently fund up to two incubator fellows. The OSPO is in the process of raising more funding to expand the Incubator Fellowship within UC Santa Cruz and across other UC campuses. Please welcome the inaugural 2022 cohort:
+
+<div style="float:right;position: releative; top: -80px">
+<img src="oskareleck.jpg" alt="Portrait of Oskar Eleck" style="width:150px">
+</div>
+
+## Dr.-Ing. Oskar Eleck
+
+Dr.-Ing. Oskar Eleck works on the project "Polyphorm + PolyPhy: An open source software platform for learning and visualizing connectivity patterns in complex datasets." For more information, please see his [website](https://elek.pub/). 
+
+<div style="float:right;position: releative; top: -80px">
+<img src="emilylovell.jpg" alt="Portrait of Emily Lovell" style="width:150px">
+</div>
+
+## Dr. Emily Lovell
+
+Dr. Emily Lovell works on "Strengthening Underserved Segments of the Open Source Pipeline". For more information, please see her [website](https://users.soe.ucsc.edu/~emme/).
 
 # Eligibility/Requirements
 
