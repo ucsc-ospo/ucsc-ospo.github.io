@@ -39,12 +39,12 @@ Incubator Fellows play the role of "open source ambassadors" at UC Santa Cruz by
 Thanks to the Alfred P. Sloan Foundation the OSPO can currently fund up to two incubator fellows. The OSPO is in the process of raising more funding to expand the Incubator Fellowship within UC Santa Cruz and across other UC campuses. Please welcome the inaugural 2022 cohort:
 
 <div style="float:right;position: releative; top: -80px">
-<img src="oskareleck.jpg" alt="Portrait of Oskar Eleck" style="width:150px">
+<img src="oskarelek.jpg" alt="Portrait of Oskar Elek" style="width:150px">
 </div>
 
-## Dr.-Ing. Oskar Eleck
+## Dr.-Ing. Oskar Elek
 
-Dr.-Ing. Oskar Eleck works on the project "Polyphorm + PolyPhy: An open source software platform for learning and visualizing connectivity patterns in complex datasets." For more information, please see his [website](https://elek.pub/). 
+Dr.-Ing. Oskar Elek works on the project "Polyphorm + PolyPhy: An open source software platform for learning and visualizing connectivity patterns in complex datasets." For more information, please see his [website](https://elek.pub/). 
 
 <div style="float:right;position: releative; top: -80px">
 <img src="emilylovell.jpg" alt="Portrait of Emily Lovell" style="width:150px">
