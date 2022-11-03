@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-**[Information on OSRE 2022](https://cross.ucsc.edu/2022-osre/index.html)**
+{{% cta cta_link="https://cross.ucsc.edu/2022-osre/index.html" cta_text="OSRE 2022 -->" %}}
 
 # Overview
 
