@@ -17,7 +17,7 @@ content:
   # Choose how much pages you would like to display (0 = all pages)
   count: 3
   # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
   # Optionally filter posts by a taxonomy term.
   filters:
     tag: ''
@@ -29,7 +29,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: card
 ---
 
 <div id="twitter-feed" style="float:right; width:30%; text-align:right; margin-top:-10px; ">

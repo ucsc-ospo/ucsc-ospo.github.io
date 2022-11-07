@@ -8,8 +8,8 @@ authors: [slieggi,admin]
 tags: [ospo]
 categories: [programs]
 date: 2022-08-24T12:23:07-07:00
-lastmod: 2022-08-24T12:23:07-07:00
-featured: false
+lastmod: 2022-11-07T12:23:07-07:00
+featured: true
 draft: false
 external_link: "osre"
 
