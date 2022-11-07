@@ -30,9 +30,9 @@ cta_note:
 # Choose an optional background color, gradient, image, or video
 design:
   background:
-    gradient_end: '#D49071'
+    gradient_end: '#DC6E55'
     gradient_start: '#F0CC64'
     text_color_light: false
 ---
 
-
+Matching summer students with research mentors and sponsors.

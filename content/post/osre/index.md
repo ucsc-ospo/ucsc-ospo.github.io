@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Open Source Research Experience"
-subtitle: "Matching UC researchers with summer students and sponsors."
-summary: "The Open Source Research Experience (OSRE) program provides support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed contributor communities, build community infrastructures and teaching incubator fellows and other UC researchers to effectively lead and delegate. Our participation in the Google Summer of Code is included as part of this mentorship program."
+subtitle: "Matching researchers with summer students and sponsors."
+summary: "The Open Source Research Experience (OSRE) program by the Open Source Program Office (OSPO) UC Santa Cruz provides support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed contributor communities of open source research efforts and to help make computational research efforts reproducible. With this program the OSPO participates as mentor organization in [Google Summer of Code](https://summerofcode.withgoogle.com) and other outreach and sponsorship programs."
 authors: [slieggi,admin]
 tags: [ospo]
 categories: [programs]
