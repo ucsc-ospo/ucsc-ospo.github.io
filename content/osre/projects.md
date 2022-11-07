@@ -14,9 +14,9 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - project
+      - "project"
     tag: ''
-    category: 'osre23'
+    category: 'osre22'
     publication_type: ''
     author: ''
     featured_only: false
