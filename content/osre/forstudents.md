@@ -47,6 +47,6 @@ More instructions on when to contact mentors, what to expect, webinars, etc.
 Use chat channel, clarify audience, save personal information for direct exchange with mentor.
 <a href="https://gitter.im/HSF/HSF-GSoC?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/HSF/HSF-GSoC.svg" alt="Gitter" /></a>
 
-# Student pages
+## Student pages
 
 Starting with OSRE 2023 student blogs are mandatory. If you are OSRE 2023 student, please read this [blog](/report/blog-ospo-admins).

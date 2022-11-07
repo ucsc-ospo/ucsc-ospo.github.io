@@ -30,9 +30,9 @@ cta_note:
 # Choose an optional background color, gradient, image, or video
 design:
   background:
-    gradient_start: '#1976d2'
-    gradient_end: '#DF8347'
-    text_color_light: true
+    gradient_end: '#D49071'
+    gradient_start: '#F0CC64'
+    text_color_light: false
 ---
 
 
