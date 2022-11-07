@@ -1,5 +1,5 @@
 ---
-title: How to add a new project to OSRE
+title: How to add a new project idea to OSRE
 summary: ''
 authors: [admin, slieggi]
 date: "2022-11-06T00:00:00Z"
@@ -14,3 +14,12 @@ comments: false  # Show comments?
 #  caption: ""
 #  image: "bank.png"
 ---
+
+# Instructions for adding a new project idea
+
+- Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn)
+- Option B (via netlify CMS): 
+- Option C (via git):
+  - fork [git repository](https://github.com/carlosmalt/ucsc-ospo)
+  - add `content/project/` ...
+
