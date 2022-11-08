@@ -20,7 +20,7 @@ Get started checking out the [Google Summer of Code Guides for students](https:/
 
 # How to apply to the OSRE
 
-1. Take a look at [projects](osre#projects)...
+1. Take a look at [projects](/osre#projects)...
 2. Contact mentor(s), send CV, and motivation. Time window. Encouraged to propose to a max of two project proposals.
 3. Mentors might have you take a technical test, just an initial step. No cheating!
 4. Mentors announce whether you passed the test. Collaborate on writing the proposal.
