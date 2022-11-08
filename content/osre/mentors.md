@@ -13,7 +13,6 @@ content:
     - Summer of Reproducibility Mentors
 design:
   columns: '2'
-  view: list
   show_social: false
   show_interests: false
   background: {}
