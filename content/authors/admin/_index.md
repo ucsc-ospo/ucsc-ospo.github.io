@@ -116,7 +116,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: calendar-week
   icon_pack: fas
-  link: 'calendar'
+  link: https://people.ucsc.edu/carlosm/dev/calendar/
 - icon: home
   icon_pack: fas
   link: https://people.ucsc.edu/carlosm
