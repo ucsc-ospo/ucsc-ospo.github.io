@@ -5,7 +5,7 @@ active: true
 weight: 20
 title: OSRE 2023
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 ---

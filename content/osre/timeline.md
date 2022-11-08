@@ -5,7 +5,7 @@ active: true
 weight: 50
 title: Timeline
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 ---

@@ -5,7 +5,7 @@ active: true
 weight: 50
 title: For projects and mentors
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 ---

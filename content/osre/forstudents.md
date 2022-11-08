@@ -35,7 +35,7 @@ design:
   # Choose a listing view
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 ---
 
 If you are interested, have a look at our [guidelines for students](/osredocs/forstudents).
