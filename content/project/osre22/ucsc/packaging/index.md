@@ -2,13 +2,12 @@
 title: "Package Management & Reproducibility"
 authors: ["Farid Zakaria"]
 author_notes: ["Ph.D. Student, UC Santa Cruz"]
-categories: ["osre22"]
-tags: ["uc", "reproducibility"]
+tags: ["osre22", "uc", "reproducibility"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---
 
-Projects related to reproducibility and package management, especially as it relates to _store type package managers_ ([NixOS](http://nixos.org/), [Guix](https://guix.gnu.org/) or [Spack](https://spack.io/)).
+Project ideas related to reproducibility and package management, especially as it relates to _store type package managers_ ([NixOS](http://nixos.org/), [Guix](https://guix.gnu.org/) or [Spack](https://spack.io/)).
 
 Lead Mentor: [Farid Zakaria](https://users.soe.ucsc.edu/~fmzakari) <mailto:fmzakari@ucsc.edu>
 ### Investigate the dynamic linking landscape

@@ -2,8 +2,7 @@
 title: "Proactive Data Containers (PDC)"
 authors: ["Suren Byna", "Houjun Tang"]
 author_notes: ["Lawrence Berkeley Lab", "Lawrence Berkeley Lab"]
-categories: ["osre22"]
-tags: ["uc"]
+tags: ["osre22", "uc"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---

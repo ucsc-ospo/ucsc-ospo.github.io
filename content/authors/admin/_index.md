@@ -153,7 +153,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigator
+- Administration
+- University of California Mentors
+- Summer of Reproducibility Mentors
 ---
 
 Dr. Carlos Maltzahn is the founder and director of the UC Santa Cruz Center for Research in Open Source Software (CROSS). Dr. Maltzahn also co-founded the Systems Research Lab, known for its cutting-edge work on programmable storage systems, big data storage & processing, scalable data management, distributed system performance management, and practical reproducible evaluation of computer systems. Carlos joined UC Santa Cruz in 2004, after five years at Netapp working on network-intermediaries and storage systems. In 2005 he co-founded and became a key mentor on Sage Weil’s Ceph project. In 2008 Carlos became a member of the computer science faculty at UC Santa Cruz and has graduated nine Ph.D. students since. Carlos graduated with a M.S. and Ph.D. in Computer Science from University of Colorado at Boulder.

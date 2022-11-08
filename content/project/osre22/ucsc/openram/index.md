@@ -2,8 +2,7 @@
 title: "OpenRAM"
 authors: ["Matthew Guthaus"]
 author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz"]
-categories: ["osre22"]
-tags: ["uc"]
+tags: ["osre22", "uc"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---

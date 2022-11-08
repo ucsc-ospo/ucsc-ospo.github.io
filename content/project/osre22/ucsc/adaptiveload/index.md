@@ -2,8 +2,7 @@
 title: "Adaptive Load Balancers for Low-latency Multi-hop Networks"
 authors: ["Katia Obraczka"]
 author_notes: ["Professor of Electrical and Computer Engineering, UC Santa Cruz"]
-categories: ["osre22"]
-tags: ["uc"]
+tags: ["osre22", "uc"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---

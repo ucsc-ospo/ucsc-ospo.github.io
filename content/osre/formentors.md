@@ -10,7 +10,7 @@ design:
   css_class: null
 ---
 
-Instructures for participating projects and mentors are [here](/osredocs/formentors). The main difference from last year ...
+Please read [the instructions](/osredocs/formentors) for participating mentors. The main difference from last year ...
 
 There is a mentor-only mailing list ... Please write us an email if you want to be added to this list.
 
