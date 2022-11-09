@@ -2,7 +2,7 @@
 title: "Apache AsterixDB"
 authors: ["Ahmed Eldawy"]
 author_notes: ["Professor of Computer Science, UC Riverside"]
-tags: ["osre22", "uc"]
+tags: ["osre22", "uc", "data science"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---
