@@ -2,7 +2,7 @@
 title: "Polyphorm / PolyPhy"
 authors: ["Oskar Elek"]
 author_notes: ["OSPO Incubator Fellow, UC Santa Cruz"]
-tags: ["osre22", "uc"]
+tags: ["osre22", "uc", "data science", "website design"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---

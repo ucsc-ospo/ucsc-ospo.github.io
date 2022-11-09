@@ -2,7 +2,7 @@
 title: "Open Source Autonomous Vehicle Controller"
 authors: ["Aaron Hunter"]
 author_notes: ["Ph.D. Student, UC Santa Cruz"]
-tags: ["osre22", "uc"]
+tags: ["osre22", "uc", "autonomous vehicles"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---

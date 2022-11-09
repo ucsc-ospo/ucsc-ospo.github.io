@@ -2,7 +2,7 @@
 title: "Eusocial Storage Devices"
 authors: ["Jianshen Liu",admin]
 author_notes: ["Ph.D. Student, UC Santa Cruz"]
-tags: ["osre22", "uc"]
+tags: ["osre22", "uc", "computational storage"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---
