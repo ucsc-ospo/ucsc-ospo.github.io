@@ -4,6 +4,7 @@ headless: true
 active: true
 weight: 20
 title: OSRE 2023
+subtitle: "Open Source Research Experience"
 design:
   columns: "2"
   css_style: null
