@@ -15,8 +15,8 @@ content:
     # The folders to display content from
     folders:
       - report
-    tag: ''
-    category: 'osre23'
+    tag: 'osre23'
+    category: ''
     publication_type: ''
     author: ''
     featured_only: false
@@ -38,6 +38,10 @@ design:
   columns: '2'
 ---
 
+{{% callout warning %}}
+Still under constructions. Stay tuned!
+{{% /callout %}}
+
 If you are interested, have a look at our [guidelines for students](/osredocs/forstudents).
 
 New projects for OSRE 2023 will be published by end of February... Student application period will begin beginning of April but discussions with mentors begin beginning of March when the list of accepted GSoC mentor organizations is announced.
@@ -45,8 +49,8 @@ New projects for OSRE 2023 will be published by end of February... Student appli
 More instructions on when to contact mentors, what to expect, webinars, etc.
 
 Use chat channel, clarify audience, save personal information for direct exchange with mentor.
-<a href="https://gitter.im/HSF/HSF-GSoC?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/HSF/HSF-GSoC.svg" alt="Gitter" /></a>
+<a href="https://gitter.im/uccross/gsoc?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/uccross/gsoc.svg" alt="Gitter" /></a>
 
 ## Student pages
 
-Starting with OSRE 2023 student blogs are mandatory. If you are OSRE 2023 student, please read this [blog](/report/blog-ospo-admins).
+Starting with OSRE 2023 students are asked to blog about their experience. If you are OSRE 2023 student, please read this [blog](/report/blog-ospo-admins).

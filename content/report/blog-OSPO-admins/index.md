@@ -5,8 +5,8 @@ title: "Writing a blog about your OSRE 2023 project"
 subtitle: "Starting with OSRE 2023 student blogs are mandatory!"
 summary: "This is now common practice and an efficient way to track activities within OSRE projects. Include links to proposals, presentations, reports, and experience."
 authors: [admin]
-tags: []
-categories: [osre23]
+tags: ["osre23"]
+categories: []
 date: 2022-11-06T11:15:56-07:00
 lastmod: 2022-11-06T11:15:56-07:00
 featured: false
@@ -27,6 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [osre]
 ---
+
+{{% callout warning %}}
+Still under constructions. Stay tuned!
+{{% /callout %}}
 
 Starting with OSRE 2023 student blogs are mandatory! This is now common practice and an efficient way to track activities within OSRE projects. Include links to proposals, presentations, reports, and experience. 
 
