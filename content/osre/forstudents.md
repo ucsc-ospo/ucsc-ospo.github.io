@@ -40,13 +40,13 @@ design:
 
 If you are interested, have a look at our [guidelines for students](/osredocs/forstudents).
 
-New projects for OSRE 2023 will be published by end of February... Student application period will begin beginning of April but discussions with mentors begin beginning of March when the list of accepted GSoC mentor organizations is announced.
+New projects for OSRE 2023 will be published by end of February. Student can begin reaching out to mentors in late February / early March. Applications are due April 4, 2023. 
 
-More instructions on when to contact mentors, what to expect, webinars, etc.
+More instructions on when to contact mentors, what to expect, webinars, etc will be added shortly.
 
-Use chat channel, clarify audience, save personal information for direct exchange with mentor.
+Students interested in applying to any or our efforts should join our Slack channel. You can also use our Gitter channel for general questions before reaching out to mentors. 
 <a href="https://gitter.im/HSF/HSF-GSoC?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/HSF/HSF-GSoC.svg" alt="Gitter" /></a>
 
 ## Student pages
 
-Starting with OSRE 2023 student blogs are mandatory. If you are OSRE 2023 student, please read this [blog](/report/blog-ospo-admins).
+We will be asking OSRE 2023 students and contributors to share their progress on a regular basis. We are excited to be able to highlight their work through our blogs and in events such as our Open Source Sympoium. See more about how we highlight student work in this [blog](/report/blog-ospo-admins).
