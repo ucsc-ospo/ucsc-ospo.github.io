@@ -5,8 +5,8 @@ title: "Writing a blog about your OSRE 2023 project"
 subtitle: "Starting with OSRE 2023 student blogs are mandatory!"
 summary: "This is now common practice and an efficient way to track activities within OSRE projects. Include links to proposals, presentations, reports, and experience."
 authors: [admin]
-tags: []
-categories: [osre23]
+tags: ["osre23"]
+categories: []
 date: 2022-11-06T11:15:56-07:00
 lastmod: 2022-11-06T11:15:56-07:00
 featured: false
@@ -28,7 +28,15 @@ image:
 projects: [osre]
 ---
 
+<<<<<<< HEAD
 Starting in 2023 the Organization Admins will be asking students/contributors to provide regular status updates which will help us better highlight the work you are doing and track activities within our OSRE projects. These progress reports will also form the basis of blog reports prepared by students in the course of their summer. Blog reports should include links to proposals, presentations, reports, and an overview of the student's experience. 
+=======
+{{% callout warning %}}
+Still under constructions. Stay tuned!
+{{% /callout %}}
+
+Starting with OSRE 2023 student blogs are mandatory! This is now common practice and an efficient way to track activities within OSRE projects. Include links to proposals, presentations, reports, and experience. 
+>>>>>>> 10cc6aa (release early, release often)
 
 Your experience is invaluable for future OSRE candidates and for improving the program every year. We will be adding more details and guidelines on these blog posts in Winter 2023.
 

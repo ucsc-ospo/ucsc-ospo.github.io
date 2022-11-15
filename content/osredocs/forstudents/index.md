@@ -14,6 +14,11 @@ comments: false  # Show comments?
 #  caption: ""
 #  image: "bank.png"
 ---
+
+{{% callout warning %}}
+Still under constructions. Stay tuned!
+{{% /callout %}}
+
 # First steps
 
 Get started checking out the [Google Summer of Code Guides for students](https://google.github.io/gsocguides/student/) and the [timeline](https://developers.google.com/open-source/gsoc/timeline) of the program.

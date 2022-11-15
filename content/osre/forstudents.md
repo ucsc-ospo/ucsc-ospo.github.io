@@ -15,8 +15,8 @@ content:
     # The folders to display content from
     folders:
       - report
-    tag: ''
-    category: 'osre23'
+    tag: 'osre23'
+    category: ''
     publication_type: ''
     author: ''
     featured_only: false
@@ -37,6 +37,10 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
+
+{{% callout warning %}}
+Still under constructions. Stay tuned!
+{{% /callout %}}
 
 If you are interested, have a look at our [guidelines for students](/osredocs/forstudents).
 
