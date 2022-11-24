@@ -24,12 +24,15 @@ Why should I be an OSRE mentor?
 If you could use undergraduate research assistance over the summer with your on-going research, this is a great opportunity to get matched to top students. Like Google Summer of Code, the OSRE allows the mentors to choose the students they want to work with based on an interactive and iterative application process. The application process provides mentors the opportunity to select someone they want to work with who will benefit their project and research.
 
 Who can be a mentor?
+
 {{% callout note %}}
 Your project needs to
 - EITHER have at least one mentor affiliated with one the UC campuses or associated DOE national labs
 - OR have some connection to producing or using reproducibility artifacts.
 {{% /callout %}}
+
 For OSRE open source supported projects: Any UC-affiliated faculty, researchers or graduate students working on projects that are or will ultimately be part of an open source community/ecosystem. (Note: All software created as part of an OSRE project must be released as free and open source under a license that is both approved by the Open Source Initiative (OSI) and recognized as free by the Free Software Foundation (FSF).)
+
 For Summer of Reproducibility: Researchers and faculty from any US-based organization looking to support the production or use of reproducibility artifacts.
 
 What kind of projects are you accepting? Are there specific technologies or topics that you prefer?
