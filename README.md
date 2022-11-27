@@ -1,5 +1,9 @@
 # The Open Source Program Office, UC Santa Cruz
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)](https://twitter.com/UC_OSPO)
+
+
 ## How to add a new project idea to the Open Source Research Experience
 
 ### Instructions for adding/updating a project
