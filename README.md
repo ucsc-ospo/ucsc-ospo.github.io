@@ -1,7 +1,5 @@
 # The Open Source Program Office, UC Santa Cruz
 
-This website is based on the [Wowchemy](https://wowchemy.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).
-
 ## How to add a new project idea to the Open Source Research Experience
 
 ### Instructions for adding/updating a project
@@ -35,3 +33,6 @@ Mentors are welcome to add information about themselves (see [example](https://o
     - **IMPORTANT**: Under `user_groups:` add either `- University of California Mentors` or `- Summer of Reproducibility Mentors` (or both).
     - The bio and any other information goes below the frontmatter.
 
+## Website framework
+
+This website is based on [Wowchemy](https://wowchemy.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).
