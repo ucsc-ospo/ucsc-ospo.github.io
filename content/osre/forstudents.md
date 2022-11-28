@@ -38,17 +38,14 @@ design:
   columns: '2'
 ---
 
-{{% callout warning %}}
-Still under constructions. Stay tuned!
-{{% /callout %}}
 
-If you are interested, have a look at our [guidelines for students](/osredocs/forstudents).
+If you are interested, have a look at our [guidelines for students](/osredocs/forstudents) which includes timelines on when to contact mentors and proposal guidelines and expectations. 
 
 New projects for OSRE 2023 will be published by end of February. Student can begin reaching out to mentors in late February / early March. Applications are due April 4, 2023. 
 
-More instructions on when to contact mentors, what to expect, webinars, etc will be added shortly.
+Students interested in applying to any of our projects should join our Slack channel. Email slieggi@ucsc.edu for invitation.
 
-Students interested in applying to any or our efforts should join our Slack channel. You can also use our Gitter channel for general questions before reaching out to mentors. 
+You can also use our Gitter channel for general questions before reaching out to mentors. 
 <a href="https://gitter.im/HSF/HSF-GSoC?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/HSF/HSF-GSoC.svg" alt="Gitter" /></a>
 
 ## Student pages
