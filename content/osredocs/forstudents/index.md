@@ -69,7 +69,7 @@ General Note - In your proposal, be specific and make sure your mentor can see e
   - If student, include current major and any relevant course work
   - Technical interests and strengths
   - Contact information
-  -   Required: your full name, email address, current affiliation (for instance, which school are you currently attending), github handle
-  -   Optional: Blog URL, twitter; Linkedin.
+   - Required: your full name, email address, current affiliation (for instance, which school are you currently attending), github handle
+   - Optional: Blog URL, twitter; Linkedin.
 
 
