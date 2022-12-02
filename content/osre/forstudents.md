@@ -43,7 +43,7 @@ If you are interested, have a look at our [guidelines for students](/osredocs/fo
 
 New projects for OSRE 2023 will be published by end of February. Student can begin reaching out to mentors in late February / early March. Applications are due April 4, 2023. 
 
-Students interested in applying to any of our projects should join our Slack channel. Email  [OSRE Admins](ospo-info-group@ucsc.edu) for invitation.
+Students interested in applying to any of our projects should join our Slack channel. Email [OSRE Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation.
 
 You can also use our Gitter channel for general questions before reaching out to mentors. https://gitter.im/uc_ospo-osre/community
 [![Gitter](https://badges.gitter.im/uc_ospo-osre/community.svg)](https://gitter.im/uc_ospo-osre/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
