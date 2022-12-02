@@ -38,19 +38,16 @@ design:
   columns: '2'
 ---
 
-{{% callout warning %}}
-Still under constructions. Stay tuned!
-{{% /callout %}}
 
-If you are interested, have a look at our [guidelines for students](/osredocs/forstudents).
+If you are interested, have a look at our [guidelines for students](/osredocs/forstudents) which includes timelines on when to contact mentors and proposal guidelines and expectations. 
 
-New projects for OSRE 2023 will be published by end of February... Student application period will begin beginning of April but discussions with mentors begin beginning of March when the list of accepted GSoC mentor organizations is announced.
+New projects for OSRE 2023 will be published by end of February. Student can begin reaching out to mentors in late February / early March. Applications are due April 4, 2023. 
 
-More instructions on when to contact mentors, what to expect, webinars, etc.
+Students interested in applying to any of our projects should join our Slack channel. Email [OSRE Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation.
 
-Use chat channel, clarify audience, save personal information for direct exchange with mentor.
-<a href="https://gitter.im/uccross/gsoc?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/uccross/gsoc.svg" alt="Gitter" /></a>
+You can also use our Gitter channel for general questions before reaching out to mentors. https://gitter.im/uc_ospo-osre/community
+[![Gitter](https://badges.gitter.im/uc_ospo-osre/community.svg)](https://gitter.im/uc_ospo-osre/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Student pages
 
-Starting with OSRE 2023 students are asked to blog about their experience. If you are OSRE 2023 student, please read this [blog](/report/blog-ospo-admins).
+We will be asking OSRE 2023 students and contributors to share their progress on a regular basis. We are excited to be able to highlight their work through our blogs and in events such as our Open Source Sympoium. See more about how we highlight student work in this [blog](/report/blog-ospo-admins).
