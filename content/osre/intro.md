@@ -25,7 +25,9 @@ cta:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: "The Open Source Research Experience (OSRE) program by the Open Source Program Office (OSPO) UC Santa Cruz provides support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed contributor communities of open source research efforts and to help make computational research efforts reproducible. With this program the OSPO participates as mentor organization in [Google Summer of Code](https://summerofcode.withgoogle.com) and other outreach and sponsorship programs. Information from last year's OSRE can be found [here](https://cross.ucsc.edu/2022-osre/index.html) ([final reports](/post/20220929))."
+  label: "The Open Source Research Experience (OSRE) program by the Open Source Program Office (OSPO) UC Santa Cruz provides support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed contributor communities of open source research efforts and to help make computational research efforts reproducible. With this program the OSPO participates as mentor organization in [Google Summer of Code](https://summerofcode.withgoogle.com) and other outreach and sponsorship programs. Information from last year's OSRE can be found [here](https://cross.ucsc.edu/2022-osre/index.html) ([final reports](/post/20220929)).  
+  
+  **Table of Content**: [OSRE 2023](#osre23) | [For students](#forstudents) | [For mentors](#formentors) | [Timeline](#timeline) | [Projects](#projects) | [Tag cloud](#tags) | [Mentors](#mentors)"
 
 # Choose an optional background color, gradient, image, or video
 design:
