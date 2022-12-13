@@ -17,7 +17,7 @@ content:
       - project
     # Replace this tag to the current year (e.g. osre23)
     tags:
-      - osre22
+      - osre23
     # Uncomment below to exclude content with specific tags:
 #    exclude_tags:
 #      - preface    
@@ -53,7 +53,3 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
-
-{{% callout warning %}}
-This list currently shows the OSRE 2022 projects but will soon be replaced with OSRE 2023 projects. Stay tuned!
-{{% /callout %}}
