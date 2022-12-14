@@ -4,6 +4,7 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Project Topics
+subtitle: "Across all years"
 weight: 75 # Position of section on page
 
 content:
