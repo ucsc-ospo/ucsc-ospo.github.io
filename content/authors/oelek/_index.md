@@ -28,6 +28,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Oskar designs algorithms that draw from complex fractal systems and explores their applications in astrophysics and cosmology, as well as computational art and design.
 
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:oelek@ucsc.edu
+- icon: home
+  icon_pack: fas
+  link: https://elek.pub/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/oskar-elek-9981b013/
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
