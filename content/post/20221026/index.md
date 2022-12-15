@@ -30,6 +30,6 @@ projects: [ospo, polyphy]
 
 I'm very proud to have the OSPO UC Santa Cruz play a part of [Baskin Engineering Inclusive Excellence Hub](https://ieh.soe.ucsc.edu/)'s Fellowship for Anti-Racism Research (FARR) by providing mentorship to computational media Ph.D. student Milad Hakimshafaei in his work to expand diverse perceptions in visual design.
 
->Incubator Fellow and PolyPhy Project Lead Oskar Elek and Stephanie Lieggi, executive director for OSPO and the Center for Research in Open Source Software, Hakimshafaei will develop an interface built off of an existing web-based AI generator that will allow the end user to control the system’s behavior to generate interesting and unique patterns. By studying a broad array of users’ visual design aesthetic preferences, he plans to develop algorithms that better represent the experience of beauty for different people.
+>Incubator Fellow and PolyPhy Project Lead {{% mention oelek %}} and {{% mention slieggi %}}, executive director for OSPO and the Center for Research in Open Source Software, Hakimshafaei will develop an interface built off of an existing web-based AI generator that will allow the end user to control the system’s behavior to generate interesting and unique patterns. By studying a broad array of users’ visual design aesthetic preferences, he plans to develop algorithms that better represent the experience of beauty for different people.
 
 I encourage you to read the [full news release](https://news.ucsc.edu/2022/10/fellowship-for-anti-racism-research-2022.html).

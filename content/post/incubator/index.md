@@ -44,7 +44,7 @@ Thanks to the Alfred P. Sloan Foundation the OSPO can currently fund up to two i
 
 ## Dr.-Ing. Oskar Elek
 
-Dr.-Ing. Oskar Elek works on the project "Polyphorm + PolyPhy: An open source software platform for learning and visualizing connectivity patterns in complex datasets." For more information, please see his [website](https://elek.pub/). 
+Dr.-Ing. {{% mention oelek %}} works on the project "Polyphorm + PolyPhy: An open source software platform for learning and visualizing connectivity patterns in complex datasets." For more information, please see his [website](https://elek.pub/). 
 
 <div style="float:right;position: releative; top: -80px">
 <img src="emilylovell.jpg" alt="Portrait of Emily Lovell" style="width:150px">
