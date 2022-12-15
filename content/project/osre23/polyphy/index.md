@@ -1,6 +1,6 @@
 ---
 title: "Polyphorm / PolyPhy"
-authors: ["Oskar Elek"]
+authors: [oelek]
 author_notes: ["OSPO Incubator Fellow, UC Santa Cruz"]
 tags: ["osre23", "uc", "data science", "scientific visualization"]
 date: 2022-12-15
@@ -17,7 +17,7 @@ Under the hood, PolyPhy uses a richer 3D scalar field representation of the reco
 - **Skills:** experienced writing structured, well read, technical or scientific education, web development basics
 - **Difficulty:** Moderate
 - **Size:** 350 hours
-- **Mentors:** [Oskar Elek](mailto:oelek@ucsc.edu), [Ezra Huscher](mailto:ez@nmsu.edu)
+- **Mentors:** {{% mention oelek %}}, [Ezra Huscher](mailto:ez@nmsu.edu)
 
 Integral to PolyPhy's presentation is a story that the users and the project contributors can relate to. The objective is to develop the verbal part of that story, as well as major portions of technical documentation that matches it.
 
