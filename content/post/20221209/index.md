@@ -5,7 +5,7 @@ title: "Register for the OSRE 2023 Mentor Info Session"
 subtitle: "We will give a brief overview of the program and discuss the benefits of being an OSRE mentor. Join us on December 13 at 10am Pacific Time."
 summary: "We will give a brief overview of the program and discuss the benefits of being an OSRE mentor. Join us on December 13 at 10am Pacific Time. Registration is now open. We will be asking a number of our mentors the OSRE 2022 program to join in the discussion to share their experiences and we will also highlight the changes in the 2023 program aimed at making the OSRE even more rewarding for both mentors and students."
 authors: [slieggi]
-tags: []
+tags: [osre]
 categories: [News]
 date: 2022-12-09T11:15:56-07:00
 lastmod: 2022-12-09T11:15:56-07:00

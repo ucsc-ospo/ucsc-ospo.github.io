@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "OSRE Students Contributors Posters and Final Reports"
+title: "OSRE'22 Students Contributors Posters and Final Reports"
 subtitle: "Twelve successful summer projects, including ten supported by GSoC, double the number of last year"
 summary: "OSRE'22 had 12 successful summer projects, including 10 supported by GSoC, double the number of last year. Other sponsors included Toshiba America Electronic Components, Baskin Engineering, and CITRIS."
 authors: [slieggi]
-tags: []
+tags: [osre]
 categories: [News]
 date: 2022-09-29T11:15:56-07:00
 lastmod: 2022-09-29T11:15:56-07:00
