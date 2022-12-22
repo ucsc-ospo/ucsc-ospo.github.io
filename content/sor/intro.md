@@ -1,6 +1,7 @@
 ---
 widget: hero
 headless: true  # This file represents a page section.
+active: false
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: "2023 Summer of Reproducibility"
