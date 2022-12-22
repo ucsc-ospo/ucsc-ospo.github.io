@@ -9,7 +9,7 @@ tags: []
 categories: [News]
 date: 2022-12-09T11:15:56-07:00
 lastmod: 2022-12-09T11:15:56-07:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -28,7 +28,9 @@ image:
 projects: [ospo, osre]
 ---
 
-{{% cta cta_link="https://forms.gle/gtR1tP6dFmEZ7VQZ6" cta_text="REGISTER -->" %}}
+**In case you missed our December 13 mentor info session, the recording is available now!** ([youtube channel](https://www.youtube.com/playlist?list=PLgEgostMUSe0uH-iqE3kUbsb-W_LRZaLv))
+
+{{% cta cta_link="https://youtu.be/PlOZTiracsw" cta_text="WATCH HERE" %}}
 
 The UCSC Open Source Program Office is excited to once again be sponsoring the [Open Source Research Experience (OSRE)](https://ospo.ucsc.edu/osre/) program in the Summer of 2023 and is looking for researchers and academics interested in being OSRE mentors.
  
