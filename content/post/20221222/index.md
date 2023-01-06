@@ -3,14 +3,12 @@
 
 title: "Register for the 2023 Summer of Reproducibility (SoR) Mentor Info Session"
 subtitle: "We will give a brief overview of the program and discuss the benefits of being an SoR mentor. Join us on January 18, 2023 at 10:00am Pacific Time."
-summary: "We will give a brief overview of the program and discuss the benefits of being an Summer of Reproducibility mentor, a joint program of the NSF-funded Repeto Project and the [2023 Open Source Research Experience (OSRE 2023)](/osre). Join our webinar on January 18, 2023 at 10:00am Pacific Time. This session will be immediately followed by an introduction in the general OSRE program at about 10:45. 
-
-Registration is now open for these combined sessions. We will be asking a number of our mentors of last year's OSRE 2022 program to join in the discussion to share their experiences and we will also highlight the changes in the 2023 program aimed at making the OSRE even more rewarding for both mentors and students."
+summary: "We will give a brief overview of the program and discuss the benefits of being an Summer of Reproducibility mentor, a joint program of the NSF-funded Repeto Project and the [2023 Open Source Research Experience (OSRE 2023)](/osre). Join our webinar on January 18, 2023 at 10:00am Pacific Time. This session will be immediately followed by an introduction in the general OSRE program at about 10:45. Registration for both events is now open."
 authors: [slieggi]
 tags: [sor,osre]
 categories: [News]
 date: 2022-12-22T11:15:56-07:00
-lastmod: 2022-12-22T11:15:56-07:00
+lastmod: 2023-01-05T11:15:56-07:00
 featured: true
 draft: false
 
@@ -31,6 +29,10 @@ projects: [ospo, osre]
 ---
 
 {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfQe-6Nz8UkEhcA2yw3aM0OVa9cCSe8VSeDW2brkK1UWSnSnQ/viewform" cta_text="REGISTER -->" %}}
+
+{{% callout note %}}
+**Update:** The new event schedule is now January 18, 10:00am Pacific Time.
+{{% /callout %}}
 
 The UCSC Open Source Program Office is excited to introduce the [2023 Summer of Reproducibility (SoR 2023)](/sor) into the [Open Source Research Experience (OSRE)](https://ospo.ucsc.edu/osre/) program and is looking for researchers and academics interested in being an SoR mentor.
  
