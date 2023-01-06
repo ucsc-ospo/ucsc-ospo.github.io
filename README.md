@@ -37,6 +37,15 @@ Mentors are welcome to add information about themselves (see [example](https://o
     - **IMPORTANT**: Under `user_groups:` add either `- University of California Mentors` or `- Summer of Reproducibility Mentors` (or both).
     - The bio and any other information goes below the frontmatter.
 
+## Posts, Projects, Authors, Reports, Events
+
+The website has five "lists": 
+- **Posts:** (under `content/post`) include Programs (`category: programs`) named after their program name, and the OSPO Blog items (`category: news`) named after their posting date (`yyyymmdd`) with tags that determine whether news items are also appearing in OSRE News (tag `osre`) and SoR News (tag `sor`).
+- **Projects:** (under `content/project`) are filed in a directory hierarchy with year at the top (e.g. `osre22`, `osre23`) and organization for each year. This directory hierarchy avoids name collisions of project names between years and organizations but the website build process does not assign any further meaning to it. Instead, tags determine in which year a project shows up (e.g. tag `osre22` or `osre23`) and whether the project is a UC mentor project (tag `uc`) or a reprodubility project (tag `reproducibility`) or both. Additional tags describing project topics are encouraged and show up in the OSRE tag cloud (across all years and organizations).
+- **Authors** (under `content/authors`) include administrators and OSRE mentors. There are three `user_groups`: `Administration`, `University of California Mentors`, and `Summer of Reproducibility Mentors`. Authors can belong to more than one group.
+- **Reports:** (under `content/report`) are authored by OSRE contributors and will appear in the ["For students" section on the OSRE page](https://ospo.ucsc.edu/osre/#forstudents).
+- **Events:** (under `content/event`) lists the annual symposia (and possibly additioinal major events). The `content/event/_index.md` is showing the upcoming event (or the past event if there is no upcoming event yet) and a call-to-action button to register (or to watch the recording of the past event). The list items are past events named by their event date.
+
 ## Website framework
 
 This website is based on [Wowchemy](https://wowchemy.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).
