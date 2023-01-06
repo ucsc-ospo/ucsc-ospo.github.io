@@ -3,7 +3,7 @@
 
 title: "Register for the 2023 Summer of Reproducibility (SoR) Mentor Info Session"
 subtitle: "We will give a brief overview of the program and discuss the benefits of being an SoR mentor. Join us on January 10, 2023 at 9:30am Pacific Time."
-summary: "We will give a brief overview of the program and discuss the benefits of being an Summer of Reproducibility mentor, a joint program of the NSF-funded Repeto Project and the [2023 Open Source Research Experience (OSRE 2023)](/osre). Join our webinar on January 10, 2023 at 9:30am Pacific Time. Registration is now open. We will be asking a number of our mentors of last year's OSRE 2022 program to join in the discussion to share their experiences and we will also highlight the changes in the 2023 program aimed at making the OSRE even more rewarding for both mentors and students."
+summary: "We will give a brief overview of the program and discuss the benefits of being an Summer of Reproducibility mentor, a joint program of the NSF-funded Repeto Project and the [2023 Open Source Research Experience (OSRE 2023)](/osre). Join our webinar on January 10, 2023 at 9:30am Pacific Time. Registration is now open."
 authors: [slieggi]
 tags: [sor,osre]
 categories: [News]
