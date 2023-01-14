@@ -1,5 +1,5 @@
 ---
-title: Questions Frequently Asked by Mentors
+title: FAQ for Mentors
 summary: ''
 authors: [slieggi]
 date: "2023-13-06T00:00:00Z"
