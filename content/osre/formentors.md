@@ -23,7 +23,7 @@ The program team at UCSC OSPO values diversity and inclusion in all our projects
 
 ### Why should you be an OSRE mentor?
 
-If you could use undergraduate research assistance over the summer with your on-going research, this is a great opportunity to get matched to top students. Like Google Summer of Code, the OSRE allows the mentors to choose the students they want to work with based on an interactive and iterative application process. The application process provides mentors the opportunity to select someone they want to work with who will benefit their project and research.
+If you could use undergraduate research assistance over the summer with your on-going research, this is a great opportunity to get matched to top students. Like Google Summer of Code, the OSRE allows the mentors to choose the students they want to work with based on an interactive and iterative proposal process. The proposal process provides mentors the opportunity to select someone they want to work with who will benefit their project and research.
 
 ### Who can be a mentor?
 
