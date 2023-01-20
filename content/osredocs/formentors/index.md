@@ -33,7 +33,7 @@ A project serves as the context for one or more project ideas. Each project is r
     - Below the frontmatter start with a description of the project and include links to the project's webpage. 
     - Add each project idea with level-3 header, i.e., `### ...` and add a list of **essential information** that includes *topics*, *skills*, *difficulty*, *size* (175 vs 350 hours), and *mentors*.
     - Every mentor should at least have a `mailto:` link. Better yet: add the mentor using the instructions below and use the shortcut `{{%/* mention "USERNAME" */%}}`. There should be at least two mentors per project idea.
-  - Make a pull request and add [carlosmalt](https://github.com/carlosmalt) and [slieggi](https://github.com/slieggi) as reviewers.
+  - Make a pull request and [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn).
   
 ### Instructions for adding a mentor
 
@@ -47,5 +47,6 @@ Mentors are welcome to add information about themselves (see [example](https://o
     - Many icons are available (see [documentation](https://wowchemy.com/docs/getting-started/page-builder/#icons))
     - **IMPORTANT**: Under `user_groups:` add either `- University of California Mentors` or `- Summer of Reproducibility Mentors` (or both).
     - The short bio and any other information goes below the frontmatter.
+  - Make a pull request and [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn).
 
 
