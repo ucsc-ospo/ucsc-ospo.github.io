@@ -1,6 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+## Event video now available
+
 title: "Register for the 2023 Summer of Reproducibility (SoR) Mentor Info Session"
 subtitle: "We will give a brief overview of the program and discuss the benefits of being an SoR mentor. Join us on January 18, 2023 at 10:00am Pacific Time."
 summary: "We will give a brief overview of the program and discuss the benefits of being an Summer of Reproducibility mentor, a joint program of the NSF-funded Repeto Project and the [2023 Open Source Research Experience (OSRE 2023)](/osre). Join our webinar on January 18, 2023 at 10:00am Pacific Time. This session will be immediately followed by an introduction in the general OSRE program at about 10:45. Registration for both events is now open."
@@ -28,10 +30,10 @@ image:
 projects: [ospo, osre]
 ---
 
-{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfQe-6Nz8UkEhcA2yw3aM0OVa9cCSe8VSeDW2brkK1UWSnSnQ/viewform" cta_text="REGISTER -->" %}}
+{{% cta cta_link="https://youtube.com/playlist?list=PLgEgostMUSe0uH-iqE3kUbsb-W_LRZaLv" cta_text="Watch Video -->" %}}
 
 {{% callout note %}}
-**Update:** The new event schedule is now January 18, 10:00am Pacific Time.
+**Update:** Video is now available. Informal Q&A session scheduled for January 26 at 10:30 pacific time. 
 {{% /callout %}}
 
 The UCSC Open Source Program Office is excited to introduce the [2023 Summer of Reproducibility (SoR 2023)](/sor) into the [Open Source Research Experience (OSRE)](https://ospo.ucsc.edu/osre/) program and is looking for researchers and academics interested in being an SoR mentor.
