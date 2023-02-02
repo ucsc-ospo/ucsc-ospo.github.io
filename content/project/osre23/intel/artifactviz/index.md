@@ -4,7 +4,7 @@ authors: ["Anjo Vahldiek-Oberwagner"]
 author_notes: ["Research Scientist at Intel Labs"]
 tags: ["osre23", "reproducibility"]
 date: 2023-01-09T10:15:56-07:00
-lastmod: 2023-11-09T10:15:56-07:00
+lastmod: 2023-01-09T10:15:56-07:00
 ---
 
 Reproducibility and Artifact Evaluation efforts have focused on reproducing the results, but not necessarily on storing, visualizing and making the results accessible. This set of projects builds the initial building blocks to log, capture, and visualize experiments.
