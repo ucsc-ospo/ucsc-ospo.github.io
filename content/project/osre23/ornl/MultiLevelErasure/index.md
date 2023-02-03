@@ -1,7 +1,11 @@
 ---
 title: Reproducible Evaluation of Multi-level Erasure Coding
-authors: [John Bent]
-author_notes: ["Senior Director, Seagate Technology"]
+authors: 
+- John Bent
+- Anjus George
+author_notes: 
+- "Senior Director, Seagate Technology"
+- "HPC Storage R&D staff, Oak Ridge National Laboratory"
 tags: ["osre23", "reproducibility", "storage systems", "erasure coding"]
 date: 2023-02-02
 lastmod: 2023-02-02
