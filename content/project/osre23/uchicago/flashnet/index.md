@@ -2,7 +2,7 @@
 title: "FlashNet: Towards Reproducible Data Science for Storage System" 
 authors: [Haryadi Gunawi]
 author_notes: [Associate Professor at the University of Chicago]
-tags: ["osre23", "reproducibility", "storage systems", “performance”, "machine learning", “data science”]
+tags: [osre23, reproducibility, "storage systems", performance, "machine learning", “data science”]
 date: 2023-02-02
 lastmod: 2023-02-02
 ---
