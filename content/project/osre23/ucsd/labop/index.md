@@ -11,6 +11,10 @@ lastmod: 2023-02-06
 
 <!---
 Instructions for project submission here: https://ospo.ucsc.edu/osredocs/formentors/
+
+All the projects so far:
+https://ospo.ucsc.edu/osre/#projects
+
 -->
 
 ### Project idea 1: Software, hardware, and wetware building LabOP with simultaneous language & protocol development & test executions
