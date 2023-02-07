@@ -19,7 +19,7 @@ Projects for the OSAVC:
  - **Skills**: C, I2C, SPI, UART interfaces
  - **Size** 175 hours
  - **Difficulty** Medium
- - **Mentor** Aaron Hunter/Carlos Espinosa/Pavlo Vlastos
+ - **Mentor** [Aaron Hunter](mailto:aamuhunt@ucsc.edu), [Carlos Espinosa](mailto:caiespin@ucsc.edu), Pavlo Vlastos
 
 
 Help develop sensor libraries for use in autonomous vehicles. We are in particular interested in sensors for UAVs: airspeed sensors (pitot tube) or barometers, but also proximity detectors (ultrasonic), and range sensors. Code will be written in C using state machine methodology and non-blocking algorithms. Test the drivers on a Microchip microncontroller.
@@ -41,7 +41,7 @@ Write a tutorial to demonstrate how to start with an OSAVC and program it with t
  - **Skills** ROS/Gazebo, Python
  - **Size** 175 or 350 hours 
  - **Difficulty** Medium to Hard
- - **Mentor** Aaron Hunter/Carlos Espinosa/Pavlo Vlastos
+ - **Mentor** [Aaron Hunter](mailto:aamuhunt@ucsc.edu), [Carlos Espinosa](mailto:caiespin@ucsc.edu), Pavlo Vlastos
 
 Generate a simulated world and a quadcopter model in ROS/Gazebo. Provide a link from Mavlink to ROS using the mavros package and simulate a real vehicle data stream to command the simulated quadcopter in Gazebo. At the same time return the image stream from Gazebo to allow for offline processing of ML models on the images. 
 
