@@ -50,7 +50,7 @@ Integral to PolyPhy's presentation is a "story" - a narrative understanding - th
 - **Skills:** documented experience with current social media landscape, social and well spoken, ability to communicate technical concepts
 - **Difficulty:** Moderate
 - **Size:** 175 or 350 hours
-- **Mentors:** {{% mention oelek %}}
+- **Mentors:** {{% mention oelek %}}, [Ezra Huscher](mailto:ez@nmsu.edu)
 
 Your responsibility will be to build and engage the community around PolyPhy. This includes its standing team and stakeholders, current expert users, potential adopters as well as the general public. The scope (size) of the project depends on the level of commitment during and beyond the Summer and is negotiable upfront.
 
