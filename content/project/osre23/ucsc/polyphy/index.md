@@ -11,7 +11,7 @@ lastmod: 2022-12-15
 
 Under the hood, PolyPhy uses a richer 3D scalar field representation of the reconstructed network, instead of a typical discrete representation like a graph or a mesh. The ultimate purpose of PolyPhy is to become a toolkit for a range of specialists across different disciplines: astronomers, neuroscientists, data scientists and even artists and designers. PolyPhy aspires to be a tool for discovering connections between different disciplines by creating quantitatively comparable structural analytics.
 
-### Infrastructure engineering and practices
+### PolyPhy infrastructure engineering and practices
 
 - **Topics:** `DevOps` `Code Refactoring` `CI/CD`
 - **Skills:** fluidity in Python, experience with OOP, experience with building and packaging libraries, understanding GitHub and its tools ecosystem
