@@ -2,7 +2,7 @@
 title: "Strengthening Underserved Segments of the Open Source Pipeline"
 authors: ["Emily Lovell"]
 author_notes: ["OSPO Incubator Fellow, UC Santa Cruz"]
-tags: ["osre23", "uc", "education", "teaching", "diversity and inclusion", "newcomer"]
+tags: ["osre23", "uc", "education", "teaching", "diversity and inclusion", "newcomers"]
 date: 2023-02-07
 lastmod: 2023-02-07
 ---
