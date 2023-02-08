@@ -2,7 +2,7 @@
 title: "DirtViz 2.0"
 authors: [John Madden, Colleen Josephson, Stephen Taylor]
 author_notes: ["OSPO Incubator Fellow, UC Santa Cruz"]
-tags: ["osre23", "uc", "data science", "website design", "data visualization, "analytics"]
+tags: ["osre23", "uc", "data science", "website design", "data visualization", "analytics"]
 date: 2022-02-07
 lastmod: 2022-02-08
 ---
