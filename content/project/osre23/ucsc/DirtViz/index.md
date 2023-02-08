@@ -11,7 +11,7 @@ DirtViz is a project to visualize data collected from sensors deployed in sensor
 
 ### Visualize Sensor Data
 
-- **Topics:** `Data Visualization`, `Analytics'
+- **Topics:** `Data Visualization` `Analytics`
 - **Skills:** javascript, python, bash, webservers, git, embedded systems
 - **Difficulty:** Easy/Moderate
 - **Size:** Large, 350 hours
