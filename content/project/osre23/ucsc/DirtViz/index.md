@@ -15,7 +15,8 @@ DirtViz is a project to visualize data collected from sensors deployed in sensor
 - **Skills:** javascript, python, bash, webservers, git, embedded systems
 - **Difficulty:** Easy/Moderate
 - **Size:** Large, 350 hours
-- **Mentors:** [Colleen Josephson](mailto:cjosephson@ucsc.edu)
+- **Mentors:** [Colleen Josephson](mailto:cjosephson@ucsc.edu), [Sonia Naderi](mailto:
+sonaderi@ucsc.edu)
 
 Specific tasks:
 - Refine our web-based visualization tools to easily allow users to zoom in on date ranges, change axes, etc.
