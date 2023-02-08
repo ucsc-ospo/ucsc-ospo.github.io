@@ -1,7 +1,7 @@
 ---
 title: "DirtViz 2.0"
-authors: [John Madden, Colleen Josephson, Stephen Taylor]
-author_notes: [UC Santa Cruz Researcher, UC Santa Cruz Assistant Professor, UC Santa Cruz Researcher]
+authors: [Colleen Josephson]
+author_notes: [UC Santa Cruz Assistant Professor]
 tags: ["osre23", "uc", "data science", "website design", "data visualization", "analytics"]
 date: 2022-02-07
 lastmod: 2022-02-08
