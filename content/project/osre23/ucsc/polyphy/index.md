@@ -11,7 +11,7 @@ lastmod: 2022-12-15
 
 Under the hood, PolyPhy uses a richer 3D scalar field representation of the reconstructed network, instead of a typical discrete representation like a graph or a mesh. The ultimate purpose of PolyPhy is to become a toolkit for a range of specialists across different disciplines: astronomers, neuroscientists, data scientists and even artists and designers. PolyPhy aspires to be a tool for discovering connections between different disciplines by creating quantitatively comparable structural analytics.
 
-### Infrastructure engineering and practices
+### PolyPhy infrastructure engineering and practices
 
 - **Topics:** `DevOps` `Code Refactoring` `CI/CD`
 - **Skills:** fluidity in Python, experience with OOP, experience with building and packaging libraries, understanding GitHub and its tools ecosystem
@@ -43,3 +43,19 @@ Integral to PolyPhy's presentation is a "story" - a narrative understanding - th
 - Work with mentors to improve project's written community practices (diversity, communication).
 - Write and edit narrative and explanatory parts of PolyPhy's documentation.
 - Create tutorials that present core functionality of the toolkit.
+
+### Community engagement and management
+
+- **Topics:** `Community Management` `Social Media` `Networking`
+- **Skills:** documented experience with current social media landscape, social and well spoken, ability to communicate technical concepts
+- **Difficulty:** Moderate
+- **Size:** 175 or 350 hours
+- **Mentors:** {{% mention oelek %}}
+
+Your responsibility will be to build and engage the community around PolyPhy. This includes its standing team and stakeholders, current expert users, potential adopters as well as the general public. The scope (size) of the project depends on the level of commitment during and beyond the Summer and is negotiable upfront.
+
+**Specific tasks:**
+- Manage the team's communication channels (Slack, Zoom, email) and maintain active presence therein.
+- Develop social media presence for PolyPhy on Twitter, LinkedIn and other selected social media platforms.
+- Manage and extend the online presence for the project, including its [website](https://polyphy.io), mailing list, and other applicable outreach activities.
+- Research and engage with new communities that would benefit from PolyPhy, both as its expert users and contributors.
