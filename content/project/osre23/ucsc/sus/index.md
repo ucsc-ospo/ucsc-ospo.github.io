@@ -24,7 +24,7 @@ This project will investigate gaps in currently available resources/programs and
 - **Skills:** independent research, communication, organization, GitHub/Markdown, basic web programming (HTML, CSS, JavaScript)
 - **Difficulty:** Novice to Intermediate
 - **Size:** Medium or Large (175 or 350 hours)
-- **Mentors:** [Emily Lovell](mailto:emme@soe.ucsc.edu), [James Davis](mailto:davis@soe.ucsc.edu)
+- **Mentors:** {{% mention elovell %}}, [James Davis](mailto:davis@soe.ucsc.edu)
 
 As an early contributor to this project, you will help gather information to inform the project direction – and then help bring it to life!
 
