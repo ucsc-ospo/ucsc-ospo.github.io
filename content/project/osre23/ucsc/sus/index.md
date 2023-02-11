@@ -18,7 +18,7 @@ This work builds upon a number of existing projects with similar or overlapping 
 This project will investigate gaps in currently available resources/programs and seek to address them, beginning with the exploration of engaging high school students with open source. Depending on early findings, this project could also entail the development of resources for independent learners and/or mentors. 
  
 
-### Learning Resource Development
+### Learning Resource Development + Repository-Building
 
 - **Topics:** `Education`, `Broadening Participation`, `Mentorship and Support`, `Community Development`
 - **Skills:** independent research, communication, organization, GitHub/Markdown, basic web programming (HTML, CSS, JavaScript)
@@ -29,9 +29,10 @@ This project will investigate gaps in currently available resources/programs and
 As an early contributor to this project, you will help gather information to inform the project direction – and then help bring it to life!
 
 Possible tasks:
-- Meet with local teachers or community members to identify new opportunities to engage with students (e.g. outside-of-school workshops, classroom visits, materials for teachers to use independently)
+- Meet with teachers and/or community members to identify new opportunities to engage with students (e.g. outside-of-school workshops, classroom visits, materials for teachers to use independently)
 - Evaluate and test existing learning activities with a high school audience in mind (e.g. consider necessary pre-requisites, time required, ideal activity format)
 - Evaluate and organize existing resources for newcomers (e.g. [Up For Grabs](https://up-for-grabs.net/#/), [Hacktoberfest](https://hacktoberfest.com), internship/fellowship opportunites)
 - Help design and pilot new learning activities and/or workshops
+- Assist in curating an open source repository of the aforementioned resources
 - Conduct outreach to our target communities (e.g. brainstorm a catchy repository name, compose inviting and inclusive emails, design visual project elements)
 - Share your own input and perspective on what it's like to be a newcomer to open source! 
