@@ -4,7 +4,7 @@ authors: [elovell]
 author_notes: ["OSPO Incubator Fellow, UC Santa Cruz"]
 tags: ["osre23", "uc", "education", "teaching", "diversity and inclusion", "newcomers"]
 date: 2023-02-07
-lastmod: 2023-02-09
+lastmod: 2023-02-10
 ---
 
 Contributing to an open source project offers novices the opportunity to join a community of practitioners, build a technical portfolio, gain experience with industry tools and technologies, and have real-world impact. This project seeks to invite and support broader, more diverse participation in open source by supporting _early contributors_ – especially those who have been historically minoritized within tech. 
