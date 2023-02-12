@@ -22,7 +22,7 @@ In this project, we plan to improve the modularity of the FlashNet pipeline and 
 - **Topics:** Storage systems, reproducibility, machine learning, continual learning
 - **Skills:** C++, Python, PyTorch, Experienced with Machine Learning pipeline
 - **Difficulty:** Medium
-- **Size:** 400 hours
+- **Size:** Large (350 hours)
 - **Mentors:** [Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/)
 
 Build an open-source platform to enable collaboration between storage and ML communities, specifically to provide a common platform for advancing data science research for storage systems. The platform will be able to reproduce and evaluate different ML models/architecture, dataset patterns, data preprocessing techniques, and various feature engineering strategies. 
