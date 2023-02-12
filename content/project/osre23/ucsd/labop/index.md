@@ -22,7 +22,7 @@ https://ospo.ucsc.edu/osre/#projects
 - **Topics:**  Software standard development, Laboratory automation, Biology   
 - **Skills:** Python, Semantic Web Technologies (RDF, OWL), interest to think about describing biological & chemical laboratory processes
 - **Difficulty:** Moderate
-- **Size:** 400 hours
+- **Size:** Large (350 hours)
 - **Mentors:**
 	1. [Tim Fallon (UCSD)](mailto:tfallon@ucsd.edu){{% mention "photocyte" %}}
 	2. [Dan Bryce (SIFT)](mailto:dbryce@sift.net){{% mention "danbryce" %}}
