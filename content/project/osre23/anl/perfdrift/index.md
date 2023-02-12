@@ -24,7 +24,7 @@ Through this research, we seek to contribute the following:
 - **Topics:** Statistical Machine Learning, Deep Learning, and High-Performance Computing (HPC)
 - **Skills:** C++, Python, Statistics, good to have: Machine Learning, Deep learning
 - **Difficulty:** Moderate
-- **Size:** 400 hours
+- **Size:** Large (350 hours)
 - **Mentors:** Sandeep Madireddy (https://www.anl.gov/profile/sandeep-r-madireddy, http://www.mcs.anl.gov/~smadireddy/ )
 
 All in all, these are the specific tasks that the student should do:
