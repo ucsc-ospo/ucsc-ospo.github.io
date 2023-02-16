@@ -2,7 +2,7 @@
 title: "FasTensor"
 authors: ["John Wu"]
 author_notes: ["Lawrence Berkeley Lab"]
-tags: ["osre22", "uc", "data management", "data science"]
+tags: ["osre23", "uc", "data management", "data science"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---
