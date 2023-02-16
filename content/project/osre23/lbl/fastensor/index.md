@@ -4,7 +4,7 @@ authors: ["John Wu"]
 author_notes: ["Lawrence Berkeley Lab"]
 tags: ["osre23", "uc", "data management", "data science"]
 date: 2022-11-07T10:15:56-07:00
-lastmod: 2022-11-07T10:15:56-07:00
+lastmod: 2023-02-16T10:15:56-07:00
 ---
 
 [FasTensor](https://sdm.lbl.gov/fastensor/) is a parallel execution engine for user-defined functions on multidimensional arrays.  The user-defined functions follow the stencil metaphor used for scientific computing and is effective for expressing a wide range of computations for data analyses, including common aggregation operations from database management systems and advanced machine learning pipelines.  FasTensor execution engine exploits the structural-locality in the multidimensional arrays to automate data management operations such as file I/O, data partitioning, communication, parallel execution, and so on.
