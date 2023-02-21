@@ -10,7 +10,7 @@ lastmod: 2022-11-07T10:15:56-07:00
 Projects for [LiveHD](https://github.com/masc-ucsc/livehd). Lead Mentors: [Jose Renau](mailto:renau@ucsc.edu) and [Sakshi Garg](mailto:sgarg3@ucsc.edu)
 
 A longer explanation and more project options are available at
-[projects](https://github.com/masc-ucsc/livehd/docs/projects.md). Contact the
+[projects](https://github.com/masc-ucsc/livehd/blob/master/docs/projects.md). Contact the
 mentors to find a project that fits your interests.
 
 ### Mockturtle
