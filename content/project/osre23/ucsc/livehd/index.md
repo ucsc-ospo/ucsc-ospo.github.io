@@ -60,7 +60,7 @@ The goal is to use Mockturtle (https://github.com/lsils/mockturtle) with LiveHD.
 | Skills | C++17 |
 | Difficulty | Medium |
 | Size | Medium 175 hours|
-| [Link](https://github.com/masc-ucsc/livehd/blob/master/docs/cross.md#query-shell-not-lgshell-to-query-graphs)
+| [Link](https://github.com/masc-ucsc/livehd/blob/master/docs/projects_small.md#medium-query-shell-not-lgshell-to-query-graphs)
 
 
 Current LiveHD uses replxx but it a no longer maintained shell/console. The result is that it fails in newer versions of OSX.
