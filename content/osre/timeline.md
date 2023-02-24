@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 active: true
-weight: 50
+weight: 60
 title: Timeline
 design:
   columns: "2"
