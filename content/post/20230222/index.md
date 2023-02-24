@@ -1,7 +1,7 @@
 ---
 title: "Accepted as 2023 GSoC Mentor Organiztion"
 subtitle: "OSRE 2023 and SoR 2023 will benefit from GSOC outreach and funding."
-#summary: "Drop in and ask us questions about this summer program starting at 10:30am Pacific Time on January 26, 2023. Take a look at info about these programs on this website or watch one of the earlier [videos](https://youtube.com/playlist?list=PLgEgostMUSe0uH-iqE3kUbsb-W_LRZaLv). We will give a brief overview of the program and discuss the benefits of being a Summer of Reproducibility mentor, a joint program with the NSF-funded Repeto Project."
+#summary: "The UCSC OSPO will once again for a GSoC mentor organization for Summer 2023."
 authors: [slieggi, admin]
 tags: [sor,osre]
 categories: [News]
@@ -19,4 +19,6 @@ active: true
 projects: [ospo, osre]
 ---
 
-We are very excited to have been selected as a [2023 Google Summer of Code](https://summerofcode.withgoogle.com) Mentor Organization. The [2023 Open Source Research Experience](/osre) and with it the [2023 Summer of Reproducibility](/sor) will therefore benefit from GSOC's world-wide outreach and generous funding of contributors. We are now listed among [172 selected mentor organizations](https://summerofcode.withgoogle.com/programs/2023/organizations). We are listed under "Data" and "Science and medicine".
+We are very excited to have been selected as a [2023 Google Summer of Code](https://summerofcode.withgoogle.com) Mentor Organization. The [2023 Open Source Research Experience](/osre) and with it the [2023 Summer of Reproducibility](/sor) will therefore benefit from GSOC's world-wide outreach and generous funding of contributors. We are now listed among [172 selected mentor organizations](https://summerofcode.withgoogle.com/programs/2023/organizations). We are listed under "Data" and "Science and medicine". Since 2018, the we have successfully mentored a total of 22 GSoC student projects. We look forward to mentoring more projects this year.
+
+Interested students can check out our [ideas page](/osre/#projects) for project ideas from our mentors. Our project ideas cover a wide range of topics this year. Students are encouraged to reach out to our mentors during the proposals stage. See our [student information section](/osre/#forstudents)
