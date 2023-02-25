@@ -14,7 +14,7 @@ lastmod: 2023-02-22
 - **Topics:** performance, I/O, workload characterization
 - **Difficulty:** Medium
 - **Size:** Medium or large (175 or 350 hours)
-- **Mentors:** [Mentor Name #1](mailto:mentor@example.com), [Mentor Name #2](mailto:mentor@example.com)
+- **Mentors:** [Tyler Reddy](mailto:treddy@lanl.gov)
 
 [Darshan](https://www.mcs.anl.gov/research/projects/darshan/) is an HPC I/O characterization tool that collect statistics using a lightweight design that makes it suitable for full time deployment. Darshan is an interposer library that catches and counts IO requests (open, write, read, etc.) to a file/file system and it keeps the counters in buckets in data structure that can be queried.  How many reads of small size, medium size, large size) for example are the types of things that are counted.
 
