@@ -19,3 +19,9 @@ projects: [ospo, osre]
 ---
 
 We are very excited to have been selected as a [2023 Google Summer of Code](https://summerofcode.withgoogle.com) Mentor Organization. The [2023 Open Source Research Experience](/osre) and with it the [2023 Summer of Reproducibility](/sor) will therefore benefit from GSOC's world-wide outreach and generous funding of contributors. We are now listed among [172 selected mentor organizations](https://summerofcode.withgoogle.com/programs/2023/organizations). We are listed under "Data" and "Science and medicine".
+
+{{% callout note %}} 
+Since 2018, the we have successfully mentored a total of 22 GSoC students. We look forward to mentoring this year's students.
+{{% /callout %}}
+
+Interested students can check out our [projects](/osre/#projects) for  proposal ideas from our mentors. Our projects cover a wide range of topics this year. Students are encouraged to reach out to our mentors during the proposals stage. See our [student information section](/osre/#forstudents)
