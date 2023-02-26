@@ -35,9 +35,8 @@ To become a sponsor, fill out the [Sponsorship Interest Form](https://forms.gle/
 
 ### Becoming a Sponsor
 
-{{% cta cta_link="https://forms.gle/9ZTg7pMwa1dQ94NS6" cta_text="Sponsor Projects -->" %}}
-
 Becoming a sponsor is easy! Fill out the [Sponsorship Interest Form](https://forms.gle/9ZTg7pMwa1dQ94NS6) or reach out to the [OSRE Admins](mailto:ospo-info-group@ucsc.edu) by April 20.  Information requested by the form include: name of contact person, level of sponsorship, and projects you are most interested in (if applicable.) The [OSRE Admins](mailto:ospo-info-group@ucsc.edu) will follow up with next steps for finalizing the sponsorship process.
 
+{{% cta cta_link="https://forms.gle/9ZTg7pMwa1dQ94NS6" cta_text="Sponsor Projects -->" %}}
 
 
