@@ -10,7 +10,7 @@ lastmod: 2022-11-07T10:15:56-07:00
 Projects for [LiveHD](https://github.com/masc-ucsc/livehd). Lead Mentors: [Jose Renau](mailto:renau@ucsc.edu) and [Sakshi Garg](mailto:sgarg3@ucsc.edu)
 
 A longer explanation and more project options are available at
-[projects](https://github.com/masc-ucsc/livehd/docs/projects.md). Contact the
+[projects](https://github.com/masc-ucsc/livehd/blob/master/docs/projects.md). Contact the
 mentors to find a project that fits your interests.
 
 ### Mockturtle
@@ -60,7 +60,7 @@ The goal is to use Mockturtle (https://github.com/lsils/mockturtle) with LiveHD.
 | Skills | C++17 |
 | Difficulty | Medium |
 | Size | Medium 175 hours|
-| [Link](https://github.com/masc-ucsc/livehd/blob/master/docs/cross.md#query-shell-not-lgshell-to-query-graphs)
+| [Link](https://github.com/masc-ucsc/livehd/blob/master/docs/projects_small.md#medium-query-shell-not-lgshell-to-query-graphs)
 
 
 Current LiveHD uses replxx but it a no longer maintained shell/console. The result is that it fails in newer versions of OSX.
