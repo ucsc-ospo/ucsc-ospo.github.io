@@ -13,7 +13,7 @@ tags: ["osre23", "uc", "data management"]
   * **Skills**: Linux, C, Python
   * **Difficulty**: Medium
   * **Size**: Large (350 hours)
-  * **Mentor**: [Houjun Tang](mailto:htang4@lbl.gov)
+  * **Mentors**: [Houjun Tang](mailto:htang4@lbl.gov), [Suren Byna](mailto:sbyna@lbl.gov)
 
 [Proactive Data Containers (PDC)](https://github.com/hpc-io/pdc) is an object-centric data management system for scientific data on high performance computing systems. It manages objects and their associated metadata within a locus of storage (memory, NVRAM, disk, etc.). Managing data as objects enables powerful optimization opportunities for data movement and transformations, and storage mechanisms that take advantage of the deep storage hierarchy and enable automated performance tuning. This project includes developing and updating efficient and user friendly command line and Python interfaces for PDC.
 
