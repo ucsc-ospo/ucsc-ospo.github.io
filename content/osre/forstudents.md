@@ -48,7 +48,9 @@ Students interested in applying to any of our projects should join our Slack cha
 You can also use our Gitter channel for general questions before reaching out to mentors. https://gitter.im/uc_ospo-osre/community
 [![Gitter](https://badges.gitter.im/uc_ospo-osre/community.svg)](https://gitter.im/uc_ospo-osre/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+{{% callout note %}}
 Due to the open source nature of all OSRE projects, contributions are welcomed from any college or university student (over the age of 18) from anywhere in the world. Please note that you must have work authorization in your country of residence to take part in this program. Please contact ospo-info-group@ucsc.edu if you have any question on your eligibility. 
+{{% /callout %}}
 
 We typically support the work of undergraduate students; however graduate students may also apply to work on more advanced project ideas. Please check out the project ideas page and contact the mentor if you have questions.
 
