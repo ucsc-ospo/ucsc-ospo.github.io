@@ -1,7 +1,7 @@
 ---
 title: "Teaching Computer Networks with Reproducible Research"
 summary: "In the field of computer networks and wireless communication systems, the availability of open access networking and cloud computing testbeds ([GENI](https://portal.geni.net/), [CloudLab](https://cloudlab.us/), [Chameleon](https://chameleoncloud.org/), [FABRIC](https://fabric-testbed.net/), and others) has been transformative in promoting reproducible research *and* in making high-quality experiential learning available to students and educators at a wide range of colleges and universities."
-authors: ["Fraida Fund"]
+authors: [ffund]
 author_notes: ["Research Assistant Professor, Department of Electrical and Computer Engineering, New York University"]
 tags: ["osre23", "reproducibility"]
 date: 2023-01-18T00:00:00Z

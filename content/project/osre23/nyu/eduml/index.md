@@ -1,7 +1,7 @@
 ---
 title: "Using Reproducibility in Machine Learning Education"
 summary: 'The computer science and engineering classroom is as essential part of the reproducibility "ecosystem" - because of broad reach and potential for big impact, and because for many students, the classroom is their first exposure to research in their field.'
-authors: ["Fraida Fund"]
+authors: [ffund]
 author_notes: ["Research Assistant Professor, Department of Electrical and Computer Engineering, New York University"]
 tags: ["osre23", "reproducibility"]
 date: 2023-01-18T00:00:00Z
