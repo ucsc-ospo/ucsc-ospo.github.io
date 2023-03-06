@@ -47,4 +47,7 @@ user_groups:
 - University of California Mentors
 - Summer of Reproducibility Mentors
 ---
-Aldrin is a PhD student at UC Santa Cruz, working on research at the intersection of bioinformatics, storage systems, and data management.
+Aldrin is a PhD student at UC Santa Cruz, working on research at the intersection of
+bioinformatics, storage systems, and data management. He has an M.S. in computer science
+from Cal Poly, San Luis Obispo and has worked five years in industry, primarily in
+bioinformatics, before going back to grad school.
