@@ -36,6 +36,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/drinmontana/
+- icon: home
+  icon_pack: fas
+  link: https://research.aldrinmontana.com
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -45,7 +48,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - University of California Mentors
-- Summer of Reproducibility Mentors
+# I assume I'm not a reproducibility mentor?
+# - Summer of Reproducibility Mentors
 ---
 Aldrin is a PhD student at UC Santa Cruz, working on research at the intersection of
 bioinformatics, storage systems, and data management. He has an M.S. in computer science
