@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Open Source Incubator Fellowship"
+title: "🪺 Open Source Incubator Fellowship"
 subtitle: "For postdocs to grow open source communities around their research products."
 summary: "This program supports the work of postdoctoral scholars aiming to create and grow productive open source contributor communities around innovative research prototypes in order to amplify the impact of their research. To be considered for this program, a postdoctoral scholar should have a research prototype with significant open source software or hardware infrastructure and a UC Santa Cruz-based faculty mentor."
 authors: [slieggi,admin]
@@ -52,7 +52,7 @@ Dr.-Ing. {{% mention oelek %}} works on the project "Polyphorm + PolyPhy: An ope
 
 ## Dr. Emily Lovell
 
-Dr. Emily Lovell works on "Strengthening Underserved Segments of the Open Source Pipeline". For more information, please see her [website](https://users.soe.ucsc.edu/~emme/).
+Dr. {{% mention elovell %}} works on "Strengthening Underserved Segments of the Open Source Pipeline". For more information, please see her [website](https://users.soe.ucsc.edu/~emme/).
 
 # Eligibility/Requirements
 

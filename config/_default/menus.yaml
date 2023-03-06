@@ -11,8 +11,24 @@ main:
     url: "#about"
     weight: 20
   - name: 📺 Programs
-    url: "#programs"
+    identifier: programs
     weight: 25
+  - name: Overview
+    parent: programs
+    url: "#programs"
+    weight: 5
+  - name: 🧪 Open Source Research Experience
+    parent: programs
+    url: "/osre"
+    weight: 10
+  - name: 🪺 Open Source Incubator Fellowship
+    parent: programs
+    url: "/post/incubator"
+    weight: 20
+  - name: 🎓 Open Source Education
+    parent: programs
+    url: "/post/education"
+    weight: 30
 #  - name: 📚 Guides & Resources
 #    url: "#guides"
 #    weight: 30
