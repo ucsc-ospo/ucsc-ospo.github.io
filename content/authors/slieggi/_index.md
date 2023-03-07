@@ -54,6 +54,5 @@ email: ""
 user_groups:
 - Administration
 - University of California Mentors
-- Summer of Reproducibility Mentors
 ---
 Stephanie Lieggi started as Assistant Director of CROSS in 2016. Prior to coming to UCSC, she worked as a Senior Research Associate at the Center for Nonproliferation Studies at the Middlebury Institute of International Studies at Monterey. She has served as an editor of the CNS publications [Asian Export Control Observer](http://cns.miis.edu/pubs/observer/asian/) and [International Export Control Observer](http://cns.miis.edu/pubs/observer/). Previously, she worked at the [Organization for the Prohibition of Chemical Weapons](https://www.opcw.org/).

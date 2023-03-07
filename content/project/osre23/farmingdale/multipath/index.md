@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Evaluation of Multipath Network Protocols"
 summary: "As mobile devices with dual WiFi and cellular interfaces become widespread, network protocols have been developed that utilize the availability of multiple paths. This project is about developing a framework for rigorous, repeatable, and comprehensive evaluations of multipath protocols."
-authors: ["Ilknur Aydin"]
+authors: ["Ilknur Aydin", ffund]
 author_notes: ["Associate Professor, Computer Systems, Farmingdale State College"]
 tags: ["osre23", "reproducibility"]
 date: 2023-02-16T00:00:00Z
