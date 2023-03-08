@@ -1,12 +1,12 @@
 ---
 title: LabOP - an open specification for laboratory protocols, that solves common interchange problems stemming from variations in  scale, labware, instruments, and automation.
-authors: ["Timothy Fallon", "Dan Bryce"]
+authors: [photocyte, "Dan Bryce"]
 author_notes: 
 - "NIH NRSA F32 Postdoctoral Fellow - Scripps Institution of Oceanography, UC San Diego"
 - "Fellow - Smart Information Flow Technology"
 tags: ["osre23", "ucsd", "uc", "biology","chemistry","laboratory automation", "reproducibility"]
 date: 2023-02-06
-lastmod: 2023-02-06
+lastmod: 2023-03-08
 ---
 
 <!---
@@ -24,8 +24,8 @@ https://ospo.ucsc.edu/osre/#projects
 - **Difficulty:** Moderate
 - **Size:** Large (350 hours)
 - **Mentors:**
-	1. [Tim Fallon (UCSD)](mailto:tfallon@ucsd.edu){{% mention "photocyte" %}}
-	2. [Dan Bryce (SIFT)](mailto:dbryce@sift.net){{% mention "danbryce" %}}
+	1. {{% mention "photocyte" %}}
+	2. [Dan Bryce (SIFT)](mailto:dbryce@sift.net) <!-- {{% mention "danbryce" %}}-->
 
 ---
 
@@ -74,7 +74,7 @@ _Elected Term: August 24th, 2022 - August 23rd, 2023_
 
 - [Jeremy Cahill (Metamer Labs)](mailto:jeremy.cahill@metamerlabs.io)
 - [Mark Doerr (University of Greifswald)](mailto:mark.doerr@uni-greifswald.de)
-- [Tim Fallon (UCSD)](mailto:tfallon@ucsd.edu)
+- {{% mention photocyte %}} (UCSD)
 
 
 ##### Governance
