@@ -74,7 +74,7 @@ _Elected Term: August 24th, 2022 - August 23rd, 2023_
 
 - [Jeremy Cahill (Metamer Labs)](mailto:jeremy.cahill@metamerlabs.io)
 - [Mark Doerr (University of Greifswald)](mailto:mark.doerr@uni-greifswald.de)
-- {{% mention photocyte %}}
+- {{% mention photocyte %}} (UCSD)
 
 
 ##### Governance
