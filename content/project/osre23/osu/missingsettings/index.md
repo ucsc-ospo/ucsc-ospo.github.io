@@ -1,7 +1,7 @@
 ---
 title: Is Reproducibility Enough? Understanding the Impact of Missing Settings in Artifact Evaluation
-authors: [Yang Wang]
-author_notes: ["Associate Professor, CSE, Ohio State"]
+authors: [Yang Wang, yu.3053]
+author_notes: ["Associate Professor, CSE, Ohio State", "Ph.D. student"]
 date: 2023-02-08
 lastmod: 2023-02-08
 tags: [osre23, reproducibility, databases, "key-value stores", "DNN training"]
@@ -17,6 +17,6 @@ In this project, we plan to understand the impact of this problem: On the necess
 **Skills:** Java/Python, Linux, TPC/YCSB  
 **Difficulty:** Medium  
 **Size:** 350 hours  
-**Mentor(s):** [Yang Wang](mailto:wang.7564@osu.edu), [Miao Yu](mailto:yu.3053@osu.edu)  
+**Mentor(s):** [Yang Wang](mailto:wang.7564@osu.edu), {{% mention yu.3053 %}}  
 
 The student will first pick one or a few systems she is interested in. Then she will first try to reproduce their reported results. If successful, she will further try to measure these systems under previously unreported settings. During the procedure, she will need to diagnose and fix any problems that may show up. Finally, she will analyze whether the original conclusions still hold under these new settings and whether fixing any problems will change the performance characteristics of the target systems.
