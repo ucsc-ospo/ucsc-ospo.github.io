@@ -1,6 +1,6 @@
 ---
 title: LabOP - an open specification for laboratory protocols, that solves common interchange problems stemming from variations in  scale, labware, instruments, and automation.
-authors: [photocyte, "Dan Bryce"]
+authors: [photocyte, danbryce]
 author_notes: 
 - "NIH NRSA F32 Postdoctoral Fellow - Scripps Institution of Oceanography, UC San Diego"
 - "Fellow - Smart Information Flow Technology"
