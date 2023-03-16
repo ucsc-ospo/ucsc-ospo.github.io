@@ -1,7 +1,7 @@
 ---
 title: "FasTensor"
-authors: ["John Wu"]
-author_notes: ["Lawrence Berkeley Lab"]
+authors: ["John Wu", bindong]
+author_notes: ["Lawrencey Berkeley Lab", "Lawrence Berkeley Lab"]
 tags: ["osre23", "uc", "data management", "data science"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2023-02-16T10:15:56-07:00
@@ -15,7 +15,7 @@ lastmod: 2023-02-16T10:15:56-07:00
   * **Skills**:   C++, github
   * **Difficulty**: Difficult
   * **Size**: Large (350 hours)
-  * **Mentor**: [John Wu](mailto:kwu@lbl.gov), [Bin Dong](mailto:dbin@lbl.gov), [Suren Byna](mailto:sbyna@lbl.gov)
+  * **Mentor**: [John Wu](mailto:kwu@lbl.gov), {{% mention bindong %}}, [Suren Byna](mailto:sbyna@lbl.gov)
 
 Tensor based computing is needed by scientific applications and now advanced AI model training. Most tensor libraries are hand customized and optimized on GPU,  and most of  they only serve one kind of application. For example, TensorFlow is only optimized for AI model training.  Optimizing generic tensor computing libraries on GPU can benefit wide applications. Our FasTensor,  as a generic tensor computing library, can only work efficiently on CPU now.  How to run the FasTensor on GPU is still none-explored work. Research and development challenges will include but not limited to: 1) how to maintain structure-locality of tensor data on GPU; 2) how to reduce the performance loss when the structure-locality of tensor is broken on GPU.
   
