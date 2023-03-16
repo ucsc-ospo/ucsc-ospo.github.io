@@ -25,7 +25,7 @@ https://ospo.ucsc.edu/osre/#projects
 - **Size:** Large (350 hours)
 - **Mentors:**
 	1. {{% mention "photocyte" %}}
-	2. [Dan Bryce (SIFT)](mailto:dbryce@sift.net) <!-- {{% mention "danbryce" %}}-->
+	2. {{% mention "danbryce" %}}
 
 ---
 
@@ -68,7 +68,7 @@ To join the Bioprotocols Working Group:
 
 _Elected Term: August 24th, 2022 - August 23rd, 2023_
 
-**Chair:** [Dan Bryce (SIFT)](mailto:dbryce@sift.net)
+**Chair:** {{% mention "danbryce" %}} (SIFT)
 
 **Finance Committee:**
 
