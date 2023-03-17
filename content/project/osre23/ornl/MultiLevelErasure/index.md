@@ -1,7 +1,7 @@
 ---
 title: Reproducible Evaluation of Multi-level Erasure Coding
 authors: 
-- John Bent
+- john.bent
 - Anjus George
 author_notes: 
 - "Senior Director, Seagate Technology"
@@ -22,7 +22,7 @@ Therefore, in this project we seek to build a platform to evaluate the durabilit
 - **Skills:** Linux, C, Python
 - **Difficulty:** Medium
 - **Size:** 350 hours
-- **Mentor(s):** [John Bent](mailto:john.bent@seagate.com) and [Anjus George](mailto:georgea@ornl.gov)
+- **Mentor(s):** {{% mention john.bent %}} and [Anjus George](mailto:georgea@ornl.gov)
 
 
 Build a platform to evaluate the durability and overheads of MLEC. The platform will be able to evaluate different EC strategies in various dimensions including repair strategies, chunk placement choices, parity schemes, etc. Analyze the evaluation results.
