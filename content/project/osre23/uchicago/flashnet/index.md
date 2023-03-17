@@ -1,6 +1,6 @@
 ---
 title: "FlashNet: Towards Reproducible Data Science for Storage System" 
-authors: [Haryadi Gunawi]
+authors: [haryadi]
 author_notes: [Associate Professor at the University of Chicago]
 tags: [osre23, reproducibility, "storage systems", performance, "machine learning", “data science”]
 date: 2023-02-02
@@ -23,7 +23,7 @@ In this project, we plan to improve the modularity of the FlashNet pipeline and 
 - **Skills:** C++, Python, PyTorch, Experienced with Machine Learning pipeline
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
-- **Mentors:** [Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/)
+- **Mentors:** {{% mention haryadi %}}
 
 Build an open-source platform to enable collaboration between storage and ML communities, specifically to provide a common platform for advancing data science research for storage systems. The platform will be able to reproduce and evaluate different ML models/architecture, dataset patterns, data preprocessing techniques, and various feature engineering strategies. 
 
