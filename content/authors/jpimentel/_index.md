@@ -11,12 +11,14 @@ authors:
 superuser: false
 
 # Role/position
-role: NAU Postdoctoral Researcher
+role: "Postdoctoral Researcher, Northern Arizona University"
 
 # Organizations/Affiliations
 organizations:
 - name: School of Informatics, Computing, and Cyber Systems
   url: "https://nau.edu/school-of-informatics-computing-and-cyber-systems/"
+- name: Northern Arizona University
+  url: "https://nau.edu"
 
 
 # Short bio (displayed in user profile at end of posts)

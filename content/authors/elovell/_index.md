@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: OSPO Incubator Fellow
+role: "OSPO Incubator Fellow, UC Santa Cruz"
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
 - name: Department of Computer Science & Engineering
   url: "https://engineering.ucsc.edu/departments/computer-science-and-engineering"
 - name: Jack Baskin School of Engineering
-  url: "https://www.soe.ucsc.edu"
+  url: "https://engineering.ucsc.edu"
 - name: University of California, Santa Cruz
   url: "https://www.ucsc.edu"
 

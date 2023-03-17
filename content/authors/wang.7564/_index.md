@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: "Associate Professor, The Ohio State University"
 
 # Organizations/Affiliations
 organizations:

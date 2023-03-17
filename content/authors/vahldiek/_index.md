@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Scientist
+role: "Research Scientist, Intel Labs"
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Executive Director of OSPO, Executive Director of CROSS
+role: "Executive Director of OSPO, Executive Director of CROSS, UC Santa Cruz"
 
 # Organizations/Affiliations
 organizations:

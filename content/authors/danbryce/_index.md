@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Fellow, Smart Information Flow Technologies, LLC.
+role: "Fellow, Smart Information Flow Technologies, LLC."
 
 # Organizations/Affiliations
 organizations:

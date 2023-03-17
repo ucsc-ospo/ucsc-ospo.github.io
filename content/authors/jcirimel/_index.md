@@ -10,14 +10,16 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD. Student
+role: "Ph.D. Student, UC Santa Cruz"
 
 # Organizations/Affiliations
 organizations:
 - name: VLSI Design and Automation Group
   url: "https://vlsida.soe.ucsc.edu/"
 - name: Jack Baskin School of Engineering
-  url: "https://www.soe.ucsc.edu"
+  url: "https://engineering.ucsc.edu"
+- name: University of California, Santa Cruz
+  url: "https://www.ucsc.edu"
 
 
 

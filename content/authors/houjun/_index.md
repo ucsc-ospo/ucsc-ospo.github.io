@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Computer Research Scientist
+role: "Computer Research Scientist, Lawrence Berkeley National Laboratory"
 
 # Organizations/Affiliations
 organizations:
