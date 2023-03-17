@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Adjunct Professor, Founder & Director of CROSS & OSPO, UC Santa Cruz'
+role: "Adjunct Professor, Founder & Director of CROSS & OSPO, UC Santa Cruz"
 
 # Organizations/Affiliations
 organizations:
