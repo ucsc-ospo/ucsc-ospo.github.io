@@ -22,7 +22,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Jesse Cirimelli-Low is a PhD student at University of California, Santa Cruz
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
