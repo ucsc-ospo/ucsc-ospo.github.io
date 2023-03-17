@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: OSPO Incubator Fellow, UCSC Postdoctoral Researcher
+role: "OSPO Incubator Fellow, Postdoctoral Researcher, UC Santa Cruz" 
 
 # Organizations/Affiliations
 organizations:

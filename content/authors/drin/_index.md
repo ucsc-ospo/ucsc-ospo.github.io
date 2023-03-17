@@ -10,14 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: "PhD Student, UC Santa Cruz"
 
 # Organizations/Affiliations
 organizations:
 - name: Center for Research in Open Source Software (CROSS)
   url: "https://cross.ucsc.edu"
 - name: Jack Baskin School of Engineering
-  url: "https://www.soe.ucsc.edu"
+  url: "https://engineering.ucsc.edu"
 - name: University of California, Santa Cruz
   url: "https://www.ucsc.edu"
 
