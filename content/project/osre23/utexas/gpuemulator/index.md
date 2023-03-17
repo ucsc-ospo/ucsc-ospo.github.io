@@ -1,6 +1,6 @@
 ---
 title: GPU Emulator for Easy Reproducibility of DNN Training
-authors: [Vijay Chidambaram]
+authors: [vijay]
 author_notes: ["Associate Professor, Department of Computer Science, The University of Texas at Austin"]
 tags: [osre23, reproducibility, DNN, GPU, performance]
 date: 2023-02-05
@@ -15,7 +15,7 @@ Therefore, in this project we seek to build a GPU emulator platform on PyTorch t
 - **Topics:** DNN training, reproducibility, GPU emulator, performance measurement - Skills: Linux, Python, PyTorch, deep learning
 - **Difficulty:** Medium
 - **Size:** 350 hours
-- **Mentor(s):** [Vijay Chidambaram](mailto:vijayc@utexas.edu), [Yeonju Ro](mailto:yro@utexas.edu)
+- **Mentor(s):** {{% mention vijay %}}, {{% mention yro %}}
 
 The student will measure the GPU performance profiles for different models and GPU types, based on which the student will build a platform to emulate the GPU behaviors and easily reproduce DNN training. The GPU performance measurements should be made open-source and reproducible for other researchers to reproduce results and add GPU profiles for their own needs.
 
