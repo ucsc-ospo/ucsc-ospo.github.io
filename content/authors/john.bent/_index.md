@@ -30,6 +30,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:john.bent@seagate.com
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/john-bent-3599763/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
