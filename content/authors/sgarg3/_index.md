@@ -41,7 +41,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-Mentors
 - University of California Mentors
 ---
 Sakshi is a Ph.D. student at the University of California, Santa Cruz in the domain of Computer Engineering.  Her research interests are compiler and EDA tool design for productive hardware development flow. She is working on [LiveHD](https://github.com/masc-ucsc/livehd) as a part of the [Micro Architecture at Santa Cruz (MASC)](https://masc.soe.ucsc.edu/) group
