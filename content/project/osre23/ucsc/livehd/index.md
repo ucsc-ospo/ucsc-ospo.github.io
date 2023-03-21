@@ -1,13 +1,13 @@
 ---
 title: "LiveHD"
-authors: ["Jose Renau"]
-author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz"]
+authors: ["Jose Renau", sgarg3]
+author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz", "Ph.D. Stuent, UC Santa Cruz"]
 tags: ["osre23", "uc"]
 date: 2022-11-07T10:15:56-07:00
-lastmod: 2022-11-07T10:15:56-07:00
+lastmod: 2023-03-19
 ---
 
-Projects for [LiveHD](https://github.com/masc-ucsc/livehd). Lead Mentors: [Jose Renau](mailto:renau@ucsc.edu) and [Sakshi Garg](mailto:sgarg3@ucsc.edu)
+Projects for [LiveHD](https://github.com/masc-ucsc/livehd). Lead Mentors: [Jose Renau](mailto:renau@ucsc.edu) and {{% mention sgarg3 %}}.
 
 LiveHD is a "compiler" infrastructure for hardware design optimized for synthesis and simulation. The goals is to enable a more productive flow where the ASIC/FPGA designer can work with multiple hardware description languages like CHISEL, Pyrope, or Verilog.
 
@@ -23,7 +23,7 @@ A sample of helpful projects:
 |---|---|
 | Title | Mockturtle |
 | Description | Perform synthesis for graph in LiveHD using Mockturtle |
-| Mentor(s) | Jose Renau|
+| Mentor(s) | Jose Renau and {{% mention sgarg3 %}} |
 | Skills | C++17, synthesis |
 | Difficulty | Medium |
 | Size | Medium 175 hours|
@@ -60,7 +60,7 @@ The goal is to use Mockturtle (https://github.com/lsils/mockturtle) with LiveHD.
 |---|---|
 | Title | LiveHD Console |
 | Description | Create a console app that interacts with LiveHD to query parameters about designs |
-| Mentor(s) | Jose Renau|
+| Mentor(s) | Jose Renau and {{% mention sgarg3 %}}|
 | Skills | C++17 |
 | Difficulty | Medium |
 | Size | Medium 175 hours|
@@ -94,7 +94,7 @@ Example of queries: show path, show driver/sink of, do topo traversal,....
 |---|---|
 | Title | Lgraph and LNAST check pass |
 | Description | Create a pass that check the integrity/correctness of Lgraph and LNAST |
-| Mentor(s) | Jose Renau|
+| Mentor(s) | Jose Renau and {{% mention sgarg3 %}}|
 | Skills | C++17 |
 | Difficulty | Medium |
 | Size | Large 350 hours|
