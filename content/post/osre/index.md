@@ -11,7 +11,7 @@ date: 2022-08-24T12:23:07-07:00
 lastmod: 2022-11-07T12:23:07-07:00
 featured: true
 draft: false
-external_link: "osre"
+external_link: "/osre"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
