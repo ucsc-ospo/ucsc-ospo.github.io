@@ -14,6 +14,7 @@ This work builds upon a number of existing projects with similar or overlapping 
 - The [Professors' Open Source Software Experience (POSSE) workshops and wiki](http://foss2serve.org/index.php/POSSE), for faculty teaching - or wanting to teach - open source 
 - Internships such as [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com), [Outreachy](https://www.outreachy.org), and the [MLH Fellowship](https://fellowship.mlh.io)
 - [Open Source Comes to Campus](https://campus.openhatch.org), offering student workshops on tools and culture _[no longer active]_
+- [Google Code-in](https://codein.withgoogle.com/archive/), inviting pre-university students to make open source contributions _[no longer active]_
 
 This project will investigate gaps in currently available resources/programs and seek to address them, beginning with the exploration of engaging high school students with open source. Depending on early findings, this project could also entail the development of resources for independent learners and/or mentors. 
  
