@@ -2,9 +2,9 @@
 title: Reproducible Analysis & Models for Predicting Genomics Workflow Execution Time 
 authors: [inkee.kim]
 author_notes: ["Assistant Professor of School of Computing, University of Georgia"]
-tags: ["osre23", "genomics", “machine learning”, "computer systems", "data analysis"]
+tags: [osre23, reproducibility, genomics, “machine learning”, "computer systems", "data analysis"]
 date: 2023-02-02
-lastmod: 2023-03-23
+lastmod: 2023-03-29
 ---
 
 A high-throughput workflow execution system is needed to continuously gain insights from th e increasingly abundant genomics data. However, genomics workflows often have long execution times (e.g., hours to days) due to their large input files. This characteristic presents many complexities when managing systems for genomics workflow execution. Furthermore, based on our observation of a large-scale genomics data processing platform, ~2% of genomics workflows exhibit a tail behavior which multiplied their execution time up to 15x of the median, resulting in weeks of execution.
