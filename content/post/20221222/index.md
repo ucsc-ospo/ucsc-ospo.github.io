@@ -3,7 +3,7 @@
 
 title: "Register for the 2023 Summer of Reproducibility (SoR) Mentor Info Session"
 subtitle: "Watch the recordings of this past event."
-summary: "Watch the recording of this past event where we give a brief overview of the program and discuss the benefits of being an Summer of Reproducibility mentor, a joint program of the NSF-funded Repeto Project and the [2023 Open Source Research Experience (OSRE 2023)](/osre). The session was immediately followed by an introduction in the general OSRE program."
+summary: "Watch the recording of this past event where we give a brief overview of the program and discuss the benefits of being an Summer of Reproducibility mentor, a joint program of the NSF-funded [REPETO Project](https://voices.uchicago.edu/repeto/) and the [2023 Open Source Research Experience (OSRE 2023)](/osre). The session was immediately followed by an introduction in the general OSRE program."
 authors: [slieggi]
 tags: [sor,osre]
 categories: [News]
