@@ -1,7 +1,7 @@
 ---
 title: "AMA Session for 2023 Summer of Reproducibility and OSRE Mentors"
 subtitle: "Drop in and ask us questions about this summer program starting at 10:30am Pacific Time on January 26, 2023."
-summary: "Drop in and ask us questions about this summer program starting at 10:30am Pacific Time on January 26, 2023. Take a look at info about these programs on this website or watch one of the earlier [videos](https://youtube.com/playlist?list=PLgEgostMUSe0uH-iqE3kUbsb-W_LRZaLv). We will give a brief overview of the program and discuss the benefits of being a Summer of Reproducibility mentor, a joint program with the NSF-funded Repeto Project."
+summary: "Drop in and ask us questions about this summer program starting at 10:30am Pacific Time on January 26, 2023. Take a look at info about these programs on this website or watch one of the earlier [videos](https://youtube.com/playlist?list=PLgEgostMUSe0uH-iqE3kUbsb-W_LRZaLv). We will give a brief overview of the program and discuss the benefits of being a Summer of Reproducibility mentor, a joint program with the NSF-funded [REPETO Project](https://voices.uchicago.edu/repeto/)."
 authors: [slieggi]
 tags: [sor,osre]
 categories: [News]
