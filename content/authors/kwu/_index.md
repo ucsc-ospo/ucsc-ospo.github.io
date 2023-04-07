@@ -35,17 +35,17 @@ bio: John is a Senior Computer Scientist at Lawrence Berkeley National Laborator
 social:
 - icon: home
   icon_pack: fas
-  link: https://crd.lbl.gov/divisions/scidata/sdm/staff/dongbin/
+  link: https://crd.lbl.gov/wu/
 - icon: envelope
   icon_pack: fas
-  link: mailto:dbin@lbl.gov
+  link: mailto:kwu@lbl.gov
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/db-berkeley/
+  link: https://www.linkedin.com/in/johnwu/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dbin@lbl.gov"
+email: "kwu@lbl.gov"
 
 
 # Organizational groups that you belong to (for People widget)
