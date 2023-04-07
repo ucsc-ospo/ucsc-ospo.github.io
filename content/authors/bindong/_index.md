@@ -15,8 +15,12 @@ role: "Research Scientist, Lawrence Berkeley National Laboratory"
 
 # Organizations/Affiliations
 organizations:
+- name: Scientific Data Management Research
+  url: "https://crd.lbl.gov/divisions/scidata/sdm/"d
+- name: Computing Sciences Research Division
+  url: "https://crd.lbl.gov"
 - name: Lawrence Berkeley National Laboratory
-  url: "https://crd.lbl.gov/divisions/scidata/sdm/staff/dongbin/"
+  url: "https://www.lbl.gov/"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,6 +33,9 @@ bio: Bin's research interests are in high-performance computing + big data + AI/
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://crd.lbl.gov/divisions/scidata/sdm/staff/dongbin/
 - icon: envelope
   icon_pack: fas
   link: mailto:dbin@lbl.gov
