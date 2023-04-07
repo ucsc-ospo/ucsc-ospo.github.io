@@ -16,7 +16,7 @@ role: "Senior Computer Scientist, Lawrence Berkeley National Laboratory"
 # Organizations/Affiliations
 organizations:
 - name: Scientific Data Management Research
-  url: "https://crd.lbl.gov/divisions/scidata/sdm/"d
+  url: "https://crd.lbl.gov/divisions/scidata/sdm/"
 - name: Computing Sciences Research Division
   url: "https://crd.lbl.gov"
 - name: Lawrence Berkeley National Laboratory
