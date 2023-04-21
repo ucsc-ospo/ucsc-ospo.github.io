@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: card
+  view: ''
   columns: '1'
 
 ---
