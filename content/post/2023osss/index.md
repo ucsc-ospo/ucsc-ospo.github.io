@@ -1,16 +1,32 @@
 ---
-widget: blank
-headless: true
-weight: 10
-title: 2023 Open Source Seminar Series at UC Santa Cruz
-design:
-  columns: "1"
-  css_style: null
-  css_class: null
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-# 2023 UCSC Open Source for Business 
-## A twelve lecture version of the same-name seminar 
+title: "2023 UCSC Open Source for Business"
+subtitle: "A twelve lecture version of the same-name seminar."
+summary: "The OSPO UC Santa Cruz are pleased to be hosting the third Summer Seminar Series for our affiliated researchers, students and industry partners facilitated by Dr. Dirk Riehle, Professor of Open Source Software at the Friedrich-Alexander University Erlangen-Nürnberg. The seminar entitled Open Source for Business consists of 12 lectures addressing everything you need to understand open source and to develop a corporate open source strategy. "
+authors: [slieggi,admin]
+tags: [osss]
+categories: [education]
+date: 2023-04-19
+lastmod: 2023-04-19
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 The OSPO UC Santa Cruz are pleased to be hosting the third Summer Seminar Series for our affiliated researchers, students and industry partners facilitated by Dr. Dirk Riehle, Professor of Open Source Software at the Friedrich-Alexander University Erlangen-Nürnberg. 
 

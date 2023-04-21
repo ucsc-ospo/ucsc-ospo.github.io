@@ -26,19 +26,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+external_link: "/education"
 ---
-
-# CSE 117: Open-Source Programming
-
-[CSE 117](https://courses.soe.ucsc.edu/courses/cse117) was first taught in Winter 2016 as [CMPS 107](https://courses.soe.ucsc.edu/courses/cmps107) by Carlos Maltzahn, with Andrew Shewmaker as teaching assistant and author of the syllabus, for which Andrew received a 2015 Chancellor’s Graduate Student Teaching Fellowship. The class earned the instructor and the teaching assistant Excellence in Teaching Awards that year. This course teaches students how to get successfully involved in the Linux kernel community and includes guest speakers from industry and the open-source software community.
-
-# Open Source Software Workshop Series
-
-The OSPO is hosting a series of workshops on Commercial Open Source Software, facilitated by [Prof. Dr. Dirk Riehle](https://oss.cs.fau.de/person/riehle-dirk/). This Workshop Series explores various topics including software industry, commercial open source, and open source program offices. 
-
-- [2020 (hosted by CROSS)](https://cross.ucsc.edu/programs/commossworkshop2020.html)
-- [2021 (hosted by CROSS)](https://cross.ucsc.edu/news/events/20210621cossworkshop21.html)
-- [2022](/seminars)
-
-
 

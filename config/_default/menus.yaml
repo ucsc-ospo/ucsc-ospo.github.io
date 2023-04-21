@@ -27,7 +27,7 @@ main:
     weight: 20
   - name: 🎓 Open Source Education
     parent: programs
-    url: "/post/education"
+    url: "/education"
     weight: 30
 #  - name: 📚 Guides & Resources
 #    url: "#guides"

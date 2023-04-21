@@ -1,12 +1,31 @@
 ---
-widget: blank
-headless: true
-weight: 20
-title: 2022 Open Source Seminar Series at UC Santa Cruz
-design:
-  columns: "1"
-  css_style: null
-  css_class: null
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "2022 Open Source Seminar Series at UC Santa Cruz"
+subtitle: "The series includes four multi-session modules (12 sessions in total)."
+summary: "The OSPO UC Santa Cruz and CROSS are pleased to be hosting a Summer seminar series for our affiliated researchers, students and industry partners facilitated by Dr. Dirk Riehle, Professor of Open Source Software at the Friedrich-Alexander University Erlangen-Nürnberg. The series will include four multi-session modules (12 sessions in total). "
+authors: [slieggi,admin]
+tags: [osss]
+categories: [education]
+date: 2022-04-19
+lastmod: 2022-04-19
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 {{% callout note %}}
@@ -22,7 +41,7 @@ The OSPO UC Santa Cruz and CROSS are pleased to be hosting a Summer seminar seri
 
 All sessions last approximately one hour and begin at 8am Pacific Time. See specific dates for all sessions below.
  
-# Module 1: Open source licenses
+### Module 1: Open source licenses
 
 Participants learn about open source software and how to interpret its licenses.
 
@@ -32,7 +51,7 @@ This module covers the following topics over the course of three sessions of 1h 
 - July 6 (Wednesday): The copyleft obligation
 - July 7 (Thursday): The state of open source licensing
 
-# Module 2: Open source audits
+### Module 2: Open source audits
 
 Participants learn how to create a bill of materials and audit open source software.
 
@@ -42,7 +61,7 @@ This module covers the following topics over the course of three sessions of 1h 
 - July 12 (Tuesday): Software composition analysis
 - July 14 (Thursday): Open source legal risks
 
-# Module 3: License-compliant distribution
+### Module 3: License-compliant distribution
 
 Participants learn how to deliver products built on open source to third parties.
 
@@ -52,7 +71,7 @@ This module covers the following topics over the course of three sessions of 1h 
 - July 20 (Wednesday): License-compliant distribution
 - July 21 (Thursday): Continuous integration
 
-# Module 4: The open source program office
+### Module 4: The open source program office
 
 Participants learn how to set up and operate an open source program office.
 
