@@ -42,7 +42,7 @@ Keep it short and crisp. Include a short description of your project, a link to 
   - The short bio and any other information goes below the frontmatter
 
 - Post your blog
-  - Add `content/report/osre23/ORGANIZATION/PROJECTNAME/DATE-USERNAME/index.md`
+  - Add `/content/report/osre23/ORGANIZATION/PROJECTNAME/DATE-USERNAME/index.md`
   - Add a frontmatter to `index.md`, using the labels below
   - Blog text goes below the frontmatter
   - In that same directory include a picture and call it `featured.png` (also supports `.jpg`, `.jpeg`) 
