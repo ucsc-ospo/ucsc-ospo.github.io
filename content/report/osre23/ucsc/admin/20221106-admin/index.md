@@ -48,12 +48,12 @@ Keep it short and crisp. Include a short description of your project, a link to 
   - In that same directory include a picture and call it `featured.png` (also supports `.jpg`, `.jpeg`) 
 - Commit to your fork and make a pull request and [email OSRE Admins](mailto:ospo-info-group@ucsc.edu/) (currently: Stephanie Lieggi, Carlos Maltzahn).
 
-### Example frontmatter
+### Example frontmatter and text body
 ```
 ---
-title: "Writing a blog about your OSRE 2023 project"
-subtitle: "Starting with OSRE 2023 we ask student contributors to blog!"
-summary: "This is now common practice and an efficient way to track activities within OSRE projects. Include links to proposals, presentations, reports, and experience."
+title: "YOUR TITLE"
+subtitle: "YOUR SUBTITLE (OPTIONAL)"
+summary:
 authors: [USERNAME]
 tags: ["osre23"]
 categories: []
@@ -69,4 +69,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
----```
+---
+
+As part of the [PROJECTNAME](/project/osre23/ORGANIZATION/PROJECTNAME) my [proposal](https://...) under the mentorship of MENTOR aims to ...
+```
