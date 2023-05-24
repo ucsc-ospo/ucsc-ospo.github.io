@@ -10,7 +10,6 @@ date: 2023-05-23
 lastmod: 2023-05-24
 featured: false
 draft: false
-{ { % mention ffund % } }
 
 # Featured image
 
