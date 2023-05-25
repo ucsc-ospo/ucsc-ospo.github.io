@@ -56,4 +56,4 @@ We typically support the work of undergraduate students; however graduate studen
 
 ## Student pages
 
-We will be asking OSRE 2023 students and contributors to share their progress on a regular basis. We are excited to be able to highlight their work through our blogs and in events such as our Open Source Sympoium. See more about how we highlight student work in this [blog](/report/blog-ospo-admins).
+We will be asking OSRE 2023 students and contributors to share their progress on a regular basis. We are excited to be able to highlight their work through our blogs and in events such as our Open Source Sympoium. See more about how we highlight student work in this [blog](/report/osre23/ucsc/admin/20221106-admin/).
