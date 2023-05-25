@@ -12,7 +12,6 @@ draft: false
 
 As part of the [noWorkflow](https://github.com/gems-uff/noworkflow) my [proposal](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit?usp=sharing) under the mentorship of [João Felipe Pimentel](mailto:joao.pimentel@nau.edu) and [Juliana Freire](mailto:juliana.freire@nyu.edu) aims to implementing the necessary features to compare the provenance from two (or more) trials (i.e., execution of an experiment) and checking their reproducibility. This experiment consists in a tipical Data Science/Machine Learning experiment with all challenges they poses into common projects. 
 
-
 ### The tool
 
 [noWorkflow](https://github.com/gems-uff/noworkflow) The noWorkflow project aims at allowing scientists to benefit from provenance data analysis even when they don’t use a workflow system. Also, the goal is to allow them to avoid using naming conventions to store files originated in previous executions. Currently, when this is not done, the result and intermediate files are overwritten by every new execution of the pipeline.
@@ -40,3 +39,7 @@ Specific tasks:
 - **Difficulty:** Moderate
 - **Size:** Medium or large (175 or 350 hours)
 - **Mentors:** [João Felipe Pimentel](mailto:joao.pimentel@nau.edu), [Juliana Freire](juliana.freire@nyu.edu)
+
+### Misc
+- Repository with articles from bibliographical research [here](https://drive.google.com/drive/folders/1F0iYSX7k_K0RB20-uhb03EregWga764x?usp=share_link)
+- Minutes from our weekly meetings [here](https://docs.google.com/document/d/1-h8a6ztCS8KFKZcFtdL2sHzmhb77Jx5Fy3lCjrOBfYk/edit?usp=share_link)
