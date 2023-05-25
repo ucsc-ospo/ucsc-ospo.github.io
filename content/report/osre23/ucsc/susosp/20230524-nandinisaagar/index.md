@@ -25,7 +25,7 @@ preview_only: false
 
 Namaste everyone🙏🏻! 
 
-I'm Nandini Saagar, from Mumbai. An undergraduate student at the Indian Institute of Technology, Banaras Hindu University, IIT (BHU), Varanasi. As part of the [Strengthening Underserved Segments of the Open Source Pipeline](/project/osre23/ucsc/sus) my [proposal](https://docs.google.com/document/d/1snzaUfBvptLcWP7I8IyKYFuBNfVGxNe9mnYkFXhb5ZM/edit?usp=sharing) under the mentorship of **Emily Lovell** aims to strengthen the underserved segment of the open source pipeline.
+I'm Nandini Saagar, from Mumbai. An undergraduate student at the Indian Institute of Technology, Banaras Hindu University, IIT (BHU), Varanasi. As part of the [Strengthening Underserved Segments of the Open Source Pipeline](/project/osre23/ucsc/sus) my [proposal](https://docs.google.com/document/d/1snzaUfBvptLcWP7I8IyKYFuBNfVGxNe9mnYkFXhb5ZM/edit?usp=sharing) under the mentorship of {{% mention elovell %}} aims to strengthen the underserved segment of the open source pipeline.
 
 My interest in Open Source was first piqued as a freshman when I was introduced to Open Source as a place where people from all communities and backgrounds come together to create software that can have real-world impact, that too in a completely autonomous and self-governed manner! I am so glad that I could transition from just a person who imagined Open Source to be a fair-eyed dream to being a part of multiple such communities. This journey has been life-defining for me, and that’s why I want to help deliver the message of Open Source to all teenagers!
 
