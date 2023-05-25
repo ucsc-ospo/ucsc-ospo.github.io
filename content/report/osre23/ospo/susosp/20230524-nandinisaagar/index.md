@@ -19,7 +19,7 @@ image:
   preview_only: false
 ---
 
-As part of the [PROJECTNAME](/project/osre23/ospo/susosp) my [proposal](https://docs.google.com/document/d/1snzaUfBvptLcWP7I8IyKYFuBNfVGxNe9mnYkFXhb5ZM/edit?usp=sharing) under the mentorship of **Emily Lovell** aims to strengthen the underserved segments of the open source pipeline. 
+As part of the [SUSOSP](/project/osre23/ospo/susosp) my [proposal](https://docs.google.com/document/d/1snzaUfBvptLcWP7I8IyKYFuBNfVGxNe9mnYkFXhb5ZM/edit?usp=sharing) under the mentorship of **Emily Lovell** aims to strengthen the underserved segments of the open source pipeline. 
 
 Namaste everyone🙏🏻!
 I'm Nandini Saagar from Mumbai, Maharashtra, India. I am an undergraduate student at the Indian Institute of Technology, Banaras Hindu University, IIT (BHU), Varanasi. My interest in open source was first piqued as a freshman when I was introduced to Open Source as a place where people from all communities and backgrounds come together to create software that can have real-world impact, that too in a completely autonomous and self-governed manner! I am so glad that I could transition from just a kid who imagined Open Source to be a fair-eyed dream to being a part of multiple such communities. This journey has been life-defining for me, and that's why I want to help deliver the message of Open Source to all teens via my GSoC project! 
