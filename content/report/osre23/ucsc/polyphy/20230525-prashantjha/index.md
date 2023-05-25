@@ -25,7 +25,7 @@ preview_only: false
 
 Hey! 
 
-I'm Prashant Jha, from Pune, a recent undergraduate student from BITS Pilani. As part of the [Polyphy](/project/osre23/ucsc/polyphy) my [proposal](https://drive.google.com/file/d/1y2X1_6_HliYowZn-qHd7x_Hz6QC3-KSe/view) under the mentorship of **Oskar Elek** aims to develop and improve the current infrastructure.
+I'm Prashant Jha, from Pune, a recent undergraduate student from BITS Pilani. As part of the [Polyphy](/project/osre23/ucsc/polyphy) my [proposal](https://drive.google.com/file/d/1y2X1_6_HliYowZn-qHd7x_Hz6QC3-KSe/view) under the mentorship of {{% mention oelek %}} aims to develop and improve the current infrastructure.
 
 Polyphorm / PolyPhy - which is led by
 Oskar Elek. PolyPhy is an organization that focuses on developing a GPU oriented
