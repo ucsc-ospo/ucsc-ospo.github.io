@@ -1,6 +1,6 @@
 ---
-title: "Strengthening Underserved Segments of the Open Source Pipeline"
-subtitle: "Increasing the Reach of Open Source amoung High-Schoolers and Teenagers"
+title: "PolyPhy Infrastructure Enhancement"
+subtitle: "Developing and Improving PolyPhy's Infrastructure"
 summary: ""
 authors: [PrashantJha]
 author_notes: ["An Open Source Enthusiast and graduate from BITS Pilani"]
@@ -25,10 +25,19 @@ preview_only: false
 
 Hey! 
 
-I'm Prashant Jha, from Pune, a recent undergraduate student from BITS Pilani. As part of the [Polyphy](/project/osre23/ucsc/polyphy) my [proposal](https://drive.google.com/file/d/1y2X1_6_HliYowZn-qHd7x_Hz6QC3-KSe/view)) under the mentorship of **Oskar Elek** aims to develop and improve the current infrastructure.
+I'm Prashant Jha, from Pune, a recent undergraduate student from BITS Pilani. As part of the [Polyphy](/project/osre23/ucsc/polyphy) my [proposal](https://drive.google.com/file/d/1y2X1_6_HliYowZn-qHd7x_Hz6QC3-KSe/view) under the mentorship of **Oskar Elek** aims to develop and improve the current infrastructure.
 
-My interest in Open Source was first piqued as a freshman when I was introduced to Open Source as a place where people from all communities and backgrounds come together to create software that can have real-world impact, that too in a completely autonomous and self-governed manner! I am so glad that I could transition from just a person who imagined Open Source to be a fair-eyed dream to being a part of multiple such communities. This journey has been life-defining for me, and that’s why I want to help deliver the message of Open Source to all teenagers!
-
-This project seeks to invite and support broader, more diverse participation in open source by supporting early contributors, especially those who have been historically minoritized within tech. It will aim to create content that anyone with some Open Source experience can use to help and guide new students to the journey of OpenSource, GitHub, and all the relevant technologies, provide a medium and platform for all contributors to share their various OpenSource experiences and testimonials, conduct an Open Source Themed Hackathon/Scavenger Hunt, and leverage the power of social media engagement to get young and brilliant minds acquainted with the technical and open-source world at an early age.
-
-Stay tuned to explore the enormous world of Open Source with me!
+Polyphorm / PolyPhy - which is led by
+Oskar Elek. PolyPhy is an organization that focuses on developing a GPU oriented
+agent-based system for reconstructing and visualizing optimal transport networks
+defined over sparse data. With its roots in astronomy and inspiration drawn from nature,
+PolyPhy has been instrumental in discovering network-like patterns in natural language
+data and reconstructing the Cosmic web structure using its early prototype called
+Polyphorm. The organization aims to provide a richer 2D / 3D scalar field representation
+of the reconstructed network, making it a toolkit for a range of specialists across
+different disciplines, including astronomers, neuroscientists, data scientists, and artists.
+PolyPhy's ultimate purpose is to create quantitatively comparable structural analytics
+and discover connections between different disciplines. To achieve its goals, PolyPhy
+requires a robust infrastructure that is engineered using DevOps, Code Refactoring, and
+Continuous Integration/Continuous Deployment (CI/CD) practices.
+You can see an instructive overview of PolyPhy in our workshop and more details about our research [here](https://polyphy.io/).
