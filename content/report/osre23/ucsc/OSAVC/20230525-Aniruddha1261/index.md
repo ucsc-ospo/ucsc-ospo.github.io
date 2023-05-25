@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [Aniruddha1261]
 author_notes: ["Student at Veermata Jijabai Technological Institute, Mumbai"]
-tags: ["GSoC23"]
+tags: ["osre23"]
 categories: []
 date: 2023-05-24
 lastmod: 2023-05-25
