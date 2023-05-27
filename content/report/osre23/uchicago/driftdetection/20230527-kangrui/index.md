@@ -19,8 +19,7 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-As part of the [Automatic Cluster Performance Shifts Detection Toolkit](/project/osre23/uchicago/driftdetection) my [proposal](https://drive.google.com/file/d/1AxpgWLzF3oKTFlD8q6JYS35CxxJ6c76X/view?usp=share_link)under the mentorship of {{% mention sandeep %}} aims to design a real-time performance shift detection algorithm for high-performance computing clusters, ensuring minimal overheads.
+Hi! I am Kangrui, a Pre-doc student at the University of Chicago. As part of the [Automatic Cluster Performance Shifts Detection Toolkit](/project/osre23/uchicago/driftdetection) my [proposal](https://drive.google.com/file/d/1AxpgWLzF3oKTFlD8q6JYS35CxxJ6c76X/view?usp=share_link)under the mentorship of {{% mention sandeep %}} aims to design a real-time performance shift detection algorithm for high-performance computing clusters, ensuring minimal overheads.
 
 This project focuses on developing a real-time performance shift detection algorithm tailored to heterogeneous workloads, aiming to promptly inform administrators about performance changes. The primary goal is to design an algorithm that efficiently detects shifts in real-time, with minimal system overheads.
 
