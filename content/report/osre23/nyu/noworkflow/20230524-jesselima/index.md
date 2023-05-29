@@ -1,16 +1,28 @@
 ---
 title: "Verify the reproducibility of an experiment"
-subtitle: "Capturing provenance into DS/ML workflows" 
+subtitle: "Capturing provenance into Data Science/Machine Learning workflows" 
 authors: [jesselima]
 tags: ["osre23", "uc", "data science", "machinelearning", "provenance", "reproducibility"]
 date: 2023-05-24
 lastmod: 2023-05-24
 draft: false
+featured: false
+
+# Featured image
+
+# To use, add an image named `featured.jpg/png` to your page's folder.
+
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+
+image:
+caption: "experimental pipeline"
+focal_point: ""
+preview_only: false
 ---
 
 ### The tool
 
-[noWorkflow](https://github.com/gems-uff/noworkflow) The noWorkflow project aims at allowing scientists to benefit from provenance data analysis even when they don’t use a workflow system. Also, the goal is to allow them to avoid using naming conventions to store files originated in previous executions. Currently, when this is not done, the result and intermediate files are overwritten by every new execution of the pipeline.
+[noWorkflow](project/osre23/nyu/noworkflow) The noWorkflow project aims at allowing scientists to benefit from provenance data analysis even when they don’t use a workflow system. Also, the goal is to allow them to avoid using naming conventions to store files originated in previous executions. Currently, when this is not done, the result and intermediate files are overwritten by every new execution of the pipeline.
 
 
 ### The project
@@ -35,4 +47,4 @@ Specific tasks:
 - **Skills:** Python, SQL or SQLAlchemy ORM
 - **Difficulty:** Moderate
 - **Size:** Medium or large (175 or 350 hours)
-- **Mentors:** [João Felipe Pimentel](mailto:joao.pimentel@nau.edu), [Juliana Freire](juliana.freire@nyu.edu)
+- **Mentors:** [João Felipe Pimentel]{{% mention jpimentel %}}, [Juliana Freire]{{% mention julianafreire %}}
