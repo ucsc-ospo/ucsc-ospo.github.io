@@ -29,11 +29,10 @@ My [proposal](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB
 work mapping and testing the capture of the provenance in typical Data Science and Machine Learning experiments.  
 
 
+#### What...
+Although much can be said about what reproducibility means, the ability to replicate results in day-to-day Data Science and Machine Learning experiments can pose a significant challenge for individuals, companies and researche centers. This challenge becomes even more pronounced with the emergence of analytics and IA, where scientific methodologies are extensively applied on an industrial scale. Then reproducibility  assumes a key role in productivity and accountability expected from Data Scientists, Machine Learning Engineers, and other roles engaged in ML/AI projects.
 
-#### Project Overview
-
-Although much can be said about what reproducibility means, the ability to replicate results in day-to-day Data Science and Machine Learning experiments can pose a significant challenge for individuals, companies, and uniersities. This challenge becomes even more pronounced with the emergence of analytics and IA, where scientific methodologies are extensively applied on an industrial scale beyond the limits of academia. Reproducibility now assumes a key role in productivity and accountability expected from Data Scientists, Machine Learning Engineers, and other roles engaged in ML/AI projects.
-
+#### How...
 In the day-to-day, the pitfalls of non-reproducibility appear at different points of the experiment lifecycle. These challenges arise when multiple experiments need to be managed for an individual or a team of scientists. In a typical experiment workflow, reproducibility appears in different steps of the process:
 
 - The need to track the provenance of datasets.
@@ -43,6 +42,5 @@ In the day-to-day, the pitfalls of non-reproducibility appear at different point
 
 In academic environments, these issues can result in mistakes and inaccuracies. In companies, they can lead to inefficiencies and technical debts that are difficult to address in the future.
 
-
-
-Finnally, I believe this is a great opportunity to explore the emergence of these two hot topics that are IA and reproducilibity! I will share more updateds here throughout this summer and hope we can learn a lot together. 
+#### Finnally...
+I believe this is a great opportunity to explore the emergence of these two hot topics that are IA and reproducilibity! I will share more updateds here throughout this summer and hope we can learn a lot together!

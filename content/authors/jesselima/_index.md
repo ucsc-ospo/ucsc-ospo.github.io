@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jesse Americo Gomes de Lima
+title: Jesse Lima
 
 # Username (this should match the folder name)
 author: "jesselima"
