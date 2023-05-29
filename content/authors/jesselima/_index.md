@@ -22,7 +22,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jesse works as a Machine Learning Engineer in e-commerce, marketing, and finance. He also have experience in High Performance Computing and Numerical Optimization in the fields of operational weather forecasting and climate change.
+bio: I'm interested in Machine Learning and AIOps as engines for innovation! I am currently a fellow in the Summer of Reproducibility 2023.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

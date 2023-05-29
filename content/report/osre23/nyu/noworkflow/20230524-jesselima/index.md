@@ -42,5 +42,5 @@ In the day-to-day, the pitfalls of non-reproducibility appear at different point
 
 In academic environments, these issues can result in mistakes and inaccuracies. In companies, they can lead to inefficiencies and technical debts that are difficult to address in the future.
 
-#### Finnally...
+#### Finally...
 I believe this is a great opportunity to explore the emergence of these two hot topics that are IA and reproducilibity! I will share more updateds here throughout this summer and hope we can learn a lot together!
