@@ -16,15 +16,19 @@ featured: false
 
 image:
 caption: ""
-focal_point: "Smart"
+focal_point: "TopLeft"
 preview_only: false
 ---
+
 
 Hello everyone, 
 my name is Jesse and I'm proud to be a fellow in this 2023 Summer of Reproducibility program, contributing to [noWorkflow](/project/osre23/nyu/noworkflow) project. 
 
+
 My [proposal](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit?usp=sharing) was accepted  under the mentorship of {{% mention jpimentel %}} and {{% mention julianafreire %}} and aims to 
 work mapping and testing the capture of the provenance in typical Data Science and Machine Learning experiments.  
+
+
 
 #### Project Overview
 
@@ -38,6 +42,7 @@ In the day-to-day, the pitfalls of non-reproducibility appear at different point
 - Dealing with outputs from multiple experiments, including the results of various model trials.
 
 In academic environments, these issues can result in mistakes and inaccuracies. In companies, they can lead to inefficiencies and technical debts that are difficult to address in the future.
+
 
 
 Finnally, I believe this is a great opportunity to explore the emergence of these two hot topics that are IA and reproducilibity! I will share more updateds here throughout this summer and hope we can learn a lot together. 
