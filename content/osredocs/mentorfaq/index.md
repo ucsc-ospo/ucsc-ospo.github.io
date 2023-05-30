@@ -43,7 +43,7 @@ The primary criteria for what projects get picked for support is the extent to w
 
 ### Can students who work with a mentor already be considered for support under the OSRE or SoR?
 Typically OSRE student are new to open source and new to the communities that they will work with over the summer. Students already working on those projects will therefore generally not be allowed to apply under the OSRE although organizers will consider these proposal on a case-by-case basis. 
-Note that this is not a restriction for Summer of Reproducibility projects and projects supported under the Repeto project. In those cases, mentors can encourage students they know to apply for SoR student slots. If you have questions on this please contact the OSRE organizers. 
+Note that this is not a restriction for Summer of Reproducibility projects and projects supported under the REPETO project. In those cases, mentors can encourage students they know to apply for SoR student slots. If you have questions on this please contact the OSRE organizers. 
 
 ### How are selected students compensated for their summer work?
 
