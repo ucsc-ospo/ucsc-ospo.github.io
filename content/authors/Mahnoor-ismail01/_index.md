@@ -27,7 +27,7 @@ bio: Mahnoor Ismail is a Software Engineer and Research Assistant at the Micro E
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto: mahnoorismail01@gmail.com
+    link: mailto:mahnoorismail01@gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/mahnoor-ismail-b8017a179
