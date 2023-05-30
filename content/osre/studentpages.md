@@ -38,4 +38,4 @@ design:
   columns: '2'
 ---
 
-We are asking OSRE 2023 students and contributors to share their progress on a regular basis. We are excited to be able to highlight their work through our blogs and in events such as our Open Source Symposium. See more about how we highlight student work in this [blog](/report/osre23/ucsc/admin/20221106-admin/).
+We are asking OSRE 2023 students and contributors to share their progress on a regular basis. We are excited to be able to highlight their work on this website and in events such as our Open Source Symposium. This [blog post](/report/osre23/ucsc/admin/20221106-admin/) contains instructions on how to start highlighting contributor work with blog posts, also known as "student pages". And here they are:
