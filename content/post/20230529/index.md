@@ -17,7 +17,7 @@ active: true
 projects: [ospo, osre]
 ---
 
-This year's Open Source Research Experience is off to a fantastic start, with 34 contributors getting ready to work this summer on projects spanning open source hardware, software, and reproducibility in research and in teaching. Funding for these contributors is provided in part by the [NSF REPETO Project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226407)-sponsored Summer of Reproducibility and in part by the [2023 Google Summer of Code](https://summerofcode.withgoogle.com/).  
+This year's Open Source Research Experience is off to a fantastic start, with 34 contributors getting ready to work this summer on projects spanning open source hardware, software, and reproducibility in research and in teaching. Funding for these contributors is provided in part by the [NSF REPETO Project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226407)-sponsored [Summer of Reproducibility](/sor) and in part by the [2023 Google Summer of Code](https://summerofcode.withgoogle.com/).  
 
 Check out the [Student Pages](/osre/#studentpages) where contributors have begun blogging updates about their summer projects!
 
