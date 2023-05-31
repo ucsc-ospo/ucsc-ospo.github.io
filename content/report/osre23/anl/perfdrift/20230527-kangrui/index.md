@@ -2,7 +2,7 @@
 title: "Automatic Cluster Performance Shifts Detection Toolkit"
 subtitle: ""
 summary: "This project aims to design a real-time performance shift detection algorithm for high-performance computing clusters, ensuring minimal overheads."
-authors: [Kangrui Wang]
+authors: [kangrui]
 author_notes: ["Master Student at The University of Chicago"]
 tags: ["osre23"]
 categories: [SoR'23]
