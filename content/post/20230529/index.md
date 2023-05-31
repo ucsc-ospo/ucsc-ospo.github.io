@@ -1,5 +1,5 @@
 ---
-title: "A Record 34 Contributors participating in OSRE '23" 
+title: "A Record 38 Contributors participating in OSRE '23" 
 authors: [slieggi,admin]
 tags: [osre,sor]
 Categories: [News]
@@ -17,7 +17,7 @@ active: true
 projects: [ospo, osre]
 ---
 
-This year's Open Source Research Experience is off to a fantastic start, with 34 contributors getting ready to work this summer on projects spanning open source hardware, software, and reproducibility in research and in teaching. Funding for these contributors is provided in part by the [NSF REPETO Project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226407)-sponsored [Summer of Reproducibility](/sor) and in part by the [2023 Google Summer of Code](https://summerofcode.withgoogle.com/).  
+This year's Open Source Research Experience is off to a fantastic start, with 38 contributors getting ready to work this summer on projects spanning open source hardware, software, and reproducibility in research and in teaching. Funding for these contributors is provided by the [NSF REPETO Project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226407)-sponsored [Summer of Reproducibility](/sor), the [2023 Google Summer of Code](https://summerofcode.withgoogle.com/), and [Baskin Engineering](https://engineering.ucsc.edu)'s [Inclusive Excellence Hub](https://engineering.ucsc.edu/diversity-inclusion/).
 
 Check out the [Student Pages](/osre/#studentpages) where contributors have begun blogging updates about their summer projects!
 
