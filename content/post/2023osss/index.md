@@ -36,29 +36,29 @@ The seminar entitled Open Source for Business consists of 12 lectures addressing
 
 
 ### Module 1: Open source software 
-July 10th, 2023 - Lecture 1: Open-source software 
+July 10th, 2023 - Lecture 1: Open-source software  
 
-July 12th, 2023 - Lecture 2: The software supply chain 
+July 12th, 2023 - Lecture 2: The software supply chain  
 
-July 13th, 2023 - Lecture 3: Compliance and security 
+July 13th, 2023 - Lecture 3: Compliance and security  
 
 ### Module 2: Supply chain economics 
-July 17th, 2023 - Lecture 4: Community open source projects 
+July 17th, 2023 - Lecture 4: Community open source projects  
 
-July 19th, 2023 - Lecture 5: Software supply chain economics 
+July 19th, 2023 - Lecture 5: Software supply chain economics  
 
-July 20th, 2023 - Lecture 6: Open source foundations and consortia 
+July 20th, 2023 - Lecture 6: Open source foundations and consortia  
 
 ### Module 3: Commercial open source 
-July 24th, 2023 - Lecture 7: Commercial open source business models 
+July 24th, 2023 - Lecture 7: Commercial open source business models  
 
-July 26th, 2023 - Lecture 8: The new proprietary open source 
+July 26th, 2023 - Lecture 8: The new proprietary open source  
 
-July 27th, 2023 - Lecture 9: Intellectual property strategies 
+July 27th, 2023 - Lecture 9: Intellectual property strategies  
 
 ### Module 4: Open source strategy 
-July 31th, 2023 - Lecture 10: The open source program office 
+July 31th, 2023 - Lecture 10: The open source program office  
 
-Aug 1st, 2023 - Lecture 11: Open source risk management 
+Aug 1st, 2023 - Lecture 11: Open source risk management  
 
-Aug 2nd, 2023 - Lecture 12: The corporate open source strategy
+Aug 2nd, 2023 - Lecture 12: The corporate open source strategy  
