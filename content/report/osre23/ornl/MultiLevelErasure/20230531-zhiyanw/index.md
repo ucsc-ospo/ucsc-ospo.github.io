@@ -19,7 +19,7 @@ image:
   preview_only: false
 ---
 
-Hi! My name is Alex, an undergraduate student at the University of Chicago. As part of the [Reproducible Evaluation of Multi-level Erasure Coding](/project/osre23/ornl/MultiLevelErasure), my [proposal](https://docs.google.com/document/d/1dO1aING1QcSB---XklzUjNz0usVh7qWffVGC3GZq2AE/edit?usp=sharing) under the mentorship of **John Bent** and **Anjus George** aims to build a platform to reproducibly evaluate the performance and durability of MLEC (Multi-Level Erasure Coding) for large-scale storage systems under different design configurations. 
+Hi! My name is Alex, an undergraduate student at the University of Chicago. As part of the [Reproducible Evaluation of Multi-level Erasure Coding](/project/osre23/ornl/MultiLevelErasure), my [proposal](https://docs.google.com/document/d/1dO1aING1QcSB---XklzUjNz0usVh7qWffVGC3GZq2AE/edit?usp=sharing) under the mentorship of  {{% mention john.bent %}} and {{% mention georgea %}} aims to build a platform to reproducibly evaluate the performance and durability of MLEC (Multi-Level Erasure Coding) for large-scale storage systems under different design configurations. 
 
 To provide some context, Erasure Coding (EC) is a common approach to protect data from disk failures. Data centers nowadays increasingly use Multi-Level Erasure Coding (MLEC), a newly developed erasure coding method that aims to deal with the drawbacks of Single-Level Erasure Coding (SLEC). Despite its increasing popularity, there have not been many systematic studies to analyze and evaluate MLEC, which is the focus of this project. 
 
