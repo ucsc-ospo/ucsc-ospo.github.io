@@ -23,6 +23,7 @@ Therefore, in this project we seek to build a platform to evaluate the durabilit
 - **Difficulty:** Medium
 - **Size:** 350 hours
 - **Mentor(s):** {{% mention john.bent %}} and {{% mention georgea %}}
+- **Contributor(s):** {{% mention zhiyanw %}}
 
 
 Build a platform to evaluate the durability and overheads of MLEC. The platform will be able to evaluate different EC strategies in various dimensions including repair strategies, chunk placement choices, parity schemes, etc. Analyze the evaluation results.
