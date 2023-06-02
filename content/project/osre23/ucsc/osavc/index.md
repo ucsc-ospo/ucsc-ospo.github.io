@@ -31,6 +31,7 @@ Help develop sensor libraries for use in autonomous vehicles. We are in particul
  - **Size** 175 hours 
  - **Difficulty** Medium
  - **Mentor** Aaron Hunter/Carlos Espinosa/Pavlo Vlastos
+ - **Contributor(s)** {{% mention Aniruddha1261 %}}
 
 
 Technical Documentation:
@@ -42,6 +43,7 @@ Write a tutorial to demonstrate how to start with an OSAVC and program it with t
  - **Size** 175 or 350 hours 
  - **Difficulty** Medium to Hard
  - **Mentor** [Aaron Hunter](mailto:aamuhunt@ucsc.edu), [Carlos Espinosa](mailto:caiespin@ucsc.edu), Pavlo Vlastos
+ - **Contributor(s)** {{% mention damodardatta %}}
 
 Generate a simulated world and a quadcopter model in ROS/Gazebo. Provide a link from Mavlink to ROS using the mavros package and simulate a real vehicle data stream to command the simulated quadcopter in Gazebo. At the same time return the image stream from Gazebo to allow for offline processing of ML models on the images. 
 
