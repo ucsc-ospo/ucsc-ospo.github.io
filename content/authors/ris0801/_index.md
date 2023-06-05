@@ -43,4 +43,4 @@ user_groups:
   - Contributors
 ---
 
-Rishabh Singh is a Computer Engineering master's studnet at the New york University. 
+Rishabh Singh is a Computer Engineering master's student at the New york University. 
