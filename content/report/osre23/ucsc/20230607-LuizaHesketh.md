@@ -9,6 +9,7 @@ date: 2023-05-25
 lastmod: 2023-06-07
 featured: false
 draft: false
+![foto minha padrão](https://github.com/LuHesketh/ucsc-GSOC/assets/96314285/97e45717-00ba-4a7c-8a85-b49b0920d6c4)
 
 
 ---
