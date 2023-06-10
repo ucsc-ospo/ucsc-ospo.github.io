@@ -17,7 +17,8 @@ In this project, our goal is to build a dataset of **reproducible** scalability 
   * **Skills**: Linux Shell, Docker, Java, Python
   * **Difficulty**: Medium
   * **Size**: Large (350 hours)
-  * **Mentors**: {{% mention rubio %}}, {{% mention haryadi %}}, {{% mention hnzhu %}}
+  * **Mentors**: {{% mention rubio %}}, {{% mention haryadi %}}, {{% mention hnzhu %}}  
+  * **Contributor(s)**: {{% mention boluwarinayinmode %}}  
 
 
 The student will build a dataset of reproducible scalability bugs. Each bug artifact in the dataset will contain (1) the buggy and fixed versions of the scalability system, (2) a runtime environment that ensures reproducibility, and (3) a workload shell script that could demonstrate the symptoms of the bug under different scales.

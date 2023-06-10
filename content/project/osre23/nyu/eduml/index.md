@@ -18,7 +18,8 @@ The computer science and engineering classroom is as essential part of the repro
 * **Skills**: Python, machine learning, writing
 * **Difficulty**: Medium
 * **Size**: 350 hours
-* **Mentor(s)**: [Fraida Fund](mailto:ffund@nyu.edu) and TBD
+* **Mentor(s)**: {{% mention ffund %}} and TBD
+* **Contributor(s)**: {{% mention MSaeed %}}
 
 In machine learning, replicating a published result to confirm the validity of the experimental results and the broader conclusions of the paper can take several forms, with increasing levels of effort:
 

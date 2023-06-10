@@ -36,6 +36,7 @@ Specific tasks:
 - **Difficulty:** Challenging
 - **Size:** Large (350 hours)
 - **Mentors:** {{% mention jpimentel %}}, {{% mention julianafreire %}}
+- **Contributor(s)**: {{% mention jesselima %}}
 
 Add support for different levels of provenance collection in noWorkflow 2. Currently, noWorkflow 2 collects Python construct evaluations and all the dependencies among the evaluations. However, this collection is inefficient, since some of the collected provenance may not be necessary for end-users. In this project, it is desirable to provide ways to temporarily disable the provenance collection  and to manually indicate the provenance in this situation.
 
