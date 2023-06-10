@@ -3,7 +3,7 @@ title: "Reproduce and benchmark self-adaptive edge applications under dynamic re
 subtitle: ""
 summary: ""
 authors: [zharfanf]
-author_notes: ["An Open Source Enthusiast and graduate from BITS Pilani"]
+author_notes: ["A computer networking enthusiast from ITB"]
 tags: ["osre23"]
 categories: [SoR]
 date: 2023-05-30
