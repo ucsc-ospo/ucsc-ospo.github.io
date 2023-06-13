@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor, University of Chicago
+role: Integrated PhD Student, Korea University of Science and Technology
 
 # Organizations/Affiliations
 organizations:
-- name: University of Science and Technology
+- name: Korea University of Science and Technology
   url: "https://www.ust.ac.kr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jonathan Edwin is an Integrated PhD in the Artificial Intelligence at the University of Science and Technology.
+bio: Jonathan Edwin is an Integrated PhD in the Artificial Intelligence at the Korea University of Science and Technology.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -29,7 +29,7 @@ social:
   icon_pack: fas
   link: mailto:edwin.jon28@gmail.com
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/jonathan-edwin/
 
 
