@@ -54,7 +54,9 @@ Keep it short and crisp. Include a short description of your project, a link to 
 title: "YOUR TITLE"
 subtitle: "YOUR SUBTITLE (OPTIONAL)"
 summary:
-authors: [USERNAME]
+authors: 
+  - USERNAME1
+  - USERNAME2
 tags: ["osre23"]
 categories: []
 date: YYYY-MM-DD
