@@ -2,7 +2,7 @@
 title: "GPU Emulator for Easy Reproducibility of DNN Training"
 subtitle: ""
 summary: ""
-authors: [Haoran Wu]
+authors: [haoranwu]
 author_notes: ["Student at the University of Chicago"]
 tags: ["osre23"]
 categories: [SoR'23]
@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 
-Hi! I’m Haoran Wu, a third year at the University of Chicago majoring in Economics and Computer Science. With my [proposal](https://docs.google.com/document/d/1CcNbvbNAmY0XkV9ckjHnILdMh92h1wqLUYqpT6qIsZY/edit?usp=sharing), I’m working on the [GPU Emulator for Easy Reproducibility of DNN Training](https://ospo.ucsc.edu/project/osre23/utexas/gpuemulator) project with [Professor Chidambaram](https://ospo.ucsc.edu/author/vijay-chidambaram). A Deep Neural Network (DNN) is an advanced artificial neural network that employs multiple layers to process intricate patterns and relationships within data. It finds applications in various fields such as image and speech recognition, natural language processing, and predictive modeling. The layers in a DNN progressively extract higher-level features from raw input data, enabling the network to learn and generalize patterns effectively.
+Hi! I’m Haoran Wu, a third year at the University of Chicago majoring in Economics and Computer Science. With my [proposal](https://docs.google.com/document/d/1CcNbvbNAmY0XkV9ckjHnILdMh92h1wqLUYqpT6qIsZY/edit?usp=sharing), I’m working on the [GPU Emulator for Easy Reproducibility of DNN Training](https://ospo.ucsc.edu/project/osre23/utexas/gpuemulator) project with Professor {{% mention vijay %}}. A Deep Neural Network (DNN) is an advanced artificial neural network that employs multiple layers to process intricate patterns and relationships within data. It finds applications in various fields such as image and speech recognition, natural language processing, and predictive modeling. The layers in a DNN progressively extract higher-level features from raw input data, enabling the network to learn and generalize patterns effectively.
 
 The growing popularity of Deep Neural Networks has resulted in a substantial increase in demand for Graphics Processing Units (GPUs). GPUs are crucial for conducting matrix computations in DNN training and inference. However, they are expensive to purchase for personal use, and the limited availability of GPU resources in public research clouds like Chameleon further exacerbates the issue. This scarcity of resources can cause delays in DNN-related research projects.
 
