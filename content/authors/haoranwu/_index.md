@@ -41,4 +41,4 @@ user_groups:
   - Contributors
 ---
 
-Mike is an undergraduate student at the University of Chicago. He is currently working under Prof. Chidambaram on research about GPU Emulation. 
+Mike is an undergraduate student at the University of Chicago. He is currently working under Prof. {{% mention vijay %}} on research about GPU Emulation. 
