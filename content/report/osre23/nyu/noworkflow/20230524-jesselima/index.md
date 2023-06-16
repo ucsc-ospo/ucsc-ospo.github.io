@@ -44,3 +44,23 @@ In academic environments, these issues can result in mistakes and inaccuracies. 
 
 #### Finally...
 I believe this is a great opportunity to explore the emergence of these two hot topics that are IA and reproducilibity! I will share more updateds here throughout this summer and hope we can learn a lot together!
+
+---
+title: "Second blog post"
+subtitle: "Just a test" 
+authors: [jesselima]
+tags: ["osre23", "ucsc", "nyu", "data science", "machinelearning", "provenance", "reproducibility"]
+date: 2023-06-16
+lastmod: 2023-06-16
+draft: false
+featured: false
+
+image:
+caption: ""
+focal_point: "TopLeft"
+preview_only: false
+---
+
+
+Hello everyone, 
+This is a test
