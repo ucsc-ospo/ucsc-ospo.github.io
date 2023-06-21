@@ -15,5 +15,6 @@ Network key value stores are used throughout the cloud as a storage backends (eg
 **Difficulty:** Medium  
 **Size:** Medium or large (120 or 150 hours)  
 **Mentors:** [Philip Kufeldt (Seagate)](mailto:philip.kufeldt@seagate.com), {{% mention drin %}} (UC Santa Cruz)
+**Contributor(s):** {{% mention manank %}}
 
 Seagate has been using a network-based KV HDD as a research vehicle for computational storage.  This research vehicle uses open-source user library that implements a KV API by sending network protobuf-based RPCs to a network KV store. Currently it is implemented with the standard socket and POSIX APIs to  communicate with the KV backend.  This project would implement an `io_uring` communication backend and compare the results of both implementations.

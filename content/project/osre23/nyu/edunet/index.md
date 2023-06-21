@@ -8,7 +8,7 @@ date: 2023-01-18T00:00:00Z
 lastmod: 2023-01-18T00:00:00Z
 ---
 
-Lead Mentor: [Fraida Fund](mailto:ffund@nyu.edu) 
+Lead Mentor: {{% mention ffund %}} 
 
 In the field of computer networks and wireless communication systems, the availability of open access networking and cloud computing testbeds ([GENI](https://portal.geni.net/), [CloudLab](https://cloudlab.us/), [Chameleon](https://chameleoncloud.org/), [FABRIC](https://fabric-testbed.net/), and others) has been transformative in promoting reproducible research *and* in making high-quality experiential learning available to students and educators at a wide range of colleges and universities. This project seeks to unite research and education use of these testbeds by developing new ways of using reproducible research to teach computer networks and related topics.
 
@@ -18,7 +18,7 @@ In the field of computer networks and wireless communication systems, the availa
 * **Skills**: Linux, writing
 * **Difficulty**: Medium
 * **Size**: 350 hours
-* **Mentor(s)**: [Fraida Fund](mailto:ffund@nyu.edu) and TBD
+* **Mentor(s)**: {{% mention ffund %}} and TBD
 
 To make foundational results from computer networks more concrete, this project seeks to reproduce a selection of key results and package them for use as interactive classroom demonstrations. (An example of a "foundational" result might be the result from the 1980s that motivates congestion control by showing how [congestion collapse occurs when the network is under heavy load](http://dx.doi.org/10.1016/0169-7552(89)90019-6).) This involves:
 
@@ -34,7 +34,8 @@ To make foundational results from computer networks more concrete, this project 
 * **Skills**: Linux, Python, writing
 * **Difficulty**: Medium
 * **Size**: 350 hours
-* **Mentor(s)**: [Fraida Fund](mailto:ffund@nyu.edu) and TBD
+* **Mentor(s)**: {{% mention ffund %}} and TBD
+* **Contributor(s)**: {{% mention Srishti-j18 %}}
 
 A carefully designed competition can be a fun and exciting way for students to challenge themselves and gain "ownership" of a new topic. This projects builds on an existing open source [reproducible result](https://witestlab.poly.edu/blog/adaptive-video-reproducing/) for adaptive video delivery, and will challenge students to extend this work and design their own adaptive video policies for head-to-head competition against their classmates. This includes:
 
