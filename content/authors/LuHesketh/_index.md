@@ -1,22 +1,52 @@
-title: "Advancing Reproducible Science through Open Source Laboratory Protocols as Software "
-subtitle: "Making it easier for researchers to share information"
-summary: ""
-authors: [Luiza Hesketh]
-author_notes: ["Synthetic Biology amateur and lab automation enthusiast"]
-tags: ["osre23"]
-categories: [GSoC'23]
-date: 2023-05-25
-lastmod: 2023-06-07
-featured: false
-draft: false
+# Display name
+title: Luiza Zucchi Hesketh
+
+# Username (this should match the folder name)
+authors:
+  - LuHesketh
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Graduate Student
+
+# Organizations/Affiliations
+organizations:
+  - name: University of San Diego
+    url: "https://ucsd.edu/"
+  - name: University of Campinas (UNICAMP)
+    url: "https://www.unicamp.br/unicamp/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: 
+
+Luiza Zucchi Hesketh Gomes is a Graduate student in Biology at University of Campinas(UNICAMP). Her work revolves around experimenting with Synthetic Biology, Molecular Biology and Laboratory automation for scalling-up Lab processes.
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:luuhgomes98@gmail.com
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/luiza-zucchi-hesketh-0020631a5/ 
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: luuhgomes98@gmail.com
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Contributors
+---
+Luiza Zucchi Hesketh Gomes is a Graduate student in Biological Sciences from University of Campinas(UNICAMP) in São Paulo, Brazil. Currently working as iGEM embassador for Latin America, she serves as the bridge between teams and the iGEM organization by guiding them through the process of developing their project. Luiza Also founded and served as Executive Director of the Brazilian Association of Synthetic Biology (SynBioBR) in which she guided marketing strategies and team management for multiple working fronts. She also participated on iGEM competition on the years 2021 and 2022 with two distinct teams. Her main lines of work and research interests are Molecular Biology, Synthetic biology and mainly Laboratory process automation, where she learned to operate liquid handling machines like Opentrons, Hamiltons and Echos to facilitate and scale up the experimentation process in laboratories.
+
 
 
 ---
 
-Hello everyone!
 
-My name is LuizaI am an eighth-semester Bsc Biological Sciences student from São Paulo, Brazil. I have been interested in life sciences and technology since my early years of school.
-
-I have acquired good programming knowledge by learning technologies like HTML, CSS, JSON, Python and Figma. I have built a few projects with the technologies I learned and they are listed on my website and on Github.
-
-Recently I’ve been appointed as Executive Director of the Brazilian Association of Synthetic Biology and I’ve been actively seeking to improve collaborations between laboratories by sharing their common protocols for genetic engineering and molecular biology processes, and I believe that the best way to achieve that is to implement a common language for laboratory protocol design that could be used to represent & execute such protocols across diverse laboratories. Whether it is by a machine or a person(or even both), a laboratory protocol should be Straightforward and understandable, that’s why I’m working with LabOP to write protocols for Hamilton liquid-handling robots.
