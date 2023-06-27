@@ -1,3 +1,4 @@
+---
 # Display name
 title: Luiza Zucchi Hesketh
 
@@ -19,9 +20,7 @@ organizations:
     url: "https://www.unicamp.br/unicamp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-
-Luiza Zucchi Hesketh Gomes is a Graduate student in Biology at University of Campinas(UNICAMP). Her work revolves around experimenting with Synthetic Biology, Molecular Biology and Laboratory automation for scalling-up Lab processes.
+bio: Luiza Zucchi Hesketh Gomes is a Graduate student in Biology at University of Campinas(UNICAMP). Her work revolves around experimenting with Synthetic Biology, Molecular Biology and Laboratory Automation for scalling-up Lab processes.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,6 +46,5 @@ Luiza Zucchi Hesketh Gomes is a Graduate student in Biological Sciences from Uni
 
 
 
----
 
 
