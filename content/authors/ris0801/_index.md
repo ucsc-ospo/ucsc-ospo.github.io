@@ -16,7 +16,7 @@ role: Student at New york University
 organizations:
   - name: Computer Engineering
     url: "https://engineering.nyu.edu/academics/programs/computer-engineering-ms"
-  - name: New york University
+  - name: NYU Tandon School of Engineering
     url: "https://engineering.nyu.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,4 +43,4 @@ user_groups:
   - Contributors
 ---
 
-Rishabh Singh is a Computer Engineering master's student at the New york University. 
+Rishabh Singh is a Computer Engineering master's student at the NYU Tandon School of Engineering. 
