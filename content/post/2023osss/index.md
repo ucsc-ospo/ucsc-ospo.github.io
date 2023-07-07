@@ -32,7 +32,7 @@ The OSPO at UC Santa Cruz is pleased to be hosting the third Summer Seminar Seri
 
 The seminar entitled Open Source for Business consists of 12 lectures addressing everything you need to understand open source and to develop a corporate open source strategy. 
 
-[Registation information](https://forms.gle/AYaXTQTFNT3sHkxf9)
+[Registration information](https://forms.gle/AYaXTQTFNT3sHkxf9)
 
 
 ### Module 1: Open source software 
@@ -47,7 +47,7 @@ July 17th, 2023 - Lecture 4: Community open source projects
 
 July 19th, 2023 - Lecture 5: Software supply chain economics  
 
-July 20th, 2023 - Lecture 6: Open source foundations and consortia  
+July 21th, 2023* - Lecture 6: Open source foundations and consortia  *note date change from original schedule*
 
 ### Module 3: Commercial open source 
 July 24th, 2023 - Lecture 7: Commercial open source business models  
