@@ -41,4 +41,4 @@ user_groups:
   - Contributors
 ---
 
-Shayantan Banerjee is an bioinformatics enthusiast and interested in deploying automated and reproducible genomic workflows for precision medicine.
+Shayantan Banerjee is an bioinformatics enthusiast and interested in deploying automated, reproducible and easy-to-use genomic workflows for precision medicine.
