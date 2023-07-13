@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Pursuing PhD in Digital Health from the Indian Institute of Technology Bombay 
+role: PhD student, IIT Bombay 
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: "https://www.iitb.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Shayantan Banerjee is an bioinformatics enthusiast and interested in deploying automated and reproducible genomic workflows for precision medicine.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
