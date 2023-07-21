@@ -12,7 +12,7 @@ address:
   postcode: '95064'
   country: United States
 
-summary: A workshop featuring keynote speaker Yoichiro Tanaka (Tohoku University) that will take place from 10am to 3pm (PT), at UC Santa Cruz in the Engineering 2 building (room to be confirmed)
+summary: A workshop featuring keynote speaker Yoichiro Tanaka (Tohoku University) that will take place on August 17, 2023 at UC Santa Cruz in the Engineering 2 building (room to be confirmed)
 abstract: ''
 
 # Talk start and end times.
