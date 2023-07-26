@@ -20,7 +20,7 @@ import shutil, stat
 #    return plist('relativePath')
 
 homeDir = '/Users/carlosmalt'
-webSite = homeDir + '/git/carlosmalt/ucsc-ospo'
+webSite = homeDir + '/git/ucsc-ospo/ucsc-ospo.github.io'
 pubDir = webSite + '/content/publication'
 paperDir = homeDir + '/gd/Papers'
 paperSubDirs = {'e': 'E-F', 'f': 'E-F', 'i': 'I-J', 'j': 'I-J', 'n': 'N-O', 

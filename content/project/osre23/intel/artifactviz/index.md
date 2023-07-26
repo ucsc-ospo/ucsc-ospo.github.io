@@ -35,6 +35,6 @@ In a second step, monitor the machine’s state during the execution. This inclu
 - **Difficulty:** Hard
 - **Size:** Medium or large (175 or 350 hours)
 - **Mentors:** {{% mention vahldiek %}}
-- **Contributor(s):** {{% mention zjyhhhhh %}}
+- **Contributor(s):** {{% mention zjyhhhhh %}}, {{% mention Roasters05 %}}
 
 Description: Experiments generate results in various formats (e.g., CSV, json, text files, …). The goal of this project is to provide tools to extract common formats, connect the results to the experiment log and visualize them. Ideally, allowing to compare different experimental runs. Initially, the project could dump their results into a Prometheus instance (https://prometheus.io/) which would later become available for everyone to explore the data.
