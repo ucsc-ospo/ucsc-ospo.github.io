@@ -126,7 +126,7 @@ def plot_views(df, numPages = 20):
         ax[i].legend(loc='upper right')
 ```
 
-![Top 20 plots](pic4.png "Figure 4: Top 20 pages by daily view counts (in descending order)"
+![Top 20 plots](pic4.png "Figure 4: Top 20 pages by daily view counts (in descending order)")
 
 Also, we can aggregate the total views by day to plot daily traffic:
 
