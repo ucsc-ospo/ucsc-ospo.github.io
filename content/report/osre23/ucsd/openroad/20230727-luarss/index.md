@@ -68,7 +68,7 @@ df.Date = df.Date.apply(lambda x: x.split()[0])
 df.head()
 ```
 
-![Load traffic analytics DF](./pic1.png "Figure 1: Loading traffic analytics dataframe")
+![Load traffic analytics DF](pic1.png "Figure 1: Loading traffic analytics dataframe")
 
 The raw data is not all that informative. 
 Let us aggregate the data to obtain the weekly views.
@@ -83,7 +83,7 @@ weeklydf = weeklydf.groupby(['Path', pd.Grouper(key='Date', freq='W')])['Views']
 weeklydf[weeklydf.Path == '/index.html']
 ```
 
-![Aggregated weekly traffic](./pic2.png "Figure 2: Aggregated weekly traffic")
+![Aggregated weekly traffic](pic2.png "Figure 2: Aggregated weekly traffic")
 
 Note that we can replace the page path with any interesting page path 
 we desire. A useful command to obtain all possible page paths in this 
@@ -93,7 +93,7 @@ dataset is to use:
 weeklydf.Path.unique()
 ```
 
-![Unique paths](./pic3.png "Figure 3: Unique paths in dataset")
+![Unique paths](pic3.png "Figure 3: Unique paths in dataset")
 
 With these neat data in our arsenal, let us do some plotting! 
 For the visualisation, we have chosen to use the traffic aggregated
@@ -126,7 +126,7 @@ def plot_views(df, numPages = 20):
         ax[i].legend(loc='upper right')
 ```
 
-![Top 20 plots](./pic4.png "Figure 4: Top 20 pages by daily view counts (in descending order)"
+![Top 20 plots](pic4.png "Figure 4: Top 20 pages by daily view counts (in descending order)"
 
 Also, we can aggregate the total views by day to plot daily traffic:
 
@@ -149,7 +149,7 @@ def plot_daily_traffic(df):
     plt.legend(loc='upper right')
 ```
 
-![Daily aggregated traffic](./pic5.png "Figure 5: Daily aggregated traffic")
+![Daily aggregated traffic](pic5.png "Figure 5: Daily aggregated traffic")
 
 ### Key Trends:
 
@@ -170,7 +170,7 @@ Contest are always good for driving traffic.
 
 - Top pages are usually landing pages: `index.html`, `main/README.html`, `main/src/README.html`. We thus prioritised making these pages more readable and concise. 
 
-- This is followed by tutorial `/tutorials/index.html` and `/search.html`. The prominence of these made us shift the tutorials to a more prominent. Search tips were also included to obtain better search results. More about search in the next section.
+- This is followed by tutorial `/tutorials/index.html` and `/search.html`. The prominence of the tutorials page made us shift the tutorials link to a higher position on the left navigation sidebar. Search tips were also included to obtain better search results. More about search in the next section.
 
 - Next, as OpenROAD consists of 20 tools: traffic analytics helps us come up with an order to update: `ifp`, `gui`, `odb`, `ppl`, `sta`, `grt`, `mpl`, `gpl`, `rsz`, `rcx`. `pdn`, `cts`, `psm`
 
@@ -194,7 +194,7 @@ dateResults = df.groupby('Date').TotalResults.count()
 dateResults
 ```
 
-![Daily count code](./pic6.png "Figure 6: Code output for daily aggregated search counts.")
+![Daily count code](pic6.png "Figure 6: Code output for daily aggregated search counts.")
 
 Now we are ready to plot the daily aggregated searches. This represents 
 the number of times a search was performed on the documentation website.
@@ -216,7 +216,7 @@ def plot_daily_searches(df):
     plt.legend(loc='upper right')
 ```
 
-![Final search analytics graph](./pic7.png "Figure 7: Daily aggregated search counts")
+![Final search analytics graph](pic7.png "Figure 7: Daily aggregated search counts")
 
 We can also do an additional plot for queries that return zero results. 
 In other words, we are interested in the terms people are curious about;
