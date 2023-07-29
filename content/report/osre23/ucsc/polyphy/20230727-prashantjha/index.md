@@ -17,7 +17,7 @@ draft: false
 image:
   caption: "cosmic_web: a reality far beyond our imaginations"
   focal_point: "Center"
-  preview_only: true
+  preview_only: false
 ---
 
 As part of the Polyphy Project, my proposal was aimed at improving various aspects of the project, including CI/CD workflows, encapsulation, and security. Under the mentorship of {{% mention oelek %}}, I have made significant progress in the following areas:
