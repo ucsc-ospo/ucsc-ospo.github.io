@@ -16,6 +16,7 @@ Therefore, in this project we seek to build a GPU emulator platform on PyTorch t
 - **Difficulty:** Medium
 - **Size:** 350 hours
 - **Mentor(s):** {{% mention vijay %}}, {{% mention yro %}}
+- **Contributor(s):** {{% mention haoranwu %}}
 
 The student will measure the GPU performance profiles for different models and GPU types, based on which the student will build a platform to emulate the GPU behaviors and easily reproduce DNN training. The GPU performance measurements should be made open-source and reproducible for other researchers to reproduce results and add GPU profiles for their own needs.
 

@@ -24,6 +24,7 @@ In this project, we plan to improve the modularity of the FlashNet pipeline and 
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
 - **Mentors:** {{% mention haryadi %}}
+- **Contributor(s):** {{% mention Justin08784 %}}, {{% mention rannnayy %}}
 
 Build an open-source platform to enable collaboration between storage and ML communities, specifically to provide a common platform for advancing data science research for storage systems. The platform will be able to reproduce and evaluate different ML models/architecture, dataset patterns, data preprocessing techniques, and various feature engineering strategies. 
 

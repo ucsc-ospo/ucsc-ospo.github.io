@@ -18,6 +18,7 @@ Under the hood, PolyPhy uses a richer 3D scalar field representation of the reco
 - **Difficulty:** Challenging
 - **Size:** 350+ hours
 - **Mentors:** {{% mention oelek %}}, [Anisha Goel](mailto:anishagoel14@gmail.com)
+- **Contributor(s):** {{% mention prashantjha %}}
 
 Your responsibility in this project will be developing new infrastructure of the PolyPhy project as well as maintaining the existing [codebases](https://github.com/PolyPhyHub/). This is a multifaceted role that will require coordination with the team and active approach to understanding the technical needs of the community.
 

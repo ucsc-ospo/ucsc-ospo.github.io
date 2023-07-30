@@ -2,7 +2,7 @@
 title: "Measuring Open-source Database Systems under TPC-C Benchmark with Unreported Settings"
 subtitle: ""
 summary: "The project plans to understand the impact of missing settings on performance of the target open-source database systems."
-authors: [Xueyuan Ren]
+authors: [ren.450]
 author_notes: ["PhD Student at The Ohio State University"]
 tags: ["osre23"]
 categories: [SoR'23]
