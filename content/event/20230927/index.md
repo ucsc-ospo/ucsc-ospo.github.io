@@ -61,9 +61,9 @@ projects:
 Save the date! The event will have a similar format as last year:
 
 - **Three-day hybrid event** (in-person attendance highly encouraged, online participation welcomed) that includes keynote speakers, expert panels, and technical workshops, as well as poster presentations highlighting the work of our Open Source Research Experience students. 
-- **Tue 9/27, Day 1 (hybrid):** single-track program with keynotes and panels, Oktoberfest reception in the evening, all at the UC Santa Cruz Cowell Hay Barn, breakfast, lunch, dinner provided. In-person participation limited to 50 people.
-- **Wed 9/28, Day 2 (hybrid):** two-track program of workshops at the UC Santa Cruz Engineering 2 building, breakfast, lunch
-- **Thu 9/29, Day 3 (online-only):** single-track program with workshops.
+- **Wed 9/27, Day 1 (hybrid):** single-track program with keynotes and panels, Oktoberfest reception in the evening, all at the UC Santa Cruz Cowell Hay Barn, breakfast, lunch, dinner provided. In-person participation limited to 50 people.
+- **Thu 9/28, Day 2 (hybrid):** two-track program of workshops at the UC Santa Cruz Engineering 2 building, breakfast, lunch
+- **Fri 9/29, Day 3 (online-only):** single-track program with workshops.
 
 The event is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO). This year we are offering [four levels of sponsorships](#sponsors) to help make this event possible. The event follows [this code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
 
