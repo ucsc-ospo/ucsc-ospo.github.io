@@ -20,7 +20,7 @@ focal_point: "Smart"
 preview_only: false
 ---
 
-### Summer of Reproducibility - Mid-Term blogpost report
+### Mid-Term blog post for noWorkflow and reproducibility of experiments in DS/ML
 
 This post describes our midterm work status and some achievements we have done so far in the project [proposal](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit#heading=h.nnxl1g16trg0) for the [noWorkflow](https://ucsc-ospo.github.io/project/osre23/nyu/noworkflow/) solution. 
 
