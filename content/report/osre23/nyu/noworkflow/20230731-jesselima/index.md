@@ -31,7 +31,7 @@ Then, as planned, I integrated with the current noWorkflow supporters. From the 
 
 In this brainstorm, we reinforced that Jupyter Notebooks are, by far, the most frequent setup in DS/ML computational experiments. They established themselves as the fundamental artifact by embedding code, text and enabling execution and visualization. Entire experiments are created and kept in Jupyter notebooks until they are sent to production. And the opportunity at hand is to integrate noWorkflow with Jupyter Notebooks. 
 
-##### Route alignments
+##### Course correction
 
 Then, our mid-term goal was adapted from the original plan of only selecting and executing a prototypical ML experiment. We added the goal of paving the way for providing a tagging feature for Notebook cells. DS/ML experiments' typical workflows have well-defined layers or stages, composed of _data reading_, _feature engineering_, _model scoring_, and _metrics evaluation_.  In an experiment, ideally, the user would tag a cell on their specific stage enabling to capture tagged metadata into a database. This step supports the ultimate goal of facilitating comparisons, management, and even causal inference across different trials of a DS/ML experiment. 
 
