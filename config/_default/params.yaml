@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/carlosmalt/ucsc-ospo'
+    url: 'https://github.com/ucsc-ospo/ucsc-ospo.github.io'
     content_dir: content
     branch: main
   avatar:
