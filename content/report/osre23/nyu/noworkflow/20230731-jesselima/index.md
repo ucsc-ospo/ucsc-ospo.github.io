@@ -27,15 +27,15 @@ This post describes our midterm work status and some achievements we have done s
 
 I started doing a bibliographical review on reproducibility in the Data Science (DS) and Machine Learning (ML) realms. It was a new subject to me, and I aimed to build a more robust theoretical background in the field. Meanwhile, I took notes in [this series of posts](https://jaglima.github.io/). 
 
-Then, as planned, I integrated with the current noWorkflow supporters in order get a broader view about the project and their contributions. Adittionally, [Juliana Freire](https://ucsc-ospo.github.io/author/juliana-freire/), [Joao Felipe Pimental](https://ucsc-ospo.github.io/author/joao-felipe-pimentel/) and I set up a weekly one-hour schedule to keep track of my activities. 
+Then, as planned, I integrated with the current noWorkflow supporters in order get a broader view of the project and their contributions. Additionally, [Juliana Freire](https://ucsc-ospo.github.io/author/juliana-freire/), [Joao Felipe Pimental](https://ucsc-ospo.github.io/author/joao-felipe-pimentel/) and I set up a weekly one-hour schedule to keep track of my activities. 
 
 ### Brainstorming opportunities
 
-At the beginnig of June we also met with other project supporters to brainstorm about our initial proposal. From this meeting, we came up with a plan on how technically approach a noWorkflow new feature in the Data Science and Machine Learning experimental management. 
+At the beginnig of June, we also met with other project supporters to brainstorm about our initial proposal. From this meeting, we came up with a plan on how technically approach a noWorkflow new feature in Data Science and Machine Learning experimental management. 
 
-In this brainstorm, we reinforced that Jupyter Notebooks are, by far, the most frequent setup in DS/ML computational experiments. They established themselves as the fundamental artifact by embedding code, text and enabling execution and visualization. Entire experiments are created and kept in Jupyter notebooks until they are sent to production. And the opportunity at hand is to integrate noWorkflow with Jupyter Notebooks. 
+In this brainstorm, we reinforced that Jupyter Notebooks are, by far, the most frequent set up in DS/ML computational experiments. They established themselves as the fundamental artifact by embedding code, text and enabling execution and visualization. Entire experiments are created and kept in Jupyter notebooks until they are sent to production. And the opportunity at hand is to integrate noWorkflow with Jupyter Notebooks. 
 
-Then, our mid-term goal was adapted from the original plan of only selecting and executing a prototypical ML experiment. We added the goal of paving the way for providing a tagging feature for Notebook cells. Specifically, DS/ML experimental typical workflows have well-defined stages, usually composed of _data reading_, _feature engineering_, _model scoring_, and _metrics evaluation_.  In our  dreamspace, an user would tag a cell in their experiment, enabling the capture of the tagged metadata into a database. This step integrates the ultimate goal of facilitating comparisons, management, and even causal inference across different trials of a DS/ML experiment. 
+Then, our mid-term goal was adapted from the original plan of only selecting and executing a prototypical ML experiment. We added the goal of paving the way for providing a tagging feature for Notebook cells. Specifically, DS/ML experimental typical workflows have well-defined stages, usually composed of _data reading_, _feature engineering_, _model scoring_, and _metrics evaluation_.  In our  dream space, the user would tag a cell in their experiment, enabling the capture of the tagged metadata into a database. This step integrates the ultimate goal of facilitating comparisons, management, and even causal inference across different trials of a DS/ML experiment. 
 
 ### Getting busy
 
@@ -49,7 +49,7 @@ During this period, we also had to make choices along the way. For instance, cap
 
 In the second half of the summer, our goal is to integrate this current table with the activation metadata from the execution and then match the tags with the operations they enclose to proceed with comparisons among experiments. 
 
-Also, we want to be able to mark some variables to be tracked. These variables can be hyperparameters of DS/ML experiments or key variables to assess the experiments, as errors or scores. As a result, we will be able to track code and parameters, their stage in the experiment and provide more efficient, accurate, and reproducible experiments.
+Also, we want to be able to mark some variables to be tracked. These variables can be hyperparameters of DS/ML experiments or key variables to assess the experiments, such as errors or scores. As a result, we will be able to track code, parameters, and their stage in the experiment and provide more efficient, accurate, and reproducible experiments.
 
 For an overview of current developments in this project, anyone can acesse this [fork of the original project](https://github.com/jaglima/noworkflow).
 
