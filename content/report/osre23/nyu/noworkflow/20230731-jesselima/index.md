@@ -1,5 +1,5 @@
 ---
-title: "Mid-term blog post for noworkflow proposal"
+title: "Mid-term blog post for noworkflow"
 subtitle: "Capturing provenance into Data Science/Machine Learning workflows" 
 authors: [jesselima]
 tags: ["osre23", "ucsc", "nyu", "data science", "machinelearning", "provenance", "reproducibility"]
@@ -19,8 +19,6 @@ caption: ""
 focal_point: "Smart"
 preview_only: false
 ---
-
-### Mid-Term blog post for noWorkflow and reproducibility of experiments in DS/ML
 
 This post describes our midterm work status and some achievements we have done so far in the project [proposal](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit#heading=h.nnxl1g16trg0) for the [noWorkflow](https://ucsc-ospo.github.io/project/osre23/nyu/noworkflow/) solution. 
 
