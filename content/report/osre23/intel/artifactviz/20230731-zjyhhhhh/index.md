@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [zjyhhhhh, Roasters05]
 tags: ["osre23"]
-categories: [SoR]
+categories: [SoR'23]
 date: 2023-07-31
 lastmod: 2023-07-31
 featured: false
