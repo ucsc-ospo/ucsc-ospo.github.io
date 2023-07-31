@@ -1,5 +1,5 @@
 ---
-title: "Verify the reproducibility of an experiment"
+title: "Mid-term blog post for noworkflow proposal"
 subtitle: "Capturing provenance into Data Science/Machine Learning workflows" 
 authors: [jesselima]
 tags: ["osre23", "ucsc", "nyu", "data science", "machinelearning", "provenance", "reproducibility"]
