@@ -27,7 +27,7 @@ This post describes our midterm work status and some achievements we have done s
 
 #### My current experiences
 
-I started doing a bibliographical review on reproducibility in the  Data Science (DS) and Machine Learning (ML) realms. It was a new subject to me, and I aimed to build a more robust theoretical background in the field. Meanwhile, I took notes in this series of posts [here](https://jesselima.substack.com/archive). 
+I started doing a bibliographical review on reproducibility in the  Data Science (DS) and Machine Learning (ML) realms. It was a new subject to me, and I aimed to build a more robust theoretical background in the field. Meanwhile, I took notes in this series of posts [here](https://jaglima.github.io/). 
 
 Then, as planned, I integrated with the current noWorkflow supporters. From the start, my mentors [Juliana Freire](https://ucsc-ospo.github.io/author/juliana-freire/) and [Joao Felipe Pimental](https://ucsc-ospo.github.io/author/joao-felipe-pimentel/) and I had a weekly one-hour schedule to keep track of my activities. During this period, we also met with other project supporters to brainstorm about our initial proposal. From this meeting, we came up with a plan on how technically approach a noWorkflow new features implementation in the Data Science and Machine Learning realms. 
 
