@@ -33,6 +33,6 @@ As part of the [Reproducible Analysis & Models for Predicting Genomics Workflow 
 
 Currently I am running the FASTQC tool to extract data quality metrics for the same set of files as discsussed above. Once I have collected those metrics, I can start building regression models to determine whether there is any significant impact of data quality on execution time. The first step toward the execution of a typical genomic analysis workflow is quality control of the raw data - a crucial step in removing low-quality data instances that may significantly impact the downstream analysis. Through our analysis we aim to develop a reproducible ML model that will give the user an estimate of the runtime based on the raw FATSQ file as input.  
 
-References
+## References
 [1] Albrecht, S., Sprang, M., Andrade-Navarro, M.A. _et al._ seqQscorer: automated quality control of next-generation sequencing data using machine learning. _Genome Biol_  **22**, 75 (2021). https://doi.org/10.1186/s13059-021-02294-2
 
