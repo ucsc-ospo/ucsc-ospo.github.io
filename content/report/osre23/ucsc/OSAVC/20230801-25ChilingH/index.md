@@ -1,5 +1,5 @@
 ---
-title: "Open Source Autonomous Vehicle Controller"
+title: "Midterm: Open Source Autonomous Vehicle Controller"
 subtitle: ""
 summary: ""
 authors: [25ChilingH]
