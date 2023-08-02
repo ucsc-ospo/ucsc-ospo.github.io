@@ -19,7 +19,7 @@ projects: [ospo]
 
 ## A surprisingly high number
 
-Earlier this year a colleague from UC San Diego mentioned a number: 32,000. That's the estimated number of public GitHub repositories that UC San Diego faculty and students have contributed to. This discovery is interesting in at least two ways: (1) it is an example of an intuitive metric for at least a first-order approximation of the value of open source to the university's research enterprise, and (2) even if it turns out that only a fraction of 32,000 repositories represents significant work, these repositories provide a treasure trove of data to greatly improve that approximation. I quote my colleague: 
+Earlier this year [Frank Wuerthwein](https://www.sdsc.edu//research/researcher_spotlight/wuerthwein_frank.html), Director of the San Diego Supercomputing Center (SDSC) mentioned to me a number: 32,000. That's the estimated number of public GitHub repositories that UC San Diego faculty and students have contributed to. This discovery is interesting in at least two ways: (1) it is an example of an intuitive metric for at least a first-order approximation of the value of open source to the university's research enterprise, and (2) even if it turns out that only a fraction of 32,000 repositories represents significant work, these repositories provide a treasure trove of data to greatly improve that approximation. I quote Frank: 
 > There is a sense that 100's of faculty and thousands of students are contributing or have contributed to open source projects. These numbers were presented in a meeting that high level leadership at UCSD participated (VCR, EVC, CTO, …) and the statement made quite a stir.  
 
 ## Software production will be regulated
