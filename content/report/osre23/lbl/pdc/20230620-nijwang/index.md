@@ -4,7 +4,7 @@ subtitle: ""
 summary: "This project's goal is to novel data abstraction for managing science data in an object-oriented manner. PDC's will provide efficient strategies for moving data in deep storage hierarchies and techniques for transforming and reorganizing data based on application requirements. By developing an Python API and command line tools, these objects will be able to be used with ease regardless of the situation."
 authors: 
   - nijwang
-tags: ["osre23"]
+tags: ["osre23", uc]
 categories: [GSoC'23]
 date: 2023-06-20
 lastmod: 2023-06-20
