@@ -43,3 +43,7 @@ This dataset is however only a first approximation of the set of all relevant re
 ## Reducing the burden of software regulation
 
 UC ORB will be just one instance of valuable datasets that will be hopefully established in many other universities, not only for statistics about the value of open source software but also for university researchers to explore new ways to reduce the burden of supply chain security and software safety assurance. Whatever software regulation is going to look like in the future, there is an urgent need for society to find paths towards greater security and safety without diminishing the flow of innovation. Once the value of open source software becomes visible, universities with their outstanding research talent are in a great position to not only engage but provide valuable insights of how software should be regulated in the future.
+
+## Looking for funding
+
+I'm looking for funding for this important project. Please contact me if you or someone you know might be interested in supporting this effort.
