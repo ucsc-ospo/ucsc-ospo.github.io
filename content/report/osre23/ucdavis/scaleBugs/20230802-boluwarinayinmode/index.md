@@ -55,6 +55,7 @@ In order to make sense of the various bug reports, we had to learn some terminol
 
 
 ## Accomplishments
+
 We have been able to build docker containers for the following scalability bugs: 
 
 **IGNITE 12087**
