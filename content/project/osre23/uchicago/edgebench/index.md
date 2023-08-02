@@ -22,6 +22,7 @@ With these challenges in mind, the team previously designed and implemented a dy
 - **Difficulty:** Challenging
 - **Size:** Large (350 hours)
 - **Mentors:** [Junchen Jiang](mailto:junchenj@uchicago.edu), [Yuyang Huang](mailto:yuyangh@uchicago.edu)
+- **Contributor(s):** {{% mention zharfanf %}}
 
 Integrate various types of video analytic applications into the aforementioned dynamic resource manager and reproduce/benchmark the applications' performance.
 

@@ -38,7 +38,7 @@ main:
   - name: 📝 Blog
     url: "#blog"
     weight: 40
-  - name: 🎪 Symposium
+  - name: 🎪 Events
     url: "event"
 #  - name: 💚 Members
 #    url: "#members"
