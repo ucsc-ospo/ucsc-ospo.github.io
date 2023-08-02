@@ -20,7 +20,7 @@ focal_point: "Smart"
 preview_only: false
 ---
 
-This post describes our midterm work status and some achievements we have done so far in the project [proposal](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit#heading=h.nnxl1g16trg0) for the [noWorkflow](https://ucsc-ospo.github.io/project/osre23/nyu/noworkflow/) package. 
+This post describes our midterm work status and some achievements we have done so far in [the project](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit#heading=h.nnxl1g16trg0) for the [noWorkflow](https://ucsc-ospo.github.io/project/osre23/nyu/noworkflow/) package. 
 
 
 #### The initial weeks
@@ -29,27 +29,33 @@ I started doing a bibliographical review on reproducibility in the Data Science 
 
 Then, as planned, I integrated with the current noWorkflow supporters in order get a broader view of the project and their contributions. Additionally, [Juliana Freire](https://ucsc-ospo.github.io/author/juliana-freire/), [Joao Felipe Pimental](https://ucsc-ospo.github.io/author/joao-felipe-pimentel/) and I set up a weekly one-hour schedule to keep track of my activities. 
 
-### Brainstorming opportunities
+### Brainstormed opportunities
 
-At the beginnig of June, we also met with other project supporters to brainstorm about our initial proposal. From this meeting, we came up with a plan on how technically approach a noWorkflow new feature in Data Science and Machine Learning experimental management. 
+At the beginning of June, we also met with other project supporters to brainstorm about our initial proposal. From this meeting, we came up with a plan on how technically approach a noWorkflow new feature in Data Science and Machine Learning experimental management.
 
-In this brainstorm, we reinforced that Jupyter Notebooks are, by far, the most frequent set up in DS/ML computational experiments. They established themselves as the fundamental artifact by embedding code, text and enabling execution and visualization. Entire experiments are created and kept in Jupyter notebooks until they are sent to production. And the opportunity at hand is to integrate noWorkflow with Jupyter Notebooks. 
+In this brainstorm, we aligned that _Jupyter Notebooks are, by far, the most frequent set up in DS/ML computational experiments. They established themselves as the fundamental artifact by embedding code, text and enabling execution and visualization. Entire experiments are created and kept in Jupyter notebooks until they are sent to production. And the opportunity at hand is to integrate noWorkflow with Jupyter Notebooks_. 
+Then, our mid-term goal was adapted from the original plan of only selecting and executing a prototypical ML experiment. We added the goal of paving the way for providing a tagging feature for Notebook cells. 
 
-Then, our mid-term goal was adapted from the original plan of only selecting and executing a prototypical ML experiment. We added the goal of paving the way for providing a tagging feature for Notebook cells. Specifically, DS/ML experimental typical workflows have well-defined stages, usually composed of _data reading_, _feature engineering_, _model scoring_, and _metrics evaluation_.  In our  dream space, the user would tag a cell in their experiment, enabling the capture of the tagged metadata into a database. This step integrates the ultimate goal of facilitating comparisons, management, and even causal inference across different trials of a DS/ML experiment. 
+More specifically, DS/ML experimental workflows usually have well-defined stages composed of _data reading_, _feature engineering_, _model scoring_, and _metrics evaluation_.  In our  dream space, the user would tag a cell in their experiment, enabling the capture of the tagged metadata into a database. This step integrates the ultimate goal of facilitating comparisons, management, and even causal inference across different trials of a DS/ML experiment. 
 
-### Getting busy
+### Current deliverables
 
-So, based on our plans, I first turned to create a separate table to store the metadata from cell tagging. This table should store the cell hash codes and information that can be matched with the code executed within a cell. As a result, in this initial phase, we have a separate *table storing tags and the activation ids of the cells, enabling identify them as part of a given stage in the DS/ML experiment*. 
+So, based on our plans, we create a separate table to store the metadata from cell tagging. This table stores the cell hash codes and information to match the code executed within a cell. As a result, we can store tags and the activation ids of the cells enabling us to identify a cell containing a given stage in a DS/ML experiment. 
 
-Simultaneously, I had to encapsulate the cell marking code into a function to make it cleaner. All this was done in Python programming, using fundamentals of OO development and using Git as the tool for versioning.
+The second feature implemented was tagging a specific variable. In the same way for a cell, now it is possible to stamp a given variable with a tag, keeping its name, id, and received value in this separated table.
 
-During this period, we also had to make choices along the way. For instance, capturing the provenance of cells through tags is a different solution than tagging code chunks in scripts. In this case, we decided to stick with tagging Notebook cells at this moment. We also opted to start storing the metadata to enable comparisons between trials rather than focus on a sophisticated graphic and user-friendly cell tagging system. We also opted to keep this metadata info stored in a separate table in the database.
+Finally, we worked on displaying the dependencies of a given variable. In this case, by tagging a given variable, we can display the other variables, values, and cells activated in its construction. Then, we can visualize the dependencies that contributed to its final value.
+
+For an overview of current developments, please refer to my [fork of the main project](https://github.com/jaglima/noworkflow/tree/stage_tagging).
+
+### Challenges
+
+During this period, we had to make choices along the way. For instance, capturing the provenance of cells through tags is a different solution than tagging code chunks in scripts. In this case, we decided to stick with tagging Notebook cells at this moment. We also opted to start storing the metadata to enable comparisons between trials rather than focus on a sophisticated graphic and user-friendly cell tagging system. We also opted to keep this metadata info stored in a separate table in the database.
+
 
 ### Next steps
 
-In the second half of the summer, our goal is to integrate this current table with the activation metadata from the execution and then match the tags with the operations they enclose to proceed with comparisons among experiments. 
-
-Also, we want to be able to mark some variables to be tracked. These variables can be hyperparameters of DS/ML experiments or key variables to assess the experiments, such as errors or scores. As a result, we will be able to track code, parameters, and their stage in the experiment and provide more efficient, accurate, and reproducible experiments.
+In the second half of the summer, our goal is to integrate these features in order to proceed with comparisons among experiments. Such comparisons would use the tagged variables as the hyperparameters of DS/ML experiments or key variables to assess the experiments, such as errors or scores. As a result, we will be able to compare the results of two trials in a more accurate, and easily reproducible experiment.
 
 For an overview of current developments in this project, anyone can acesse this [fork of the original project](https://github.com/jaglima/noworkflow/tree/stage_tagging).
 
