@@ -18,5 +18,6 @@ In this project, we plan to understand the impact of this problem: On the necess
 **Difficulty:** Medium  
 **Size:** 350 hours  
 **Mentor(s):** {{% mention wang.7564 %}}, {{% mention yu.3053 %}}  
+**Contributor(s):** {{% mention ren.450 %}}  
 
 The student will first pick one or a few systems she is interested in. Then she will first try to reproduce their reported results. If successful, she will further try to measure these systems under previously unreported settings. During the procedure, she will need to diagnose and fix any problems that may show up. Finally, she will analyze whether the original conclusions still hold under these new settings and whether fixing any problems will change the performance characteristics of the target systems.
