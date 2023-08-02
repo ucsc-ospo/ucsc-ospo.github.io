@@ -16,7 +16,7 @@ role: Undergraduate Student, University of Chicago
 organizations:
   - name: Department of Computer Science
     url: "https://cs.uchicago.edu/"
-  - name: niversity of Chicago
+  - name: University of Chicago
     url: "https://www.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
