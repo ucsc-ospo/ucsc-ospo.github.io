@@ -21,9 +21,9 @@ image:
 
 ## Introduction
 
-As part of the Scalebugs Project, we have worked on  building a dataset of reproducible scalability bugs. To achieve this, we go through existing bug reports for popular distributed systems, which include Cassandra, HDFS, Ignite, and Kafka. Workloads are designed to reproduce these scalability bugs. By triggering some functionalities of the system under different configurations (e.g., different numbers of nodes), for which we will observe the impact on performance. 
+As part of the Scalebugs Project, we have worked on  building a dataset of reproducible scalability bugs. To achieve this, we go through existing bug reports for popular distributed systems, which include Cassandra, HDFS, Ignite, and Kafka. Workloads are designed to reproduce these scalability bugs by triggering some functionalities of the system under different configurations (e.g., different numbers of nodes), for which we will observe the impact on performance. 
 
-So far we have worked on packaging the buggy and fixed versions of scalability systems, a runtime environment that ensures reproducibility, and the workloads used to trigger the symptoms of the bug inside docker containers. By packaging these versions, we are simplifying the process of deployment and testing. This enables us to switch between different versions efficiently, aiding in the identification and comparison of the bug's behavior. For each scalability system, we have carefully established a runtime environment that is consistent and reproducible. This approach ensures that each time we run tests or investigations, the conditions remain identical.
+So far we have worked on packaging the buggy and fixed versions of scalability systems, a runtime environment that ensures reproducibility, and the workloads used to trigger the symptoms of the bug inside docker containers. By packaging these versions together, we are simplifying the process of deployment and testing. This enables us to switch between different versions efficiently, aiding in the identification and comparison of the bug's behavior. For each scalability system, we have carefully built a runtime environment that is consistent and reproducible. This approach ensures that each time we run tests or investigations, the conditions remain identical.
 
 
 ## New Terms
