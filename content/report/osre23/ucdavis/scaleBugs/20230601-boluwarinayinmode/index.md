@@ -6,7 +6,7 @@ authors: [boluwarinayinmode, imzahra]
 tags: ["osre23"]
 categories: ["SummerofReproducibility23"]
 date: 2023-06-01
-lastmod: 2023-06-01
+lastmod: 2023-08-02
 featured: false
 draft: false
 
@@ -19,4 +19,4 @@ image:
   preview_only: false
 ---
 
-As part of the [ScaleBugs](/project/osre23/ucdavis/scalebugs/) my [proposal](https://drive.google.com/file/d/17iANa5ei_gguZsGGwR1sfPHOoJysnNsf/view?usp=sharing) under the mentorship of {{% mention rubio %}},{{% mention haryadi %}} and {{% mention hnzhu %}} aims to build a dataset of reproducible scalability bugs by analyzing bug reports from popular distributed systems like Cassandra, HDFS, Ignite, and Kafka. The focus is on identifying bugs that are dependent on the scale of the run, such as the number of nodes, file sizes, and request numbers. The resulting dataset will consist of bug artifacts containing the buggy and fixed versions of the scalability system, a reproducible runtime environment, and workload shell scripts designed to demonstrate bug symptoms under different scales. These resource will help support research and development efforts in addressing scalability issues and optimizing system performance.
+Hello! As part of the [ScaleBugs](/project/osre23/ucdavis/scalebugs/) project our proposals ([proposal](https://drive.google.com/file/d/17iANa5ei_gguZsGGwR1sfPHOoJysnNsf/view?usp=sharing) from {{% mention boluwarinayinmode %}} and [proposal](https://drive.google.com/file/d/199ZsiWHXsLYbSJ896vaf8tjrYs23P5xN/view?usp=sharing) from {{% mention imzahra %}}) under the mentorship under the mentorship of {{% mention rubio %}},{{% mention haryadi %}} and {{% mention hnzhu %}} aims to build a dataset of reproducible scalability bugs by analyzing bug reports from popular distributed systems like Cassandra, HDFS, Ignite, and Kafka. For each bug report, we will analyze whether the reported bug is influenced by the scale of the operation, such as the number of nodes being used or a number of requests. The resulting dataset will consist of bug artifacts containing the buggy and fixed versions of the scalability system, a reproducible runtime environment, and workload shell scripts designed to demonstrate bug symptoms under different scales. These resources will help support research and development efforts in addressing scalability issues and optimizing system performance.
