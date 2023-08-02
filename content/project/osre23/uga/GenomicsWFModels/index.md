@@ -20,6 +20,7 @@ In this project, we seek to analyze a huge dataset from a large-scale genomics p
 - **Difficulty:** Medium
 - **Size:** 350 hours
 - **Mentor(s):** {{% mention inkee.kim %}}
+- **Contributor(s):** {{% mention charishulu %}}
 
 Analyze a large-scale trace of genomics workflow execution along with metrics from various genomics alignment tools (e.g., FastQC, Picard, and GATK metrics) and find features that
 correlate the most with workflow execution time and its tail behavior. Then, based on the results, we will build ML models that accurately predict genomic workflows’ execution times.
