@@ -4,7 +4,7 @@ subtitle: "Making it easier for researchers to share information"
 summary: ""
 authors: [LuHesketh]
 author_notes: ["Synthetic Biology amateur and lab automation enthusiast"]
-tags: ["osre23"]
+tags: ["osre23", uc, reproducibility]
 categories: [GSoC'23]
 date: 2023-05-25
 lastmod: 2023-06-26

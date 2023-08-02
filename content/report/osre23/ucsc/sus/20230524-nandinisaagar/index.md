@@ -4,7 +4,7 @@ subtitle: "Increasing the Reach of Open Source amoung High-Schoolers and Teenage
 summary: ""
 authors: [Nandinisaagar]
 author_notes: ["An Open Source Enthusiast and a Student at IIT(BHU), Varanasi"]
-tags: ["osre23"]
+tags: ["osre23", uc]
 categories: [GSoC'23]
 date: 2023-05-25
 lastmod: 2023-05-25

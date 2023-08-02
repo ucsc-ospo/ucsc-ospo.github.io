@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [zharfanf]
 author_notes: ["A computer networking enthusiast from ITB"]
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: [SoR]
 date: 2023-05-30
 lastmod: 2023-06-10

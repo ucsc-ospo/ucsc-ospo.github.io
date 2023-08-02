@@ -3,7 +3,7 @@ title: "ScaleBugs: Reproducible Scalability Bugs"
 subtitle: ""
 summary:
 authors: [boluwarinayinmode, imzahra]
-tags: ["osre23"]
+tags: ["osre23", reproducibility, uc]
 categories: ["SummerofReproducibility23"]
 date: 2023-06-01
 lastmod: 2023-08-02

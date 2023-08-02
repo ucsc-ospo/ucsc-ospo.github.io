@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [luarss]
 author_notes: ["Student at National University of Singapore"]
-tags: ["osre23"]
+tags: ["osre23", uc, reproducibility]
 categories: ["chip-design"]
 date: 2023-07-27
 lastmod: 2023-07-27
