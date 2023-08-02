@@ -2,7 +2,7 @@
 title: "Mid-term blog post for Teaching Computer Networks with Reproducible Research: Developing a 'classroom competition' for adaptive video delivery"
 subtitle: "" 
 authors: [Srishti-j18]
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: ["SummerofReproducibility23"]
 date: 2023-08-01
 lastmod: 2023-08-01

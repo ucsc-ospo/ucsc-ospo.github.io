@@ -3,7 +3,7 @@ title: "Public Artifact Data and Visualization"
 subtitle: ""
 summary: "This project aims to design a system that allows researchers to conveniently record and compare the environmental information, such as CPU utilization, of different iterations and versions of code during an experiment."
 authors: [zjyhhhhh, Roasters05]
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: [SoR]
 date: 2023-06-17
 lastmod: 2023-06-17

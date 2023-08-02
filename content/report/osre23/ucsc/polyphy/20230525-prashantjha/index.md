@@ -4,7 +4,7 @@ subtitle: "Developing and Improving PolyPhy's Infrastructure"
 summary: ""
 authors: [PrashantJha]
 author_notes: ["An Open Source Enthusiast and graduate from BITS Pilani"]
-tags: ["osre23"]
+tags: ["osre23", uc]
 categories: [GSoC'23]
 date: 2023-05-25
 lastmod: 2023-05-25
