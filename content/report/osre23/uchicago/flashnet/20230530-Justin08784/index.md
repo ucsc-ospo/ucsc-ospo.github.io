@@ -4,8 +4,8 @@ subtitle: ""
 summary: ""
 authors: ["Justin08784"]
 author_notes: ["Student at the University of Chicago"]
-tags: ["osre23"]
-categories: [GSoC'23]
+tags: ["osre23", reproducibility]
+categories: [SoR'23]
 date: 2023-05-30
 lastmod: 2023-05-30
 featured: false

@@ -1,5 +1,5 @@
 ---
-widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
+widget: portfolio 
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
@@ -31,6 +31,17 @@ content:
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: false
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: UC Mentors
+      tag: uc
+    - name: Reproducibility
+      tag: reproducibility
+    - name: Hide
+      tag: hidden
+  filter_default: 0
+
 design:
   # Choose a listing view
   view: compact

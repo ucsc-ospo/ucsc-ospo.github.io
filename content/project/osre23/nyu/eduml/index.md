@@ -18,7 +18,8 @@ The computer science and engineering classroom is as essential part of the repro
 * **Skills**: Python, machine learning, writing
 * **Difficulty**: Medium
 * **Size**: 350 hours
-* **Mentor(s)**: [Fraida Fund](mailto:ffund@nyu.edu) and TBD
+* **Mentor(s)**: {{% mention ffund %}} and TBD
+* **Contributor(s)**: {{% mention MSaeed %}}
 
 In machine learning, replicating a published result to confirm the validity of the experimental results and the broader conclusions of the paper can take several forms, with increasing levels of effort:
 
@@ -38,7 +39,8 @@ This project will develop interactive materials (using one or more exemplar publ
 * **Skills**: Python, machine learning, writing
 * **Difficulty**: Medium
 * **Size**: 350 hours
-* **Mentor(s)**: [Fraida Fund](mailto:ffund@nyu.edu) and TBD
+* **Mentor(s)**: {{% mention ffund %}} and TBD
+* **Contribuor(s)**: {{% mention indianspeedster %}}, {{% mention kokoedwin %}}
 
 The goal is to make it easier for instructors to expose students to state-of-the-art research in the classroom. This project will work with an existing set of recent reproducible results in machine learning, and will package them for easier consumption by students and more effective use in the classroom. This may include, but is not necessarily limited to:
 
