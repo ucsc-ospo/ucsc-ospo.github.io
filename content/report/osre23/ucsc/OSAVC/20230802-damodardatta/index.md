@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [damodardatta]
 author_notes: ["Research Assistant at RRC,IIIT Hyderabad"]
-tags: ["osre23"]
+tags: ["osre23", uc]
 categories: ["GSoC'23"]
 date: 2023-08-02
 lastmod: 2023-08-02
