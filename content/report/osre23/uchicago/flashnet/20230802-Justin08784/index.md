@@ -27,9 +27,9 @@ Hello everyone,
 
 This is my second blog post for SoR 2023. As you may recall from my [initial blogpost](/report/osre23/uchicago/flashnet/20230530-Justin08784), I am working on the [Flashnet](/report/osre23/uchicago/flashnet/) project under the mentorship of {{% mention haryadi %}}.
 
-I've been assigned two major tasks with respect to the Flashnet:
-Perform post-training quantization (PTQ) on existing Flashnet models 
-Implement a rocksDB client (to interface with the Flashnet kernel) with 3-way replication
+I've been assigned two major tasks under Flashnet:
+1. Perform post-training quantization (PTQ) on existing Flashnet models 
+2. Implement a rocksDB client (to interface with the Flashnet kernel) with 3-way replication
 
 ## Task 1: Perform post-training quantization (PTQ) on existing Flashnet models 
 Since all of our models are currently built using the keras API, I decided to use the tensorflow-lite library, which supports direct conversion. Unfortunately, I encountered several persistent bugs while attempting to apply full-integer quantization on our binary neural network model:
@@ -66,7 +66,7 @@ rocksdb is an embedded database for key-value data. Our Flashnet team is current
 I've started on this segment of the project only recently, so my current work is still in its formative stages. As of writing, I've been primarily concerned with setup of software (on a new chameleon instance), running toy db examples, and educating myself on basic terminology/rocksdb documentation.
 
 
-Future work:
+## Future work
 I expect to continue working on Task 1 (do quantization from ground-up or use a different library) and Task 2 as detailed above. I also hope to implement a transformer-based model to supplement our existing suite of Flashnet models.
 
 
