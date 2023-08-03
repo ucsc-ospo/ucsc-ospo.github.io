@@ -15,8 +15,9 @@ lastmod: 2023-03-15
 - **Topics:** `VLSI Design Basics`, `Python`
 - **Skills:** Python, VLSI, JSON
 - **Difficulty:** Easy/Medium
-- **Size**: Medium or Large (175 or 350 hours) 
+- **Size:** Medium or Large (175 or 350 hours) 
 - **Mentors:** {{% mention jcirimel %}}, [Matthew Guthaus](mailto:mrg@ucsc.edu)
+- **Contributor(s):** {{% mention Mahnoor-ismail01 %}}
 
 Create a visualization interface to debug layout verses schematic mismatches in [Magic](https://github.com/RTimothyEdwards/magic) layout editor. Results will be parsed from a JSON output of [Netgen](https://github.com/RTimothyEdwards/netgen).
 

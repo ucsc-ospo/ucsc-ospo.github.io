@@ -3,7 +3,7 @@ title: "Enhancing and Validating LiveHD's Power Modeling Flow"
 subtitle: ""
 summary: "This project aims to improve LiveHD's power modeling flow, focusing on increasing its stability, accuracy, and efficiency for power estimation in hardware designs. It involves technical refinement of the existing system, and enhancement of user documentation for wider adoption. The end goal is a robust power modeling tool that fosters innovation in energy-efficient hardware designs."
 authors: [shahzaibk23]
-tags: ["osre23"]
+tags: ["osre23", uc]
 categories: ["GSoC'23"]
 date: 2023-05-29
 lastmod: 2023-05-29

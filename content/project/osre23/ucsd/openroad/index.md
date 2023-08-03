@@ -37,6 +37,7 @@ Test, analyze and develop verifiable and re-producible strategies to improve run
   * **Difficulty**: Medium
   * **Size**:  Medium or Large (175 or 350 hours)
   * **Mentor**: [Indira Iyer Almeida](mailto:iiyer@precisioninno.com), [Vitor Bandeira](mailto:vvbandeira@precisioninno.com)
+  * **Contributor(s)**: {{% mention luarss %}}
 
 Review and update missing documentation and tutorials in [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) for existing and new features. Here is an example Tutorial link: https://openroad-flow-scripts.readthedocs.io/en/latest/tutorials/FlowTutorial.html for reference.
 

@@ -36,8 +36,8 @@ Keep it short and crisp. Include a short description of your project, a link to 
 
 ## Making a pull request for your blog
 
-- Fork the [git repository](https://github.com/carlosmalt/ucsc-ospo)
-- If you haven't already done so, add your profile using [these instructions](https://ospo.ucsc.edu/osredocs/formentors/#instructions-for-adding-a-mentor)
+- Fork the [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
+- If you haven't already done so, add your profile using [these instructions](/osredocs/formentors/#instructions-for-adding-a-mentor)
   - **IMPORTANT**: Under `user_groups:` add `- Contributors` (as opposed to any of the two mentor groups)
   - The short bio and any other information goes below the frontmatter
 
@@ -54,7 +54,9 @@ Keep it short and crisp. Include a short description of your project, a link to 
 title: "YOUR TITLE"
 subtitle: "YOUR SUBTITLE (OPTIONAL)"
 summary:
-authors: [USERNAME]
+authors: 
+  - USERNAME1
+  - USERNAME2
 tags: ["osre23"]
 categories: []
 date: YYYY-MM-DD
