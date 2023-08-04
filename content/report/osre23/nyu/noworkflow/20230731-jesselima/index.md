@@ -7,13 +7,6 @@ date: 2023-05-24
 lastmod: 2023-05-24
 draft: false
 featured: false
-
-# Featured image
-
-# To use, add an image named `featured.jpg/png` to your page's folder.
-
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-
 image:
 caption: ""
 focal_point: "Smart"
@@ -56,7 +49,4 @@ During this period, we had to make choices along the way. For instance, capturin
 ### Next steps
 
 In the second half of the summer, our goal is to integrate these features in order to proceed with comparisons among experiments. Such comparisons would use the tagged variables as the hyperparameters of DS/ML experiments or key variables to assess the experiments, such as errors or scores. As a result, we will be able to compare the results of two trials in a more accurate, and easily reproducible experiment.
-
-For an overview of current developments in this project, anyone can acesse this [fork of the original project](https://github.com/jaglima/noworkflow/tree/stage_tagging).
-
 
