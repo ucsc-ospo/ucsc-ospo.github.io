@@ -12,6 +12,15 @@ lastmod: 2023-07-28
 featured: false
 draft: false
 
+image: "featured"
+caption: "BehaviourSpecialization for Liquid Handling class"
+focal_point: ""
+preview_only: false
+
+image: "featured_2"
+caption: "Dictionary for LabOp to Pylabrobot container correspondence"
+focal_point: ""
+preview_only: false
 
 ---
 
