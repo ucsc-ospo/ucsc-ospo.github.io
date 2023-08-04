@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [nijwang]
 author_notes: ["UCSC Student"]
-tags: ["osre23"]
+tags: ["osre23", "uc"]
 categories: ["database"]
 date: 2023-07-30
 lastmod: 2023-07-30
