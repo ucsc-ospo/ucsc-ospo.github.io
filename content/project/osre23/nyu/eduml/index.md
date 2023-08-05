@@ -39,7 +39,8 @@ This project will develop interactive materials (using one or more exemplar publ
 * **Skills**: Python, machine learning, writing
 * **Difficulty**: Medium
 * **Size**: 350 hours
-* **Mentor(s)**: [Fraida Fund](mailto:ffund@nyu.edu) and TBD
+* **Mentor(s)**: {{% mention ffund %}} and TBD
+* **Contribuor(s)**: {{% mention indianspeedster %}}, {{% mention kokoedwin %}}
 
 The goal is to make it easier for instructors to expose students to state-of-the-art research in the classroom. This project will work with an existing set of recent reproducible results in machine learning, and will package them for easier consumption by students and more effective use in the classroom. This may include, but is not necessarily limited to:
 

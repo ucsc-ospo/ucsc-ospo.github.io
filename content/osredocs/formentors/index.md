@@ -22,10 +22,10 @@ A project serves as the context for one or more project ideas. Each project is r
 
 - Option A: [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn)
 - Option B (via git):
-  - Fork [git repository](https://github.com/carlosmalt/ucsc-ospo)
+  - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
   - Create `content/project/osre23/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre22/ORGANIZATION/PROJECTNAME`
   - In that directory create/update `index.md` and the project's image (`featured.png` or `featured.jpg`) 
-  - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/carlosmalt/ucsc-ospo/main/content/project/osre22/ucsc/polyphorm/index.md)):
+  - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/project/osre22/ucsc/polyphorm/index.md)):
     - Add the project's title in `title:`, 
     - Date the project entry with `date:` and `lastmod:`, using one of the formats `2022-05-27` (day only), `2022-05-27T07:32:00` (with time), `1979-05-27T00:32:00-07:00` (UTC-7 timezone), or `2022-05-27T07:32:00Z` (UTC timezone). Note that projects dated in the future will not display.
     - Include a list of `authors:`, using either names in quotes or user names (see below for instructions on how to add user names)
@@ -41,9 +41,9 @@ Mentors are welcome to add information about themselves (see [example](https://o
 - Option A: [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn)
   - Include name, title, affiliations, email, short bio, whether you are UC or Summer of Reproducibility mentor (or both), and, optionally, photo, web page and social media links.
 - Option B (via git): 
-  - Fork [git repository](https://github.com/carlosmalt/ucsc-ospo) (or combine with pull request of adding/updating a project above)
+  - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io) (or combine with pull request of adding/updating a project above)
   - Create `/content/authors/USERNAME` directory.
-  - In that directory copy an `_index.md` file from another user and update it (see [example](https://raw.githubusercontent.com/carlosmalt/ucsc-ospo/main/content/authors/slieggi/_index.md))
+  - In that directory copy an `_index.md` file from another user and update it (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/authors/slieggi/_index.md))
     - Many icons are available (see [documentation](https://wowchemy.com/docs/getting-started/page-builder/#icons))
     - **IMPORTANT**: Under `user_groups:` add either `- University of California Mentors` or `- Summer of Reproducibility Mentors` (or both).
     - The short bio and any other information goes below the frontmatter.
