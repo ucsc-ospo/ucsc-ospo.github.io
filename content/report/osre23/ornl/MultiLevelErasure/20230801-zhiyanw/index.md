@@ -1,12 +1,12 @@
 ---
-title: "Reproducible Evaluation of Multi-level Erasure Coding"
+title: "Reproducible Evaluation of Multi-level Erasure Coding (Midterm)"
 subtitle: ""
 summary:
 authors: [zhiyanw]
 tags: ["osre23", "reproducibility"]
 categories: [SoR'23]
-date: 2023-05-31
-lastmod: 2023-05-31
+date: 2023-08-05
+lastmod: 2023-08-05
 featured: false
 draft: false
 
