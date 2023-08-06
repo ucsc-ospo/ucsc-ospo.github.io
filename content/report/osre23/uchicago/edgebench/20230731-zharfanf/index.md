@@ -96,7 +96,13 @@ The left figure depicts the average improvement of the concierge. Here we can se
 
 From the result, we still managed to get the improvement. However, it seems that average improvement decreases compared to the previous one. The reason of this phenomenon will be discussed later.
 
-### Discussion
+### Overhead Measurement
+
+![Overhead Measurement](./images/overhead_1.png)
+
+From the graph above, each graph represents the total bandwidth used. In this experiment, it is clearly known that the lower MI leads to higher overhead since there would be more profiling process than higher MI. From the 4 graphs above, it can be known that there would be a significant trade off if we lower the MI since the improvement itself is not highly significant. The highest improvement is at **1200kbps**. Hence, for higher bandwidth, there is no need to do the profiling too often
+
+## Discussion
 There are some limitations of our current design. If we have a look at box-plot in figure 5 above, we can see that there is some combinations where the improvement is negative.
 
 ![Failed Recovery](./images/recovery_failed.png)
