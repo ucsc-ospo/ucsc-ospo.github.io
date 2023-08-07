@@ -23,13 +23,13 @@ When talking about life sciences, reproducibility is a issue amongst most resear
 
 PylabRobot and PyHamilton also come to the picture as such libraries exist to make it possible to write protocols for Hamilton robots(and Tecan machines as well for PylabRobot) but those libraries share the limitation of being able to only represent laboratory protocols at their lower levels, with the user having to write every single command in Python for the protocol to be executed. Thus I’m currently developing an extension for LabOp protocols to be converted into PylabRobot/PyHamilton scripts. This way the researcher writing the protocol can do it in a friendlier fashion, using human-friendly terms to write protocols for robot execution.
 
-{{% figure src="featured.png" caption="BehaviourSpecialization for Liquid Handling class" numbered="true %}}
+{{% figure src="featured.png" caption="BehaviourSpecialization for Liquid Handling class" numbered="true" %}}
 
 The first step is building a correspondence spreadsheet with a hello world protocol written in both languages (LabOp | PylabRobot ). This way we can make an equivalence between the functions, parameters and default commands of both Libraries, as well as their structure. This spreadsheet will serve as guidance for the conversion of the Liquid handling steps from their representation in LabOp to their representation in Pylabrobot.
 
 The second step is to create a file that'll do execute the conversion. In this file I will define a Labware map that's basically a dictionary translating the resources LabOp names into Labware IDs recognizable by PylabRobots "resource" classes and a Behaviourspecialization class that should convert LabOp actions into PylabRobots Liquid Handler class operations as they'll coordinate the commands sent from the script to the machines.(see featured images)
 
-{{% figure src="featured_2.png" caption="Dictionary for LabOp to Pylabrobot container correspondence" numbered="true %}}
+{{% figure src="featured_2.png" caption="Dictionary for LabOp to Pylabrobot container correspondence" numbered="true" %}}
 
 
 Then we move to the protocol that will be tested on the Hamilton Machines, this is a Plasmid purification protocol that is usually performed by a human at a very lower level, one sample at a time. This limitation is not present on Hamilton robots as they can handle many samples at the same time with only one protocol execution. The robot that will be running this protocol has two modules that are not yet present in PylabRobot’s extensions, a pressure pump module and a on deck heatershaker. I’ll be implemmenting this modules in PylabRobot based on their default commands present in PyHamilton and run the protocol on a Hamilton Starlet unit.
