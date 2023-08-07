@@ -6,7 +6,7 @@ authors:
   - LuHesketh
 
 author_notes: ["Student in Brazil's Campinas State University"]
-tags: ["osre23","reproducibility ","uc"]
+tags: [osre23, reproducibility, uc]
 categories: []
 date: 2023-07-28
 lastmod: 2023-07-28
