@@ -1,5 +1,5 @@
 ---
-title: "Using Reproducibility in Machine Learning Education: Reproducibility with Incomplete Methodology Descriptions"
+title: "Mid Term Blog : Using Reproducibility in Machine Learning Education: Reproducibility with Incomplete Methodology Descriptions"
 subtitle: ""
 summary: ""
 authors: [indianspeedster]
@@ -7,7 +7,7 @@ author_notes: ["Student at New York University "]
 tags: ["osre23", "reproducibility"]
 categories: ["SummerofReproducibility23"]
 date: 2023-08-04
-lastmod: 2023-05-21
+lastmod: 2023-08-08
 featured: false
 draft: false
 
