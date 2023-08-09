@@ -1,10 +1,10 @@
 ---
-title: "FlashNet: Towards Reproducible Continual Learning for Storage System"
+title: "[Midterm] FlashNet: Towards Reproducible Continual Learning for Storage System"
 subtitle: ""
 summary: ""
 authors: [rannnayy]
 author_notes: ["Student at Institut Teknologi Bandung"]
-tags: ["osre23"]
+tags: ["osre23", "reproducibility"]
 categories: [SoR'23]
 date: 2023-08-02
 lastmod: 2023-08-02
