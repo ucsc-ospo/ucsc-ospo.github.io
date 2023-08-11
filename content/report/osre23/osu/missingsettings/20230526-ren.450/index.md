@@ -4,7 +4,7 @@ subtitle: ""
 summary: "The project plans to understand the impact of missing settings on performance of the target open-source database systems."
 authors: [ren.450]
 author_notes: ["PhD Student at The Ohio State University"]
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: [SoR'23]
 date: 2023-05-25
 lastmod: 2023-05-25

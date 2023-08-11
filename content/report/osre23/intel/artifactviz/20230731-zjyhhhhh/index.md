@@ -3,7 +3,7 @@ title: "Mid-term blog post for Public Artifact Data and Visualization"
 subtitle: ""
 summary: ""
 authors: [zjyhhhhh, Roasters05]
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: [SoR'23]
 date: 2023-07-31
 lastmod: 2023-07-31

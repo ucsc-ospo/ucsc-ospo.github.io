@@ -3,7 +3,7 @@ title: "Reproducible Analysis & Models for Predicting Genomics Workflow Executio
 subtitle: ""
 summary:
 authors: ['charishulu']
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: [SoR'23]
 date: 2023-06-16
 lastmod: 2023-06-16

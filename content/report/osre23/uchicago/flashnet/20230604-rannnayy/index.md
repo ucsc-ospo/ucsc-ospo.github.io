@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [rannnayy]
 author_notes: ["Student at Institut Teknologi Bandung"]
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: [SoR'23]
 date: 2023-06-04
 lastmod: 2023-06-04

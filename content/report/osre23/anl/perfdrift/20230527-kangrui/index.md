@@ -4,7 +4,7 @@ subtitle: ""
 summary: "This project aims to design a real-time performance shift detection algorithm for high-performance computing clusters, ensuring minimal overheads."
 authors: [kangrui]
 author_notes: ["Master Student at The University of Chicago"]
-tags: ["osre23"]
+tags: [osre23, reproducibility]
 categories: [SoR'23]
 date: 2023-05-27
 lastmod: 2023-05-27

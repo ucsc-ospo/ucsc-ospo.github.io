@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [haoranwu]
 author_notes: ["Student at the University of Chicago"]
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: [SoR'23]
 date: 2023-06-13
 lastmod: 2023-06-13
