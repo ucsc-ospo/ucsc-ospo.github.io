@@ -1,10 +1,10 @@
 ---
-title: "Mid-term blog post for noworkflow"
-subtitle: "Capturing provenance into Data Science/Machine Learning workflows" 
+title: "[Mid-term] Capturing provenance into Data Science/Machine Learning workflows"
+subtitle: "blog post for noworkflow project" 
 authors: [jesselima]
-tags: ["osre23", "ucsc", "nyu", "data science", "machinelearning", "provenance", "reproducibility"]
-date: 2023-05-24
-lastmod: 2023-05-24
+tags: ["osre23", "nyu", "data science", "machine learning", "provenance", "reproducibility"]
+date: 2023-07-31
+lastmod: 2023-07-31
 draft: false
 featured: false
 image:
