@@ -3,6 +3,7 @@ title: "Introducing Levels of Reproduction and Replication in Machine Learning"
 subtitle: "Using Reproducibility in Machine Learning Education" 
 authors: [MSaeed]
 tags: ["osre23", "reproducibility"]
+categories: ["SummerofReproducibility23"]
 date: 2023-06-01
 lastmod: 2023-06-01
 draft: false

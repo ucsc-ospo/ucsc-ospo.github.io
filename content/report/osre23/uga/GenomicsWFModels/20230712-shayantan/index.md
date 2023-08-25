@@ -4,9 +4,9 @@ subtitle: ""
 summary: ""
 authors: [shayantan]
 author_notes: ["Student at Indian Institute of Technology Bombay"]
-tags: ["osre23"]
+tags: ["osre23", reproducibility]
 categories: ["SummerofReproducibility23"]
-date: 2023-07-12
+date: 2023-07-12 
 lastmod: 2023-07-12
 featured: false
 draft: false
@@ -22,6 +22,7 @@ caption: ""
 focal_point: ""
 preview_only: false
 ---
+
 
 As part of the [Reproducible Analysis & Models for Predicting Genomics Workflow Execution Time](/project/osre23/uga/GenomicsWFModels) my [proposal](https://drive.google.com/file/d/1N81dqvdTDcKjz5WDAUCdf5yi1BNR9Au6/view?usp=sharing) under the mentorship of {{% mention inkee.kim %}}, Martin Putra and collaborator {{% mention charishulu %}} (another OSRE fellow) aims to analyze large-scale sequencing datasets in order to gain insights on how ‘input quality’ affects genomic workflows’ execution times.  
 Recent advancements in Next-Generation Sequencing (NGS) technologies have resulted in massive amounts of nucleotide sequence data and automated genomic workflows to streamline analysis and data interpretation. The success of NGS-driven research has also led to a sudden increase in data of varying size and complexity, making it more time-consuming for researchers to test hypotheses. Analyzing
