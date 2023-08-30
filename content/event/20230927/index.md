@@ -1,7 +1,7 @@
 ---
-title: '2023 UC Santa Cruz Open Source Symposium'
+title: '2023 UC Open Source Symposium'
 
-event: 'UC Santa Cruz Open Source Symposium'
+event: 'UC Open Source Symposium'
 #event_url: https://example.org
 
 location: University of California, Santa Cruz
