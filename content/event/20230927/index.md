@@ -60,10 +60,10 @@ projects:
 
 {{% cta cta_link="https://ucospo23.sched.com/" cta_text="Preliminary Agenda →" %}}
 
-{{% cta cta_text="Registration: open soon" %}}
+{{% cta cta_link="https://ucospo23.sched.com/" cta_text="Registration Now Open" %}}
 
-- **Three-day hybrid event** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, expert panels, and technical workshops, as well as poster presentations highlighting the work of our Open Source Research Experience students. 
-- **Wed 9/27, Day 1 (hybrid):** single-track program with keynotes and panels, Oktoberfest reception in the evening, all at the UC Santa Cruz Cowell Hay Barn, breakfast, lunch, dinner provided. In-person participation limited to 50 people.
+- **Three-day hybrid event** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, expert panels, and technical workshops, as well as poster presentations and lightening talks highlighting the work of our Open Source Research Experience students. 
+- **Wed 9/27, Day 1 (hybrid):** single-track program with keynotes and panels, Oktoberfest reception in the evening, all at the UC Santa Cruz Cowell Hay Barn, breakfast, lunch, dinner provided. 
 - **Thu 9/28, Day 2 (hybrid):** two-track program of workshops at the UC Santa Cruz Engineering 2 building, breakfast, lunch
 - **Fri 9/29, Day 3 (online-only):** single-track program with workshops.
 
