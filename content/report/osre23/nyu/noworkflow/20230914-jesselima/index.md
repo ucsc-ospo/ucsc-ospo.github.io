@@ -1,7 +1,7 @@
 
 
 ---
-title: "noWorkflow as an experiment management tool - Final Report"
+title: "noWorkflow as a experiment management tool - Final Report"
 subtitle: "Capturing provenance into Data Science/Machine Learning workflows" 
 authors: [jesselima]
 tags: ["osre23", "ucsc", "nyu", "data science", "machinelearning", "provenance", "reproducibility"]
