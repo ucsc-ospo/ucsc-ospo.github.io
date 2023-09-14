@@ -36,22 +36,22 @@ reproducibility.
 
 With the emergence of IA across multiple fields in industry and
 academia, the subject of reproducibility has become increasingly
-relevant. In [\[1\]](https://paperpile.com/c/EfP6Pl/Bpht) we have an
+relevant. In [1] we have an
 interesting description of the sources of irreproducibility in Machine
 Learning. All these sources are present at different stages during the
 project\'s experimental phases and may even persist in production
 environments, leading to the accumulation of technical debt
-[\[2\]](https://paperpile.com/c/EfP6Pl/KcjR). The problem of
-irreproducibility is also discussed in [\[3\],
-\[4\]](https://paperpile.com/c/EfP6Pl/sII8+PcGD), pointing out that the
+[2]. The problem of
+irreproducibility is also discussed in [[3],
+[4]], pointing out that the
 velocity of deliverances usually comes at the expense of
 reproducibility, among other victims.
 
 The CRISP-DM process as reviewed in
-[\[5\]](https://paperpile.com/c/EfP6Pl/CwPq) demonstrates that Data
+[5] demonstrates that Data
 Science experiments follows a typical path of execution. In the same
-manner, [\[3\], \[6\],
-\[7\]](https://paperpile.com/c/EfP6Pl/sII8+K2LJ+yU1q), points out that
+manner, [[3], [6],
+[7]], points out that
 Machine Learning pipelines are composed of well-defined layers (or
 stages) through its lifecycle. The emergence of IA in real world
 applications stressed the almost artisanal ways of creating and managing
@@ -60,8 +60,8 @@ more efficiently.
 
 In the search for possible approaches to the problem, we came across
 several projects that aimed to address these issues. Not surprisingly,
-multiple authors pursued the same goal, for instance [\[9\],
-\[10\]](https://paperpile.com/c/EfP6Pl/YGCg+SkVT). In these references,
+multiple authors pursued the same goal, for instance [[9],
+[10]]. In these references,
 and confirmed in our survey, we found from targeted solutions to
 specific steps in modeling to services aiming for end-to-end AIOps
 management. Some are available as software packages, others as SaaS in
@@ -69,12 +69,12 @@ cloud environments. In general terms, all of them end up offering
 features in different layers of the workflow (i.e. data, feature,
 scoring, and evaluation) or with different conceptualizations of
 reproducibility/replicability/repeatability as noticed by
-[\[11\]](https://paperpile.com/c/EfP6Pl/vWxl). On one hand, this lack of
+[11]. On one hand, this lack of
 standards makes any assessment difficult. On the other hand, it suggests
 a community in an exploratory process of a hot topic subject.
 
 Specifically for this project, our focus is in the initial stages of
-computational scientific experiments. As studied in \[8\], in this
+computational scientific experiments. As studied in [8], in this
 phase, experiments are i) implemented by people as prototypes, ii) with
 minor focus on pipeline design and iii) in tools like Notebooks, that
 mix documentation, visualization and code with no required sequential
@@ -205,7 +205,7 @@ prototypical phases of experiments.
 # Desiderata
 
 As mentioned earlier, a typical workflow in DS/ML projects is well
-described by the CRISP-DM [\[5\]](https://paperpile.com/c/EfP6Pl/CwPq)
+described by the CRISP-DM [5]
 and precede phases of deployment and production in the whole lifecycle
 of DS/ML projects.
 
@@ -229,7 +229,7 @@ notebook has multiple hyperparameters, modeling choices and modeling
 hypotheses. Otherwise, the experimenter may have a unique notebook where
 different experiments were executed, in a nonlinear order between the
 cells. This former case is pointed out in
-[\[8\]](https://paperpile.com/c/EfP6Pl/V84u), where Notebook flexibility
+[8], where Notebook flexibility
 makes it difficult to understand which execution order resulted in a
 specific output.
 
@@ -257,7 +257,7 @@ d)  Be as much \"no workflow\" as possible. All the former requisites
     words or any active coding effort.
 
 With these goals in mind, we worked on our deliverables and used the
-experiment carried out by [\[12\]](https://paperpile.com/c/EfP6Pl/qmYX)
+experiment carried out by [12]
 as a guideline to validate the new noWorkflow features.
 
 # Deliverables
@@ -409,58 +409,58 @@ supporting me in doing this work.
 
 \[1\] [O. E. Gundersen, K. Coakley, C. Kirkpatrick, and Y. Gil, "Sources
 of irreproducibility in machine learning: A review," *arXiv preprint
-arXiv:2204. 07610*.](http://paperpile.com/b/EfP6Pl/Bpht)
+arXiv:2204. 07610*.]
 
 \[2\] [D. Sculley *et al.*, "Machine Learning: The High Interest Credit
 Card of Technical Debt," in *SE4ML: Software Engineering for Machine
 Learning (NIPS 2014 Workshop)*,
-2014.](http://paperpile.com/b/EfP6Pl/KcjR)
+2014.]
 
 \[3\] [P. Sugimura and F. Hartl, "Building a reproducible machine
 learning pipeline," *arXiv preprint arXiv:1810. 04570*,
-2018.](http://paperpile.com/b/EfP6Pl/sII8)
+2018.]
 
 \[4\] [D. Sculley *et al.*, "Hidden technical debt in machine learning
 systems," *Adv. Neural Inf. Process. Syst.*, vol. 28,
-2015.](http://paperpile.com/b/EfP6Pl/PcGD)
+2015.]
 
 \[5\] [F. Martínez-Plumed *et al.*, "CRISP-DM twenty years later: From
 data mining processes to data science trajectories," *IEEE Trans. Knowl.
 Data Eng.*, vol. 33, no. 8, pp. 3048--3061,
-2019.](http://paperpile.com/b/EfP6Pl/CwPq)
+2019.]
 
 \[6\] [N. A. Lynnerup, L. Nolling, R. Hasle, and J. Hallam, "A Survey on
 Reproducibility by Evaluating Deep Reinforcement Learning Algorithms on
 Real-World Robots," in *Proceedings of the Conference on Robot
 Learning*, L. P. Kaelbling, D. Kragic, and K. Sugiura, Eds., in
 Proceedings of Machine Learning Research, vol. 100. PMLR, 30 Oct\--01
-Nov 2020, pp. 466--489.](http://paperpile.com/b/EfP6Pl/K2LJ)
+Nov 2020, pp. 466--489.]
 
 \[7\] [A. Masood, A. Hashmi, A. Masood, and A. Hashmi, "AIOps:
 predictive analytics & machine learning in operations," *Cognitive
 Computing Recipes: Artificial Intelligence Solutions Using Microsoft
 Cognitive Services and TensorFlow*, pp. 359--382,
-2019.](http://paperpile.com/b/EfP6Pl/yU1q)
+2019.]
 
 \[8\] [J. F. Pimentel, L. Murta, V. Braganholo, and J. Freire,
 "Understanding and improving the quality and reproducibility of Jupyter
 notebooks," *Empirical Software Engineering*, vol. 26, no. 4, p. 65,
-2021.](http://paperpile.com/b/EfP6Pl/V84u)
+2021.]
 
 \[9\] [D. Kreuzberger, N. Kühl, and S. Hirschl, "Machine Learning
 Operations (MLOps): Overview, Definition, and Architecture," *IEEE
 Access*, vol. 11, pp. 31866--31879,
-2023.](http://paperpile.com/b/EfP6Pl/YGCg)
+2023.]
 
 \[10\] [N. Hewage and D. Meedeniya, "Machine learning operations: A
 survey on MLOps tool support," *arXiv preprint arXiv:2202. 10169*,
-2022.](http://paperpile.com/b/EfP6Pl/SkVT)
+2022.]
 
 \[11\] [H. E. Plesser, "Reproducibility vs. replicability: a brief
 history of a confused terminology," *Front. Neuroinform.*, vol. 11, p.
-76, 2018.](http://paperpile.com/b/EfP6Pl/vWxl)
+76, 2018.]
 
 \[12\] [Z. Salekshahrezaee, J. L. Leevy, and T. M. Khoshgoftaar, "The
 effect of feature extraction and data sampling on credit card fraud
 detection," *Journal of Big Data*, vol. 10, no. 1, pp. 1--17,
-2023.](http://paperpile.com/b/EfP6Pl/qmYX)
+2023.]
