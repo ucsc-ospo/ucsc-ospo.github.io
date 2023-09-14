@@ -1,7 +1,7 @@
 
 
 ---
-title: "noWorkflow as a experiment management tool - Final Report"
+title: "noWorkflow as an experiment management tool - Final Report"
 subtitle: "Capturing provenance into Data Science/Machine Learning workflows" 
 authors: [jesselima]
 tags: ["osre23", "ucsc", "nyu", "data science", "machinelearning", "provenance", "reproducibility"]
@@ -20,9 +20,12 @@ have made so far in our project
 [proposal](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit?usp=sharing)
 for
 [noWorkflow](https://ospo.ucsc.edu/project/osre23/nyu/noworkflow).
+
 For a more friendly introduction to our work, please, refer to this
 [tutorial
 available](https://github.com/jaglima/noworkflow_usecase/blob/main/README.md).
+
+Our final code to merge is available in [this repository](https://github.com/jaglima/noworkflow/tree/sor_features).
 
 ## Different ways of managing experiments
 
