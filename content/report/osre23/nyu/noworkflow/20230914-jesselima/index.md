@@ -116,7 +116,7 @@ reproducibility. Provenance tools can help the academy and industry
 groups in this goal, and in this summer we focused on adding relevant
 features to leverage the noWorkflow in this direction.
 
-# Different tools for different needs
+## Different tools for different needs
 
 In our research phase, we didn\'t find any taxonomy that fully
 accommodated our review of different categories of tools providing
@@ -202,7 +202,7 @@ Deployment and Observability framework, because they are in the
 post-deployment realm, which is another stage far removed from
 prototypical phases of experiments.
 
-# Desiderata
+## Desiderata
 
 As mentioned earlier, a typical workflow in DS/ML projects is well
 described by the CRISP-DM [5]
@@ -260,7 +260,7 @@ With these goals in mind, we worked on our deliverables and used the
 experiment carried out by [12]
 as a guideline to validate the new noWorkflow features.
 
-# Deliverables
+## Deliverables
 
 In this session, we will describe what we have implemented during this
 summer.
@@ -325,7 +325,7 @@ to the following features (an interactive notebook is available here):
 
 ![](./images/media/image6.png)
 
-# Challenges
+## Challenges
 
 As expected, we had unexpected findings along the project. Bellow, we
 delve into the most significant challenges we had to face:
@@ -360,7 +360,7 @@ delve into the most significant challenges we had to face:
     integrate well with Jupyter Lab. Also, even the IPython version has
     new versions, and noWorkflow needs to adapt to a new version.
 
-# Future Improvements
+## Future Improvements
 
 Given our current achievements and the insights gained along the
 project, we would highlight the following points as crucial future
@@ -388,7 +388,7 @@ roadmap improvements:
     dataset. However, any modification in the integrity of a dataset is
     not traceable.
 
-# What I\'ve learned
+## What I\'ve learned
 
 This was a great summer with two personal discoveries. The first one was
 my first formal contact with the Reproducibility subject. The second was
@@ -398,14 +398,14 @@ research and some of it nuances. In the Open Source contributing
 experience, I could be mentored by the core team of the noWorkflow and
 exercise all the skills required in doing high level software product.
 
-# Acknowledgments
+## Acknowledgments
 
 I would like to thank the organization of Summer of Reproducibility for
 aiding this wonderful opportunity for interested people to engage with
 Open Source software. Also, thanks to the core team of noWorkflow for
 supporting me in doing this work.
 
-# Bibliography
+## Bibliography
 
 \[1\] [O. E. Gundersen, K. Coakley, C. Kirkpatrick, and Y. Gil, "Sources
 of irreproducibility in machine learning: A review," *arXiv preprint
