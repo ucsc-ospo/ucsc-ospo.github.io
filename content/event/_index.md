@@ -1,5 +1,5 @@
 ---
-title: 'OSPO UC Santa Cruz Events'
+title: '🎪 OSPO UC Santa Cruz Events'
 
 # Listing view
 view: compact
