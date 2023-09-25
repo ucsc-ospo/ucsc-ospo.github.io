@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 20
-title: About
+title: 🔭 About
 design:
   columns: "1"
   css_style: null

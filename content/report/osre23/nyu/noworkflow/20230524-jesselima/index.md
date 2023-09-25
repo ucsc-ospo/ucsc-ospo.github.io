@@ -16,7 +16,7 @@ featured: false
 
 image:
 caption: ""
-focal_point: "TopLeft"
+focal_point: "BottomLeft"
 preview_only: false
 ---
 

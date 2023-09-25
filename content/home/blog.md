@@ -5,7 +5,7 @@ active: true
 headless: true
 weight: 50
 
-title: Blog
+title: 📝 Blog
 
 content:
   count: 5

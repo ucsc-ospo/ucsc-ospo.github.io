@@ -35,10 +35,10 @@ img {
 }
 </style>
 
-# Introduction
+## Introduction
 Hello, it's me again, Faishal, a SoR project contributor for the edgebench project. For the past these two months, my mentors and I have been working on improving the performance of our system. In this report, I would like to share with you what we have been working on.
 
-# Motivation
+## Motivation
 Edgebench is a project that focuses on how to efficiently distribute resource (bandwidth and cpu usage) across several video applications. Nowaday's video applications process its data or video on a server or known as edge computing, hence bandwidth or compute unit may be the greatest concern if we talk about edge computing in terms of WAN, because it is strictly limited. 
 
 Consider the following case, suppose we have 3 video applications running that is located in several areas across a city. Suppose the total bandwidth allocated to those 3 video applications is also fixed. Naively, we may divide the bandwidth evenly to every camera in the system. We may have the following graph of the allocated bandwidth overtime. 
@@ -47,7 +47,7 @@ Consider the following case, suppose we have 3 video applications running that i
 
 They are fixed and won’t change. However, every video application has its own characteristic to deliver such a good result or f1-score. It is our task to maintain high average f1-score. Therefore we need to implement a new solution which is accuracy-oriented. The accuracy-gradient[[1]]((#acc)) comes into this.
 
-# System Design
+## System Design
 On our current design, we need a resource allocator, namely concierge. This concierge determines how much bandwidth is needed for every video application (vap) in the system. Concierge will do the allocation at a certain time interval that has been determined before. This process is called profiling, on this process, the concierge will first ask every vap to calculate their f1-score at a certain video segment when the bandwidth is added by profile_delta. Then the difference of this f1-score is substracted by the default f1-score, namely `f1_diff_high`. After that, the concierge will ask to reduce its bandwidth by profile_delta and do the same process as before, this result will be named `f1_diff_low.` Those two results will be sent to the concierge for the next step. On the concierge, there will be sensitivity calculation, where sensitivity is
 
 <!-- pada sistem yang kami desain, kami membutuhkan sebuah resource allocator yang kami namakan concierge. Concierge ini yang akan menentukan berapa besarnya bandwidth yang dibutuhkan pada tiap video application. Concierge akan melakukan penentuan bw dalam interval yang sudah ditentukan sebelumnya, pada tahap ini, concierge akan meminta kepada seluruh video aplikasi untuk menghitung f1-score pada segmen video tertentu ketika alokasi bandwidth pada aplikasi itu dinaikan sebesar delta yang sudah ditentukan pula. Setelah itu, the difference of f1-score disimpan pada variabel f1_diff_high. Lalu concierge akan meminta f1-score ketika bw akan diturunkan sebesar delta. Akan pula dihitung the difference-nya. Kedua hasil tersebut akan dikirimkan oleh video aplikasi kepada concierge untuk dilakukan perhitungan selanjutnya. -->
@@ -55,12 +55,12 @@ On our current design, we need a resource allocator, namely concierge. This conc
 
 <!-- Pada concierge, akan dilakukan perhitungan sensitivity. Where sensitivity -->
 
-$$sensitivity[i] = f1\_diff\_high[i] - \Sigma_{k=1}^nf1\_diff\_low[k]; k \neq i$$
+![sensitivity[i] = f1\_diff\_high[i] - \Sigma_{k=1}^nf1\_diff\_low[k]; k \neq i](https://latex.codecogs.com/svg.image?&space;sensitivity[i]=f1\_diff\_high[i]-\Sigma_{k=1}^nf1\_diff\_low[k];k\neq&space;i&space;)
 
 This equation tells us which video application will give us the best f1-score improvement if we add more bandwidth to one vap while reducing other's bandwidth. From this, we will optimize and the concierge will give the bandwdith to the one with the highest sensitivity and take the bandwidth from the app with the lowest sensitvity.
 
 
-# Results
+## Results
 As aforementioned, our main objective is to improve the accuracy. However, there are two parameters that will be taken into account which are improvement and the overhead of its improvement. We first choose 3 dds apps[[2]](#dds) that we think will be our ideal case. The following graphs show the profile of our ideal case
 
 ![Ideal Case](./images/ideal_case.png)
@@ -96,16 +96,13 @@ The left figure depicts the average improvement of the concierge. Here we can se
 
 From the result, we still managed to get the improvement. However, it seems that average improvement decreases compared to the previous one. The reason of this phenomenon will be discussed later.
 
-## Overhead Measurement
-
-The important thing of proposing a new method is taking care of the overhead. In this experiment, we will calculate the overhead at certain total bandwidths and monitor intervals (`MI`).
+### Overhead Measurement
 
 ![Overhead Measurement](./images/overhead_1.png)
 
-From the graph above, each graph represents the total bandwidth used. It is clearly known that the lower `MI` leads to higher overhead since there would be more profiling process than the higher `MI`. From the 4 graphs above, it can be known that there would be a significant trade off if we lower the `MI` since the improvement itself is not highly significant (1%). The highest improvement is at 1200kbps. Hence, for higher bandwidth, there is no need to do the profiling too often.
+From the graph above, each graph represents the total bandwidth used. In this experiment, it is clearly known that the lower MI leads to higher overhead since there would be more profiling process than higher MI. From the 4 graphs above, it can be known that there would be a significant trade off if we lower the MI since the improvement itself is not highly significant. The highest improvement is at **1200kbps**. Hence, for higher bandwidth, there is no need to do the profiling too often
 
-
-# Discussion
+## Discussion
 There are some limitations of our current design. If we have a look at box-plot in figure 5 above, we can see that there is some combinations where the improvement is negative.
 
 ![Failed Recovery](./images/recovery_failed.png)
@@ -115,9 +112,9 @@ The figure above depicts the profiling process from the segment 6 to determine t
 Regarding the overhead, we are aware that 50% overhead is still considered bad. We might as well try the dynamic `MI` or skip the profiling for certain video if not neccesarry.
 
 
-# Conclusion
+## Conclusion
 Regardless the aforementioned limitations, this report shows that the concierge is generally capable of giving an f1-score improvement. The update of the next will be shown in the final report later.
 
-# References 
+## References 
 <a id="acc">[1]</a> https://drive.google.com/file/d/1U_o0IwYcBNF98cb5K_h56Nl-bQJSAtMj/view?usp=sharing <br>
 <a id="dds">[2]</a> Kuntai Du, Ahsan Pervaiz, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, and Junchen Jiang. 2020. Server-driven video streaming for deep learning inference. In Proceedings of the Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication. 557–570.

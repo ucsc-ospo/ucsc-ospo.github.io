@@ -5,7 +5,7 @@ active: true
 headless: true
 weight: 25
 
-title: Programs
+title: 📺 Programs
 
 content:
   count: 5
