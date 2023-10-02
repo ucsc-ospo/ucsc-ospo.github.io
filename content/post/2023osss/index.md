@@ -9,7 +9,7 @@ tags: [osss]
 categories: [education]
 date: 2023-04-19
 lastmod: 2023-04-19
-featured: true
+featured: false
 draft: false
 
 # Featured image

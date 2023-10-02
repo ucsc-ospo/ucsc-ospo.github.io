@@ -9,7 +9,7 @@ tags: [ospo]
 categories: [programs]
 date: 2022-08-24T12:23:07-07:00
 lastmod: 2022-11-07T12:23:07-07:00
-featured: true
+featured: false
 draft: false
 external_link: "/osre"
 
