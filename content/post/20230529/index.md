@@ -5,7 +5,7 @@ tags: [osre,sor]
 Categories: [News]
 date: 2023-05-28
 lastmod: 2023-05-28
-featured: false
+featured: true
 draft: false
 active: true
 
