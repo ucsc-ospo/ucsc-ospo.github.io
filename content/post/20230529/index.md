@@ -1,6 +1,6 @@
 ---
 title: "A Record 38 Contributors participating in OSRE '23" 
-authors: [slieggi,admin]
+authors: [slieggi,carlosm]
 tags: [osre,sor]
 Categories: [News]
 date: 2023-05-28

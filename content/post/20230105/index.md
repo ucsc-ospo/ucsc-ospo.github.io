@@ -4,7 +4,7 @@
 title: "Creating a ROS 2 Open Source Distribution"
 subtitle: "Prof. Dr. Dirk Riehle (Univ. Erlangen / Bayave GmbH) will present on Wednesday, January 11 at 1:30pm PT, UC Santa Cruz, Engineering-2, Room 506 (hybrid event)"
 summary: "The Robot Operating System (now ROS 2) is an open source middleware for operating robots. Similarly to Linux, Kubernetes, or OpenStack, ROS 2 has grown to be so complex that building ROS 2 from scratch has become impossible for most users. Join us for the presentation by Prof. Dr. Dirk Riehle (Univ. Erlangen / Bayave GmbH) on Wednesday, January 11 at 1:30pm PT, UC Santa Cruz, Engineering-2, Room 506 (hybrid event)."
-authors: [admin]
+authors: [carlosm]
 tags: []
 categories: [News]
 date: 2023-01-05T11:15:56-07:00

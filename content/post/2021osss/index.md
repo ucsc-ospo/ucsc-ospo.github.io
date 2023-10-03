@@ -4,7 +4,7 @@
 title: "2021 Commercial Open Source Start Up Workshop Series (hosted by CROSS)"
 subtitle: "The software industry, commercial open source software, and university spin-offs."
 summary: "CROSS is pleased to be hosting a new workshop series facilitated by Dr. Dirk Riehle, Professor of Open Source Software at the Friedrich-Alexander University Erlangen-Nürnberg. Professor Riehle will hold three multi-session workshops (12 sessions in total). "
-authors: [slieggi,admin]
+authors: [slieggi,carlosm]
 tags: [osss]
 categories: [education]
 date: 2021-04-19

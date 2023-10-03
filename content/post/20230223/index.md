@@ -1,7 +1,7 @@
 ---
 title: "Sponsor Open Source Research Experience"
 subtitle: "Sponsorships will support open source research contributors"
-authors: [slieggi, admin]
+authors: [slieggi, carlosm]
 tags: [sor,osre]
 categories: [News]
 date: 2023-02-23

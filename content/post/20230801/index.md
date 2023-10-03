@@ -1,7 +1,7 @@
 ---
 title: "The urgent need to make the value of open source visible and quantifiable to university leadership" 
 summary: "Earlier this year, Frank Wuerthwein, Director of the San Diego Supercomputing Center (SDSC) mentioned to me a number: 32,000. That's the estimated number of public GitHub repositories that UC San Diego faculty and students have contributed to."
-authors: [admin]
+authors: [carlosm]
 tags: []
 Categories: [News]
 date: 2023-08-01

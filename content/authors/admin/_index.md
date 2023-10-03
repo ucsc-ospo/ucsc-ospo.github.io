@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: UC Santa Cruz
 
 # Organizations/Affiliations
 organizations:
@@ -58,6 +58,6 @@ The OSPO's mission is to create partnerships with stakeholders within and outsid
 Through a number of continually refined [programs](#programs) that are designed to amplify impact of the UC research enterprise the OSPO is building a community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective open source research efforts. 
 <!--- The OSPO is formed by its [Community](#community) participants and [Members](#members). --->
 
-[Read more about the OSPO](#about).
+[Read more about the OSPO](/#about).
 
 <!--- about the group, join the [community](#community) or [become a supporter](#join) to get involved. --->

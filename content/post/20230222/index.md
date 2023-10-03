@@ -1,7 +1,7 @@
 ---
 title: "Accepted as 2023 GSoC Mentor Organiztion"
 subtitle: "OSRE 2023 and SoR 2023 will benefit from GSOC outreach and funding."
-authors: [slieggi, admin]
+authors: [slieggi, carlosm]
 tags: [sor,osre]
 categories: [News]
 date: 2023-02-22
