@@ -4,7 +4,7 @@
 title: "2022 Open Source Seminar Series at UC Santa Cruz"
 subtitle: "The series includes four multi-session modules (12 sessions in total)."
 summary: "The OSPO UC Santa Cruz and CROSS are pleased to be hosting a Summer seminar series for our affiliated researchers, students and industry partners facilitated by Dr. Dirk Riehle, Professor of Open Source Software at the Friedrich-Alexander University Erlangen-Nürnberg. The series will include four multi-session modules (12 sessions in total). "
-authors: [slieggi,admin]
+authors: [slieggi,carlosm]
 tags: [osss]
 categories: [education]
 date: 2022-04-19

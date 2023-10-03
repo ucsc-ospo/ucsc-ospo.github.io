@@ -2,7 +2,7 @@
 title: "Writing a blog about your OSRE 2023 project"
 subtitle: "Starting with OSRE 2023 we ask student contributors to blog!"
 summary: "This is now common practice and an efficient way to track activities within OSRE projects. Include links to proposals, presentations, reports, and experience."
-authors: [slieggi, admin]
+authors: [slieggi, carlosm]
 tags: ["osre23"]
 categories: []
 date: 2022-11-06T11:15:56-07:00

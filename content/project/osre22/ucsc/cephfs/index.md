@@ -1,6 +1,6 @@
 ---
 title: "CephFS"
-authors: [admin]
+authors: [carlosm]
 #author_notes: ["Ph.D. Student, UC Santa Cruz"]
 tags: ["osre22", "uc", "storage systems", "distributed systems", "programmable storage"]
 date: 2022-11-07T10:15:56-07:00

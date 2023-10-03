@@ -1,7 +1,7 @@
 ---
 title: How to add a new project idea to OSRE
 summary: ''
-authors: [admin]
+authors: [carlosm]
 date: "2022-11-06T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?

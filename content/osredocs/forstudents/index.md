@@ -1,7 +1,7 @@
 ---
 title: "Guidelines for Summer Students"
 summary:
-authors: [admin,slieggi]
+authors: [carlosm,slieggi]
 date: "2022-11-06T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?

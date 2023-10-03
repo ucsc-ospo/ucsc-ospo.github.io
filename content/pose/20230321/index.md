@@ -2,7 +2,7 @@
 title: CROSS, Skyhook, and Polyphy
 subtitle: Institutional support for creating Paths to Open Source Ecosystems for Open Source Products in Research.
 summary: "Save the date / initial invitation for April 27, 2023 hybrid event at UC Santa Cruz"
-authors: [admin, slieggi]
+authors: [carlosm, slieggi]
 date: 2023-03-20
 lastmod: 2023-03-20
 ---

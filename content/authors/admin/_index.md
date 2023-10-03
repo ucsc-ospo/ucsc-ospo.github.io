@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: UC Santa Cruz
 
 # Organizations/Affiliations
 organizations:
@@ -35,6 +35,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/open-source-program-office-uc-santa-cruz/?viewAsMember=true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/UC_OSPO
@@ -55,6 +58,6 @@ The OSPO's mission is to create partnerships with stakeholders within and outsid
 Through a number of continually refined [programs](#programs) that are designed to amplify impact of the UC research enterprise the OSPO is building a community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective open source research efforts. 
 <!--- The OSPO is formed by its [Community](#community) participants and [Members](#members). --->
 
-[Read more about the OSPO](#about).
+[Read more about the OSPO](/#about).
 
 <!--- about the group, join the [community](#community) or [become a supporter](#join) to get involved. --->
