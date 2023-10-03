@@ -35,6 +35,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/open-source-program-office-uc-santa-cruz/?viewAsMember=true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/UC_OSPO
