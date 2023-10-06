@@ -23,7 +23,7 @@ preview_only: false
 
 Hello again,
 
-I am Mohamed Saeed and this is my second blog post for the 2023 Summer of Reproducibility Fellowship. As you may recall from my [previous post](/report/osre23/nyu/eduml/20230601-MSaeed), I am working on the [Using Reproducibility in Machine Learning Education](/project/osre23/nyu/eduml) project with {{% mention ffund %}} as my mentor. My goal is to create interactive open educational resources that teach reproducibility and reproducible research in machine learning (ML) as I [proposed](https://drive.google.com/file/d/13HnCMZawpabiLdBoOiaJFF2mNXIPLCVJ/view?usp=sharing).
+I am Mohamed Saeed and this is my second blog post for the 2023 Summer of Reproducibility Fellowship. As you may recall from my [previous post](/report/osre23/nyu/eduml/20230601-msaeed), I am working on the [Using Reproducibility in Machine Learning Education](/project/osre23/nyu/eduml) project with {{% mention ffund %}} as my mentor. My goal is to create interactive open educational resources that teach reproducibility and reproducible research in machine learning (ML) as I [proposed](https://drive.google.com/file/d/13HnCMZawpabiLdBoOiaJFF2mNXIPLCVJ/view?usp=sharing).
 
 In this post, I will share with you some of the progress I have made so far, as well as some of the challenges I have faced and how I overcame them. I will also highlight some of the specific accomplishments that I am proud of and what I plan to do next.
 
