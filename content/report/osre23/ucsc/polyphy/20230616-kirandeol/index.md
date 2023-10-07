@@ -4,7 +4,7 @@ subtitle: "Enhancing Data Interactivty of PolyPhy"
 summary: ""
 authors: [kirandeol]
 author_notes: ["An undergrad at the University of Alberta"]
-tags: ["osre23"]
+tags: ["osre23", uc]
 categories: [GSoC'23]
 date: 2023-06-16
 lastmod: 2023-06-16

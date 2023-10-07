@@ -3,7 +3,7 @@ title: "OpenRAM Layout verses Schematic (LVS) visualization"
 subtitle: ""
 summary: "This project aims to create a Python-based GUI with a powerful backend system for effective analysis, visualization, and debugging of layout versus schematic (LVS) mismatches in the OpenRAM framework. By processing LVS reports, identifying mismatched nets, and visually displaying discrepancies, the solution will improve debugging efficiency, productivity, and system reliability."
 authors: [Mahnoor-ismail01]
-tags: ["osre23"]
+tags: ["osre23", uc]
 categories: ["GSoC'23"]
 date: 2023-05-29
 lastmod: 2023-05-29

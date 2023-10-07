@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors: [25ChilingH]
 author_notes: ["Student at The Harker School, San Jose"]
-tags: ["osre23"]
+tags: ["osre23", uc]
 categories: []
 date: 2023-08-01
 lastmod: 2023-08-01
