@@ -66,6 +66,7 @@ To archive the current year (e.g. 2023) and start a new OSRE edition:
   - Update title to OSRE 2024
   - Replace all `osre23` with `osre24`
 - Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2024.
+- Copy `/content/sor` to `/content/sor23`, make 2024 updates to `/content/sor`, and update SoR links in `/content/oser23/osre23.md` to `/sor23`.
 
 ## Website framework
 

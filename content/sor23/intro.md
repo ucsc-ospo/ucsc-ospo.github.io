@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 active: false
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: "2024 Summer of Reproducibility"
+title: "2023 Summer of Reproducibility"
 subtitle: "Matching reproducibility researchers with summer students and sponsors."
 summary: "The Summer of Reproducibility (SoR) is a collaboration between the Open Source Research Experience (OSRE) organized by the OSPO UC Santa Cruz and the REPETO project. SoR provides summer support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed open source research efforts in reproducibility. Our participation in the Google Summer of Code is included as part of this mentorship program."
 weight: 10 # Position of section on the page
@@ -16,8 +16,8 @@ hero_media: 'sor.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: '/osre'
-  label: '2024 Open Source Research Experience -->'
+  url: '/osre23'
+  label: '2023 Open Source Research Experience -->'
   #icon_pack: fas
   #icon: download
 #cta_alt:
