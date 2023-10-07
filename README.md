@@ -53,13 +53,19 @@ To archive the current year (e.g. 2023) and start a new OSRE edition:
   - In `content/osre/studentpages.md` update `tag: [osre24]`
   - In `content/osre/projects.md` update `tag: [osre24]`
 - Update links to previous year and back to new year
-  - In `/content/osre/studentpages.md` update `subtitle: "Go to [last year's student pages](/osre23/#studentpages)"`
-  - In `/content/osre23/studentpages.md` update `subtitle: "Return to [new student pages](/osre/#studentpages)"`
-  - In `/content/osre/projects.md` update `subtitle: "Go to [last year's projects](/osre23/#projects)"`
-  - In `/content/osre23/projects.md` update `subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"` (2022 projects are under `/lastosre` because that was still under CROSS. When archiving OSRE 2024, update `/content/osre24/projecs.md` with `subtitle: "Go to [2023 projects](/content/osre23) or return to [new projects](/osre/#projects)"`)
-- Copy `/content/report/osre23/ucsc/admin/20221106-admin` to `/content/report/osre24/ucsc/admin/20231006-admin` and update tags `index.md` of that directory:
+  - For Student Pages:
+    - In `/content/osre/studentpages.md` update `subtitle: "Go to [last year's student pages](/osre23/#studentpages)"`
+    - In `/content/osre23/studentpages.md` update `subtitle: "Return to [new student pages](/osre/#studentpages)"`
+  - For Projects:
+    - In `/content/osre/projects.md` update `subtitle: "Go to [last year's projects](/osre23/#projects)"`
+    - In `/content/osre23/projects.md` update `subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"` (2022 projects are under `/lastosre` because that was still under CROSS. When archiving OSRE 2024, update `/content/osre24/projecs.md` with `subtitle: "Go to [2023 projects](/content/osre23) or return to [new projects](/osre/#projects)"`)
+  - For Timelines:
+    - In `/content/osre/timeline.md` update `subtitle: "Go to [last year's timeline](/osre23/#timeline)"`
+    - In `/content/osre23/timeline.md` update `subtitle: "Return to [new timeline](/osre/#timeline)"`
+- Copy `/content/report/osre23/ucsc/admin/20221106-admin` to `/content/report/osre24/ucsc/admin/20231006-admin` and update tags in `index.md` of that directory:
   - Update title to OSRE 2024
   - Replace all `osre23` with `osre24`
+- Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2024.
 
 ## Website framework
 

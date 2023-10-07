@@ -10,7 +10,7 @@ design:
   css_class: null
 ---
 
-The UCSC OSPO is looking for mentors to be part of our 2023 Open Source Research Experience Program (OSRE), which this year also includes a new initiative -- the Summer of Reproducibility (SoR). Please read the [FAQ for Mentors](/osredocs/mentorfaq) and, if interested in participating, [the instructions](/osredocs/formentors) for posting projects. 
+The UCSC OSPO is looking for mentors to be part of our 2024 Open Source Research Experience Program (OSRE), which this year also includes a new initiative -- the Summer of Reproducibility (SoR). Please read the [FAQ for Mentors](/osredocs/mentorfaq) and, if interested in participating, [the instructions](/osredocs/formentors) for posting projects. 
 
 {{% cta cta_link="/osredocs/mentorfaq" cta_text="FAQ for Mentors -->" %}}
 {{% cta cta_link="/osredocs/formentors" cta_text="The Instructions -->" %}}
