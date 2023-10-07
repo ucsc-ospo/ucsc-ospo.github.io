@@ -17,7 +17,7 @@ The UCSC OSPO is looking for mentors to be part of our 2023 Open Source Research
 
 While typical OSRE supported projects require mentors who are connected to University of California-based open source projects, thanks to funding from the National Science Foundation, the Summer of Reproducibility allows us to also support US-based mentors interested in research projects related to the creation and usage of reproducibilty artifacts. 
 
-The goal of OSRE 2023 is to increase student capabilities in working in open source projects and creating reproducible artifacts, as well as add productive open source contributors and promote open source and reproducibility throughout the UC system and beyond.
+The goal of OSRE 2024 is to increase student capabilities in working in open source projects and creating reproducible artifacts, as well as add productive open source contributors and promote open source and reproducibility throughout the UC system and beyond.
 
 The program team at UCSC OSPO values diversity and inclusion in all our projects. We invite mentors from groups traditionally excluded in computer science/open source communities to participate in this program.
 
