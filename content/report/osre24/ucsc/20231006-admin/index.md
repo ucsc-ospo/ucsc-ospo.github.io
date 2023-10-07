@@ -38,7 +38,7 @@ Keep it short and crisp. Include a short description of your project, a link to 
 
 - Fork the [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
 - If you haven't already done so, add your profile using [these instructions](/osredocs/formentors/#instructions-for-adding-a-mentor)
-  - **IMPORTANT**: Under `user_groups:` add `- Contributors` (as opposed to any of the two mentor groups)
+  - **IMPORTANT**: Under `user_groups:` add `- 2024 Contributors` (as opposed to any of the two mentor groups)
   - The short bio and any other information goes below the frontmatter
 
 - Post your blog
