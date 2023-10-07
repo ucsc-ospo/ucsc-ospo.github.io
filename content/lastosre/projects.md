@@ -3,8 +3,8 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: "2023 Projects"
-subtitle: "Return to [new projects](/osre/#projects)"
+title: "2022 Projects"
+subtitle: "Return to [2023 projects](/osre23/#projects)"
 
 # Position of this section on the page
 weight: 10
@@ -17,7 +17,7 @@ content:
       - project
     # Replace this tag to the current year (e.g. osre23)
     tags:
-      - osre23
+      - osre22
     # Uncomment below to exclude content with specific tags:
 #    exclude_tags:
 #      - preface    

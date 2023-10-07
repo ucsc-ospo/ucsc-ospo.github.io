@@ -3,18 +3,18 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: "2023 Student Pages"
-subtitle: "Return to [new student pages](/osre/#studentpages)"
+title: 2023 Projects
+subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"
 
 # Position of this section on the page
-weight: 10
+weight: 70
 
 content:
   # Choose which content to display in the widget
   filters:
     # Folders to display content from
     folders:
-      - report
+      - project
     # Replace this tag to the current year (e.g. osre23)
     tags:
       - osre23
@@ -27,8 +27,8 @@ content:
 #      - section
 
   # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+  sort_by: 'Title'
+  sort_ascending: true
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
