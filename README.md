@@ -58,7 +58,7 @@ To archive the current year (e.g. 2023) and start a new OSRE edition:
     - In `/content/osre23/studentpages.md` update `subtitle: "Return to [new student pages](/osre/#studentpages)"`
   - For Projects:
     - In `/content/osre/projects.md` update `subtitle: "Go to [last year's projects](/osre23/#projects)"`
-    - In `/content/osre23/projects.md` update `subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"` (2022 projects are under `/lastosre` because that was still under CROSS. When archiving OSRE 2024, update `/content/osre24/projecs.md` with `subtitle: "Go to [2023 projects](/content/osre23) or return to [new projects](/osre/#projects)"`)
+    - In `/content/osre23/projects.md` update `subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"` (2022 projects are under `/lastosre` because that was still under CROSS. When archiving OSRE 2024, update `/content/osre24/projecs.md` with `subtitle: "Go to [2023 projects](/osre23/#projects) or return to [new projects](/osre/#projects)"`)
   - For Timelines:
     - In `/content/osre/timeline.md` update `subtitle: "Go to [last year's timeline](/osre23/#timeline)"`
     - In `/content/osre23/timeline.md` update `subtitle: "Return to [new timeline](/osre/#timeline)"`
