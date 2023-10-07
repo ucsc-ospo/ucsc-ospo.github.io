@@ -15,7 +15,7 @@ hero_media: 'osre.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: '/osre#projects'
+  url: '/osre23/#projects'
   label: View Projects
   icon_pack: fas
   icon: download

@@ -65,6 +65,7 @@ To archive the current year (e.g. 2023) and start a new OSRE edition:
 - Copy `/content/report/osre23/ucsc/admin/20221106-admin` to `/content/report/osre24/ucsc/admin/20231006-admin` and update tags in `index.md` of that directory:
   - Update title to OSRE 2024
   - Replace all `osre23` with `osre24`
+- Update `/content/osre23/intro.md` cta link `url: '/osre23/#projects'`
 - Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2024.
 - Copy `/content/sor` to `/content/sor23`, make 2024 updates to `/content/sor`, and update SoR links in `/content/oser23/osre23.md` to `/sor23` and vice versa.
 
