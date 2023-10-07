@@ -16,8 +16,7 @@ content:
     folders:
       - project
     # Replace this tag to the current year (e.g. osre23)
-    tags:
-      - osre23
+    tags: [osre23]
     # Uncomment below to exclude content with specific tags:
 #    exclude_tags:
 #      - preface    

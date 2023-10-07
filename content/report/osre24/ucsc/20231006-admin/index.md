@@ -3,7 +3,7 @@ title: "Writing a blog about your OSRE 2024 project"
 subtitle: "Since OSRE 2023 we ask student contributors to blog!"
 summary: "This is now common practice and an efficient way to track activities within OSRE projects. Include links to proposals, presentations, reports, and experience."
 authors: [slieggi, carlosm]
-tags: [osre24, uc, reproducibility]
+tags: [osre24]
 categories: []
 date: 2023-10-06
 lastmod: 2023-10-07
@@ -42,7 +42,7 @@ Keep it short and crisp. Include a short description of your project, a link to 
   - The short bio and any other information goes below the frontmatter
 
 - Post your blog
-  - Add `/content/report/osre23/ORGANIZATION/PROJECTNAME/DATE-USERNAME/index.md`
+  - Add `/content/report/osre24/ORGANIZATION/PROJECTNAME/DATE-USERNAME/index.md`
   - Add a frontmatter to `index.md`, using the labels below
   - Blog text goes below the frontmatter
   - In that same directory include a picture and call it `featured.png` (also supports `.jpg`, `.jpeg`) 
@@ -73,5 +73,5 @@ image:
   preview_only: false
 ---
 
-As part of the [PROJECTNAME](/project/osre23/ORGANIZATION/PROJECTNAME) my [proposal](https://...) under the mentorship of MENTOR aims to ...
+As part of the [PROJECTNAME](/project/osre24/ORGANIZATION/PROJECTNAME) my [proposal](https://...) under the mentorship of MENTOR aims to ...
 ```

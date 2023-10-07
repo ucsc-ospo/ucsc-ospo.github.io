@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Student pages
-subtitle: ''
+subtitle: "Return to [new student pages](/osre/#studentpages)"
 
 # Position of this section on the page
 weight: 35
@@ -15,7 +15,7 @@ content:
     # The folders to display content from
     folders:
       - report
-    tag: 'osre23'
+    tags: [osre23]
     category: ''
     publication_type: ''
     author: ''

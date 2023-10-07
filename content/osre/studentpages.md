@@ -15,7 +15,7 @@ content:
     # The folders to display content from
     folders:
       - report
-    tag: 'osre24'
+    tags: [osre24]
     category: ''
     publication_type: ''
     author: ''
