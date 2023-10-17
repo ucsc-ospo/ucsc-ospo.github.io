@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 60
 title: Timeline
-subtitle: Return to [new timeline](/osre/#timeline)
+subtitle: Return to [2024 timeline](/osre24/#timeline)
 design:
   columns: "2"
   css_style: null
