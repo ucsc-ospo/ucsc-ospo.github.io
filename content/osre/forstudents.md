@@ -18,7 +18,7 @@ design:
 
 If you are interested, have a look at our [guidelines for students](/osredocs/forstudents) which includes timelines on when to contact mentors and proposal guidelines and expectations. 
 
-New projects for OSRE 2023 will be published by end of February. Student can begin reaching out to mentors in late February / early March. Proposals are due April 4, 2023. 
+New projects for OSRE 2024 will be published by end of February. Student can begin reaching out to mentors in late February / early March. Proposals are due in April. 
 
 Students interested in applying to any of our projects should join our Slack channel. Email [OSRE Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation.
 

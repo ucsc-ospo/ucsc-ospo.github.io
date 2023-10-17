@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: "2022 Projects"
-subtitle: "Return to [new projects](/osre/#projects)"
+subtitle: "Return to [2023 projects](/osre23/#projects)"
 
 # Position of this section on the page
 weight: 10
