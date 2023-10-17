@@ -15,7 +15,7 @@ hero_media: 'osre.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: '/osre#projects'
+  url: '/osre24#projects'
   label: View Projects
   icon_pack: fas
   icon: download
@@ -25,7 +25,7 @@ cta:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: "The Open Source Research Experience (OSRE) program by the Open Source Program Office (OSPO) UC Santa Cruz provides support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed contributor communities of open source research efforts and to help make computational research efforts reproducible. With this program the OSPO participates as mentor organization in [Google Summer of Code](https://summerofcode.withgoogle.com) and other outreach and sponsorship programs. Information from OSRE 2022 can be found [here](https://cross.ucsc.edu/2022-osre/index.html) ([final reports](/post/20220929)).  
+  label: "The Open Source Research Experience (OSRE) program by the Open Source Program Office (OSPO) UC Santa Cruz provides support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed contributor communities of open source research efforts and to help make computational research efforts reproducible. With this program the OSPO participates as mentor organization in [Google Summer of Code](https://summerofcode.withgoogle.com) and other outreach and sponsorship programs. Information from past OSRE years can be found here: [2023](/osre23) and [2022](https://cross.ucsc.edu/2022-osre/index.html) ([final 2022 reports](/post/20220929)).  
   
   **Table of Content**: [OSRE News](#news) | [OSRE 2024](#osre24) | [For students](#forstudents) | [Student pages](#studentpages) | [For mentors](#formentors) | [For sponsors](#forsponsors) | [Timeline](#timeline) | [Projects](#projects) | [Tag cloud](#tags) | [Mentors and Contributors](#mentors)"
 

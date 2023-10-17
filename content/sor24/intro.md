@@ -16,7 +16,7 @@ hero_media: 'sor.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: '/osre'
+  url: '/osre24'
   label: '2024 Open Source Research Experience -->'
   #icon_pack: fas
   #icon: download

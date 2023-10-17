@@ -15,7 +15,7 @@ content:
     # Folders to display content from
     folders:
       - project
-    # Replace this tag to the current year (e.g. osre23)
+    # Replace this tag to the current year (e.g. osre24)
     tags: [osre24]
     # Uncomment below to exclude content with specific tags:
 #    exclude_tags:

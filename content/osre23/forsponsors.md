@@ -20,7 +20,7 @@ design:
 
 The UC Open Source Research Experience (OSRE) offers your organization the chance to participate in projects that can help your development cycles run faster, benefit from wide collaborations, and help support workforce development in domains your organization needs.  
 
-To become a sponsor, fill out the [Sponsorship Interest Form](https://forms.gle/9ZTg7pMwa1dQ94NS6). You will be asked to indicate the level of sponsorship you would like to fund and [the open source projects](/osre/#projects) you are most interested in engaging with. 
+To become a sponsor, fill out the [Sponsorship Interest Form](https://forms.gle/9ZTg7pMwa1dQ94NS6). You will be asked to indicate the level of sponsorship you would like to fund and [the open source projects](/osre23/#projects) you are most interested in engaging with. 
 
 ### Benefits of sponsorship
 
