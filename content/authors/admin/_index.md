@@ -41,6 +41,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/UC_OSPO
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCCbqOaAyKrVuYIaehV2cF1g
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
