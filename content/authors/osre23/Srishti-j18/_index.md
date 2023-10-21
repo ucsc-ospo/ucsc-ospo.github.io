@@ -30,7 +30,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:srishti33164jaiswal@gmail.com
-
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/srishti-jaiswal18/
+    
+    
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
