@@ -14,7 +14,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "TopLeft"
   preview_only: false
 ---
 
@@ -49,4 +49,4 @@ interruption, and similar durations of the "interruption." This setup allows for
 
 Discussion Part: In the discussion section, I addressed the differences that students can observe after conducting the experiment and visualising the graphs and videos.
 
-In conclusion, I want to express my gratitude to OSRE23, where I have learned so much. This experience has been amazing for my personal and professional growth.
+In conclusion, I would like to thank my mentor, {{% mention ffund %}}, who has given me excellent guidance and would like to express my gratitude to OSRE23, where I have learned so much. This experience has been amazing for my personal and professional growth.
