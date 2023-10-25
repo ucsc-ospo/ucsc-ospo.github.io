@@ -20,7 +20,7 @@ image:
 
 Hello Again!
 
-I'm excited to present my final blog post summarizing the progress and achievements made over the 2023 Summer of Reproducibility Fellowship.I will be sharing the work I've created for the [Using Reproducibility in Machine Learning Education project](/project/osre23/nyu/edunet).
+I'm excited to present my final blog post summarizing the progress and achievements made over the 2023 Summer of Reproducibility Fellowship.I will be sharing the work I've created for the [Teaching Computer Networks with Reproducible Research: Developing a 'classroom competition' for adaptive video delivery](/project/osre23/nyu/edunet).
 
 
 ## Recap of the Journey
