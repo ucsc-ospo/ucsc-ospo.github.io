@@ -42,6 +42,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Contributors
+- 2023 Contributors
 ---
 Xueyuan Ren is a PhD student advised by Dr. Yang Wang. His research interests are in transaction processing and performance analysis of database systems.

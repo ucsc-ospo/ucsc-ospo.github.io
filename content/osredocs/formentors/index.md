@@ -1,7 +1,7 @@
 ---
 title: How to add a new project idea to OSRE
 summary: ''
-authors: [admin]
+authors: [carlosm]
 date: "2022-11-06T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -23,13 +23,13 @@ A project serves as the context for one or more project ideas. Each project is r
 - Option A: [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn)
 - Option B (via git):
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
-  - Create `content/project/osre23/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre22/ORGANIZATION/PROJECTNAME`
+  - Create `content/project/osre24/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre22/ORGANIZATION/PROJECTNAME`
   - In that directory create/update `index.md` and the project's image (`featured.png` or `featured.jpg`) 
   - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/project/osre22/ucsc/polyphorm/index.md)):
     - Add the project's title in `title:`, 
-    - Date the project entry with `date:` and `lastmod:`, using one of the formats `2022-05-27` (day only), `2022-05-27T07:32:00` (with time), `1979-05-27T00:32:00-07:00` (UTC-7 timezone), or `2022-05-27T07:32:00Z` (UTC timezone). Note that projects dated in the future will not display.
+    - Date the project entry with `date:` and `lastmod:`, using the format YYYY-MM-DD, e.g. `2022-05-27`. Note that projects dated in the future will not display.
     - Include a list of `authors:`, using either names in quotes or user names (see below for instructions on how to add user names)
-    - **IMPORTANT**: set a list of tags that include `"osre23"` and either `"uc"` or `"reproducibility"` or both, depending on whether your project has a mentor affiliated with a UC campus or associated national lab (LBL, LANL, LLNL), or is a [Summer of Reproducibility](/sor) project. Feel free to add additional tags.
+    - **IMPORTANT**: set a list of tags that include `"osre24"` and either `"uc"` or `"reproducibility"` or both, depending on whether your project has a mentor affiliated with a UC campus or associated national lab (LBL, LANL, LLNL), or is a [Summer of Reproducibility](/sor) project. Feel free to add additional tags.
     - Below the frontmatter start with a description of the project and include links to the project's webpage. 
     - Add each project idea with level-3 header, i.e., `### ...` and add a list of **essential information** that includes *topics*, *skills*, *difficulty*, *size* (175 vs 350 hours), and *mentors*.
     - Every mentor should at least have a `mailto:` link. Better yet: add the mentor using the instructions below and use the shortcut `{{%/* mention "USERNAME" */%}}`. There should be at least two mentors per project idea.

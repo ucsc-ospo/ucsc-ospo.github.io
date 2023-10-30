@@ -41,7 +41,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Contributors
+- 2023 Contributors
 ---
 
 Mohamed Saeed is a computer and communication engineering undergraduate student at Alexandria University in his fourth year of study. He has a keen interest in NLP and machine learning research. Outside of his academic pursuits, he enjoys spending his free time playing chess.

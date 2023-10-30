@@ -21,6 +21,6 @@ projects: [ospo, osre]
 
 No registration necessary. Join session via [zoom](https://ucsc.zoom.us/j/95464664724?pwd=d1V1VzFsSnpnTnhhWWRqenJrRWF6dz09) or email the [OSRE Admins](mailto:ospo-info-group@ucsc.edu) for a calendar invite.
  
-More information on the programs see [Summer of Reproducibility (SoR)](/sor) and the [Open Source Research Experience (OSRE)](/osre). 
+More information on the programs see [Summer of Reproducibility (SoR)](/sor) and the [Open Source Research Experience (OSRE)](/osre23). 
  
 Please feel free to share this information with any colleagues who you think might be interested or could benefit from participating in this program.

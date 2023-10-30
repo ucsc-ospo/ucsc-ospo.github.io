@@ -40,7 +40,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Introducing Krishna, a web developer and student at IIT BHU Varanasi, spreading warmth through the world of coding.

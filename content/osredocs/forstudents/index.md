@@ -1,7 +1,7 @@
 ---
 title: "Guidelines for Summer Students"
 summary:
-authors: [admin,slieggi]
+authors: [carlosm,slieggi]
 date: "2022-11-06T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -19,21 +19,21 @@ comments: false  # Show comments?
 
 ## How to apply to the be a contributor to GSoC / OSRE
 
-1. Take a look at [projects](/osre#projects).
-2. Between **February 22** and **March 19**, select projects of interest, contact their mentor(s), and tell them your motivation and send them your resume/CV. You are strongly encouraged to apply to no more than two projects.
-3. Join the slack channel for contributor applicants. Contact [Org Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation. Note that we will only review proposals of contributors who have also joined our slack channel by **March 20**. Use this time to also get to know the project to which you are applying and the members of the project community. You are highly encouraged to ask questions. 
+1. Take a look at [projects](/osre#projects). Note that all dates below are approximate. Refer to the [timeline](/osre/#timeline) for exact dates.
+2. Between **February** and **March**, select projects of interest, contact their mentor(s), and tell them your motivation and send them your resume/CV. You are strongly encouraged to apply to no more than two projects.
+3. Join the slack channel for contributor applicants. Contact [Org Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation. Note that we will only review proposals of contributors who have also joined our slack channel by **March**. Use this time to also get to know the project to which you are applying and the members of the project community. You are highly encouraged to ask questions. 
 4. Be prepared to provide mentors with some examples of your technical knowledge as an initial step. For instance, mentors may ask you to carry out a technical test or show work you have done in the past to assess your knowledge. This is an important step for ensuring you are proposing something that is beneficial to you, the mentor and the community. We have opportunities for contributors with a wide range of skill levels, so do not worry about "passing" the test - just show what your skill levels are and areas you are interested to grow in.
 5. Once you and the mentor have established your level of proficiency and how it fits within project ideas, you will collaborate on writing the proposal. 
 The mentors will:
     - Guide you through project software
     - Discuss project objectives and how to achieve them. 
     - Provide pointers to documentation, reference research
-Note that the mentor feedback period will typically run from **March 20** to **April 3**. 
-5. The proposal is due on **April 4** and must contain:
+Note that the mentor feedback period will typically run from **March** to **April**. 
+5. The proposal is due in **April** and must contain:
     - A detailed plan of work with an estimate of the time needed (typically 175 or 375 hours in total). See below for a [suggested template](#suggested-proposal-template).
     - Well defined tasks and their objectives, list of deliverables
     - Note: any committments that could impact the amount of time you can spend on the project.  
-6. Mentors will provide a ranked list of proposals to Org Admins. Results are made public on **May 4**.
+6. Mentors will provide a ranked list of proposals to Org Admins. Results are made public in **May**.
 
 
 {{% callout note %}}  

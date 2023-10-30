@@ -38,7 +38,7 @@ email: "banerjeeshayantan@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Shayantan Banerjee is an bioinformatics enthusiast and interested in deploying automated, reproducible and easy-to-use genomic workflows for precision medicine.

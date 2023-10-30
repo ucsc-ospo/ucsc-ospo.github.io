@@ -40,7 +40,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Chiling Han is a student at the Harker School. Her research interests include autonomous systems, robotics, and controls engineering. At her high school's FRC team 1072, she was the software director and now serves as the Technical President. She has also worked on a non-GPS localization system that can find approximate geographic coordinates using street sign intersections and customized a [system identification tool](https://github.com/HarkerRobo/sysid) for robot mechanisms.

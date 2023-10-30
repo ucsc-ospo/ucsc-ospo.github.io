@@ -40,7 +40,7 @@ email: luuhgomes98@gmail.com
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 Luiza Zucchi Hesketh Gomes is a Graduate student in Biological Sciences from University of Campinas(UNICAMP) in São Paulo, Brazil. Currently working as iGEM embassador for Latin America, she serves as the bridge between teams and the iGEM organization by guiding them through the process of developing their project. Luiza Also founded and served as Executive Director of the Brazilian Association of Synthetic Biology (SynBioBR) in which she guided marketing strategies and team management for multiple working fronts. She also participated on iGEM competition on the years 2021 and 2022 with two distinct teams. Her main lines of work and research interests are Molecular Biology, Synthetic biology and mainly Laboratory process automation, where she learned to operate liquid handling machines like Opentrons, Hamiltons and Echos to facilitate and scale up the experimentation process in laboratories.
 

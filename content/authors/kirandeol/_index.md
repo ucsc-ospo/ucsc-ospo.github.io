@@ -38,7 +38,7 @@ email: "kdeol@ualberta.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Kiran is a computing science undergrada at the university of Alberta.

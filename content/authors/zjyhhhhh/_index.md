@@ -38,7 +38,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Jiayuan Zhu is a senior student majoring in Data Science at Xi'an Jiaotong-Liverpool University. She has a keen interest in software development.

@@ -1,12 +1,12 @@
 ---
 title: "Sponsor Open Source Research Experience"
 subtitle: "Sponsorships will support open source research contributors"
-authors: [slieggi, admin]
+authors: [slieggi, carlosm]
 tags: [sor,osre]
 categories: [News]
 date: 2023-02-23
 lastmod: 2023-02-23
-featured: true
+featured: false
 draft: false
 active: true
 
@@ -26,13 +26,13 @@ projects: [ospo, osre]
 
 {{% cta cta_link="https://forms.gle/9ZTg7pMwa1dQ94NS6" cta_text="Sponsor Projects -->" %}}
 
-The [UC Open Source Research Experience (OSRE)](/osre) offers your organization the chance to participate in projects that can help your development cycles run faster, benefit from wide collaborations, and help support workforce development in domains your organization needs.  
+The [UC Open Source Research Experience (OSRE)](/osre23) offers your organization the chance to participate in projects that can help your development cycles run faster, benefit from wide collaborations, and help support workforce development in domains your organization needs.  
 
-To become a sponsor, fill out the [Sponsorship Interest Form](https://forms.gle/9ZTg7pMwa1dQ94NS6). You will be asked to indicate the level of sponsorship you would like to fund and [the open source projects](/osre/#projects) you are most interested in engaging with. 
+To become a sponsor, fill out the [Sponsorship Interest Form](https://forms.gle/9ZTg7pMwa1dQ94NS6). You will be asked to indicate the level of sponsorship you would like to fund and [the open source projects](/osre23/#projects) you are most interested in engaging with. 
 
 ### Overview of Program
 
-The OSRE includes University of California-based open source projects covering multiple disciplines. Our mentors, who are faculty and researchers from throughout the UC system, have provided a [list of project ideas](/osre/#projects) that will be the basis for the OSRE student’s work.  
+The OSRE includes University of California-based open source projects covering multiple disciplines. Our mentors, who are faculty and researchers from throughout the UC system, have provided a [list of project ideas](/osre23/#projects) that will be the basis for the OSRE student’s work.  
 
 Launched in 2020, the Open Source Research Experience program has developed into a marketplace for open source project ideas that matches students to mentors, and engages sponsoring organizations to fund and participate in open source based summer internships. The goal of this program is to increase student capabilities in working in open source, add productive contributors to on-going projects, and further promote open source as a way to engage with communities spanning industry and academia.  
 

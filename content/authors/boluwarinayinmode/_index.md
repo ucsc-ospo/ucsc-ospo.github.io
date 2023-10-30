@@ -35,7 +35,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Goodness is a software engineer with a computer science degree. He has a keen interest creating innovative solutions and pushing the boundaries of technology. 

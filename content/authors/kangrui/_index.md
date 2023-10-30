@@ -42,7 +42,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Contributors
+- 2023 Contributors
 ---
 
 Kangrui Wang is a first-year student in the Pre-Doctoral MS in Computer Science program at the University of Chicago. He’s a member of UCARE, a group working on applying machine learning methods to systems advised by Prof. Haryadi s. Gunawi. Prior to this, he got his bachelor’s degree in Computer Science from Shanghai Jiao Tong University in 2018, where he developed a passion for machine learning. He has been working in Explainable AI group advised by Prof. Quanshi Zhang. Now, his research interest is broadly about NLP, machine learning theory and computer vision.

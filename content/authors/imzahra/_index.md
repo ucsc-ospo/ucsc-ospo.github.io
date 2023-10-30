@@ -36,7 +36,7 @@ email: "111202013199@mhs.dinus.ac.id"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Contributors
+- 2023 Contributors
 ---
 
 Zahra Nabila Maharani is a third-year undergraduate student of Universitas Dian Nuswantoro.

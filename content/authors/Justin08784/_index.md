@@ -38,7 +38,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Contributors
+- 2023 Contributors
 ---
 Justin Shin is a third year Computer Science major at the University of Chicago. 
 He is very interested in contributing to open source programs.

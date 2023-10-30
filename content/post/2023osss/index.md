@@ -4,12 +4,12 @@
 title: "2023 UCSC Open Source for Business"
 subtitle: "A twelve lecture version of the same-name seminar."
 summary: "The OSPO UC Santa Cruz are pleased to be hosting the third Summer Seminar Series for our affiliated researchers, students and industry partners facilitated by Dr. Dirk Riehle, Professor of Open Source Software at the Friedrich-Alexander University Erlangen-Nürnberg. The seminar entitled Open Source for Business consists of 12 lectures addressing everything you need to understand open source and to develop a corporate open source strategy. "
-authors: [slieggi,admin]
+authors: [slieggi,carlosm]
 tags: [osss]
 categories: [education]
 date: 2023-04-19
 lastmod: 2023-04-19
-featured: true
+featured: false
 draft: false
 
 # Featured image

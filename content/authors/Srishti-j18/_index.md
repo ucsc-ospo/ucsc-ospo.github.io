@@ -30,14 +30,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:srishti33164jaiswal@gmail.com
-
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/srishti-jaiswal18/
+    
+    
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Srishti Jaiswal is a Mathematics and Computing undergraduate student at the Indian Institute of Technology BHU (Varanasi) pursuing a Integrated dual degree (Bachelor of Technology and Master of Technology). Srishti Jaiswal is very interested to learn and contribute to open source program.

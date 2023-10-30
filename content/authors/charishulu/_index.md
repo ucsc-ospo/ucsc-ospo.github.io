@@ -42,7 +42,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Contributors
+- 2023 Contributors
 ---
 
 Charis Hulu is currently a senior undergraduate student in the IT and Big Data Analytics program at the Calvin Institute of Technology.

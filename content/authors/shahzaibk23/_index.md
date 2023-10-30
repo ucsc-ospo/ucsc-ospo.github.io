@@ -40,6 +40,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Contributors
+- 2023 Contributors
 ---
 Shahzaib Kashif is a Software Engineer, currently working as Research Assistant at Micro Electronics Research Lab (MERL). His Research interests are Constructing Hardware in Scala Embedded Language (CHISEL) - HDL, Computer Architecture, Compilers and RISC-V. He has contributed to numerous open-source projects, he was also a part of the team that presented "Reverse Engineering of Rocket-Chip" Talk in RISC-V Summit 2020. He is one of the developers that created "SoC-Now" which is a web based rapid prototyping application for start-ups working on domain specific processors (DSPs)

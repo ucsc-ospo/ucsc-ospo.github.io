@@ -38,7 +38,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Mike is an undergraduate student at the University of Chicago. He is currently working under Prof. {{% mention vijay %}} on research about GPU Emulation. 

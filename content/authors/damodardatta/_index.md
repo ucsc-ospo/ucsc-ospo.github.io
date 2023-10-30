@@ -38,7 +38,7 @@ email: "damodardatta@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Damodar Datta Kancharla is a Research Assistant at RRC,IIIT Hyderabad.

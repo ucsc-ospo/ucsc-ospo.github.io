@@ -40,7 +40,7 @@ email: "rani.api3939@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Maharani Ayu Putri Irawan is a third-year informatics engineering undergraduate student at Institut Teknologi Bandung, Indonesia.

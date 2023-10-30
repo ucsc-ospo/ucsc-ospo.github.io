@@ -4,7 +4,7 @@
 title: "🎓 Open Source Education"
 subtitle: "Teaching students to be productive in open source communities."
 summary: "The OSPO supports the creation of course work at UCSC that aims to increase the pool of students skilled in working in the context of large open source software communities. Students of these cources find excellent mentors in academia and industry and often become successful open source contributors. The OSPO also hosts guest lecturers on topics specific to open source, including a yearly workshop series on open source."
-authors: [slieggi,admin]
+authors: [slieggi,carlosm]
 tags: [ospo]
 categories: [programs]
 date: 2022-08-22T12:23:07-07:00

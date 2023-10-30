@@ -1,4 +1,3 @@
-
 ---
 # Display name
 title: Manank Patel 
@@ -39,7 +38,7 @@ email: "manank@manank.me"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Contributors
+  - 2023 Contributors
 ---
 
 Manank is currently a fourth year student at BITS Pilani, and an software developer intern at Arista Networks, Pune, India. He is interested in distributed systems, performance optimization and operating systems.
