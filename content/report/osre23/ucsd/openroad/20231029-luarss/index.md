@@ -6,8 +6,8 @@ authors: [luarss]
 author_notes: ["Student at National University of Singapore"]
 tags: ["osre23", uc, reproducibility]
 categories: ["chip-design"]
-date: 2023-07-27
-lastmod: 2023-07-27
+date: 2023-10-29
+lastmod: 2023-10-29
 featured: false
 draft: false
 
