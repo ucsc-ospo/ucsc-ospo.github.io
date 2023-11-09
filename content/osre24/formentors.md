@@ -10,7 +10,7 @@ design:
   css_class: null
 ---
 
-The UCSC OSPO is looking for mentors to be part of our 2024 Open Source Research Experience Program (OSRE), which this year also includes a new initiative -- the Summer of Reproducibility (SoR). Please read the [FAQ for Mentors](/osredocs/mentorfaq) and, if interested in participating, [the instructions](/osredocs/formentors) for posting projects. 
+The UCSC OSPO is looking for mentors to be part of our 2024 Open Source Research Experience Program (OSRE), which this once again includes the Summer of Reproducibility (SoR). Please read the [FAQ for Mentors](/osredocs/mentorfaq) and, if interested in participating, [the instructions](/osredocs/formentors) for posting projects. 
 
 {{% cta cta_link="/osredocs/mentorfaq" cta_text="FAQ for Mentors -->" %}}
 {{% cta cta_link="/osredocs/formentors" cta_text="The Instructions -->" %}}
@@ -23,14 +23,14 @@ The program team at UCSC OSPO values diversity and inclusion in all our projects
 
 ### Why should you be an OSRE mentor?
 
-If you could use undergraduate research assistance over the summer with your on-going research, this is a great opportunity to get matched to top students. Like Google Summer of Code, the OSRE allows the mentors to choose the students they want to work with based on an interactive and iterative proposal process. The proposal process provides mentors the opportunity to select someone they want to work with who will benefit their project and research.
+If you could use undergraduate research assistance over the summer with your on-going research or open source project, this is a great opportunity to get matched to top students. Like Google Summer of Code, the OSRE allows the mentors to choose the students they want to work with based on an interactive and iterative proposal process. The proposal process provides mentors the opportunity to select someone they want to work with who will benefit their project and research.
 
 ### Who can be a mentor?
 
 {{% callout note %}}
 Your project needs to
 - EITHER have at least one mentor affiliated with one of the University of California campuses or associated DOE national labs
-- OR have some connection to producing or using reproducibility artifacts.
+- OR be related to the producing or using of reproducibility artifacts.
 {{% /callout %}}
 
 **For University of California (UC) projects:** Any UC-affiliated faculty, researchers or graduate students working on projects that are or will ultimately be part of an open source community/ecosystem. 
