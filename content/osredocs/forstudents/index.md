@@ -19,7 +19,7 @@ comments: false  # Show comments?
 
 ## How to apply to the be a contributor to GSoC / OSRE
 
-1. Take a look at [projects](/osre#projects). Note that all dates below are approximate. Refer to the [timeline](/osre/#timeline) for exact dates.
+1. Take a look at the [2024 projects](/osre24#projects). Note that all dates below are approximate. Refer to the [2024 timeline](/osre24/#timeline) for exact dates.
 2. Between **February** and **March**, select projects of interest, contact their mentor(s), and tell them your motivation and send them your resume/CV. You are strongly encouraged to apply to no more than two projects.
 3. Join the slack channel for contributor applicants. Contact [Org Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation. Note that we will only review proposals of contributors who have also joined our slack channel by **March**. Use this time to also get to know the project to which you are applying and the members of the project community. You are highly encouraged to ask questions. 
 4. Be prepared to provide mentors with some examples of your technical knowledge as an initial step. For instance, mentors may ask you to carry out a technical test or show work you have done in the past to assess your knowledge. This is an important step for ensuring you are proposing something that is beneficial to you, the mentor and the community. We have opportunities for contributors with a wide range of skill levels, so do not worry about "passing" the test - just show what your skill levels are and areas you are interested to grow in.
