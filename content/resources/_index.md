@@ -4,7 +4,7 @@ authors: [elovell]
 date: 2023-10-16
 
 # Listing view
-view: compact
+#view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 image:
@@ -13,7 +13,7 @@ image:
   filename: 'resources.png'
 --- 
 
-# Fellowship/Internship Programs \[Paid\]
+## Fellowship/Internship Programs \[Paid\]
 
 -   [Outreachy Internships](https://www.outreachy.org)
 -   [Major League Hacking's MLH Fellowship](https://fellowship.mlh.io)
@@ -22,14 +22,14 @@ image:
 -   [Google Summer of Code](https://summerofcode.withgoogle.com) (global
     / any newcomer 18+)
 
-# Fellowship/Internship Programs \[Unpaid\]
+## Fellowship/Internship Programs \[Unpaid\]
 
 -   [CodeDay Labs](https://labs.codeday.org) (undergraduate,
     tracked by experience level)
 -   [MinT](https://mentorsintech.com) (undergraduate,
     emphasis on overlooked and underserved students)
 
-# Preparation Programs \[Unpaid\]
+## Preparation Programs \[Unpaid\]
 
 -   [GitHub's All In for Students](https://allinopensource.org/students/) (US
     only / students enrolled part time or full time at specific
@@ -38,14 +38,14 @@ image:
     / [mostly students 18+)
 
 
-# Teaching Open Source
+## Teaching Open Source
 
 -   [Teaching Open Source](https://teachingopensource.org) (website,
     mailing list, virtual talks)
 -   [Foss2serve](http://foss2serve.org) (faculty
     teaching with humanitarian projects, POSSE workshops)
 
-# Self-Learning / Friendly Entry Points
+## Self-Learning / Friendly Entry Points
 
 -   [Open Source Basics](https://www.youtube.com/watch?v%3DupxUAI-fAtE) (Emily's
     favorite intro video, featuring a cookie recipe theme!)
@@ -56,13 +56,13 @@ image:
 -   [Linux Foundation Open Source Guides](https://www.linuxfoundation.org/resources/open-source-guides)
 -   ["Open Source Masterclass" MOOC](https://opensourcemasterclass.org/)
 
-# Finding an Issue/Project
+## Finding an Issue/Project
 
 -   [Up for Grabs](https://up-for-grabs.net/)
 -   [Code Triage](https://www.codetriage.com)
 -   [Good First Issue](https://goodfirstissue.dev)
 
-# Community
+## Community
 
 -   [Community Blueprint](http://openinfra.dev/experience) (share
     your story!)
@@ -73,42 +73,42 @@ image:
 -   [Contributor Covenant](https://www.contributor-covenant.org) (code
     of conduct for communities)
     
-# Oft-Referenced Books
+## Oft-Referenced Books
 
 -   [The Art of Community, by Jono Bacon](https://www.jonobacon.com/books/artofcommunity/)
 -   [The Cathedral and the Bazaar, by Eric S. Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 
-# Best Practices & Metrics
+## Best Practices & Metrics
 
 -   [TODO Group](https://todogroup.org)
 -   [CHAOSS](https://chaoss.community)
 -   [OSPO++](https://ospoplusplus.org)
 
-# Platform-Agnostic Open Source Conferences
+## Platform-Agnostic Open Source Conferences
 
 -   [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
 -   [All Things Open](https://www.allthingsopen.org)
 -   [FOSSY](https://fossy.us)
 
-# Funding
+## Funding
 
 -   [NSF POSE](https://www.nsf.gov/pubs/2022/nsf22572/nsf22572.htm)
 -   [Alfred P. Sloan Foundation's Better Software for Science](https://sloan.org/programs/digital-technology/better-software-for-science)
 -   [Schmidt Futures' Creating Platforms for Scale](https://www.schmidtfutures.com/our-work/creating-platforms-for-scale/)
 -   [Mozilla Foundation](https://foundation.mozilla.org/en/what-we-fund/)
 
-# Licensing
+## Licensing
 
 -   [Choose a License](https://choosealicense.com/)
 -   [TLDR Legal](https://www.tldrlegal.com)
 -   [Wikipedia's article on Open Source License](https://en.wikipedia.org/wiki/Open-source_license)
 -   [UC's Open Source Software Resources](https://security.ucop.edu/resources/open-source-software-licensing.html)
 
-# Jobs
+## Jobs
 
 -   [OpenStack Jobs Board](https://www.openstack.org/community/jobs/)
 
-# UC Santa Cruz Specific Support/Resources
+## UC Santa Cruz Specific Support/Resources
 
 -   [Center for Research in Open Source Software (CROSS)](https://cross.ucsc.edu/)
 -   [Genomics Institute](https://genomics.ucsc.edu/)
