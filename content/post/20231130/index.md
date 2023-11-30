@@ -1,6 +1,6 @@
 ---
 title: "Virtual Reproducibility Hackathon" 
-subtitle: "December 15, 2023, 10am Central Time"
+subtitle: "Taking place on December 15, 2023, 10am-5pm Central Time"
 summary: "We are excited to announce our Virtual Reproducibility Hackathon taking place on December 15, 2023, hosted by the Chameleon Team! To sign up, click here for more information."
 authors: [slieggi, carlosm]
 tags: [osre, sor]
