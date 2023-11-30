@@ -18,6 +18,7 @@ active: true
 #   Otherwise, set `projects = []`.
 projects: [ospo]
 ---
+**Video of [Info Session](https://youtu.be/toIQD7CSfLg?si=u5j5Ps4poQlOoo3i) now available** 
 
 Could your open source project or reproducibility-related research project benefit from working with enthusiastic and talented students who are paid to productively contribute to your work this coming Summer? Would you or someone in your open source or research project be able to mentor a new contributor for no more than 5 hours per week? The [Open Source Research Experience (OSRE) Program](/osre24) may be the opportunity you are looking for to move your research forward and build your community.  
 
