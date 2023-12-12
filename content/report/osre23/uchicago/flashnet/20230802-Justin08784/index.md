@@ -25,7 +25,7 @@ preview_only: false
 
 Hello everyone,
 
-This is my second blog post for SoR 2023. As you may recall from my [initial blogpost](/report/osre23/uchicago/flashnet/20230530-Justin08784), I am working on the [Flashnet](/report/osre23/uchicago/flashnet/) project under the mentorship of {{% mention haryadi %}}.
+This is my second blog post for SoR 2023. As you may recall from my [initial blogpost](/report/osre23/uchicago/flashnet/20230530-justin08784/), I am working on the [Flashnet](/project/osre23/uchicago/flashnet/) project under the mentorship of {{% mention haryadi %}}.
 
 I've been assigned two major tasks under Flashnet:
 1. Perform post-training quantization (PTQ) on existing Flashnet models 
