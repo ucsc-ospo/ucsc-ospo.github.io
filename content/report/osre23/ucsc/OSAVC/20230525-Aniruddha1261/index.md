@@ -23,7 +23,7 @@ focal_point: ""
 preview_only: false
 ---
 
-As part of the [Open Source Autonomous Vehicle Controller Project](/project/osre23/ucsc/OSAVC) my [proposal](https://drive.google.com/file/d/1_w9RfOM6XWruYUDR1d1yo45tQenpTQq5/view?usp=sharing) under the mentorship of **Aaron Hunter and Carlos Espinosa** aims to Develop a tutorial that serves as a comprehensive guide for new users of the OSAVC controller. The tutorial will start from scratch, demonstrating how to initialize and program the controller using the equivalent of a "Hello, World!" program. Subsequently, it will progress to more advanced applications.
+As part of the [Open Source Autonomous Vehicle Controller Project](/project/osre23/ucsc/osavc) my [proposal](https://drive.google.com/file/d/1_w9RfOM6XWruYUDR1d1yo45tQenpTQq5/view?usp=sharing) under the mentorship of **Aaron Hunter and Carlos Espinosa** aims to Develop a tutorial that serves as a comprehensive guide for new users of the OSAVC controller. The tutorial will start from scratch, demonstrating how to initialize and program the controller using the equivalent of a "Hello, World!" program. Subsequently, it will progress to more advanced applications.
 
 Throughout the project, I will work closely with my mentors to ensure the accuracy, clarity, and usability of the documentation. Their guidance and expertise will be instrumental in achieving the project's objectives effectively.
 

@@ -23,7 +23,7 @@ focal_point: ""
 preview_only: false
 ---
 
-As part of the [Open Source Autonomous Vehicle Controller](/project/osre23/ucsc/OSAVC) my [proposal](https://drive.google.com/file/d/18g-WRZj_7ufIt6YZNn4OG1s7VKi1u5hV/view?usp=sharing) under the mentorship of **Aaron Hunter and Carlos Espinosa** aims to Develop a Unreal Engine based simulator for testing. The simulator will be using Unreal Engine for the physics and visualization.
+As part of the [Open Source Autonomous Vehicle Controller](/project/osre23/ucsc/osavc) my [proposal](https://drive.google.com/file/d/18g-WRZj_7ufIt6YZNn4OG1s7VKi1u5hV/view?usp=sharing) under the mentorship of **Aaron Hunter and Carlos Espinosa** aims to Develop a Unreal Engine based simulator for testing. The simulator will be using Unreal Engine for the physics and visualization.
 
 ## What we have done so far
 - We found that we can use Unreal Engine as a physics simulator and co-simulate with Simulink using the tools provided by MathWorks.
