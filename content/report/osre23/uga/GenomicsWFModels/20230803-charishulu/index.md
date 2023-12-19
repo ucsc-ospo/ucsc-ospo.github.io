@@ -21,7 +21,7 @@ image:
 
 ## Introduction
 
-As part of the [Reproducible Analysis & Models for Predicting Genomics Workflow Execution Time](/project/osre23/uga/GenomicsWFModels), our goal was to characterize the tools on genomic workflows in terms of system metrics and data quality to build machine learning models to predict the elapsed time of genomic workflows. While Shayantan (another contributor) did the analysis on data quality metrics, I contributed to the system metrics analysis. We are getting closer to that goal because we have managed to collect datasets and do some analysis.
+As part of the [Reproducible Analysis & Models for Predicting Genomics Workflow Execution Time](/project/osre23/uga/genomicswfmodels/), our goal was to characterize the tools on genomic workflows in terms of system metrics and data quality to build machine learning models to predict the elapsed time of genomic workflows. While Shayantan (another contributor) did the analysis on data quality metrics, I contributed to the system metrics analysis. We are getting closer to that goal because we have managed to collect datasets and do some analysis.
 
 ## Steps
 
