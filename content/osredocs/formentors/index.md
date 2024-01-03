@@ -1,5 +1,5 @@
 ---
-title: How to add a new project idea to OSRE - updated
+title: How to add a new project idea to OSRE
 summary: ''
 authors: [carlosm] [slieggi]
 date: "2024-01-03T00:00:00Z"
