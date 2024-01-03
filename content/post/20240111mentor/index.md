@@ -1,6 +1,6 @@
 ---
 title: "OSRE 2024 Mentor Info Session" 
-subtitle: "January 11,2024 10-11am Pacific Time"
+subtitle: "January 11, 2024 10-11am Pacific Time"
 summary: "Could your open source project or reproducibility-related research project benefit from working with enthusiastic and talented students who are paid to productively contribute to your work this coming Summer? Would you or someone in your open source or research project be able to mentor a new contributor for no more than 5 hours per week? The Open Source Research Experience (OSRE) Program may be the opportunity you are looking for to move your research forward and build your community."
 authors: [slieggi]
 tags: [osre, sor]

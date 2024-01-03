@@ -7,7 +7,7 @@ tags: [osre, sor]
 Categories: [News]
 date: 2023-11-17
 lastmod: 2023-11-17
-featured: true
+featured: false
 draft: false
 active: true
 
