@@ -9,10 +9,10 @@
 
 A project serves as the context for one or more project ideas. Each project is represented as a web page with project information and ideas. Projects and their updates are subject to review of the OSRE administrators. 
 
-- Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) 
+- Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn)
 - Option B (via git):
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
-  - Create `content/project/osre24/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre23/ORGANIZATION/PROJECTNAME`
+  - Create `content/project/osre23/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre22/ORGANIZATION/PROJECTNAME`
   - In that directory create/update `index.md` and the project's image (`featured.png` or `featured.jpg`) 
   - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/project/osre22/ucsc/polyphorm/index.md)):
     - Add the project's title in `title:`, 
@@ -26,8 +26,8 @@ A project serves as the context for one or more project ideas. Each project is r
 ### Instructions for adding a mentor
 
 Mentors are welcome to add information about themselves (see [example](https://ospo.ucsc.edu/author/stephanie-lieggi/)): 
-- Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) 
-  - Include name, title, affiliations, email, short bio, github profile (if applicable), whether you are UC or Summer of Reproducibility mentor (or both), and, optionally, photo, web page and social media links.
+- Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn)
+  - Include name, title, affiliations, email, short bio, whether you are UC or Summer of Reproducibility mentor (or both), and, optionally, photo, web page and social media links.
 - Option B (via git): 
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io) (or combine with pull request of adding/updating a project above)
   - Create `/content/authors/USER` directory.
