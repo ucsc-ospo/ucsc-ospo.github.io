@@ -26,19 +26,6 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
-#Configure collections
-cascade:
-  # Configure projects
-  - _target:
-      kind: page
-      lang: en
-      path: /project/**
-      editable: true
-      #show_breadcrumb: true
-      #share: true
-      #header: 
-      #  navbar:
-      #    enable: false
 
 ############################
 ## ADVANCED

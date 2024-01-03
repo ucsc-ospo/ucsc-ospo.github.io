@@ -1,7 +1,11 @@
 ---
 title: '📚 Resources'
+summary: ''
 authors: [elovell]
-date: 2023-10-16
+date: "2023-10-16"
+lastmod: "2024-01-03"
+share: true  # Show social sharing links?
+editable: true
 
 # Listing view
 #view: compact
