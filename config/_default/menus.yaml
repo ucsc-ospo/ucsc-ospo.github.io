@@ -29,9 +29,9 @@ main:
     parent: programs
     url: "/education"
     weight: 30
-#  - name: 📚 Guides & Resources
-#    url: "#guides"
-#    weight: 30
+  - name: 📚 Resources
+    url: resources
+    weight: 35
 #  - name: 🙋 Community & Network
 #    url: "#community"
 #    weight: 30
@@ -40,6 +40,7 @@ main:
     weight: 40
   - name: 🎪 Events
     url: "event"
+    weight: 50
 #  - name: 💚 Members
 #    url: "#members"
 #    weight: 50
