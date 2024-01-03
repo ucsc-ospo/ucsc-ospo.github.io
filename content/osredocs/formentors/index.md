@@ -1,8 +1,8 @@
 ---
-title: How to add a new project idea to OSRE
+title: How to add a new project idea to OSRE - updated
 summary: ''
-authors: [carlosm]
-date: "2022-11-06T00:00:00Z"
+authors: [carlosm] [slieggi]
+date: "2024-01-03T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -20,10 +20,10 @@ editable: true
 
 A project serves as the context for one or more project ideas. Each project is represented as a web page with project information and ideas. Projects and their updates are subject to review of the OSRE administrators. 
 
-- Option A: [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn)
+- Option A: [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi)
 - Option B (via git):
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
-  - Create `content/project/osre24/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre22/ORGANIZATION/PROJECTNAME`
+  - Create `content/project/osre24/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre23/ORGANIZATION/PROJECTNAME`
   - In that directory create/update `index.md` and the project's image (`featured.png` or `featured.jpg`) 
   - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/project/osre22/ucsc/polyphorm/index.md)):
     - Add the project's title in `title:`, 
@@ -38,7 +38,7 @@ A project serves as the context for one or more project ideas. Each project is r
 ### Instructions for adding a mentor
 
 Mentors are welcome to add information about themselves (see [example](https://ospo.ucsc.edu/author/stephanie-lieggi/)): 
-- Option A: [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn)
+- Option A: [email OSRE Admins](mailto:ospo-info-group@ucsc.edu)
   - Include name, title, affiliations, email, short bio, whether you are UC or Summer of Reproducibility mentor (or both), and, optionally, photo, web page and social media links.
 - Option B (via git): 
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io) (or combine with pull request of adding/updating a project above)
@@ -47,6 +47,5 @@ Mentors are welcome to add information about themselves (see [example](https://o
     - Many icons are available (see [documentation](https://wowchemy.com/docs/getting-started/page-builder/#icons))
     - **IMPORTANT**: Under `user_groups:` add either `- University of California Mentors` or `- Summer of Reproducibility Mentors` (or both).
     - The short bio and any other information goes below the frontmatter.
-  - Make a pull request and [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) (currently: Stephanie Lieggi, Carlos Maltzahn).
-
+  - Make a pull request and [email OSRE Admins](mailto:ospo-info-group@ucsc.edu) 
 
