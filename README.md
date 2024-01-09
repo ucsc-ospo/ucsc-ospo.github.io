@@ -72,3 +72,13 @@ To archive the current year (e.g. 2023) and start a new OSRE edition:
 ## Website framework
 
 This website is based on [Hugo Blox](https://hugoblox.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).
+
+## Collaborators
+
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
