@@ -16,7 +16,7 @@ design:
 ---
 
 
-If you are interested, have a look at our [guidelines for students](/osredocs/forstudents), which includes timelines on when to contact mentors and proposal guidelines and expectations. 
+If you are interested, have a look at our [guidelines for students](/osredocs/forstudents/), which includes timelines on when to contact mentors and proposal guidelines and expectations. 
 
 New projects for OSRE 2024 will be published by the end of February. Students can begin reaching out to mentors in late February or early March. Proposals are due in April. 
 
