@@ -42,6 +42,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-  - 2024 Mentors
+  - Summer of Reproducibility Mentors
 ---
 Ben Greenman is an assistant professor in the Kahlert School of Computing at the University of Utah. He earned his Ph.D. from Northeastern University in 2020 and was a CIFellows 2020 postdoc at Brown University. His research focus is the science of language design. His team develops methods to measure performance, prove guarantees, and understand human factors for languages and systems.
