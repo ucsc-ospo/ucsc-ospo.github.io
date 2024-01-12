@@ -21,8 +21,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-Ben is a professor at the University of Utah. He likes to go fishing.
+bio: Ben is a professor at the University of Utah. He likes to go fishing.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -32,9 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:blg@cs.utah.edu
-- icon: git
+- icon: github
   icon_pack: fab
-  link: https://www.linkedin.com/in/song-luar
+  link: https://github.com/bennn
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

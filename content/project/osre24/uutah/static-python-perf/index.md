@@ -44,7 +44,7 @@ Related Work:
 * Skills: Python AST parsing, program generation, scripting, measuring performance
 * Difficulty: Medium
 * Size: Medium (175 hours)
-* Mentor: Ben Greenman
+* Mentor: {{% mention bennn %}}
 
 Design an experiment that covers the space of gradually-typed Static Python programs
 in a fair way. Since every variable in a program can have up to 3 different types,
@@ -62,7 +62,7 @@ the results into one comprehensive view of Static Python performance.
 * Skills: Python
 * Difficulty: Medium
 * Size: Small to Large
-* Mentor: Ben Greenman
+* Mentor: {{% mention bennn %}}
 
 Build or find realistic Python applications, equip them with rich types,
 and modify them to run a meaningful performance benchmark. Running a benchmark
