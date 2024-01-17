@@ -1,26 +1,21 @@
 ---
-title: "FasTensor/Stream Processing"
+title: "FasTensor / Stream Processing"
 authors: [bindong, kwu]
 author_notes: ["Research Scientist, Lawrence Berkeley Lab", "Senior Computer Scientist, Lawrence Berkeley Lab"]
-tags: ["osre24", "uc", "Streaming Processing"]
-date: 2024-01-17
-lastmod: 2024-01-17
+tags: ["osre24", "uc", "Streaming Processing"]]
+date: 2024-01-17T10:15:56-07:00
+lastmod: 2024-01-17T10:15:56-07:00
 ---
 
-Mentors: Bin Dong, Suren Byna
+[FasTensor] (https://github.com/BinDong314/FasTensor) is a generic tensor processing engine with scalability from single nodes to thousands of nodes on HPC.  FasTensor supports applications from traditional SQL query to complex DFT solver in scientific applications. It has a 1000X performance advantage over MapReduce and Spark in supporting generic data processing functions on tensor structure. In this project, we propose to expand FasTensor with streaming functionality to support online data processing. Specifically, participants of this project will develop a stream endpoint for retrieving live data output from applications, such as DAS. The stream endpoint performs the function to maintain the pointer of data, which could be a n-dimensional subset of a tensor.  
 
-AIIO (https://github.com/hpc-io/aiio ) revolutionizes the way for users to automatically tune the I/O performance of applications on HPC systems. It currently works on linear regression models but has more opportunities to work on heterogeneous data, such as programming info. This requires extending the linear regression model to  more complex models, such as heterogeneous graph neural networks. The proposed work will include developing the graph neural work-based model to predict the I/O performance and interpretation. 
+### FasTensor / Stream Processing
 
-
-### Graph Neural Network for I/O Bottleneck Analysis
-
-
-
-  * **Topics**: `FasTensor/Streaming Processing`
-  * **Skills**:   C++, github
-  * **Difficulty**: Difficult
-  * **Size**: Large (350 hours)
-  * **Mentor**: {{% mention bindong %}}, {{% mention kwu %}}
+- **Topics**: `FasTensor/Streaming Processing`
+- **Skills**:   C++, github
+- **Difficulty**: Difficult
+- **Size**: Large (350 hours)
+- **Mentor**: {{% mention bindong %}}, {{% mention kwu %}}
 
 The Specific tasks of the project include:
 - Building a mock workflow based on our DAS application (https://github.com/BinDong314/DASSA) to test stream processing. The mock workflow comprises a data producer, which generates DAS data, and a data consumer, which processes the data.
@@ -28,6 +23,3 @@ The Specific tasks of the project include:
 - Integrating the Stream Endpoint into the FasTensor library.
 - Evaluating the performance of the mock workflow with the new Stream Endpoint.
 - Documenting the execution mechanism.
-
-
-
