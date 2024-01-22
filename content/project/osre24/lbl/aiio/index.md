@@ -1,6 +1,6 @@
 ---
 title: "AIIO / Graph Neural Network"
-authors: [bindong], "Suren Byna"
+authors: [bindong, "Suren Byna"]
 author_notes: ["Research Scientist, Lawrence Berkeley Lab", " The Ohio State University (OSU)"]
 tags: ["osre24", "uc", "AI", "Bottleneck Analysis"]
 date: 2024-01-17T10:15:56-07:00
