@@ -2,7 +2,7 @@
 title: "FasTensor / Stream Processing"
 authors: [bindong, kwu]
 author_notes: ["Research Scientist, Lawrence Berkeley Lab", "Senior Computer Scientist, Lawrence Berkeley Lab"]
-tags: ["osre24", "uc", "Streaming Processing"]]
+tags: ["osre24", "uc", "Streaming Processing"]
 date: 2024-01-17T10:15:56-07:00
 lastmod: 2024-01-17T10:15:56-07:00
 ---
