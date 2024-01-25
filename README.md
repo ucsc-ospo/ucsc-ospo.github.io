@@ -40,12 +40,12 @@ Mentors are welcome to add information about themselves (see [example](https://o
 
 The website has five "lists": 
 - **Posts:** (under `content/post`) include Programs (`category: programs`) named after their program name, and the OSPO Blog items (`category: news`) named after their posting date (`yyyymmdd`) with tags that determine whether news items are also appearing in OSRE News (tag `osre`) and SoR News (tag `sor`).
-- **Projects:** (under `content/project`) are filed in a directory hierarchy with year at the top (e.g. `osre22`, `osre23`) and organization for each year. This directory hierarchy avoids name collisions of project names between years and organizations but the website build process does not assign any further meaning to it. Instead, tags determine in which year a project shows up (e.g. tag `osre22` or `osre23`) and whether the project is a UC mentor project (tag `uc`) or a reprodubility project (tag `reproducibility`) or both. Additional tags describing project topics are encouraged and show up in the OSRE tag cloud (across all years and organizations).
+- **Projects:** (under `content/project`) are filed in a directory hierarchy with year at the top (e.g. `osre22`, `osre23`) and organization for each year. This directory hierarchy avoids name collisions of project names between years and organizations but the website build process does not assign any further meaning to it. Instead, tags determine in which year a project shows up (e.g. tag `osre22` or `osre23`) and whether the project is a UC mentor project (tag `uc`) or a reproducibility project (tag `reproducibility`) or both. Additional tags describing project topics are encouraged and show up in the OSRE tag cloud (across all years and organizations).
 - **Authors** (under `content/authors`) include administrators and OSRE mentors. There are three `user_groups`: `Administration`, `University of California Mentors`, and `Summer of Reproducibility Mentors`. Authors can belong to more than one group.
 - **Reports:** (under `content/report`) are authored by OSRE contributors and will appear in the ["Student Pages" section on the OSRE page](https://ospo.ucsc.edu/osre/#studentpages).
-- **Events:** (under `content/event`) lists the annual symposia (and possibly additioinal major events). The `content/event/_index.md` is showing the upcoming event (or the past event if there is no upcoming event yet) and a call-to-action button to register (or to watch the recording of the past event). The list items are past events named by their event date.
+- **Events:** (under `content/event`) lists the annual symposia (and possibly additional major events). The `content/event/_index.md` is showing the upcoming event (or the past event if there is no upcoming event yet) and a call-to-action button to register (or to watch the recording of the past event). The list items are past events named by their event date.
 
-## How to add a new annual edition of the Open Source Research Expserience
+## How to add a new annual edition of the Open Source Research Experience
 
 To archive the current year (e.g. 2023) and start a new OSRE edition: 
 - Copy `/content/osre` to `/content/osre23` (`/content/osre` contains always the newest edition, `/content/osre23` is the archived edition)
@@ -58,7 +58,7 @@ To archive the current year (e.g. 2023) and start a new OSRE edition:
     - In `/content/osre23/studentpages.md` update `subtitle: "Return to [new student pages](/osre/#studentpages)"`
   - For Projects:
     - In `/content/osre/projects.md` update `subtitle: "Go to [last year's projects](/osre23/#projects)"`
-    - In `/content/osre23/projects.md` update `subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"` (2022 projects are under `/lastosre` because that was still under CROSS. When archiving OSRE 2024, update `/content/osre24/projecs.md` with `subtitle: "Go to [2023 projects](/osre23/#projects) or return to [new projects](/osre/#projects)"`)
+    - In `/content/osre23/projects.md` update `subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"` (2022 projects are under `/lastosre` because that was still under CROSS. When archiving OSRE 2024, update `/content/osre24/projects.md` with `subtitle: "Go to [2023 projects](/osre23/#projects) or return to [new projects](/osre/#projects)"`)
   - For Timelines:
     - In `/content/osre/timeline.md` update `subtitle: "Go to [last year's timeline](/osre23/#timeline)"`
     - In `/content/osre23/timeline.md` update `subtitle: "Return to [new timeline](/osre/#timeline)"`
