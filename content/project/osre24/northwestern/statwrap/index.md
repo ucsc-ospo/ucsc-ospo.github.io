@@ -2,7 +2,7 @@
 title: "StatWrap"
 authors: [lrasmus]
 author_notes: ["Northwestern University"]
-tags: ["osre24", reproducibility]
+tags: ["osre24", "reproducibility"]
 date: 2024-01-24
 lastmod: 2024-01-24
 ---
