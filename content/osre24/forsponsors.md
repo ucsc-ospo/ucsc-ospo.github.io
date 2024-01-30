@@ -27,7 +27,7 @@ To become a sponsor, fill out the [Sponsorship Interest Form](https://forms.gle/
 - Collaborating on innovative project that are of strategic interest to your industry;
 - Supporting the teaching of open source techniques to a wide range of student contributors;
 - Interacting with the next generation of open source leaders and up and coming talent; and
-- Recognition as an OSRE Sponsor at the Open Source Research Symposium (Fall 2023)
+- Recognition as an OSRE Sponsor at the Open Source Research Symposium (Fall 2024)
 
 ### OSRE Sponsor Levels
 
