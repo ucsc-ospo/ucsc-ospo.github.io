@@ -2,7 +2,7 @@
 title: "StatTag: Connecting statistical software to Microsoft Word"
 authors: [lrasmus]
 author_notes: ["Northwestern University"]
-tags: [osre24, csharp]
+tags: [osre24, reproducibility, csharp]
 date: 2024-01-22
 lastmod: 2024-01-22
 ---
