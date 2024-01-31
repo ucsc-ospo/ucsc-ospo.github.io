@@ -25,7 +25,12 @@ cta:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: "The Open Source Research Experience (OSRE) program by the Open Source Program Office (OSPO) UC Santa Cruz provides support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed contributor communities of open source research efforts and to help make computational research efforts reproducible. With this program the OSPO participates as mentor organization in [Google Summer of Code](https://summerofcode.withgoogle.com) and other outreach and sponsorship programs. Information from past OSRE years can be found here: [2023](/osre23) and [2022](https://cross.ucsc.edu/2022-osre/index.html) ([final 2022 reports](/post/20220929)).  
+  label: "The Open Source Research Experience (OSRE) program provides support for undergraduate and graduate students contributing to open source projects and reproducible research efforts. With its dual focus on both increasing open source communities and making computational research efforts reproducible, the OSRE supports a wide variety of projects. In connection with the OSRE, the UCSC OSPO has taken part in the [Google Summer of Code](https://summerofcode.withgoogle.com) as a mentor organization and managed other sponsored programs such as the NSF funded [Summer of Reproducibility](https://ucsc-ospo.github.io/sor24/).  Information from past OSRE years can be found here: [2023](/osre23) and [2022](https://cross.ucsc.edu/2022-osre/index.html) ([final 2022 reports](/post/20220929)).  
+
+Mentors interested in participating in the OSRE (including for projects relevant to GSoC and the SoR) can [post their project ideas](https://ucsc-ospo.github.io/osredocs/formentors/) for students to review. [Project ideas](#projects) are short abstracts that provide an overview of the tasks students will accomplish over the summer. Priority deadline for project ideas is February 6, 2024. See [mentor page](#formentors) for more details.
+
+Interested Students or other newcomers to open source or reproducibility should review these project ideas and work with mentors to develop a full proposal. Student projects are due by April 4, 2024. See [student information page](#forstudents) for more details.
+
   
   **Table of Content**: [OSRE News](#news) | [OSRE 2024](#osre24) | [For students](#forstudents) | [Student pages](#studentpages) | [For mentors](#formentors) | [For sponsors](#forsponsors) | [Timeline](#timeline) | [Projects](#projects) | [Tag cloud](#tags) | [Mentors and Contributors](#mentors)"
 

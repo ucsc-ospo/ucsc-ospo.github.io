@@ -10,12 +10,14 @@ design:
   css_class: null
 ---
 
-The UCSC OSPO is looking for mentors to be part of our 2023 Open Source Research Experience Program (OSRE), which this year also includes a new initiative -- the Summer of Reproducibility (SoR). Please read the [FAQ for Mentors](/osredocs/mentorfaq) and, if interested in participating, [the instructions](/osredocs/formentors) for posting projects. 
+The UCSC OSPO is looking for mentors to be part of our 2023 Open Source Research Experience Program (OSRE), including those interested in working under the Summer of the Summer of Reproducibility (SoR). Please read the [FAQ for Mentors](/osredocs/mentorfaq) and, if interested in participating, [the instructions](/osredocs/formentors) for posting projects. 
+
+Priority deadline for Project Ideas from Mentors is February 6, 2024. 
 
 {{% cta cta_link="/osredocs/mentorfaq" cta_text="FAQ for Mentors -->" %}}
 {{% cta cta_link="/osredocs/formentors" cta_text="The Instructions -->" %}}
 
-While typical OSRE supported projects require mentors who are connected to University of California-based open source projects, thanks to funding from the National Science Foundation, the Summer of Reproducibility allows us to also support US-based mentors interested in research projects related to the creation and usage of reproducibilty artifacts. 
+While typical OSRE supported projects require mentors who are connected to University of California-based open source projects, thanks to funding from the National Science Foundation, the Summer of Reproducibility allows us to also support additional mentors interested in research projects related to the creation and usage of reproducibilty artifacts. 
 
 The goal of OSRE 2023 is to increase student capabilities in working in open source projects and creating reproducible artifacts, as well as add productive open source contributors and promote open source and reproducibility throughout the UC system and beyond.
 
@@ -23,7 +25,7 @@ The program team at UCSC OSPO values diversity and inclusion in all our projects
 
 ### Why should you be an OSRE mentor?
 
-If you could use undergraduate research assistance over the summer with your on-going research, this is a great opportunity to get matched to top students. Like Google Summer of Code, the OSRE allows the mentors to choose the students they want to work with based on an interactive and iterative proposal process. The proposal process provides mentors the opportunity to select someone they want to work with who will benefit their project and research.
+If you could use undergraduate research assistance over the summer with your on-going research, this is a great opportunity to get matched to top students. Following the Google Summer of Code model, the OSRE allows the mentors to choose the students they want to work with based on an interactive and iterative proposal process. The proposal process provides mentors the opportunity to select someone they want to work with who will benefit their project and research.
 
 ### Who can be a mentor?
 
@@ -35,7 +37,7 @@ Your project needs to
 
 **For University of California (UC) projects:** Any UC-affiliated faculty, researchers or graduate students working on projects that are or will ultimately be part of an open source community/ecosystem. 
 
-**For Summer of Reproducibility (SoR) projects:** Researchers and faculty from any US-based organization looking to support the open source production or use of reproducibility artifacts.
+**For Summer of Reproducibility (SoR) projects:** Researchers and faculty from any US-based organization looking to support the open source production or use of reproducibility artifacts. 
 
 {{% callout note %}}
 All software created as part of an OSRE project must be released as free and open source under a license that is both approved by the Open Source Initiative (OSI) and recognized as free by the Free Software Foundation (FSF).
