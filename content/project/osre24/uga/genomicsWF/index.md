@@ -25,4 +25,4 @@ Jupyter notebooks and/or Trovi artifacts containing analysis & mathematical mode
 - **Skills:** Linux, Python, Bash Scripting, Cloud Computing, Data Science Toolkit (e.g. Numpy, Pandas, SciPy)
 - **Difficulty:** Medium
 - **Size:** 350 hours
-- **Mentor(s):** Inkee Kim
+- **Mentor(s):**  {{% mention inkee.kim %}}
