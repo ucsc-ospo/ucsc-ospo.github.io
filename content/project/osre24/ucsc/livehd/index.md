@@ -2,7 +2,7 @@
 title: "LiveHD"
 authors: ["Jose Renau"]
 author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz"]
-tags: ["osre23", "uc"]
+tags: ["osre24", "uc"]
 date: 2024-02-01
 lastmod: 2024-02-01
 ---
