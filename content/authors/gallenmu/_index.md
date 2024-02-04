@@ -20,7 +20,7 @@ organizations:
   url: "https://www.tum.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sebastian Gallenmüller is a PostDoc at the Chair of Network Architectures and Services at TUM.
+bio: Sebastian Gallenm&uuml;ller is a PostDoc at the Chair of Network Architectures and Services at TUM.
 His main research interests are programmable packet processing systems and testbeds for network experiments with a focus on performance analysis.
 
 # Social/Academic Networking
