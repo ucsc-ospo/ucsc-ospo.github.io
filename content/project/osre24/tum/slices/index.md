@@ -31,7 +31,7 @@ The host
 * Skills: Python
 * Difficulty: Medium
 * Size: Large (350 hours)
-* Mentor: {{% mention gallenmu carle %}}
+* Mentor: {{% mention gallenmu %}} and {{% mention carle %}}
 
 Design a set of basic examples that demonstrate the usage of pos that can be executed on the pos testbed in Munich and the Chameleon testbed.
 This set of basic examples acts as a demonstration of pos' capabilities and as a tutorial for new users.
