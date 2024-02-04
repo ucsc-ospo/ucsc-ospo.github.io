@@ -3,8 +3,8 @@ title: "SLICES/pos: Reproducible Experiment Workflows"
 authors: [gallenmu, carle]
 author_notes: ["Technical University of Munich"]
 tags: [osre24, reproducibility, python, SLICES-RI]
-date: 2024-02-06
-lastmod: 2024-02-06
+date: 2024-01-06
+lastmod: 2024-01-06
 ---
 
 [SLICES-RI](https://www.slices-ri.eu/) is a european research initiative aiming to create a digital research infrastructure providing an experimental platform for the upcoming decades.
