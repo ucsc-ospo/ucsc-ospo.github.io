@@ -23,10 +23,7 @@ The host
 
 **Additional Information:**
 
-* [StatTag homepage](https://sites.northwestern.edu/stattag/)
-* [StatTag on GitHub](https://github.com/stattag)
-* [Welty et al., "Facilitating reproducible research through direct connection of data analysis with manuscript preparation: StatTag for connecting statistical software to Microsoft Word"](https://pubmed.ncbi.nlm.nih.gov/33215069/)
-
+* [plain orchestrating service](https://dl.acm.org/doi/10.1145/3485983.3494841)
 
 ### Support Additional Programming Languages
 
@@ -34,36 +31,20 @@ The host
 * Skills: Python
 * Difficulty: Medium
 * Size: Large (350 hours)
-* Mentor: {{% mention lrasmus %}}
+* Mentor: {{% mention gallenmu carle %}}
 
-Following the same structure used for other language support in StatTag, develop support for a new programming language (suggested languages are provided, but applicants can propose others).  This will include:
+Design a set of basic examples that demonstrate the usage of pos that can be executed on the pos testbed in Munich and the Chameleon testbed.
+This set of basic examples acts as a demonstration of pos' capabilities and as a tutorial for new users.
+Based on these introductory examples, a more complex experiment shall be designed and executed, demonstrating the portability of the experiments between testbeds.
+This experiment involves the entire experiment workflow consisting of the setup and configuration of the testbed infrastructure, the collection of measurement results, and finally, their evaluation and publication.
+Multiple results of this experiment shall be created on different testbeds and hardware configurations.
+The results of the experiments will differ depending on the different hardware platforms on which the experiment was executed.
+These results shall be evaluated and analyzed to find a common connection between the different result sets of the experiments.
 
-* Creating a Parser class to support StatTag-specific interpretation of results (e.g., identifying a line of code that is writing to a CSV file, then loading that CSV file)
-* Creating an Automation class that manages communication with the supported programming language's interpreter.  Python support uses a Jupyter kernel, and both SAS and Stata support invoke DLLs directly.
-* Integrating the language into the UI (e.g., allowing it to be a valid code file, adding the icon for the code file to the UI)
-* Additional setup/configuration as needed (e.g., SQL support would require secure configuration for connecting to the databse server).
-
-Develop unit tests to demonstrate code is functioning.  Create test scripts in the implemented language to exercise and demonstrate end-to-end execution.
-
-
-### Process Tags in Jupyter Notebooks
-
-* Topics: `reproducibility`, `jupyter`
-* Skills: C#, Jupyter Notebooks, Python
-* Difficulty: Medium
-* Size: Medium (175 hours)
-* Mentor: {{% mention lrasmus %}}
-
-StatTag uses
-
-StatTag currently has support for Python, and utilizes the Jupyter kernel to interact with Python.  However, we currently do not fully support processing StatTag 'tags' in a Jupyter notebook.
-
-Following the same structure used for RMarkdown integration in StatTag, develop support for Jupyter Notebooks in StatTag.  StatTag should be able to:
-
-* Take as input one or more Jupyter Notebooks
-* Confirm that the Jupyter Notebook uses Python
-* Identify StatTag formatted tags within the notebook
-* Pass relevant code to the Python processor already implemented in StatTag
-
-In addition, develop unit tests to demonstrate code is functioning as intended.  Create test Jupyter Notebooks to exercise and demonstrate end-to-end execution.
+* Create introductory examples demonstrating the usage of pos
+* Design and create a portable complex network experiment based on pos
+* Execute the experiment on different testbeds (Chameleon, pos testbed)
+* Analysis of reproduced experiment
+* Automated analysis of experimental results
+* Deduction of a model describing the fundamental connections between different experiment executions
 
