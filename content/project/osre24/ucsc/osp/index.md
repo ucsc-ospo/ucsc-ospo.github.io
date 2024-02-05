@@ -28,7 +28,7 @@ Open Sensing Platform (OSP) is a new initiative expanding from our prior project
 
 ### Open Sensing Platform II: Hardware to enable large scale outdoor sensor networks
 
-![Hardware](osp2.png)
+![Hardware](featured.png)
 
 The Open Sensing Platform hardware aims to be a general purpose hardware platform for outdoor sensing (e.g. agriculture, ecological monitoring, etc.). The typical use case involves a sensor deployment in an agricultural field, remotely uploading measurements without interfering with farming operations. The current hardware revision ([Soil Power Sensor](https://github.com/jlab-sensing/soil_power_sensor)) was originally designed for monitoring power output of microbial fuel cells using high fidelity voltage and current measurement channels, as well as auxiliary sensors such as the SDI-12 [TEROS-12 soil moisture sensor](https://metergroup.com/products/teros-12/). The primary activities of this project will involve low-level firmware design and implementation, but may also incorporate hardware design revisions if necessary. We are looking to expand functionality to other external sensors, as well as optimize for power consumption, via significant firmware design activities. 
 
