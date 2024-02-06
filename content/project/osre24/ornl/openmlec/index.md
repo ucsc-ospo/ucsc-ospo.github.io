@@ -8,7 +8,7 @@ author_notes:
 - "PhD Student, University of Chicago"
 tags: ["osre24", "reproducibility", "storage systems", "erasure coding"]
 date: 2024-02-05
-lastmod: 2024-02-05
+lastmod: 2024-02-06
 ---
 
 **Project Idea Description**
@@ -36,5 +36,5 @@ We will open-source our code and aim to provide valuable insights to the communi
 - **Skills:** C/C++, Java, Bash scripting, Linux, HDFS, ZFS, Erasure Coding
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention georgea %}} and {{% mention mengwanguc %}}
+- **Mentors:** {{% mention mengwanguc %}} and Anjus George
 
