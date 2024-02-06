@@ -38,7 +38,6 @@ Building upon our evaluation of several fail-slow detection algorithms, our obje
 
 **Size:** Large (350 hours)
 
-**Mentors:** [Kexin Pei](kpei@cs.uchicago.edu), [Ruidan Li](ruidanli@uchicago.edu)
-
+**Mentors:** [Ruidan Li](https://people.cs.uchicago.edu/~ruidanli/), Kexin Pei
 
 
