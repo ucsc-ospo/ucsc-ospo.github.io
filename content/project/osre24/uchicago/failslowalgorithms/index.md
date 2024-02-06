@@ -30,11 +30,15 @@ Building upon our evaluation of several fail-slow detection algorithms, our obje
 - A Google Colab notebook for quick replay
 
 
-- **Topics:** Storage systems, machine learning
-- **Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling
-- **Difficulty:** Hard
-- **Size:** Large (350 hours)
-- **Mentors:** [Kexin Pei](kpei@cs.uchicago.edu), [Ruidan Li](ruidanli@uchicago.edu)
+**Topics:** Storage systems, machine learning
+
+**Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling
+
+**Difficulty:** Hard
+
+**Size:** Large (350 hours)
+
+**Mentors:** [Kexin Pei](kpei@cs.uchicago.edu), [Ruidan Li](ruidanli@uchicago.edu)
 
 
 
