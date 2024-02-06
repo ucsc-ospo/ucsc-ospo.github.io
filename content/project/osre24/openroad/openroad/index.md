@@ -6,7 +6,7 @@ tags: ["osre24", "ucsd", "uc", "chip design", “asicdesign”, "reproducibility
 date: 2024-01-22
 ---
 
-The [OpenROAD](https://theopenroadproject.org) project is a non-profit project, originally funded by DARPA with the aim of creating open-source EDA tools; an Autonomous flow from RTL-GDSII that completes < 24 hrs,  to lower cost and boost innovation in IC design. This project is now supported by [Precision Innovations] (precisioninno.com)  
+The [OpenROAD](https://theopenroadproject.org) project is a non-profit project, originally funded by DARPA with the aim of creating open-source EDA tools; an Autonomous flow from RTL-GDSII that completes < 24 hrs,  to lower cost and boost innovation in IC design. This project is now supported by [Precision Innovations](https://precisioninno.com).  
 
 OpenROAD massively scales and supports EWD (Education and Workforce Development) and supports a broad ecosystem making it a vital tool that supports a rapidly growing Semiconductor Industry. 
 
@@ -16,7 +16,7 @@ We welcome a diverse community of designers, researchers, enthusiasts, software 
 
 ### Create OpenROAD Tutorials and Videos 
 
-  * **Topics**: `Documentation`, `Tutorials`, ‘Videos’, `VLSI design basics`
+  * **Topics**: `Documentation`, `Tutorials`, `Videos`, `VLSI design basics`
   * **Skills**:  Video/audio recording and editing, training and education
   * **Difficulty**: Medium
   * **Size**:  Large (350 hours)
