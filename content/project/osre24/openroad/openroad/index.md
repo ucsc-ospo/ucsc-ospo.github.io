@@ -16,7 +16,7 @@ We welcome a diverse community of designers, researchers, enthusiasts, software 
 
 ### Create OpenROAD Tutorials and Videos 
 
-  * **Topics**: `Documentation`, `Tutorials`, `Videos``, `VLSI design basics`
+  * **Topics**: `Documentation`, `Tutorials`, `Videos`, `VLSI design basics`
   * **Skills**:  Video/audio recording and editing, training and education
   * **Difficulty**: Medium
   * **Size**:  Large (350 hours)
