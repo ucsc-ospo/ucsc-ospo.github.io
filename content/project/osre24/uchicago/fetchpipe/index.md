@@ -1,10 +1,10 @@
 ---
 title: "FetchPipe: Data Science Pipeline for ML-based Prefetching " 
-authors: [haryadi]
-author_notes: [Associate Professor at the University of Chicago]
+authors: [haryadi, "Daniar Kurniawan"]
+author_notes: [Associate Professor at the University of Chicago, PhD Cand. at the University of Chicago]
 tags: [osre24, reproducibility, "storage systems", machine learning"]
 date: 2024-02-02
-lastmod: 2024-02-02
+lastmod: 2024-02-06
 ---
 
 **Project Idea Description**
@@ -25,6 +25,6 @@ In this project, our goal is to provide an end-to-end data science pipeline to e
 - **Skills:** C/C++, Python, PyTorch, Bash scripting, Linux, Machine Learning modeling 
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention haryadi %}}
+- **Mentors:** [Daniar Kurniawan](https://people.cs.uchicago.edu/~daniar), Haryadi Gunawi
 
 
