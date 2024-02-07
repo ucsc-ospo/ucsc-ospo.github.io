@@ -25,9 +25,9 @@ To better understand and prevent issues related to model performance, our approa
 - A Trovi artifact for data preprocessing and model training shared on Chameleon Cloud
 - A GitHub repository containing the pipeline source code
 
-- **Topics:** Computer systems, machine learning
-- **Skills:** Python, PyTorch, Bash scripting, Linux, Data Science and Machine Learning
-- **Difficulty:** Hard
-- **Size:** Large (350 hours)
-- **Mentors:** [Ray Andrew Sinurat](https://rayandrew.me) [[email](mailto:rayandrew@uchicago.edu)], Sandeep Madireddy
+**Topics:** Computer systems, machine learning
+**Skills:** Python, PyTorch, Bash scripting, Linux, Data Science and Machine Learning
+**Difficulty:** Hard
+**Size:** Large (350 hours)
+**Mentors:** [Ray Andrew Sinurat](https://rayandrew.me) [[email](mailto:rayandrew@uchicago.edu)], Sandeep Madireddy
 
