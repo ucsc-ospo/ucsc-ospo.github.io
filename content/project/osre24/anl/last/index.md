@@ -8,6 +8,13 @@ lastmod: 2024-02-07
 ---
 
 **Project Idea Description**
+- **Topics:** Computer systems, machine learning
+- **Skills:** Python, PyTorch, Bash scripting, Linux, Data Science and Machine Learning
+- **Difficulty:** Hard
+- **Size:** Large (350 hours)
+- **Mentors:** [Ray Andrew Sinurat](https://rayandrew.me) [[email](mailto:rayandrew@uchicago.edu)], Sandeep Madireddy
+
+
 
 The performance of computer systems is constantly evolving, a natural outcome of updating hardware, improving software, and encountering hardware quirks over time. At the same time, machine learning (ML) models are becoming increasingly popular. They are being used widely to address various challenges in computer systems, notably in speeding up decision-making. This speed is vital for a quick and flexible response, essential for meeting service-level agreements (SLAs). Yet, an interesting twist has emerged: like the computer systems they aid, ML models also experience a kind of "aging." This results in a gradual decline in their effectiveness, a consequence of changes in their operating environment.
 
@@ -24,14 +31,3 @@ To better understand and prevent issues related to model performance, our approa
 - Run pipeline on several computer systems and non-computer systems dataset
 - A Trovi artifact for data preprocessing and model training shared on Chameleon Cloud
 - A GitHub repository containing the pipeline source code
-
-**Topics:** Computer systems, machine learning
-
-**Skills:** Python, PyTorch, Bash scripting, Linux, Data Science and Machine Learning
-
-**Difficulty:** Hard
-
-**Size:** Large (350 hours)
-
-**Mentors:** [Ray Andrew Sinurat](https://rayandrew.me) [[email](mailto:rayandrew@uchicago.edu)], Sandeep Madireddy
-
