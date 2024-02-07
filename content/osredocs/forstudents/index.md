@@ -2,7 +2,7 @@
 title: "Guidelines for Summer Students"
 summary:
 authors: [carlosm,slieggi]
-date: "2022-11-06T00:00:00Z"
+date: 02/06/2024
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -17,19 +17,19 @@ comments: false  # Show comments?
 
 
 
-## How to apply to the be a contributor to GSoC / OSRE
+## How to apply to the be a contributor to OSRE (inc GSoC and SoR programs)
 
 1. Take a look at the [2024 projects](/osre24#projects). Note that all dates below are approximate. Refer to the [2024 timeline](/osre24/#timeline) for exact dates.
-2. Between **February** and **March**, select projects of interest, contact their mentor(s), and tell them your motivation and send them your resume/CV. You are strongly encouraged to apply to no more than two projects.
-3. Join the slack channel for contributor applicants. Contact [Org Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation. Note that we will only review proposals of contributors who have also joined our slack channel by **March**. Use this time to also get to know the project to which you are applying and the members of the project community. You are highly encouraged to ask questions. 
+2. Between **late February** and **mid March**, select projects of interest, contact their mentor(s), and tell them your motivation and provide them with your relevant background/experience. You are strongly encouraged to apply to no more than two projects.
+3. **Join the slack channel for contributor applicants**. Contact [Org Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation. Note that we will only review proposals of contributors who have also joined our slack channel by **March 19**. Use this time to also get to know the project to which you are applying and the members of the project community. You are highly encouraged to ask questions. 
 4. Be prepared to provide mentors with some examples of your technical knowledge as an initial step. For instance, mentors may ask you to carry out a technical test or show work you have done in the past to assess your knowledge. This is an important step for ensuring you are proposing something that is beneficial to you, the mentor and the community. We have opportunities for contributors with a wide range of skill levels, so do not worry about "passing" the test - just show what your skill levels are and areas you are interested to grow in.
 5. Once you and the mentor have established your level of proficiency and how it fits within project ideas, you will collaborate on writing the proposal. 
 The mentors will:
     - Guide you through project software
     - Discuss project objectives and how to achieve them. 
     - Provide pointers to documentation, reference research
-Note that the mentor feedback period will typically run from **March** to **April**. 
-5. The proposal is due in **April** and must contain:
+Note that the mentor feedback period will typically run from **early March** to **early April**. 
+5. The proposal is due on **April 2** and must contain:
     - A detailed plan of work with an estimate of the time needed (typically 175 or 375 hours in total). See below for a [suggested template](#suggested-proposal-template).
     - Well defined tasks and their objectives, list of deliverables
     - Note: any committments that could impact the amount of time you can spend on the project.  
@@ -39,7 +39,7 @@ Note that the mentor feedback period will typically run from **March** to **Apri
 {{% callout note %}}  
 IMPORTANT REQUIREMENT FOR ALL ACCEPTED PROPOSALS  
 
-Summer contributors will be required to provide short weekly status updates. These will help the mentors and the Org Admins see that your project is on track. They are also meant to provide a basis for blog posts to be completed by the contributors and highlighted by the organization admins.  
+Summer contributors will be required to provide short bi-weekly status updates. These will help the mentors and the Org Admins see that your project is on track. They are also meant to provide a basis for blog posts to be completed by the contributors and highlighted by the organization admins.  
 
 Mentors and Org Admins expect summer contributors to act professionally and respect the mentor's time and efforts. As with any professional setting, it is the responsibility of the contributor/student to inform their mentor if they will be taking any vacations or if they have any other obligation that conflicts with the proposed workplan. Not informing the mentor of these conflicts can result in removal from the program.  
 
@@ -75,6 +75,8 @@ In your proposal, be specific and make sure your mentor can see evidence that yo
     - Relevant experience and educational background
     - If student, include current major and any relevant course work
     - Technical interests and strengths
-    - Contact information: Required: your full name, email address, current affiliation (for instance, which school are you currently attending), github handle; Optional: Blog URL, twitter; Linkedin.
+    - Contact information:
+      - Required: your full name, email address, current affiliation (for instance, which school are you currently attending), github handle;
+      - Optional: relevant blog or website URL; Linkedin profile; other social media links.
 
 
