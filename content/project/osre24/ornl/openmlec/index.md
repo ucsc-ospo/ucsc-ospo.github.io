@@ -36,5 +36,5 @@ We will open-source our code and aim to provide valuable insights to the communi
 - **Skills:** C/C++, Java, Bash scripting, Linux, HDFS, ZFS, Erasure Coding
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention mengwanguc %}} and Anjus George
+- **Mentors:** {{% mention mengwanguc %}} ([Main contact person](mailto:wangm12@uchicago.edu)) and Anjus George
 
