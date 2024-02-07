@@ -20,7 +20,7 @@ organizations:
   url: "https://www.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ray Andrew Sinurat is a PhD student at the Department of Computer Science at the University of Chicago advised by Prof. Haryadi S. Gunawi and Sandeep Madireddy. His current research focuses on storage and distributed systems and the integration of computer systems and machine learning to enhance decision-making processes in production server environments.
+bio: Ray Andrew Sinurat is a PhD student at the Department of Computer Science at the University of Chicago
 
 
 # Social/Academic Networking
