@@ -9,6 +9,12 @@ lastmod: 2024-02-06
 
 **Project Idea Description**
 
+- **Topics:** Storage systems, machine learning
+- **Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling
+- **Difficulty:** Hard
+- **Size:** Large (350 hours)
+- **Mentors:** [Ruidan Li](https://people.cs.uchicago.edu/~ruidanli/), Kexin Pei
+
 In the realm of modern applications, achieving not only low but also predictable response times is a critical requirement. Performance instability, even when it amounts to just a few milliseconds of delay, can result in violations of Service Level Objectives (SLOs). Redundancy at the RAID group level provides a layer of protection; however, the early identification of potential slowdowns or failures is paramount in minimizing their impact on overall system latency.
 
 Fail-Slow represents a unique type of fault within storage systems, characterized by the system's ability to continue functioning while progressively deteriorating – its performance significantly drops below expected levels. Notably, fail-slow conditions are responsible for a considerable share of latency tails. Detecting fail-slow faults is particularly challenging, as they can be easily masked by the normal fluctuations in performance. Consequently, the identification of fail-slow faults is a critical area of research, demanding meticulous attention.
@@ -30,14 +36,5 @@ Building upon our evaluation of several fail-slow detection algorithms, our obje
 - A Google Colab notebook for quick replay
 
 
-**Topics:** Storage systems, machine learning
-
-**Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling
-
-**Difficulty:** Hard
-
-**Size:** Large (350 hours)
-
-**Mentors:** [Ruidan Li](https://people.cs.uchicago.edu/~ruidanli/), Kexin Pei
 
 
