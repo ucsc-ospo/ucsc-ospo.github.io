@@ -45,5 +45,5 @@ user_groups:
 - Summer of Reproducibility Mentors
 ---
 Ray is currently pursuing doctoral studies in the Department of Computer Science at the University of Chicago, advised by Prof. Haryadi S. Gunawi in UCARE group along with Sandeep Madireddy from Argonne National Laboratory.
-Before joining PhD, Ray earned my B.S. degree in Computer Science from Institut Teknologi Bandung (ITB), Indonesia.
+Before joining PhD, Ray earned his B.S. degree in Computer Science from Institut Teknologi Bandung (ITB), Indonesia.
 His current research focuses on storage and distributed systems, as well as the integration of computer systems and machine learning to enhance decision-making processes in production server environments.
