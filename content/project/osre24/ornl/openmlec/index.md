@@ -23,6 +23,7 @@ We will open-source our code and aim to provide valuable insights to the communi
 
 [1] Meng Wang, Jiajun Mao, Rajdeep Rana, John Bent, Serkay Olmez, Anjus George, Garrett Wilson Ransom, Jun Li, and Haryadi S. Gunawi. Design Considerations and Analysis of Multi-Level Erasure Coding in Large- Scale Data Centers. In The International Conference for High Performance Computing, Networking, Storage and Analysis (SC ’23), 2023.
 
+**Contact Person**: <a href="https://people.cs.uchicago.edu/~wangm12/">Meng Wang</a> ([wangm12@uchicago.edu](mailto:wangm12@uchicago.edu)) 
 
 **Project Deliverable**
 - Open-source MLEC implementations with a diverse range of design choices.
@@ -36,5 +37,5 @@ We will open-source our code and aim to provide valuable insights to the communi
 - **Skills:** C/C++, Java, Bash scripting, Linux, HDFS, ZFS, Erasure Coding
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention mengwanguc %}} and Anjus George
+- **Mentors:** {{% mention mengwanguc %}} ([Main contact person](mailto:wangm12@uchicago.edu)) and Anjus George
 
