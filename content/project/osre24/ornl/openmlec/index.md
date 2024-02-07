@@ -23,6 +23,7 @@ We will open-source our code and aim to provide valuable insights to the communi
 
 [1] Meng Wang, Jiajun Mao, Rajdeep Rana, John Bent, Serkay Olmez, Anjus George, Garrett Wilson Ransom, Jun Li, and Haryadi S. Gunawi. Design Considerations and Analysis of Multi-Level Erasure Coding in Large- Scale Data Centers. In The International Conference for High Performance Computing, Networking, Storage and Analysis (SC ’23), 2023.
 
+
 **Project Deliverable**
 - Open-source MLEC implementations with a diverse range of design choices.
 - Configuration setup for HDFS on top of ZFS, supporting various MLEC chunk placements.
