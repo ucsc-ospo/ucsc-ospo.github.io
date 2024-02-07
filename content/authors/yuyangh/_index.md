@@ -20,7 +20,7 @@ organizations:
   url: "https://www.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yuyang (Roy) Huang a first-year PhD student in the Department of CS at University of Chicago, advised by Prof. Haryadi S. Gunawi. His research interests are operating system, storage, system for ML or ML for system. 
+bio: Yuyang (Roy) Huang a second-year PhD student in the Department of CS at University of Chicago, advised by Prof. Haryadi S. Gunawi. His research interests are operating system, storage, system for ML or ML for system. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
