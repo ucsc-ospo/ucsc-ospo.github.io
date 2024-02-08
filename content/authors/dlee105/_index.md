@@ -35,6 +35,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/davidtleee
+- icon: envelope
+  icon_pack: fas
+  link: mailto:dlee105@ucsc.edu
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
