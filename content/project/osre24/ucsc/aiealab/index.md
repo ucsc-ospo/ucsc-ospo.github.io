@@ -1,3 +1,12 @@
+---
+title: "Artificial Intelligence Explainability Accountability"
+authors: [Leilani H. Gilpin]
+author_notes: ["Assistant Professor, UC Santa Cruz"]
+tags: ["osre24", "uc", "AI/ML", "AI for education"]
+date: 2024-02-07
+lastmod: 2024-02-07
+---
+
 ## Trustworthy Logical Reasoning Large Language Models (LLMs) {#trustworthy-logical-reasoning-large-language-models--llms}
  
 Logical LLMs is a project to translate the output from large language models (LLM) into a logic-based programming language (prolog) to detect inconsistencies and hallucinations automatically .  The goals of this project would be to build a user interface for users to be able to give feedback which can be incorporated into the system.  The project goal is to create a trustworthy hybrid open-source LLM tool that can learn from user feedback and explain its mistakes.
