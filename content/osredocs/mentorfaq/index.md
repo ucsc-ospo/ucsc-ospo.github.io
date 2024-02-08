@@ -16,7 +16,6 @@ editable: true
 #  image: "bank.png"
 ---
 
-## Interested mentors are encouraged to submit project ideas prior to February 6, 2024
 
 
 ### What kind of projects are you accepting? Are there specific technologies or topics that you prefer?
