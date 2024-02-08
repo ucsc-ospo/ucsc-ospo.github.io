@@ -28,6 +28,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://www.dustinrichmond.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/drichmond
@@ -44,4 +47,5 @@ user_groups:
 - University of California Mentors
 
 ---
-Add bio when available
+Dustin Richmond is an assistant professor in the department of Computer Science and Engineering at the University of California, Santa Cruz. He earned his Ph.D. in Computer Engineering from the University of San Diego in 2018. His research interests include information side-channels in integrated circuits and novel manycore architectures.
+
