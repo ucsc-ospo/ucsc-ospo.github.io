@@ -13,6 +13,12 @@ lastmod: 2024-02-06
 
 **Project Idea Description**
 
+- **Topics:** Storage Systems, Erasure Coding
+- **Skills:** C/C++, Java, Bash scripting, Linux, HDFS, ZFS, Erasure Coding
+- **Difficulty:** Hard
+- **Size:** Large (350 hours)
+- **Mentors:** {{% mention mengwanguc %}} ([Main contact person](mailto:wangm12@uchicago.edu)) and Anjus George
+
 Multi-Level Erasure Coding (MLEC), which performs erasure coding at both network and local levels, has seen large deployments in practice. Our recent research work has shown that MLEC can provide high durability with higher encoding throughput and less repair network traffic compared to other erasure coding methods. This makes MLEC particularly appealing for large-scale data centers, especially high-performance computing (HPC) systems.
 
 However, current MLEC systems often rely on straightforward design choices, such as Clustered/Clustered (C/C) chunk placement and the Repair-All (RALL) method for catastrophic local failures. Our recent simulations [1] have revealed the potential benefits of more complex chunk placement strategies like Clustered/Declustered (C/D), Declustered/Clustered (D/C), and Declustered/Declustered (D/D). Additionally, advanced repair methods such as Repair Failed Chunks Only (RFCO), Repair Hybrid (RHYB), and Repair Minimum (RMIN) have shown promise for improving durability and performance according to our simulations. Despite promising simulation results, these optimized design choices have not been implemented in real systems.
@@ -32,9 +38,5 @@ We will open-source our code and aim to provide valuable insights to the communi
 - Comprehensive documentation of the project and the provision of shared Trovi artifacts on Chameleon Cloud for ease of reproducibility.
 
 
-- **Topics:** Storage Systems, Erasure Coding
-- **Skills:** C/C++, Java, Bash scripting, Linux, HDFS, ZFS, Erasure Coding
-- **Difficulty:** Hard
-- **Size:** Large (350 hours)
-- **Mentors:** {{% mention mengwanguc %}} and Anjus George
+
 
