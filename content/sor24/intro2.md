@@ -39,7 +39,7 @@ advanced:
 
 {{% cta cta_link="/osre24" cta_text="2024 Open Source Research Experience --->" %}}
 
-**We are currently accepting project ideas until Feb. 6, 2024. See the important links below for instructions on how to submit a project idea.**
+**We are currently accepting project ideas until February 22 (extended deadline). See the important links below for instructions on how to submit a project idea.**
 
 ### Important Links:
 - [General Information for Mentors](https://ucsc-ospo.github.io/osre24/#formentors)
