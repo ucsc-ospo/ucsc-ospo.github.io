@@ -7,9 +7,13 @@ date: 2024-02-02
 lastmod: 2024-02-06
 ---
 
-**Project Idea Description**
+- **Topics:** storage system, scheduling, distributed system, machine learning
+- **Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling 
+- **Difficulty:** Hard
+- **Size:** Large (350 hours)
+- **Mentors:** {{% mention yuyangh %}} (contact person), {{% mention swami %}}
 
-Contact Person: [Roy Huang](mailto:yuyangh@uchicago.edu)
+**Project Idea Description**
 
 In the realm of machine learning (ML), preprocessing of data is a critical yet
 often underappreciated phase, consuming approximately 80% of the time in common
@@ -60,11 +64,4 @@ program, the students will need to:
 - Benchmark the performance in these operations under the existing frameworks
   under various experimental settings.
 - Package the benchmark such that the team can later use it for reproduction or evaluation.
-
-- **Topics:** storage system, scheduling, distributed system, machine learning
-- **Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling 
-- **Difficulty:** Hard
-- **Size:** Large (350 hours)
-- **Mentors:** [Yuyang (Roy) Huang](https://people.cs.uchicago.edu/~daniar), Swami Sundararaman
-
 

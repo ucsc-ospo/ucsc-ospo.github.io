@@ -26,7 +26,10 @@ bio: Junchen Jiang is an Assistant Professor at the Dept. of Computer Science at
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+- icon: home
+- icon_pack: fas
+- link: https://people.cs.uchicago.edu/~junchenj/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

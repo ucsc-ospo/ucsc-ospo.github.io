@@ -7,9 +7,13 @@ date: 2024-02-02
 lastmod: 2024-02-06
 ---
 
-**Project Idea Description**
+- **Topics:** video analytics, machine learning
+- **Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling 
+- **Difficulty:** Medium
+- **Size:** Large (350 hours)
+- **Mentors:** {{% mention yuyangh %}} (contact person), {{% mention junchenj %}}
 
-Contact Person: [Roy Huang](mailto:yuyangh@uchicago.edu)
+**Project Idea Description**
 
 With the flourishing of ideas like smart cities and smart manufacturing, a
 massive number of edge devices (e.g., traffic or security cameras,
@@ -49,10 +53,5 @@ applications. Thus, through the OSRE24 project, we aim to:
   Trovi site
 
 
-- **Topics:** video analytics, machine learning
-- **Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling 
-- **Difficulty:** Medium
-- **Size:** Large (350 hours)
-- **Mentors:** [Yuyang (Roy) Huang](https://royyhuang.github.io/), Junchen Jiang
 
 

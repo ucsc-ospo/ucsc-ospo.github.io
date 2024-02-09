@@ -26,7 +26,16 @@ bio: Yuyang (Roy) Huang a second-year PhD student in the Department of CS at Uni
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:yuyangh@uchicago.edu"
+- icon: home
+  icon_pack: fas
+  link: https://royyhuang.github.io/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/royyhuang
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yuyangh@uchicago.edu"
