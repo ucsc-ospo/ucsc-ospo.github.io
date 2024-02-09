@@ -13,6 +13,12 @@ lastmod: 2024-02-08
 
 **Project Idea Description**
 
+- **Topics:** Storage Systems, Machine Learning, Erasure Coding
+- **Skills:** C/C++, Python, PyTorch, Bash scripting, Linux, Erasure Coding, Machine Learning
+- **Difficulty:** Hard
+- **Size:** Large (350 hours)
+- **Mentors:** {{% mention mengwanguc %}} ([Main contact person](mailto:wangm12@uchicago.edu)) and John Bent
+
 Large-scale data centers store immense amounts of user data across a multitude of disks, necessitating redundancy strategies like erasure coding (EC) to safeguard against disk failures. Numerous research efforts have sought to assess the performance and durability of various erasure coding approaches, including single-level erasure coding, locally recoverable coding, and multi-level erasure coding.
 
 Despite its widespread adoption, a significant research gap exists regarding the performance of large-scale erasure-coded storage systems when exposed to machine learning (ML) workloads. While conventional practice often leans towards replication for enhanced performance, this project seeks to explore whether cost-effective erasure encoding can deliver comparable performance. In this context, several fundamental questions remain unanswered, including:
@@ -37,11 +43,4 @@ The student's responsibilities will include documenting the GPU emulator, progre
 - Conduct reproducible experiments to evaluate the performance of erasure-coded storage systems in the context of ML workloads
 - Publish a Trovi artifact shared on Chameleon Cloud and a GitHub repository with open-source code
 
-
-
-- **Topics:** Storage Systems, Machine Learning, Erasure Coding
-- **Skills:** C/C++, Python, PyTorch, Bash scripting, Linux, Erasure Coding, Machine Learning
-- **Difficulty:** Hard
-- **Size:** Large (350 hours)
-- **Mentors:** {{% mention mengwanguc %}} ([Main contact person](mailto:wangm12@uchicago.edu)) and John Bent
 
