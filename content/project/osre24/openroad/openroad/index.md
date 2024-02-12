@@ -1,8 +1,8 @@
 ---
 title: "OpenROAD - An Open-Source, Autonomous RTL-GDSII Flow for Chip Design"
 authors: ["Indira Iyer Almeida", "Matt Liberty"]
-author_notes: ["Precision Innovations Inc-Head of Customer Success and Outreach", "V.P Engineering, Precision Innovations- Technical head OpenROAD]
-tags: ["osre24", "ucsd", "uc", "chip design", “asicdesign”]
+author_notes: ["Precision Innovations Inc-Head of Customer Success and Outreach", "V.P Engineering, Precision Innovations- Technical head OpenROAD"]
+tags: ["osre24", "ucsd", "uc", "chip design", "asicdesign"]
 date: 2024-01-22
 ---
 
@@ -26,9 +26,9 @@ Create short videos for training and course curriculum highlighting key features
 
 ### Improve the OpenROAD AutoTuner Flow and documentation
  * **Topics**: `OpenROAD-flow-scripts`, `AutoTuner`, `Design Exploration`
-  * **Skills**: Knowledge ML for hyperparameter tuning, Cloud-based computation, Basic VLSI design and tools knowledge, python, C/C++
+  * **Skills**: Knowledge of ML for hyperparameter tuning, Cloud-based computation, Basic VLSI design and tools knowledge, python, C/C++
   * **Difficulty**: Medium
-  * **Size**: Large 175 hours) 
+  * **Size**: Large (350 hours) 
   * **Mentor**: [Vitor Bandeira](mailto:vbandeira@precisioninno.com), [Indira Iyer ](mailto:iiyer@precisioninno.com)
 
 Test, analyze and enhance the [AutoTuner](https://openroad-flow-scripts.readthedocs.io/en/latest/user/InstructionsForAutoTuner.html) to improve usability, documentation and QoR. The Autotuner is an important tool in the OpenROAD flow - [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) for Chip design exploration that significantly reduces design time.  You will use state-of-the-art ML tools to test the current tool exhaustively for good PPA (performance, power, area) results. You will also update existing documentation to reflect any changes to the tool and flow.
@@ -82,6 +82,6 @@ This project involves the creation of a conversational assistant designed around
   * **Size**: Medium ( 175 hours) 
   * **Mentor**: [Vitor Bandeira](mailto:vvbandiera@precisioninno.com), [Indira Iyer ](mailto:iiyer@precisioninno.com)
 
-You will build unit tests to test specific features of the OpenROAD tool which will become part of the regression test. Here is an example of a test for UPF support: https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/test/upf/mpd_aes.upf
+You will build unit tests to test specific features of the OpenROAD tool which will become part of the regression test. Here is an example of a test for UPF support: https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/test/upf/mpd_aes.upf.
 This is a great way to learn VLSI flow basics and the art of testing them for practical applications.
 
