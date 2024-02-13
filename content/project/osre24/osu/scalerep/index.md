@@ -45,4 +45,4 @@ Specifically, we aim to:
 
 **Size:** Large (350 hours)
 
-**Mentors:** [Bogdan "Bo" Stoica](https://bastoica.github.io/) [[email](mailto:bastoica@uchicago.edu)], Yang Wang
+**Mentors:** **{{% mention bogdanstoica %}} (contact person)**, {{% mention wang.7564 %}}
