@@ -40,21 +40,11 @@ extending the translation to support more features. This is a project that
 allows small steps. The goal is to support all Verilog 2001, and potentially
 some System Verilog features.
 
-### Topics
-
-SysteVerilog, Compilers
-
-### Skills Needed
-
-Knowledge of Verilog, C++17, some compiler background.
-
-### Difficulty
-
-Medium
-
-### Size
-
-Large
+- **Topics:** SysteVerilog, Compilers
+- **Skills Needed:** Knowledge of Verilog, C++17, some compiler background.
+- **Difficulty:** Medium
+- **Size:** Large
+- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
 
 ## Hardware Hierarchical Dynamic Structures (hdds)
 
@@ -74,21 +64,13 @@ For example, a graph can call another graph with input and outputs like a Verilo
 
 Both classes should have iterators for traversing in topological sort.
 
-### Topics
+- **Topics:** Data structures for compilers
+- **Skills Needed:** Data structures, C++17
+- **Difficulty:** Medium
+- **Size:** Large
+- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
 
-Data structures for compilers.
 
-### Skills Needed
-
-Data structures, C++17
-
-### Difficulty
-
-Medium
-
-### Size
-
-Large
 
 ## HDLEval for LLMs
 
@@ -103,21 +85,13 @@ The idea is to create many sample projects where a "input" creates a Verilog art
 
 The goal is to create many sample circuits that are realistic and practical. The description can have 
 
-### Topics
+- **Topics:** Verilog, LLMs
+- **Skills Needed:** Verilog or Chisel
+- **Difficulty:** Low
+- **Size:** Small or medium
+- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
 
-Verilog, LLMs
 
-### Skills Needed
-
-Verilog or Chisel
-
-### Difficulty
-
-Low
-
-### Size
-
-Small
 
 ## C++ Profiler Optimizer with LLMs
 
@@ -143,21 +117,13 @@ The plan is to find several examples of transformations to have a database so
 that a model like CodeLlama or mixtral can be fine-tuned with code optimization
 recomendations.
 
-### Topics
+- **Topics:** C++, perf tools
+- **Skills Needed:** C++17, Linux performance counters
+- **Difficulty:** Medium
+- **Size:** Large
+- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
 
-C++, perf tools
 
-### Skills Needed
-
-C++17, Linux performance counters
-
-### Difficulty
-
-Medium
-
-### Size
-
-Large
 
 ## Decompiler from Assembly to C++ with LLMs
 
@@ -180,19 +146,12 @@ To check that the generated code is compatible with the function translated, a
 fuzzer could be used. This allows aidecomp to iterate the generation if the
 generated code is not equivalent.
 
-### Topics
+- **Topics:** C++, decompilers
+- **Skills Needed:** C++17
+- **Difficulty:** Medium
+- **Size:** Large
+- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
 
-C++, decompilers
 
-### Skills Needed
 
-C++17
-
-### Difficulty
-
-Medium
-
-### Size
-
-Large
 
