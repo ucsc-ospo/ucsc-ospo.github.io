@@ -44,6 +44,6 @@ email: ""
 user_groups:
 - Summer of Reproducibility Mentors
 ---
-Bogdan “Bo” Stoica is a PhD student in the CS department at the University of Chicago advised by Prof. Shan Lu.
+Bogdan “Bo” Stoica is a PhD student in the CS department at the University of Chicago, advised by Prof. Shan Lu.
 His research focuses on improving the reliability and performance of large-scale distributed systems.
-He build tools rooted in program analysis, tracing and monitoring, fault injection, fuzzing, and, more recently, ML4Code techniques.
+He builds tools rooted in program analysis, tracing and monitoring, fault injection, fuzzing, and, more recently, ML4Code techniques.
