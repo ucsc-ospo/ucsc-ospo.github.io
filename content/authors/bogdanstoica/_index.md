@@ -20,8 +20,7 @@ organizations:
   url: "https://www.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bogdan "Bo" Stoica is a PhD student at the Department of Computer Science at the University of Chicago advised by Prof. Shan Lu.
-
+bio: Bogdan "Bo" Stoica is a PhD student in the CS department at the University of Chicago, advised by Prof. Shan Lu. His research interests include software reliability, performance analysis, systems scalability, and ML4Code techniques.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
