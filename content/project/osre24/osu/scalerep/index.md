@@ -7,6 +7,12 @@ date: 2024-02-10
 lastmod: 2024-02-10
 ---
 
+**Topics:** Distributed systems, Scalability, Bug analysis, Bug reproducibility  
+**Skills:** Java, Python, bash scripting, perf, Linux internals  
+**Difficulty:** Hard  
+**Size:** Large (350 hours)  
+**Mentors:** **{{% mention bogdanstoica %}} (contact person)**, {{% mention wang.7564 %}}  
+
 **Project Idea Description**
 
 Large-scale distributed systems are integral to the infrastructure of a wide range of applications and services. 
@@ -37,12 +43,4 @@ Specifically, we aim to:
 - A set of Jupyter notebook scripts allowing for conveniently replaying each step.
 - A detailed breakdown of the challenges faced when reproducing scalability bugs and how these obstacles differ from those related to more “traditional” bugs.
 
-**Topics:** Distributed systems, Scalability, Bug analysis, Bug reproducibility
 
-**Skills:** Java, Python, bash scripting, perf, Linux internals
-
-**Difficulty:** Hard
-
-**Size:** Large (350 hours)
-
-**Mentors:** **{{% mention bogdanstoica %}} (contact person)**, {{% mention wang.7564 %}}
