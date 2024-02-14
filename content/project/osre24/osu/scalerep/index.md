@@ -22,6 +22,7 @@ Recent developments in the field and the rise of cloud computing have been marke
 This increase in scale introduces specific challenges, particularly in terms of system reliability and performance. 
 As distributed systems expand beyond single machines, addressing the growing demands for computation, memory and storage becomes more difficult. 
 This underlying complexity leads to the emergence of scalability bugs — defects that surface in large-scale deployments, yet do not reveal themselves in a small-scale setting.
+
 To better understand scalability bugs, we set out to investigate a set of scalability issues documented over the last 5 years from 10 popular open-source large-scale systems. 
 These bugs have led to significant operational challenges, such as system downtime, reduced responsiveness, data loss, and data corruption. 
 Moreover, addressing them required extensive collaboration and problem-solving efforts among engineers and bug reporters, with discussions often spanning a month or more.
@@ -39,8 +40,7 @@ Specifically, we aim to:
 
 **Project Deliverable**
 
-- A set of Trovi replayable artifacts enabling other researchers to easily reproduce scalability bugs for our benchmark applications.
-- A set of Jupyter notebook scripts allowing for conveniently replaying each step.
-- A detailed breakdown of the challenges faced when reproducing scalability bugs and how these obstacles differ from those related to more “traditional” bugs.
-
+- A set of Trovi replayable artifacts enabling other researchers to easily reproduce scalability bugs for our benchmark applications;
+- A set of Jupyter notebook scripts allowing to conveniently replay each step in our investigation;
+- A detailed breakdown of the challenges faced when reproducing scalability bugs and how these obstacles differ from those related to more “traditional” types of bugs.
 
