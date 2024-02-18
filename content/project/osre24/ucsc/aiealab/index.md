@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence Explainability Accountability"
-authors: [Leilani H. Gilpin]
+authors: [lgilpin]
 author_notes: ["Assistant Professor, UC Santa Cruz"]
 tags: ["osre24", "uc", "AI/ML", "AI for education"]
 date: 2024-02-07
@@ -18,8 +18,7 @@ Logical LLMs is a project to translate the output from large language models (LL
 -   **Skills**: javascript, html, python, bash, git
 -   **Difficulty**: Easy/Moderate
 -   **Size**: Large
--   **Mentors**: [Leilani H.
-Gilpin](https://people.ucsc.edu/~lgilpin/) (and a PhD student TBD).
+-   **Mentors**: {{% mention lgilpin %}} (and a PhD student TBD).
  
  
 ### Specific Tasks {#specific-tasks}
@@ -43,8 +42,7 @@ The eXplainable autograder (XAutograder) is a tool for autograding student codin
 -   **Skills**: python, git
 -   **Difficulty**: Moderate
 -   **Size**: Large
--   **Mentors**: [Leilani H.
-Gilpin](https://people.ucsc.edu/~lgilpin/) (and a PhD student TBD).
+-   **Mentors**: {{% mention lgilpin %}} (and a PhD student TBD).
  
  
 ### Specific Tasks {#specific-tasks}
