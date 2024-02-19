@@ -1,10 +1,10 @@
 ---
 title: "EdgeRep: Reproducing and benchmarking edge analytic systems" 
-authors: [yuyangh, junchenj]
-author_notes: [PhD Student at the University of Chicago, Assistant Professor at the University of Chicago]
-tags: [osre24, reproducibility, video analytic, machine learning]
-date: 2024-02-02
-lastmod: 2024-02-06
+authors: [rsirvent]
+author_notes: [Established Researcher at Barcelona Supercomputing Center]
+tags: [osre24, reproducibility, provenance, RO-Crate, ChameleonCloud, COMPSs]
+date: 2024-02-19
+lastmod: 2024-02-19
 ---
 
 - **Topics:** video analytics, machine learning
