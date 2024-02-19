@@ -1,19 +1,28 @@
 ---
-title: "EdgeRep: Reproducing and benchmarking edge analytic systems" 
+title: "Automatic reproducibility of COMPSs experiments through the integration of RO-Crate in Chameleon" 
 authors: [rsirvent]
 author_notes: [Established Researcher at Barcelona Supercomputing Center]
-tags: [osre24, reproducibility, provenance, RO-Crate, ChameleonCloud, COMPSs]
+tags: [osre24, reproducibility, provenance, RO-Crate, Chameleon, COMPSs]
 date: 2024-02-19
 lastmod: 2024-02-19
 ---
 
-- **Topics:** video analytics, machine learning
-- **Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling 
+- **Topics:** 
+- **Skills:** Python, JSON, Bash scripting, Linux, image creation and deployment
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention yuyangh %}} (contact person), {{% mention junchenj %}}
+- **Mentors:** {{% mention rsirvent %}}
 
 **Project Idea Description**
+
+The COMPSs programming model (https://compss.bsc.es/) provides an interface for the programming of a
+sequential application that is transformed in a workflow that, thanks to the COMPSs runtime, is later
+scheduled in the available computing resources. COMPSs is able to generate Workflow Provenance information
+after the execution of an experiment. The recorded metadata enables its 
+
+
+
+
 
 With the flourishing of ideas like smart cities and smart manufacturing, a
 massive number of edge devices (e.g., traffic or security cameras,
