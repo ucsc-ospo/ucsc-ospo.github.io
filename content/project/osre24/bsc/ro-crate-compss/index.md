@@ -15,51 +15,32 @@ lastmod: 2024-02-19
 
 **Project Idea Description**
 
-The COMPSs programming model (https://compss.bsc.es/) provides an interface for the programming of a
+The [COMPSs programming model](https://compss.bsc.es/) provides an interface for the programming of a
 sequential application that is transformed in a workflow that, thanks to the COMPSs runtime, is later
-scheduled in the available computing resources. COMPSs is able to generate Workflow Provenance information
-after the execution of an experiment. The recorded metadata enables its 
+scheduled in the available computing resources. Programming is enabled for different languages through
+the use of bindings: Java, C/C++ and Python (named PyCOMPSs).
+COMPSs is able to generate [Workflow Provenance information](https://compss-doc.readthedocs.io/en/stable/Sections/05_Tools/04_Workflow_Provenance.html)
+after the execution of an experiment. The generated artifact (code + data + recorded metadata) 
+enables the sharing of results through the use of tools such as the [WorkflowHub portal](https://workflowhub.eu/), 
+that provides the capacity of generating a DOI of the results to include them as permanent references 
+in scientific papers.
 
+The format of the metadata generated in COMPSs experiments follows the [RO-Crate specification](https://www.researchobject.org/ro-crate/), 
+and, more specifically, two [profiles](https://www.researchobject.org/ro-crate/profiles.html): 
+the Workflow and Workflow Run Crate profiles. This metadata enables not only the sharing of results, but also their
+reproducibility.
 
+This project proposes the creation of a service that enables the automatic reproducibility of COMPSs experiments
+in the Chameleon infrastructure. The service will be able to get a COMPSs crate (artifact that follows the RO-Crate
+specification), and, by parsing the available metadata, build a Chameleon compatible image for reproducing the
+experiment in the testbed. Small modifications to the COMPSs RO-Crate are foreseen (i.e. the inclusion of third party
+software required by the application).
 
-
-
-With the flourishing of ideas like smart cities and smart manufacturing, a
-massive number of edge devices (e.g., traffic or security cameras,
-thermometers, flood sensors, etc.) are deployed and connected to the network.
-These devices collect and analyze data across space and time, aiding
-stakeholders like city governments and manufacturers in optimizing their plans
-and operations. However, the sheer number of edge devices and the large amount
-of communication among the devices and central servers raises significant
-challenges in how to manage and schedule resources. This includes network
-bandwidth between the devices and computing power on both edge devices and bare
-metal servers, all to maintain the reliable service capability of running
-applications.
-
-Moreover, given the limited resources available to edge devices, there's an
-emerging trend to reduce average compute and/or bandwidth usage. This is
-achieved by leveraging the uneven distribution of interesting events with
-respect to both time and space in the input data. This, in turn, introduces
-further challenges in provisioning and managing the amount of resources
-available to edge devices. The resource demands of running applications can
-greatly depend on the input data, which is both dynamic and unpredictable.
-
-Keeping these challenges in mind, the team previously designed and implemented
-a dynamic resource manager capable of understanding the applications and making
-decisions based on this understanding at runtime. However, such a resource
-manager has only been tested with a limited number and types of video analytic
-applications. Thus, through the OSRE24 project, we aim to:
-
-- Collect a wide range of videos to form a comprehensive video dataset
-- Reproduce other state-of-art self-adaptive video analytic applications
-- Package the dataset as well as the application to publish them on Chameleon
-  Trovi site
-
-**Project Deliverable**
-- Collect a wide range of videos to form a comprehensive video dataset
-- Reproduce other state-of-art self-adaptive video analytic applications
-- Package the dataset as well as the application to publish them on Chameleon
-  Trovi site
+**Project Deliverables**
+- Study the different environments and specifications (COMPSs, RO-Crate, Chameleon, Trovi, ...).
+- Design the most appropriate integration, considering all the elements involved.
+- Integrate PyCOMPSs basic experiments reproducibility in Chameleon.
+- Integrate PyCOMPSs complex experiments reproducibility in Chameleon (i.e. with third party software dependencies).
 
 
 
