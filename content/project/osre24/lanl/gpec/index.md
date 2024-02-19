@@ -17,7 +17,7 @@ lastmod: 2024-02-08
 - **Skills:** C/C++, Python, PyTorch, Bash scripting, Linux, Erasure Coding, Machine Learning
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention mengwanguc %}} ([Main contact person](mailto:wangm12@uchicago.edu)) and John Bent
+- **Mentors:** {{% mention mengwanguc %}} (primary contact), {{% mention john.bent %}}
 
 Large-scale data centers store immense amounts of user data across a multitude of disks, necessitating redundancy strategies like erasure coding (EC) to safeguard against disk failures. Numerous research efforts have sought to assess the performance and durability of various erasure coding approaches, including single-level erasure coding, locally recoverable coding, and multi-level erasure coding.
 

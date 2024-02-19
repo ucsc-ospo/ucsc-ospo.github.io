@@ -1,6 +1,6 @@
 ---
 title: "FetchPipe: Data Science Pipeline for ML-based Prefetching " 
-authors: [haryadi, "Daniar Kurniawan"]
+authors: [haryadi, daniar]
 author_notes: [Associate Professor at the University of Chicago, PhD Cand. at the University of Chicago]
 tags: [osre24, reproducibility, "storage systems", machine learning"]
 date: 2024-02-02
@@ -13,7 +13,7 @@ lastmod: 2024-02-06
 - **Skills:** C/C++, Python, PyTorch, Bash scripting, Linux, Machine Learning modeling 
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** [Daniar Kurniawan](https://people.cs.uchicago.edu/~daniar), Haryadi Gunawi
+- **Mentors:** {{% mention daniar %}} (primary contact), Haryadi Gunawi
 
 
 The contemporary landscape of high-performance servers, particularly those designed for data centers and AI/ML training, prominently features solid-state drives (SSDs) and spinning disks (HDDs) as primary storage devices. These components play a crucial role in shaping overall system performance, underscoring the importance of addressing and minimizing Input/Output (I/O) latency. This is particularly crucial given the widespread adoption of hybrid storage systems, where caching and prefetching strategies are instrumental in optimizing storage performance. Caching involves using faster but less dense memory to store frequently accessed data, while prefetching aims to reduce latency by fetching data from slower memory to cache before it is needed. Although both caching and prefetching present valid challenges, our primary emphasis is on the prefetching problem due to the inherent difficulty in predicting future access. 

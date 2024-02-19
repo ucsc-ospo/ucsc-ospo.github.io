@@ -1,6 +1,6 @@
 ---
 title: "LiveHD"
-authors: ["Jose Renau"]
+authors: [renau]
 author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz"]
 tags: ["osre24", "uc"]
 date: 2024-02-01
@@ -44,7 +44,7 @@ some System Verilog features.
 - **Skills Needed:** Knowledge of Verilog, C++17, some compiler background.
 - **Difficulty:** Medium
 - **Size:** Large
-- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
+- **Mentor:** {{% mention renau %}}
 
 ## Hardware Hierarchical Dynamic Structures (hdds)
 
@@ -68,7 +68,7 @@ Both classes should have iterators for traversing in topological sort.
 - **Skills Needed:** Data structures, C++17
 - **Difficulty:** Medium
 - **Size:** Large
-- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
+- **Mentor:** {{% mention renau %}}
 
 
 
@@ -89,7 +89,7 @@ The goal is to create many sample circuits that are realistic and practical. The
 - **Skills Needed:** Verilog or Chisel
 - **Difficulty:** Low
 - **Size:** Small or medium
-- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
+- **Mentor:** {{% mention renau %}}
 
 
 
@@ -121,7 +121,7 @@ recomendations.
 - **Skills Needed:** C++17, Linux performance counters
 - **Difficulty:** Medium
 - **Size:** Large
-- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
+- **Mentor:** {{% mention renau %}}
 
 
 
@@ -150,7 +150,7 @@ generated code is not equivalent.
 - **Skills Needed:** C++17
 - **Difficulty:** Medium
 - **Size:** Large
-- **Mentor:** [Jose Renau](mailto:renau@ucsc.edu)
+- **Mentor:** {{% mention renau %}}
 
 
 

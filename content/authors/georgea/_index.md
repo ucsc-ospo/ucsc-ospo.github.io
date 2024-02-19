@@ -20,6 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. George works with the Technology integration team at Oak Ridge National Laboratory (ORNL) that powers the some of the world’s fastest supercomputers like Summit and Frontier.  
 
+social:
+- icon: home
+  icon_pack: fas
+  link: https://www.olcf.ornl.gov/directory/staff-member/anjus-george/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

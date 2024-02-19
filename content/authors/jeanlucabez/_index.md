@@ -37,7 +37,7 @@ social:
   icon_pack: fas
   link: https://crd.lbl.gov/divisions/scidata/sdm/staff/jean-luca-bez/
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   link: https://github.com/jeanbez
 - icon: envelope
   icon_pack: fas
