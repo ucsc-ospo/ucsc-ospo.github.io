@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student, University of Chicago
+role: Ph.D. Candidate, University of Chicago
 
 # Organizations/Affiliations
 organizations:
