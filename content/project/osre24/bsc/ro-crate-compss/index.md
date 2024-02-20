@@ -7,7 +7,7 @@ date: 2024-02-19
 lastmod: 2024-02-19
 ---
 
-- **Topics:** 
+- **Topics:** Provenance, reproducibility, standards, image creation
 - **Skills:** Python, JSON, Bash scripting, Linux, image creation and deployment
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
