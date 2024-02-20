@@ -42,6 +42,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-  - 2023 Contributors
+  - University of California Mentors
 ---
-Jack is a Masters student from the National University of Singapore. Key interests are in open-source Electronic Design Automation (EDA) and applying AI for Very Large Scale Integration (VLSI) design optimisation. 
+Jack is a Masters graduate from the National University of Singapore. Key interests are in open-source Electronic Design Automation (EDA) and applying AI for Very Large Scale Integration (VLSI) design optimisation. 

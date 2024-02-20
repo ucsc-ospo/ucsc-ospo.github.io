@@ -15,7 +15,7 @@ lastmod: 2024-01-17T10:15:56-07:00
 - **Skills**: Python, Github, Machine Learning
 - **Difficulty**: Difficult
 - **Size**: Large (350 hours)
-- **Mentor**: {{% mention bindong %}}, "Suren Byna"
+- **Mentor**: {{% mention bindong %}}, Suren Byna
 
 The Specific tasks of the project include:
 - Develop the data pre-processing pipeline to convert I/O logs into formats which are required by the Graph Neural Network

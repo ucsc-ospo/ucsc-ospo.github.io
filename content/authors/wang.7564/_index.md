@@ -28,9 +28,9 @@ bio: Dr. Yang Wang is an associate professor in the CSE department of OSU. His r
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:wang.7564@osu.edu
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:wang.7564@osu.edu
 - icon: home
   icon_pack: fas
   link: https://web.cse.ohio-state.edu/~wang.7564
