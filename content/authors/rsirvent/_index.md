@@ -40,5 +40,5 @@ user_groups:
 - Summer of Reproducibility Mentors
 ---
 
-# Short bio (displayed in user profile at end of posts)
-bio: "Raül Sirvent has a permanent position at the Barcelona Supercomputing Center inside the Computer Sciences department, Workflows and Distributed Computing group. His main research interests are related to High Performance Computing programming models, deployment, dynamic resource management and scheduling, as well as Grid and Cloud programming models and tools, automatic workflow generation, fault tolerance mechanisms and provenance."
+# Short bio
+Raül Sirvent has a permanent position at the Barcelona Supercomputing Center inside the Computer Sciences department, Workflows and Distributed Computing group. His main research interests are related to High Performance Computing programming models, deployment, dynamic resource management and scheduling, as well as Grid and Cloud programming models and tools, automatic workflow generation, fault tolerance mechanisms and provenance.
