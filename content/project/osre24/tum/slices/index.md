@@ -1,6 +1,6 @@
 ---
 title: "SLICES/pos: Reproducible Experiment Workflows"
-authors: [gallenmu, carle]
+authors: [gallenmu, carle, keahey]
 author_notes: ["Technical University of Munich"]
 tags: [osre24, reproducibility, python, SLICES-RI]
 date: 2024-01-06
@@ -30,7 +30,7 @@ The hosted SLICES/pos deployment is a temporary deployment that runs inside exis
 * Skills: Python
 * Difficulty: Medium
 * Size: Large (350 hours)
-* Mentor: {{% mention gallenmu %}} and {{% mention carle %}}
+* Mentor: {{% mention gallenmu %}}, {{% mention carle %}}, and {{% mention keahey %}}
 
 Design a set of basic examples that demonstrate the usage of pos that can be executed on the SLICES/pos testbed in Munich and the Chameleon testbed.
 This set of basic examples acts as a demonstration of pos' capabilities and as a tutorial for new users.
