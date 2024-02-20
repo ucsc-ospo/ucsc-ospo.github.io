@@ -12,7 +12,7 @@ lastmod: 2024-02-07
 - **Skills:** Python, PyTorch, Bash scripting, Linux, Data Science and Machine Learning
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** [Ray Andrew Sinurat](https://rayandrew.me) [[email](mailto:rayandrew@uchicago.edu)], Sandeep Madireddy
+- **Mentors:** {{% mention rayandrew %}} (primary contact), {{% mention sandeep %}}
 
 
 

@@ -26,6 +26,10 @@ bio: John Bent is currently a research scientist at Los Alamos National Laborato
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/johnmbent/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

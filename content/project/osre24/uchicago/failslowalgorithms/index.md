@@ -1,6 +1,6 @@
 ---
 title: "FSA: Benchmarking Fail-Slow Algorithms " 
-authors: [Kexin Pei / Ruidan Li]
+authors: [kexin-pei, ruidanli]
 author_notes: [Assistant Professor at the University of Chicago, PhD Student at the University of Chicago]
 tags: [osre24, reproducibility, "storage systems", machine learning"]
 date: 2024-02-06
@@ -13,7 +13,7 @@ lastmod: 2024-02-06
 - **Skills:** Python, PyTorch, Bash scripting, Linux, Machine Learning modeling
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** [Ruidan Li](https://people.cs.uchicago.edu/~ruidanli/), Kexin Pei
+- **Mentors:** {{% mention ruidanli %}} (primary contact), {{% mention kexin-pei %}}
 
 In the realm of modern applications, achieving not only low but also predictable response times is a critical requirement. Performance instability, even when it amounts to just a few milliseconds of delay, can result in violations of Service Level Objectives (SLOs). Redundancy at the RAID group level provides a layer of protection; however, the early identification of potential slowdowns or failures is paramount in minimizing their impact on overall system latency.
 
