@@ -66,7 +66,7 @@ enhancement of the service.
 
 ### **Packaged Artifacts Integration System**
 
-- **Topics**: Cloud Computing, Data Management, Web APIs
+- **Topics**: `Cloud Computing` `Data Management` `Web APIs`
 - **Skills**: Python, RESTful APIs, Docker, Git
 - **Difficulty**: Hard
 - **Size**: Large
@@ -83,7 +83,7 @@ enhancement of the service.
 
 ### **Community Engagement and Educational Materials**
 
-- **Topics**: Educational Technology, Community Building, Content Creation
+- **Topics**: `Educational Technology` `Community Building` `Content Creation`
 - **Skills**: Video Editing, Public Speaking, Event Planning
 - **Difficulty**: Moderate
 - **Size**: Medium
@@ -100,7 +100,7 @@ enhancement of the service.
 
 ### **Feedback Loop and Continuous Improvement System**
 
-- **Topics**: Software Engineering, Data Analysis, User Feedback
+- **Topics**: `Software Engineering` `Data Analysis` `User Feedback`
 - **Skills**: Python, SQL, Data Visualization, Web Development
 - **Difficulty**: Moderate
 - **Size**: Medium
