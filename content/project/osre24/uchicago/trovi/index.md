@@ -25,7 +25,7 @@ and innovation in the field of computer science, making it an essential tool
 for researchers seeking to contribute to the development of reproducible and
 robust scientific research.
 
-This project will focus on the design of Trovi. The redesign will aim to
+This project will focus on the redesign of Trovi. The redesign will aim to
 enhance Trovi as a tool to advance practical reproducibility in CS research.
 Students will evaluate the most important use cases and enabling features
 necessary to enhance Trovi's functionality and user experience. With these
@@ -43,7 +43,7 @@ experience and fosters a collaborative learning environment.
 
 Each of the project ideas below focuses on a different aspect of the overall
 goal to enhance Trovi as a tool for advancing practical reproducibility in
-computer science research. They are designed to offer a comprehensive approach,
+CS research. They are designed to offer a comprehensive approach,
 from technical development to community engagement, ensuring a well-rounded
 enhancement of the service.
 
