@@ -8,8 +8,8 @@ lastmod: 2024-02-21T13:43:55-06:00
 ---
 
 [Trovi](https://www.chameleoncloud.org/experiment/share) on
-[Chameleon](chameleoncloud.org) is an open-source service designed to
-significantly enhance the [practical
+[Chameleon](https://www.chameleoncloud.org) is an open-source service designed
+to significantly enhance the [practical
 reproducibility](https://wordpress.cels.anl.gov/nimbusproject/wp-content/uploads/sites/116/2023/08/Reproducibility_On_Chameleon-3.pdf)
 of computer science research. By allowing Chameleon users to upload, share, and
 access packaged experiments and other research artifacts, Trovi aims to
