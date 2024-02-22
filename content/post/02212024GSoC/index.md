@@ -6,7 +6,7 @@ tags: [sor,osre]
 categories: [News]
 date: 2024-02-21
 lastmod: 2024-02-21
-featured: false
+featured: true
 draft: false
 active: true
 
