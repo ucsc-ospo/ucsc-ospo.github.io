@@ -1,7 +1,7 @@
 ---
 title: "Chameleon Trovi Redesign"
-authors: [keahey, "Mark Powers"]
-author_notes: ["Chameleon Cloud, University of Chicago"]
+authors: [keahey, mpowers]
+author_notes: ["Chameleon Cloud, University of Chicago", "Chameleon Cloud, University of Chicago"]
 tags: ["osre24", "reproducibility", "website design", "application development"]
 date: 2024-02-21T13:43:55-06:00
 lastmod: 2024-02-21T13:43:55-06:00
@@ -53,7 +53,7 @@ enhancement of the service.
 - **Skills**: HTML/CSS, JavaScript, UX design principles
 - **Difficulty**: Moderate to Hard
 - **Size**: Medium to Large
-- **Mentors:** [Mark Powers](mailto:markpowers@uchicago.edu)
+- **Mentors:** {{% mention mpowers %}}
 - **Tasks**:
   - Conduct user research to understand the needs and pain points of current
     and potential Trovi users.
@@ -68,7 +68,7 @@ enhancement of the service.
 - **Skills**: Python, RESTful APIs, Docker, Git
 - **Difficulty**: Hard
 - **Size**: Large
-- **Mentors:** [Mark Powers](mailto:markpowers@uchicago.edu)
+- **Mentors:** {{% mention mpowers %}}
 - **Tasks**:
   - Develop a system that allows users to easily package and upload their
     experimental code and data to Trovi.
@@ -85,7 +85,7 @@ enhancement of the service.
 - **Skills**: Video Editing, Public Speaking, Event Planning
 - **Difficulty**: Moderate
 - **Size**: Medium
-- **Mentors:** [Mark Powers](mailto:markpowers@uchicago.edu)
+- **Mentors:** {{% mention mpowers %}}
 - **Tasks**:
   - Design and organize webinars that introduce Trovi and its new features to
     the research community.
@@ -102,7 +102,7 @@ enhancement of the service.
 - **Skills**: Python, SQL, Data Visualization, Web Development
 - **Difficulty**: Moderate
 - **Size**: Medium
-- **Mentors:** [Mark Powers](mailto:markpowers@uchicago.edu)
+- **Mentors:** {{% mention mpowers %}}
 - **Tasks**:
   - Implement a system within Trovi for collecting, storing, and analyzing user
     feedback and usage data.
