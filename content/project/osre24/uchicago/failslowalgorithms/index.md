@@ -2,7 +2,7 @@
 title: "FSA: Benchmarking Fail-Slow Algorithms " 
 authors: [kexin-pei, ruidanli]
 author_notes: [Assistant Professor at the University of Chicago, PhD Student at the University of Chicago]
-tags: [osre24, reproducibility, "storage systems", machine learning"]
+tags: [osre24, reproducibility, "storage systems", machine learning]
 date: 2024-02-06
 lastmod: 2024-02-06
 ---
