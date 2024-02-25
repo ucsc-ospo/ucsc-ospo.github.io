@@ -1,6 +1,6 @@
 ---
 title: "LiveHD"
-authors: ["Jose Renau", sgarg3]
+authors: [renau, sgarg3]
 author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz", "Ph.D. Stuent, UC Santa Cruz"]
 tags: ["osre23", "uc"]
 date: 2022-11-07T10:15:56-07:00
@@ -8,7 +8,7 @@ lastmod: 2023-03-19
 ---
 
 Projects for [LiveHD](https://github.com/masc-ucsc/livehd).  
-Lead Mentors: [Jose Renau](mailto:renau@ucsc.edu) and {{% mention sgarg3 %}}.  
+Lead Mentors: {{% mention renau %}} and {{% mention sgarg3 %}}.  
 Contributor(s): {{% mention shahzaibk23 %}}  
 
 LiveHD is a "compiler" infrastructure for hardware design optimized for synthesis and simulation. The goals is to enable a more productive flow where the ASIC/FPGA designer can work with multiple hardware description languages like CHISEL, Pyrope, or Verilog.
