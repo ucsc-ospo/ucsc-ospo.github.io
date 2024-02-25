@@ -1,5 +1,5 @@
 ---
-title: "LiveHD"
+title: "LiveHD (2022)"
 authors: [renau]
 author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz"]
 tags: ["osre22", "uc", "chip design"]
