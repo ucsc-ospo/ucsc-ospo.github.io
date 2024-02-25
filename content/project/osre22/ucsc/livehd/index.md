@@ -1,13 +1,13 @@
 ---
 title: "LiveHD"
-authors: ["Jose Renau"]
+authors: [renau]
 author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz"]
 tags: ["osre22", "uc", "chip design"]
 date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---
 
-Projects for [LiveHD](https://github.com/masc-ucsc/livehd). Lead Mentors: [Jose Renau](mailto:renau@ucsc.edu) and [Sheng-Hong Wang](mailto:swang203@ucsc.edu). <!--more-->
+Projects for [LiveHD](https://github.com/masc-ucsc/livehd). Lead Mentors: {{% mention renau %}} and [Sheng-Hong Wang](mailto:swang203@ucsc.edu). <!--more-->
 
 ### HIF Tooling
 
