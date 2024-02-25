@@ -3,7 +3,7 @@
 title: Jose Renau
 
 # Username (this should match the folder name)
-author: renau
+# author: renau
 authors:
 - renau
 

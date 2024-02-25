@@ -1,7 +1,7 @@
 ---
 title: "LiveHD"
-authors: [renau]
-author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz"]
+authors: [renau, sgarg3]
+author_notes: ["Professor of Computer Science & Engineering, UC Santa Cruz", "PhD candidate in Computer Science & Engineering, UC Santa Cruz"]
 tags: ["osre24", "uc"]
 date: 2024-02-01
 lastmod: 2024-02-01
@@ -44,7 +44,7 @@ some System Verilog features.
 - **Skills Needed:** Knowledge of Verilog, C++17, some compiler background.
 - **Difficulty:** Medium
 - **Size:** Large
-- **Mentor:** {{% mention renau %}}
+- **Mentor:** {{% mention renau %}}, {{% mention sgarg3 %}}
 
 ## Hardware Hierarchical Dynamic Structures (hdds)
 
@@ -68,7 +68,7 @@ Both classes should have iterators for traversing in topological sort.
 - **Skills Needed:** Data structures, C++17
 - **Difficulty:** Medium
 - **Size:** Large
-- **Mentor:** {{% mention renau %}}
+- **Mentor:** {{% mention renau %}}, {{% mention sgarg3 %}}
 
 
 
