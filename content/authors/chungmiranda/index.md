@@ -20,7 +20,7 @@ organizations:
   url: "https://www.anl.gov/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Joaquin Chung is a research scientist at the Data Science and Learning Division at Argonne National Laboratory. His work spans diverse areas that go from designing systems for enabling memory-to-memory data streaming between federated instruments to architecting the control plane of future quantum communication networks. With a diverse skill set encompassing networking, programming, and an agile/devops mindset, Joaquin has a user-focused perspective that allows him to identify unique opportunities to deliver value. His career achievements include supporting Ansible network deployments at scale, having a solid background in Software Defined Networks, network engineering experience, and junior software developer experience in Python and Java. He holds an M.S. in Computer Science from Georgia Tech, a B.S.E in Network Engineering from the University of Brasilia, and is CCNA 200-102 and SDN (OCSA) certified.
+bio: Joaquin Chung is a research scientist at the Data Science and Learning Division at Argonne National Laboratory. His work spans diverse areas that go from designing systems for enabling memory-to-memory data streaming between federated instruments to architecting the control plane of future quantum communication networks.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
