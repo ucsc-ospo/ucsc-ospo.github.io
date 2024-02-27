@@ -1,7 +1,7 @@
 ---
 title: "SciStream-Rep: An Artifact for Reproducible Benchmarks of Scientific Streaming Applications"
-tags: ["Reproducibility"]
-authors: ["Joaquin Chung", "Flavio Castro"]
+tags: [osre24, reproducibility]
+authors: [chungmiranda, fcastro]
 author_notes: ["Research Scientist at Argonne National Laboratory", "Systems Developer at Argonne National Laboratory"]
 date: 2024-02-26
 lastmod: 2024-02-26
