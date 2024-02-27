@@ -1,10 +1,10 @@
 ---
-title: "ReproNB:Reproducibility of Interactive Notebook Systems" 
+title: "ReproNB: Reproducibility of Interactive Notebook Systems" 
 authors:
 - tmalik
 author_notes:
 - "DePaul University "
-tags: ["osre24", "reproducibility", "HPC", "MPI","distributed systems"]
+tags: [osre24, reproducibility, HPC, MPI, "distributed systems"]
 date: 2024-02-26
 lastmod: 2024-02-26
 ---
