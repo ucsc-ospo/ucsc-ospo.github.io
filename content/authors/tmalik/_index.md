@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Associate Professor // Databases, High Performance and Scientific Computing, Systems Development,y"
+role: "Associate Professor for Databases, High Performance and Scientific Computing, Systems Development"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.depaul.edu/Pages/default.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tanu Malik is an Associate Professor at the School of Computing and directs the DICE Lab at DePaul (https://dice.cs.depaul.edu). She is part of the DePaul Center for Data Science and the Data Systems and Optimization lab. Her research interests span scientific data management, and include topics such as  data provenance management, data virtualization techniques for reproducible science, caching, optimization and approximations in large data. 
+bio: Tanu Malik is an Associate Professor at the School of Computing and directs the DICE Lab at DePaul (https://dice.cs.depaul.edu). 
 
 
 # Social/Academic Networking
