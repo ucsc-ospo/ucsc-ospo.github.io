@@ -11,7 +11,7 @@ lastmod: 2024-02-21
 - **Skills:** Python, data analysis, machine learning
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention ffund %}} and TBD
+- **Mentors:** {{% mention ffund %}} and {{% mention MSaeed %}} 
 
 **Project Idea Description**
 
