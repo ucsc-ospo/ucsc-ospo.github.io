@@ -1,6 +1,6 @@
 ---
-title: "DirtViz"
-authors: ["Colleen Josephson"]
+title: "DirtViz (2022)"
+authors: [cjosephson]
 author_notes: ["Professor of Electrical and Computer Engineering, UC Santa Cruz"]
 tags: ["osre22", "uc"]
 date: 2022-11-07T10:15:56-07:00
@@ -21,7 +21,7 @@ systems sensor networks.
   * **Skills**:  javascript,  python, bash, webservers, git, embedded systems
   * **Difficulty**: Easy/Moderate
   * **Size** 175 hours
-  * **Mentor**: [Colleen Josephson](mailto:cjosephson@ucsc.edu)
+  * **Mentor**: {{% mention cjosephson %}}
 
 - Develop set of visualization tools (ideally web based) that easily allows users to zoom in on date ranges, change axes, etc.
 - Document the tool thoroughly for future maintenance
