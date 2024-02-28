@@ -4,8 +4,8 @@ title: Colleen Josephson
 
 # Username (this should match the folder name)
 author: cjosephson
-authors:
-- cjosephson
+#authors:
+#- cjosephson
 
 # Is this the primary user of the site?
 superuser: false
