@@ -3,6 +3,7 @@
 title: Colleen Josephson
 
 # Username (this should match the folder name)
+author: cjosephson
 authors:
 - cjosephson
 
