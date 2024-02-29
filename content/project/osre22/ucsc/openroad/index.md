@@ -60,7 +60,7 @@ Take the existing power planning (pdngen.tcl) module of openroad and recode the 
   * **Skills**:  Knowledge of EDA tools, basics of VLSI design flow, tcl, shell scripts, Documentation, Markdown
   * **Difficulty**: Medium
   * **Size**: Medium (175 hours)
-  * **Mentor**: [Indira Iyer Almeida](mailto:dralabeing@openroad.tools), [Vitor Bandeira](mailto:vvbandeira@eng.ucsd.edu)
+  * **Mentor**: {{% mention iiyer %}}, {{% mention vvbandeira %}}
 
 For [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane), develop demos showing:
 The OpenLane flow and highight key features
@@ -74,7 +74,7 @@ Different design styles and particular challenges
   * **Skills**:  Knowledge of EDA tools, basics of VLSI design, tcl, shell scripts, Verilog, Layout
   * **Difficulty**: Medium
   * **Size**: Medium (175 hours)
-  * **Mentor**: [Indira Iyer Almeida](mailto:dralabeing@openroad.tools)
+  * **Mentor**: {{% mention iiyer %}}
 
 Develop detailed test plans to test the OpenLane flow to expand coverage and advanced features. Add open source designs to the regression test suite to improve tool quality and robustness. This includes design specification, configuration and creation of all necessary files for regression testing. Suggested sources : ICCAS benchmarks, opencores, LSOracle for synthesis flow option.
 
@@ -84,7 +84,7 @@ Develop detailed test plans to test the OpenLane flow to expand coverage and adv
   * **Skills**:  C++, Qt
   * **Difficulty**: Medium
   * **Size**: Medium or Large (175 or 350 hours) 
-  * **Mentor**: [Matt Liberty](mailto:mliberty@eng.ucsd.edu), [Vitor Bandeira](mailto:vvbandeira@eng.ucsd.edu)
+  * **Mentor**: {{% mention mliberty %}}, {{% mention vvbandeira %}}
 
 For [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD), develop and enhance visualizations for EDA data and algorithms in the OpenROAD GUI. Allow deeper understanding of the tool results for users and tool internals for developers.
 
@@ -94,7 +94,7 @@ For [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD), develop and en
   * **Skills**:  C++, Python, JSON, Jinja templating
   * **Difficulty**: Medium
   * **Size**: Medium or Large (175 or 350 hours)
-  * **Mentor**: [Matt Liberty](mailto:mliberty@eng.ucsd.edu), [Tom Spyrou](mailto:aspyrou@eng.ucsd.edu)
+  * **Mentor**: {{% mention mliberty %}}, [Tom Spyrou](mailto:aspyrou@eng.ucsd.edu)
 
 For [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)- Automatic code generation for the OpenDB database which allows improvements to the data model with much less hand coding.  Allow the generation of storage, serialization, and callback code from a custom schema description format.
 r
@@ -104,6 +104,6 @@ r
   * **Skills**:   Python. ML libraries (e.g., Tensorflow, PyTorch)
   * **Difficulty**: Medium
   * **Size**: Medium or Large (175 or 350 hours)
-  * **Mentor**: [Vitor Bandeira](mailto:vvbandeira@eng.ucsd.edu), [Indira Iyer Almeida](mailto:dralabeing@openroad.tools)
+  * **Mentor**: {{% mention vvbandeira %}}, {{% mention iiyer %}}
 
 The [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) project contains a storehouse of knowledge in it's Github repositories within Issues and Pull requests. Additionally, project related slack channels also hold useful information in the form of questions and answers, problems and solutions in conversation threads. Implement an AI analytics bot that filters, selects relevant discussions and classifies/records them into useful documentation and actionable issues. This should also directly track, increase project usage and report outcome metrics.

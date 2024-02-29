@@ -1,6 +1,6 @@
 ---
-title: OpenROAD - An Open-Source, Autonomous RTL-GDSII Flow for VLSI Designs
-authors: ["Indira Iyer Almeida", "Matt Liberty"]
+title: OpenROAD - An Open-Source, Autonomous RTL-GDSII Flow for VLSI Designs (2023)
+authors: [iiyer, mliberty]
 author_notes: 
 - "Precision Innovations Inc - Consultant at OpenROAD"
 - "V.P. Engineering, Precision Innovations- Technical head OpenROAD"
@@ -17,7 +17,7 @@ The [OpenROAD](https://theopenroadproject.org) project is a non-profit, DARPA-fu
   * **Skills**:  C++, Qt
   * **Difficulty**: Medium
   * **Size**: Medium or Large (175 or 350 hours) 
-  * **Mentor**: [Matt Liberty](mailto:mliberty@precisioninno.com), [Ethan Mahintorabi](mailto:ethanmoon@google.com)
+  * **Mentor**: {{% mention mliberty %}}, [Ethan Mahintorabi](mailto:ethanmoon@google.com)
 
 Develop custom features for analysis and  visualizations in the [OpenROAD GUI] (https://openroad.readthedocs.io/en/latest/main/src/gui/README.html)  to support native and third party flows. These include [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts), [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)  and other third-party flows . Create documentation: commands, developer guide notes, tutorials to show GUI usage for supported flows.
 
@@ -26,7 +26,7 @@ Develop custom features for analysis and  visualizations in the [OpenROAD GUI] (
   * **Skills**: Knowledge about Computational resource optimization, Cloud-based computation, Basic VLSI design and tools knowledge
   * **Difficulty**: Medium
   * **Size**: Medium or Large (175 or 350 hours) 
-  * **Mentor**: [Matt Liberty](mailto:mliberty@precisioninno.com), [Ethan Mahintorabi](mailto:ethanmoon@google.com)
+  * **Mentor**: {{% mention mliberty %}}, [Ethan Mahintorabi](mailto:ethanmoon@google.com)
 
 Test, analyze and develop verifiable and re-producible strategies to improve run times in [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts). These include optimizations of computational resources over the cloud, tuning of algorithmic and design flow parameters. Create test plans using existing or new designs to show runtime improvements.
 
@@ -36,7 +36,7 @@ Test, analyze and develop verifiable and re-producible strategies to improve run
   * **Skills**:  Knowledge of EDA tools, basics of VLSI design flow, tcl, shell scripts, Documentation, Markdown
   * **Difficulty**: Medium
   * **Size**:  Medium or Large (175 or 350 hours)
-  * **Mentor**: [Indira Iyer Almeida](mailto:iiyer@precisioninno.com), [Vitor Bandeira](mailto:vvbandeira@precisioninno.com)
+  * **Mentor**: {{% mention iiyer %}}, {{% mention vvbandeira %}}
   * **Contributor(s)**: {{% mention luarss %}}
 
 Review and update missing documentation and tutorials in [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) for existing and new features. Here is an example Tutorial link: https://openroad-flow-scripts.readthedocs.io/en/latest/tutorials/FlowTutorial.html for reference.
@@ -47,6 +47,6 @@ Review and update missing documentation and tutorials in [OpenROAD-flow-scripts]
   * **Skills**:  Knowledge of EDA tools, basics of VLSI design, lef and lib model abstracts, tcl, shell scripts, Verilog, Layout
   * **Difficulty**: Medium
   * **Size**: Medium or Large (175 or 350 hours)
-  * **Mentor**: [Matt Liberty](mailto:mliberty@precisioninno.com)
+  * **Mentor**: {{% mention mliberty %}}
 
 Test the accuracy of generated LIB and LEF models for signoff  in [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) for flat and hierarchical design flows. Build test cases to validate and add to the regression suite.
