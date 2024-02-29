@@ -13,21 +13,21 @@ We aim to characterize the performance of genomic workflows on HPC clusters by c
 
 **Performance Benchmarking and Characterizing Genomic Workflows:**
 - **Topics**: High Performance Computing (HPC), Data Analysis, Scientific Workflows
-- **Skills**: Linux, Python, Bash Scripting, Cloud Computing, Data Science Toolkit (e.g. Numpy, Pandas, SciPy)
+- **Skills**: Linux, Python, Bash Scripting, Data Science Toolkit, Kubernetes, Container Orchestration, Genomics Applications (e.g. BWA, FastQC, Picard, GATK, STAR)
 - **Difficulty**: Medium
 - **Size**: Large (350 hours)
 - **Mentor(s):**  {{% mention inkee.kim %}}
 
-In this activity, students will perform comprehensive performance measurements of genomic data processing on HPC clusters using state-of-the-art applications, workflows, and real-world datasets. They will collect and package datasets for I/O, memory, and compute utilization using industry-standard tools and best practices. 
+In this activity, students will perform comprehensive performance measurements of genomic data processing on HPC clusters using state-of-the-art applications, workflows, and real-world datasets. They will collect and package datasets for I/O, memory, and compute utilization using industry-standard tools and best practices. Measurement will be done using Kubernetes container orchestration on a multi-node cluster to achieve scalability, with either custom-made metrics collection system or integration of existing industry standard tools. (e.g. Prometheus). 
 
-**Investigating the Impact of Input Data Quality on the Execution Time of Genomic Workflows:**
+**Quantifying Performance Interference and Assessing Their Impact on Workflow Execution Time:**
 - **Topics**: Machine Learning, Data Analysis, and Scientific Workflows and Computations
-- **Skills**: Linux, Python, Bash Scripting, Cloud Computing, Machine Learning, Data Science Toolkit (e.g. Numpy, Pandas, SciPy)
+- **Skills**: Linux, Python, Bash Scripting, Data Science Toolkit, Kubernetes, Container Orchestration
 - **Difficulty**: Difficult
 - **Size**: Medium (175 hours)
 - **Mentor(s):**  {{% mention inkee.kim %}}
 
-In this activity, students will examine the correlation between input data size and quality and their impact on the execution time of various genomic applications. They will then analyze the dataset to create a performance model for genomic applications. We will make the collected dataset & analysis publicly accessible, given adequate quality. 
+In this activity, students will measure the slowdown of various applications due to resource contention (e.g. CPU and I/O). Students will analyze whether an application is compute-bound, I/O bound, or both, then analyze the correlation between resource utilization and execution time. Following that, students will assess the impact of per-application slowdown to the slowdown of a whole workflow. To the best of our knowledge, this will be the first study which systematically quantifies per-application interference when running genomics workflow on an HPC cluster. 
 
 For both subprojects, all experiments will also be conducted in a reproducible manner (e.g., as a Trovi package or Chameleon VM images), and all code will be open-sourced (e.g., shared on a public Github repo).
 
