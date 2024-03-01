@@ -1,6 +1,6 @@
 ---
 title: "PolyPhy"
-authors: [oelek]
+authors: [oelek, kirandeol, "Ezra Huscher"]
 tags: ["osre24", "uc", "data science", "scientific visualization"]
 date: 2024-01-01
 lastmod: 2024-02-05
@@ -16,7 +16,7 @@ Under the hood, PolyPhy uses a richer 3D scalar field representation of the reco
 - **Skills:** full stack web development, Javascript, good communicator
 - **Difficulty:** Challenging
 - **Size:** Large (350 hours)
-- **Mentors:** [Oskar Elek](mailto:oskar.elek@gmail.com), [Ezra Huscher](mailto:ez@nmsu.edu)
+- **Mentors:** {{% mention oelek %}}, [Ezra Huscher](mailto:ez@nmsu.edu)
 
 The online presentation of a software project is without a doubt one of the core ingredients of its success. This project aims to develop a sustainable web presentce for PolyPhy, catering to interested contributors, active collaborators, and users alike.
 
@@ -34,7 +34,7 @@ Specific tasks:
 - **Skills:** data science, Python, Javascript, statistics, familiarity with AI and latent embedding spaces a big plus
 - **Difficulty:** Challenging
 - **Size:** Large (350+ hours)
-- **Mentors:** [Oskar Elek](mailto:oskar.elek@gmail.com), [Kiran Deol](mailto:kdeol@ualberta.ca)
+- **Mentors:** {{% mention oelek %}}, {{% mention kirandeol %}}
 
 The aim of this project is to explore a novel data-scientific usecase using PolyPhy and its associated web visualization interface [PolyGlot](https://github.com/PolyPhyHub/PolyGlot). The contributor is expected to identify a dataset they are already well familiar with, and that fits the application scope of the PolyPhy/PolyGlot tooling: a complex point cloud arising from a 3D or a higher dimensional process which will benefit from latent pattern identification and a subsequent visual as well as quantitative analysis. The contributor needs to have the rights for using the dataset - either by owning the copyright or via the open-source nature of the data.
 
