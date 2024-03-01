@@ -35,7 +35,7 @@ bio: Oskar designs algorithms that draw from complex fractal systems and explore
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:oelek@ucsc.edu
+  link: mailto:oskar.elek@gmail.com
 - icon: home
   icon_pack: fas
   link: https://elek.pub/
