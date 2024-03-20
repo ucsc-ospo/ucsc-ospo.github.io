@@ -29,11 +29,12 @@ The mentors will:
     - Discuss project objectives and how to achieve them. 
     - Provide pointers to documentation, reference research
 Note that the mentor feedback period will typically run from **early March** to **early April**. 
-5. The proposal is due on **April 2** and must contain:
+5. The proposal is due on [**April 2**](https://summerofcode.withgoogle.com/) and must contain:
     - A detailed plan of work with an estimate of the time needed (typically 175 or 375 hours in total). See below for a [suggested template](#suggested-proposal-template).
     - Well defined tasks and their objectives, list of deliverables
-    - Note: any committments that could impact the amount of time you can spend on the project.  
-6. Mentors will provide a ranked list of proposals to Org Admins. Results are made public in **May**.
+    - Note: any committments that could impact the amount of time you can spend on the project.
+    - Submit via the [GSoC portal](https://summerofcode.withgoogle.com/)
+6. Mentors will provide a ranked list of proposals to Org Admins. Results are made public in **early May**.
 
 
 {{% callout note %}}  
