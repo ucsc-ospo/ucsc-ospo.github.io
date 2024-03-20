@@ -15,7 +15,9 @@ design:
   columns: '2'
 ---
 
-**PLEASE NOTE THAT THE DEADLINE FOR CONTACTING MENTORS AND JOINING SLACK CHANNEL FOR 2024 PROGRAM HAS PASSED.**
+{{% callout note %}}
+**The deadline for contacting mentors and joining the slack channel for the 2024 program has passed.**
+{{% /callout %}}
 
 If you are interested, have a look at our [guidelines for students](/osredocs/forstudents), which includes timelines on when to contact mentors and proposal guidelines and expectations. 
 
