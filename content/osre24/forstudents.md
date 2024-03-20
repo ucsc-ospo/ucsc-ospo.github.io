@@ -15,12 +15,13 @@ design:
   columns: '2'
 ---
 
+**PLEASE NOTE THAT THE DEADLINE FOR CONTACTING MENTORS AND JOINING SLACK CHANNEL FOR 2024 PROGRAM HAS PASSED.**
 
 If you are interested, have a look at our [guidelines for students](/osredocs/forstudents), which includes timelines on when to contact mentors and proposal guidelines and expectations. 
 
 New projects for OSRE 2024 will be published by the end of February. Students can begin reaching out to mentors after February 22, 2024. Proposals are due April 2. 
 
-Students interested in applying to any of our projects **should join our Slack channel** before March 19. Email [OSRE Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation.
+Students interested in applying to any of our projects **should join our Slack channel** before March 20. Email [OSRE Admins](mailto:ospo-info-group@ucsc.edu) to request an invitation. 
 
 You can also use our Gitter channel for general questions before reaching out to mentors. https://gitter.im/uc_ospo-osre/community
 [![Gitter](https://badges.gitter.im/uc_ospo-osre/community.svg)](https://gitter.im/uc_ospo-osre/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) *Note that this channel is reviewed by the org admin periodically and meant for general organizational questions.*
