@@ -56,23 +56,24 @@ In your proposal, be specific and make sure your mentor can see evidence that yo
 {{% /callout %}}
 
 1. Proposal title - Should give an indication of what your proposal is expecting to accomplish
-2. Introduction 
+2. Names of project mentor(s) 
+3. Introduction 
     - Define the problem you are trying to solve
     - Provide background about the current state of the problem
     - Descrbe you solution
-3. Project goals
+4. Project goals
     - Project objectives: What do you expect to get from this project? How will the community benefit?
     - Expected deliverables: What do you think the results will be from this proposal?
     - Future work based on project (if applicable)
-4. Implementation plan
+5. Implementation plan
     - Project methodology: How will you work to meet your objectives? How will you interact with the mentor and other members of the relevant open source community? 
     - Describe the project's technical elements
     - Describe any challenges and proposed solutions
-5. Project timeline
+6. Project timeline
     - Project plan and deliverables schedule.
     - Total number of hours expected to need for project and number of weeks to complete. 
     - IMPORTANT -- the timeline must specify any time conflicts that you anticipate during the program (ie conflicts due to travel, school, other activities.)  
-6. Biographical information
+7. Biographical information
     - Relevant experience and educational background
     - If student, include current major and any relevant course work
     - Technical interests and strengths
