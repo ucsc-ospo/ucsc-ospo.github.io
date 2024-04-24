@@ -1,5 +1,5 @@
 ---
-widget: people
+widget: peoplecm
 headless: true
 active: true
 weight: 80
@@ -16,6 +16,7 @@ design:
   columns: '2'
   show_social: false
   show_interests: false
+  show_latest_of_year: true
   background: {}
 advanced:
   css_style: ''

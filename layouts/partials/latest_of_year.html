@@ -1,0 +1,14 @@
+{{/* Need to understand this query and scope to the given year */}}
+
+{{ $query := where .Pages ".IsNode" false }}
+{{ $count := len $query }}
+{{ if $count }}
+    <ul class="network-icon" aria-hidden="true">
+        {{ range $query }}
+            <li>
+                <a href="{{ .RelPermalink }}">●</a>
+            </li>
+            {{/* $count := minus $count 1 */}}
+        {{ end }}
+    </ul>
+{{ end }}
