@@ -39,6 +39,7 @@ email: "kdeol@ualberta.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - 2023 Contributors
+  - University of California Mentors
 ---
 
 Kiran is a computing science undergrada at the university of Alberta.
