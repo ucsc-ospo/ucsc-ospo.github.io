@@ -60,16 +60,13 @@ projects:
 
 All are welcome to join! We ask that you register so we can have an estimate for catering.  
 
+**WHEN & WHERE: Thursday May 23 starting at 5pm in the Baskin Courtyard:**
 
 **Fun and informal event to celebrate open source at UCSC**
 - Includes food, time to mingle, and a chance to find out how you can get involved with open source projects
 - Time set aside for lightning talks (Let us know if you want to talk about your OS project!)
 - Chance to hear about how the UCSC Open Source Program Office (OSPO) and other campus offices can support and promote your work
 
-  
-**Thursday May 23 starting at 5pm in the Baskin Courtyard:** 
-- Start with time to mingle, eat (food provided) and talk about open source at UCSC followed by lightning talks by and students/researchers doing cool OS work at UCSC as well as a chance to ask questions about OS support on campus.
-- The evening will end with a RAFFLE and a chance to connect with the campus resources and learn how to get involved. 
 
 **Who should come**
 Anyone from the UCSC community excited about working in open source. This includes:
