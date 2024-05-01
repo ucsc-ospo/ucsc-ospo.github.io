@@ -58,6 +58,9 @@ projects:
 
 ## [Registration is open](https://docs.google.com/forms/d/e/1FAIpQLSdqdPz8vxGCC25yIdYPdfs4hAyuLN8PWYy1gVkFArHNjcLwBw/viewform?usp=sf_link)
 
+All are welcome to join! We ask that you register so we can have an estimate for catering.  
+
+
 **Fun and informal event to celebrate open source at UCSC**
 - Includes food, time to mingle, and a chance to find out how you can get involved with open source projects
 - Time set aside for lightning talks (Let us know if you want to talk about your OS project!)
@@ -74,7 +77,6 @@ Anyone from the UCSC community excited about working in open source. This includ
 - Students and researchers already working on projects and want to know more about on-campus support
 - Researchers interested in how to grow their OS communities and build sustainable ecosysystems
 
-Although all are welcome we ask that people register here so we can have a good approximation for our catering numbers.  
 
 
 
