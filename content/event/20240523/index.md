@@ -13,11 +13,6 @@ address:
 summary: 'Come to hear about  ... and talk about ... the amazing open source activities happening on campus.'
 abstract: 
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-23'
-date_end: '2024-05-23'
-all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-04-26'
