@@ -8,14 +8,17 @@ location: University of California, Santa Cruz
 address:
   street: E2 -180 & Baskin Engineering Courtyard
   city: Santa Cruz
+  region: ''
+  postcode: ''
+  country: ''
  
 summary: 'Come to hear about  ... and talk about ... the amazing open source activities happening on campus.'
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-23T14:00:00-0700'
-date_end: '2024-05-23T15:00:00-0700'
+date: '2024-05-23T17:00:00-0700'
+date_end: '2024-05-23T19:30:00-0700'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
