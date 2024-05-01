@@ -8,6 +8,6 @@ view: compact
 image:
   placement: 3
   focal_point: "Center"
-  #caption: 'Keynote speakers of the UC Santa Cruz Open Source Symposium on September 27-29 at UC Santa Cruz feature keynote speakers Demetris White Cheatham, Senior Director, diversity, Inclusion & Belonging Strategy, GitHub, Stephen Walli, Principal Program Manager, Azure Office of CTO, Microsoft, Karsten Wade, Principal Community Architect, Red Hat, Nithya Ruff, Head, Open Source Program Office, Amazon, Chair, Linux Foundation Board of Directors'
-  filename: '2023symposium-v3.jpg'
+  #caption: 'May 23rd starting at 5pm in the Baskin Courtyard! Come to hear about ... and talk about ... the amazing Open Source activities happening on campus.'
+  filename: '2024slugfest.png'
 --- 
