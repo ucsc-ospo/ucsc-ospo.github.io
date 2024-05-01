@@ -9,14 +9,17 @@ address:
   street: E2 -180 & Baskin Engineering Courtyard
   city: Santa Cruz
  
+summary: 'Come to hear about  ... and talk about ... the amazing open source activities happening on campus.'
+abstract: ''
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-05-23T14:00:00-0700'
 date_end: '2024-05-23T15:00:00-0700'
 all_day: false
 
-summary: 'Come to hear about  ... and talk about ... the amazing open source activities happening on campus.'
-abstract: 
+# Schedule page publish date (NOT talk date).
+publishDate: '2023-03-20'
 
 
 # Schedule page publish date (NOT talk date).
