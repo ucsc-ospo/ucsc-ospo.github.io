@@ -11,7 +11,7 @@ address:
  
 
 summary: 'Come to hear about  ... and talk about ... the amazing open source activities happening on campus.'
-abstract: 'The UCSC OSPO will also be there to talk about how we can support your open source projects and help you contribute to innovative projects.'
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,7 +61,7 @@ projects:
 **Fun and informal event to celebrate open source at UCSC**
 - Includes food, time to mingle, and a chance to find out how you can get involved with open source projects
 - Time set aside for lightning talks (Let us know if you want to talk about your OS project!)
-- Chance to hear about how the OSPO and other campus offices can support and promote your work
+- Chance to hear about how the UCSC Open Source Program Office (OSPO) and other campus offices can support and promote your work
 
   
 **Thursday May 23 starting at 5pm in the Baskin Courtyard:** 
