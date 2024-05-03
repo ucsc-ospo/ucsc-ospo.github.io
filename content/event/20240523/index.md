@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
  
-summary: 'Come to hear about  ... and talk about ... the amazing open source activities happening on campus.'
+summary: 'Come to hear about  ... and talk about ... the amazing Open Source activities happening on campus.'
 abstract: ''
 
 # Talk start and end times.
@@ -62,28 +62,29 @@ projects:
 
 ## Come to hear about  ... and talk about ... the amazing Open Source activities happening on campus.
 
-## [Registration is open](https://docs.google.com/forms/d/e/1FAIpQLSdqdPz8vxGCC25yIdYPdfs4hAyuLN8PWYy1gVkFArHNjcLwBw/viewform?usp=sf_link)
+## [Registration is free (no-cost)](https://docs.google.com/forms/d/e/1FAIpQLSdqdPz8vxGCC25yIdYPdfs4hAyuLN8PWYy1gVkFArHNjcLwBw/viewform?usp=sf_link)
 
 All are welcome to join! We ask that you register so we can have an estimate for catering.  
+Food provided will be labeled for ingredients and allergens, and includes vegetarian and vegan options.
 
 **WHEN & WHERE: Thursday May 23 starting at 5pm in the Baskin Courtyard:**
 
-**Fun and informal event to celebrate open source at UCSC**
+**Fun and informal event to celebrate Open Source at UCSC**
 
 Tentative Program:
 
-5:00-5:45 - Food, open discussions with others interested in open source at UCSC
+5:00-5:45 - Food and socializing with others interested in Open Source software (OSS) at UCSC
 
-5:45-7:00 - Lightning talks about UCSC OS communities and project as well as general discussion about support and resources for OS work
+5:45-7:00 - Lightning talks about UCSC OSS communities and projects as well as a general discussion about support and resources for OSS work
 
 7:00 - 7:30ish - Wrap-up from the UCSC Open Source Program Office (OSPO) 
 
 
 
 **Who should come**
-Anyone from the UCSC community excited about working in open source. This includes:
-- Students interested  new to open source but wanting to learn more about how to get involved and build important skills
-- Students and researchers already working on projects and want to know more about on-campus support
+Anyone from the UCSC community excited about working in Open Source. This includes:
+- Students interested and new to Open Source but wanting to learn more about how to get involved and build important skills
+- Students and researchers already working on projects and wanting to know more about on-campus support
 - Researchers interested in how to grow their OS communities and build sustainable ecosysystems
 
 
