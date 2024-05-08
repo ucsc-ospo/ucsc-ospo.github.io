@@ -20,7 +20,7 @@ organizations:
     url: "https://itb.ac.id/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate Electrical Engineering student at Institut Teknologi Bandung.
+bio: Emmanuella Rumanti is an undergraduate student at Institut Teknologi Bandung, where she is majoring in Electrical Engineering. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
