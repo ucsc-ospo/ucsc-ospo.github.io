@@ -26,7 +26,7 @@ social:
     link: https://github.com/amuritna
   - icon: home
     icon_pack: fas
-    link: https:amuritna.github.io
+    link: https://amuritna.github.io
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
