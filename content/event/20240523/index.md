@@ -73,20 +73,20 @@ Food provided will be labeled for ingredients and allergens, and includes vegeta
 
 Tentative Program:
 
-5:00-5:45 - Food and socializing with others interested in Open Source software (OSS) at UCSC
+- 5:00-5:45 - Food and socializing with others interested in Open Source software (OSS) at UCSC
 
-5:45-7:00 - Lightning talks about UCSC OSS communities and projects as well as a general discussion about support and resources for OSS work
+- 5:45-7:00 - Lightning talks about UCSC OSS communities and projects as well as a general discussion about support and resources for OSS work. 
 
-7:00 - 7:30ish - Wrap-up from the UCSC Open Source Program Office (OSPO) 
-
+- 7:00 - 7:30ish - Wrap-up from the UCSC Open Source Program Office (OSPO) and RAFFLE!
 
 
 **Who should come**
+
 Anyone from the UCSC community excited about working in Open Source. This includes:
 - Students interested and new to Open Source but wanting to learn more about how to get involved and build important skills
 - Students and researchers already working on projects and wanting to know more about on-campus support
 - Researchers interested in how to grow their OS communities and build sustainable ecosysystems
 
-
+See you all there! 
 
 
