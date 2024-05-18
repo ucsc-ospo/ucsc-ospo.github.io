@@ -4,7 +4,7 @@ subtitle: "Building an efficient Tree Data Structure used commonly in Hardware C
 summary:
 authors: 
   - UjjwalShekhar
-tags: ["osre24"]
+tags: ["osre24", uc]
 categories: []
 date: 2024-05-14
 lastmod: 2024-05-14
