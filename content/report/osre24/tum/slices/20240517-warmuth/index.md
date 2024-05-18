@@ -4,7 +4,7 @@ subtitle: "Enhancing Reproducibility and Portability in Open Source Testbeds"
 summary: ""
 authors: 
   - warmuth
-tags: ["osre24"]
+tags: ["osre24", reproducibility]
 categories: []
 date: 2024-05-17
 lastmod: 2024-05-17
