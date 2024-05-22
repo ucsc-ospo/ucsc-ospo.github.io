@@ -64,20 +64,30 @@ projects:
 
 ## [Registration is free (no-cost)](https://docs.google.com/forms/d/e/1FAIpQLSdqdPz8vxGCC25yIdYPdfs4hAyuLN8PWYy1gVkFArHNjcLwBw/viewform?usp=sf_link)
 
-All are welcome to join! We ask that you register so we can have an estimate for catering.  
-Food provided will be labeled for ingredients and allergens, and includes vegetarian and vegan options.
+All are welcome to join! 
 
-**WHEN & WHERE: Thursday May 23 starting at 5pm in the Baskin Courtyard:**
+~WHEN & WHERE: Thursday May 23 starting at 5pm in the Baskin Courtyard~
+
+**Due to on-going UAW Strike this event will be held remotely**
+- [Join Zoom Meeting](https://ucsc.zoom.us/j/98167851576?pwd=WmlVTmlsekpGQVdFYXl6QkVISm1EQT09) 
+
+- Meeting ID: 981 6785 1576
+- Passcode: 330167
 
 **Fun and informal event to celebrate Open Source at UCSC**
 
-Tentative Program:
+5:00 – Event Starts
 
-- 5:00-5:45 - Food and socializing with others interested in Open Source software (OSS) at UCSC
+5:05 – Welcome by the UCSC Open Source Program Office
 
-- 5:45-7:00 - Lightning talks about UCSC OSS communities and projects as well as a general discussion about support and resources for OSS work. 
+5:10 – Lightning talks with breaks for Q&A
 
-- 7:00 - 7:30ish - Wrap-up from the UCSC Open Source Program Office (OSPO) and RAFFLE!
+6:15 – Wrap up and Raffle*
+
+6:30- Event closes (zoom room will remain open for additional discussions/breakout sessions as needed)
+
+*We will use the registration list for the raffle entries. You will need to be present to claim prize*
+
 
 
 **Who should come**
