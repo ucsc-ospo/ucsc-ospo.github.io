@@ -16,9 +16,9 @@ role: "Computer Science Junior at Birla Institute of Technology & Science (BITS)
 # Organizations/Affiliations
 organizations:
 - name: Birla Institute of Technology & Science (BITS), Pilani
-  url: "https://www.bits-pilani.ac.in"
+  url: https://www.bits-pilani.ac.in
 - name: Data, Systems and High Performance Computing (DaSH) Lab
-  url: "TODO"
+  url: https://arnabkrpaul.github.io/Dashlab/
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,7 +31,7 @@ bio: My research interests include distributed systems, storage systems, high-pe
 social:
 - icon: globe
   icon_pack: fas
-  link: "https://www.jaytau.com"
+  link: https://www.jaytau.com
 - icon: envelope
   icon_pack: fas
   link: https://www.jaytau.com/#contact
