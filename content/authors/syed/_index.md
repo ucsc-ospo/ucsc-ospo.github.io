@@ -25,7 +25,7 @@ bio: Syed Mohammad Qasim is a PhD student specializing in performance debugging 
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: home
+- icon: envelope
   icon_pack: fas
   link: "mailto:sqasim@bu.edu"
 - icon: github
