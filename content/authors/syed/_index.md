@@ -43,7 +43,7 @@ email: ""
 user_groups:
 - - 2024 Contributors
 ---
-Syed Mohammad Qasim is a PhD student at Boston University, currently engaged in the ML-Powered Problem Detection in Chameleon project as part of OSRE 24.
+Syed Mohammad Qasim is a PhD student at Boston University, currently engaged in the [ML-Powered Problem Detection in Chameleon project](https://ucsc-ospo.github.io/project/osre24/uchicago/ml_detect_chameleon/) as part of OSRE 24.
 His recent research focuses on identifying performance issues using distributed system traces.
 Before pursuing his PhD, Syed served as a Manager of Platform Engineering at [State Street](https://www.statestreet.com/), where he helped to setting up their [API management](https://developer.statestreet.com/) and DataRobot platforms.
 Additionally, he worked as an Application Developer at [ThoughtWorks](https://www.thoughtworks.com/), where he helped build the [VAKT](https://www.vakt.com/) platform.
