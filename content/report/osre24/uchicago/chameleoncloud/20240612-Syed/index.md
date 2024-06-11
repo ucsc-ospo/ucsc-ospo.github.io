@@ -24,7 +24,7 @@ preview_only: false
 ---
 
 Hello, I am {{%mention syed%}}, a PhD candidate in Electrical and Computer Engineering at Boston University. I will be spending my
-summer working on the project ML-Powered Problem Detection in Chameleon under the mentorship of {{% mention acoskun %}}
+summer working on the project [ML-Powered Problem Detection in Chameleon](https://ucsc-ospo.github.io/project/osre24/uchicago/ml_detect_chameleon/) under the mentorship of {{% mention acoskun %}}
 and {{% mention msherman %}}.
 
 Currently, Chameleon Cloud monitors sites at the Texas Advanced Computing Center (TACC), University of Chicago,
