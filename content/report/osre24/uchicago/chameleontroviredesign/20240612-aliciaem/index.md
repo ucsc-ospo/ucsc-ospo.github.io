@@ -19,7 +19,7 @@ image:
  preview_only: false
 ---
 
-Hello! My name is Alicia Esquivel Morel, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to improve user experience reproducibility through a redesign of TROVI, as part of the Summer of Reproducibility (SoR) program.
+Hello! My name is Alicia Esquivel Morel, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](https://ucsc-ospo.github.io/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program.
 
 **Research Reproducibility with a TROVI Redesign**
 
