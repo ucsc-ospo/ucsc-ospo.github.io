@@ -1,14 +1,12 @@
 ---
-title: "BenchmarkST: Cross-Platform, Multi-Species Spatial Transcriptomics Gene Imputation Benchmarking"
-# subtitle: "YOUR SUBTITLE (OPTIONAL)"
+title: "Enhancing User Experience Reproducibility through TROVI Redesign"
+# subtitle: "TROVI Redesign"
 summary:
-authors: [qianru]
-#   - USERNAME1
-#   - USERNAME2
-tags: ["osre24", reproducibility, machine learning, bioinformatics, spatial transcriptomics]
+authors: ["aliciaem"]
+tags: ["osre24", "reproducibility", "UI", "UX", "cloud", "artifact"]
 categories: []
-date: 2024-06-09
-lastmod: 2024-06-09
+date: 2024-06-12
+lastmod: 2024-06-12
 featured: false
 draft: false
 
@@ -16,21 +14,27 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+ caption: ""
+ focal_point: ""
+ preview_only: false
 ---
 
-Hello! My name is Qianru, and I will be working on a project to improve spatial transcriptomics during Google Summer of Code 2024. My project, [Benchmarking Gene Imputation Methods for Spatial Transcriptomics](https://ucsc-ospo.github.io/project/osre24/uci/benchmarkst/), is mentored by [Ziheng Duan](https://ucsc-ospo.github.io/author/ziheng-duan/) and [Cormac Flanagan](https://users.soe.ucsc.edu/~cormac/). The goal is to create a standard platform to evaluate methods for filling in missing gene data, which is a big challenge in spatial transcriptomics. [My proposal can be viewed here!](https://drive.google.com/file/d/1ydqGuuzpNgPpVUBvTiFvF1q7qV9gA_wm/view?usp=sharing)
+Hello! My name is Alicia Esquivel Morel, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to improve user experience reproducibility through a redesign of TROVI, as part of the Summer of Reproducibility (SoR) program.
 
-Spatial transcriptomics lets us see where genes are active in tissues, giving us insight into how cells interact in their natural environment. However, current methods often miss some gene data, making it hard to get a complete picture. Gene imputation can help fill in these gaps.
+**Research Reproducibility with a TROVI Redesign**
 
-My project will:
+Researchers constantly face challenges replicating experiments due to limitations in current tools. TROVI, a platform designed to facilitate experiment replication, can be hindered by hard to follow interfaces and difficulties integrating code and data. This leads to confusion and frustration.  
 
-Create a benchmark dataset to standardize gene imputation tasks across different platforms, species, and organs.
+My SoR project tackles these issues by redesigning TROVI to enhance user experience reproducibility. Imagine a user-friendly platform where uploading code, sharing data, and collaborating with colleagues becomes effortless.
 
-Compare various gene imputation methods to see how well they work in different scenarios.
+**The Redesign's Goals**
 
-Develop a user-friendly Python package with tools for gene imputation to help researchers improve their data.
+* **Enhanced User Experience:** Inspired by user-friendly platforms like Google Colab, we'll simplify TROVI's interface for intuitive navigation and ease of use.
+* **Uploads and Sharing:** Uploading code and data, as well as collaborating with researchers are key goals. Integration with platforms like GitHub will further streamline collaboration.
+* **Continuous Improvement:**  A built-in feedback loop will allow users to provide input and suggestions, ensuring TROVI constantly evolves based on user needs.
 
-I'm excited to contribute to this project and help advance the field of spatial transcriptomics by making data analysis more accurate and comprehensive.
+**The Road Ahead**
+
+We're at the beginning of the redesign process. In the next blog post, I'll describe the project's specific goals and the deliverables you can expect. 
+
+**Stay tuned to see how TROVI is built for reproducible research!!**
