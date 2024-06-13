@@ -1,5 +1,5 @@
 ---
-title: "LiveHD: Benchmarking LLMs that Generate Verilog/Chisel Modules From Natural Language"
+title: "HDEval: Benchmarking LLMs that Generate Verilog/Chisel Modules From Natural Language"
 subtitle: ""
 summary:
 authors: 
@@ -21,7 +21,7 @@ image:
 ---
 Hi everyone!
 
-I'm Ashwin Bardhwaj, currently pursuing a bachelors in Electrical Engineering and Computer Science at UC Berkeley. I was recently involved in a project to implement a secure hardware encryption enclave in Verilog. That's why I was excited to work with the MASC group to evaluate how existing generalized LLMs (such as ChaptGPT 4 or StarCoder) can generate accurate Verliog/Chisel code from English and assist in the hardware development process. 
+I'm Ashwin Bardhwaj, currently pursuing a bachelors in Electrical Engineering and Computer Science at UC Berkeley. I was recently involved in a project to implement a secure hardware encryption enclave in Verilog. That's why I was excited to work with the MASC group to evaluate how existing generalized LLMs (such as ChatGPT 4 or StarCoder) can generate accurate Verliog/Chisel code from English and assist in the hardware development process. 
 
 As part of [Micro Architecture Santa Cruz (MASC)](/project/osre23/ucsc/livehd) my [proposal](https://drive.google.com/file/d/1Fnr85lqrTs7OBohfHfSZI2K3wZU3zJm0/view?usp=sharing) under the mentorship of {{% mention renau %}} and {{% mention sgarg3 %}} looks to create a suite of benchmark programs for [HDEval](https://github.com/masc-ucsc/hdeval).
 
