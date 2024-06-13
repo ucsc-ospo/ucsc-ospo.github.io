@@ -3,7 +3,7 @@ title: "Memory Compiler in OpenROAD"
 subtitle: "Building a DFFRAM-based Memory Compiler and integrating it to the OpenROAD-flow-scripts"
 summary:
 authors: 
-  - yashkumar306
+  - yashkumar3066
 tags: ["osre24", ucospo, gsoc24, openroad]
 categories: [chip-design]
 date: 2024-06-13
