@@ -10,12 +10,6 @@ superuser: false
 role: CS Undergraduate, Amity Noida
 bio: I am passionate about crafting high-performance production systems and making computing a delightful and user-centric experience.
 
-To use, add an image named featured.jpg/png to your page's folder.
-Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-caption: ""
-focal_point: ""
-preview_only: false
 ---
 I'm Aditya Narayan, pursuing my Senior year in Computer Science. I find myself drawn to the abstract world of theoretical CS, the pragmatic domain of operations, and the art of crafting efficient, high-performance systems.
 
