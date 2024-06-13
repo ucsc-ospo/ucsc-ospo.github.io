@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Undergraduate Computer Science student at University of California, Berkeley"
+role: "Undergraduate Electrical Engineering and Computer Science student at University of California, Berkeley"
 
 # Organizations/Affiliations
 organizations:
