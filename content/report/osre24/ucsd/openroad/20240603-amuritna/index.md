@@ -4,7 +4,7 @@ subtitle: "Towards better code coverage!"
 summary: ""
 authors: [amuritna]
 author_notes: ["Undergraduate Electrical Engineering student at Institut Teknologi Bandung"]
-tags: ["osre24", uc, reproducibility]
+tags: ["osre24", uc]
 categories: ["chip-design"]
 date: 2024-06-03
 lastmod: 2024-06-03
