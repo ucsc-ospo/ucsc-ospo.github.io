@@ -2,8 +2,8 @@
 title: Drishti
 subtitle: Visualization and Analysis of AI-based Applications
 summary:
-authors: 
-  - jaytau
+authors: [jaytau]
+author_notes: ["Computer Science Undergraduate, BITS Pilani"]
 tags: ["osre24", "uc", "LBNL", "data science", "visualization", "performance analysis", "I/O", "HPC", "AI"]
 categories: ["GSoC'24"]
 date: 2024-06-06
