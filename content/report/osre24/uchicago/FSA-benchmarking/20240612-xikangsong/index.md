@@ -21,9 +21,9 @@ caption: ""
 focal_point: ""
 preview_only: false
 ---
-Hi everyone! I'm Xikang, a master's CS student at UChicago. As a part of [FSA benchmarking Project](https://ucsc-ospo.github.io/project/osre24/uchicago/failslowalgorithms/), I'm thrilled to be a contributor to OSRE 2024, collaborating with Kexin Pei, the Professor of Computer Science at Uchicago and Ruidan, a talented PhD student at UChicago.
+Hi everyone! I'm Xikang, a master's CS student at UChicago. As a part of [FSA benchmarking Project](https://ucsc-ospo.github.io/project/osre24/uchicago/failslowalgorithms/), I'm thrilled to be a contributor to OSRE 2024, collaborating with Kexin Pei, the assistant Professor of Computer Science at Uchicago and Ruidan, a talented PhD student at UChicago.
 
-This summer, I will focus on integrating some advanced ML (like LLMs) into our RAID slowdown analysis. Our aim is to assess whether LLMs can effectively identify RAID slowdown issues and to benchmark their performance against our current machine learning algorithms. We will test the algorithms on Chameleon Cloud and benchmark them. 
+This summer, I will focus on integrating some advanced ML into our RAID slowdown analysis. Our aim is to assess whether LLMs can effectively identify RAID slowdown issues and to benchmark their performance against our current machine learning algorithms. We will test the algorithms on Chameleon Cloud and benchmark them. 
 
 Additionally, we will explore optimization techniques to enhance our pipeline and improve response quality. We hope this research will be a start point for future work, ultilizing LLMs to overcome the limitations of existing algorithms and provide a comprehensive analysis that enhances RAID and other storage system performance.
 
