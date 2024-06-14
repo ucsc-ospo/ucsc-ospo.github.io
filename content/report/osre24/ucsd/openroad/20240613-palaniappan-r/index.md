@@ -1,3 +1,28 @@
+---
+title: "LLM Assistant for OpenROAD - Model Architecture and Prototype"
+subtitle: "Towards better code coverage!"
+summary: ""
+authors: [palaniappan-r]
+author_notes: ["Birla Institute of Technology & Science, Pilani"]
+tags: ["osre24", uc]
+categories: ["chip-design"]
+date: 2024-06-13
+lastmod: 2024-06-14
+featured: false
+draft: false
+
+# Featured image
+
+# To use, add an image named `featured.jpg/png` to your page's folder.
+
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+
+image:
+caption: ""
+focal_point: ""
+preview_only: false
+---
+
 Hi there! 
 
 I’m Palaniappan R, currently an undergraduate student at the Birla Institute of Technology & Science, Pilani, India.
@@ -13,10 +38,9 @@ Upon completion, my project will offer a viable chat assistant architecture as p
 An [early prototype](https://github.com/The-OpenROAD-Project/ORAssistant) developed along with a human evaluation framework shows promising results.
 
 <div style="display: flex; align-items: center;">
-    <img src="img2.png" alt="Example2" title="Example2: Tool Help" style="max-width: 50%; margin-right: 20px; border-bottom: 2px solid black;">
-    <img src="img1.png" alt="Example1" title="Example1: Installation Help" style="max-width: 50%; border-bottom: 2px solid black;">
+    <img src="img2.png" alt="Example2" title="Example2: Tool Help" style="max-width: 70%; margin-right: 20px;">
+    <img src="img1.png" alt="Example1" title="Example1: Installation Help" style="max-width: 70%;">
 </div>
-
 
 I am excited about the potential of ORAssistant as part of the OpenROAD tool suite to accelerate innovation in EDA and chip design by utilizing open-source tools along with Generative AI. 
 
