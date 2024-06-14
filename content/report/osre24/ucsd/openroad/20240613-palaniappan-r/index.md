@@ -37,7 +37,7 @@ Upon completion, my project will offer a viable chat assistant architecture as p
 
 An [early prototype](https://github.com/The-OpenROAD-Project/ORAssistant) developed along with a human evaluation framework shows promising results.
 
-![Examples](img1.png)
+![Examples](img1.jpg)
 I'm excited about the potential of ORAssistant as part of the OpenROAD tool suite to accelerate innovation in EDA and chip design by utilizing open-source tools along with Generative AI. 
 
 Stay tuned for more updates!
