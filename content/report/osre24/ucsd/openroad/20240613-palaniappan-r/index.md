@@ -38,8 +38,8 @@ Upon completion, my project will offer a viable chat assistant architecture as p
 An [early prototype](https://github.com/The-OpenROAD-Project/ORAssistant) developed along with a human evaluation framework shows promising results.
 
 <div style="display: flex; align-items: center;">
-    <img src="img2.png" alt="Example2" title="Example2: Tool Help" style="max-width: 40%;margin-right: 5px;">
-    <img src="img1.png" alt="Example1" title="Example1: Installation Help" style="max-width: 60%;">
+    <img src="img2.png" alt="Example2" title="Example2: Tool Help" style="max-width: 50%; margin-right: 10px; border-bottom: 2px solid black;">
+    <img src="img1.png" alt="Example1" title="Example1: Installation Help" style="max-width: 50%; border-bottom: 2px solid black;">
 </div>
 
 I'm excited about the potential of ORAssistant as part of the OpenROAD tool suite to accelerate innovation in EDA and chip design by utilizing open-source tools along with Generative AI. 
