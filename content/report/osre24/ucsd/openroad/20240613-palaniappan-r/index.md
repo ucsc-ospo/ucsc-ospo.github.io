@@ -3,7 +3,7 @@ title: "LLM Assistant for OpenROAD - Model Architecture and Prototype"
 subtitle: "Towards better code coverage!"
 summary: ""
 authors: [palaniappan-r]
-author_notes: ["Birla Institute of Technology & Science, Pilani"]
+author_notes: ["Undergraduate Student at Birla Institute of Technology & Science, Pilani"]
 tags: ["osre24", uc]
 categories: ["chip-design"]
 date: 2024-06-13
@@ -27,7 +27,7 @@ Hi there! 
 
 I’m Palaniappan R, currently an undergraduate student at the Birla Institute of Technology & Science, Pilani, India.
 
-I am working on the [LLM Assistant for OpenROAD - Model Architecture and Prototype](https://summerofcode.withgoogle.com/programs/2024/projects/DSo6kvA5) project, under the mentorship of [Indira Iyer](https://ucsc-ospo.github.io/author/indira-iyer/) and [Jack Luar](https://ucsc-ospo.github.io/author/jack-luar/). 
+I'll be working on the [LLM Assistant for OpenROAD - Model Architecture and Prototype](https://summerofcode.withgoogle.com/programs/2024/projects/DSo6kvA5) project, under the mentorship of [Indira Iyer](https://ucsc-ospo.github.io/author/indira-iyer/) and [Jack Luar](https://ucsc-ospo.github.io/author/jack-luar/). 
 
 My project aims to develop the architecture for a chat assistant built for OpenROAD and its native flow, designed to assist beginners and experienced users by giving easy access to existing resources, offering troubleshooting assistance, and providing fast and accurate responses to common questions. I plan to do this by leveraging state-of-the-art retrieval and fine-tuning techniques.
 
@@ -38,10 +38,10 @@ Upon completion, my project will offer a viable chat assistant architecture as p
 An [early prototype](https://github.com/The-OpenROAD-Project/ORAssistant) developed along with a human evaluation framework shows promising results.
 
 <div style="display: flex; align-items: center;">
-    <img src="img2.png" alt="Example2" title="Example2: Tool Help" style="max-width: 70%; margin-right: 20px;">
-    <img src="img1.png" alt="Example1" title="Example1: Installation Help" style="max-width: 70%;">
+    <img src="img2.png" alt="Example2" title="Example2: Tool Help" style="max-width: 40%;margin-right: 5px;">
+    <img src="img1.png" alt="Example1" title="Example1: Installation Help" style="max-width: 6%;">
 </div>
 
-I am excited about the potential of ORAssistant as part of the OpenROAD tool suite to accelerate innovation in EDA and chip design by utilizing open-source tools along with Generative AI. 
+I'm excited about the potential of ORAssistant as part of the OpenROAD tool suite to accelerate innovation in EDA and chip design by utilizing open-source tools along with Generative AI. 
 
 Stay tuned for more updates!
