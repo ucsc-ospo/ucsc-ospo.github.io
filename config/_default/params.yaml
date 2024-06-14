@@ -63,8 +63,8 @@ features:
   syntax_highlighter:
     enable: false
     extra_languages:
-      - python
-      - latex
+    - python
+    - latex
   math:
     enable: false
   privacy_pack:
