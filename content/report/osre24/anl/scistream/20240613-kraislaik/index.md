@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 
-Hello, I am Acheme, currently a PhD student in Computer Engineering at Clemson University. I will be working on https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/project/osre24/anl/scistream/index.md, mentored by https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/authors/chungmiranda/_index.md and  https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/authors/fcastro/_index.md over this summer. Here is my proposal - https://docs.google.com/document/d/1w78mE484kfDmWygPCausv6aZxUQwGeI07ohCjvE3TYk - for this project.
+Hello, I am Acheme, currently a PhD student in Computer Engineering at Clemson University. I will be working on [SciStream](https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/project/osre24/anl/scistream/index.md), mentored by https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/authors/chungmiranda/_index.md and  https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/authors/fcastro/_index.md over this summer. Here is my [proposal](https://docs.google.com/document/d/1w78mE484kfDmWygPCausv6aZxUQwGeI07ohCjvE3TYk) - for this project.
 
 This project aims to develop SciStream-bench, a set of benchmarks and artifacts designed to precisely evaluate the performance of scientific streaming applications across diverse traffic patterns when running over the SciStream framework.
 
