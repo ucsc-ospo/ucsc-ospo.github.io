@@ -34,7 +34,7 @@ Our human evaluation framework will utilize chatbot feedback for valuable insigh
 
 Here is an early build of the evaluation framework.
 ![Screenshots](image.png)
-By leveraging advanced data engineering and testing methodologies, we aim to build an assistant that combines high accuracy with optimal response times. Additionally, we will collaborate with research teams at NYU and ASU to contribute to the research on AI-based chat assistants for electronic design automation .
+By leveraging advanced data engineering and testing methodologies, we aim to build an assistant that combines high accuracy with optimal response times. Additionally, we will collaborate with research teams at NYU and ASU to contribute to the research on AI-based chat assistants for electronic design automation.
 
 I am thrilled to be part of this journey and look forward to making a meaningful impact on the OpenROAD project.
 
