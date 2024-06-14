@@ -1,6 +1,6 @@
 ---
 title: "LLM Assistant for OpenROAD - Data Engineering and Testing"
-subtitle: "Enhancing the user experience with conversational Assistant"
+subtitle: "Enhancing the user experience with Conversational Assistant"
 summary: ""
 authors: [aviral]
 tags: ["osre24", uc, reproducibility]
