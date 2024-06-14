@@ -31,7 +31,7 @@ Currently, Chameleon Cloud monitors sites at the Texas Advanced Computing Center
 Northwestern University, and Argonne National Lab. They collect metrics using Prometheus at each site and feed them
 all to a central Mimir cluster. All the logs go to a central Loki, and Grafana is used to visualize and set alerts.
 Chameleon currently collects around 3000 metrics. Manually reviewing and setting alerts on them is time-consuming
-and labor-intensive. This project aims to help Chameleon operators monitor their systems better and improve overall
+and labor-intensive. This project aims to help Chameleon operators monitor their systems more effectively and improve overall
 reliability by creating an anomaly detection service that can augment the existing alerting framework.
 
 
