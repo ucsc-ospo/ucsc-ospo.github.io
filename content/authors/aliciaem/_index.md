@@ -42,4 +42,4 @@ user_groups:
 - Summer of Reproducibility Students
 ---
 
-Alicia is a Graduate Research Assistant at the University of Missouri, Columbia - USA. She pursued her master’s as a Fulbright Scholar, and is currently working towards her PhD in Computer Science. 
+Alicia is a Graduate Research Assistant at the University of Missouri, Columbia - USA. She pursued her master’s as a Fulbright Scholar, and is currently working towards her PhD in Computer Science. Her research interests include, cloud computing, drone video analytics, simulation, and emulation environments, and zero trust paradigm. 
