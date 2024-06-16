@@ -22,6 +22,8 @@ image:
 
 Hey! I'm Sarthak Chowdhary (Shaburu), and I am thrilled to share my incredible journey with the Open Source Program Office of UC Santa Cruz! Association as part of Google Summer of Code (GSoC) 2024. This experience marks a pivotal milestone in my career, offering me the chance to delve into an intriguing project while learning from the brightest minds in the open-source community. Allow me to guide you through my adventure thus far, from the nerve-wracking wait for results to the exhilarating commencement of the coding period.
 
+and Before we start here's my [Proposal](https://drive.google.com/file/d/1BzKi0fXdqCgdK0UEG9zM56W6U5CeuyAP/view?usp=drive_link)
+
 ## Pre-GSoC Application
 This period is for figuring out your respective organizations you'll be taking part in and understand the projects they're trying to build. Once you've selected your Organization and the project you start contributing to issues and understanding the code bases. 
 I had shortlisted 3 Organizations that i was working on 
