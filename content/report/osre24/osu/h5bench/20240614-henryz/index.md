@@ -47,7 +47,6 @@ email: ""
 user_groups:
 - 2024 Contributors
 ---
-Haoling (Henry) Zhou, a senior CSE student at the Ohio State University, expected graduate at spring 2025.
 
-As part of the h5bench(/project/osre24/osu/h5bench) project my Enhencing h5bench with HDF5 Compression Capability(https://summerofcode.withgoogle.com/myprojects/details/n0H28Z40) under the mentorship of Dr. Jean Luca Bez and Dr. Suren Byna aims to allow users of h5bench to incoporate compression features in their simulations by creating custom benchmarks with common scientific lossless&lossy compression algorithms such as SZ, SZ3, ZFP, and GZIP.    
+As part of the [h5bench](/project/osre24/osu/h5bench) project my [Enhencing h5bench with HDF5 Compression Capability](https://summerofcode.withgoogle.com/myprojects/details/n0H28Z40) under the mentorship of Dr. {{% mention jeanlucabez %}} and Dr. {{% mention surenbyna %}} aims to allow users of h5bench to incoporate compression features in their simulations by creating custom benchmarks with common scientific lossless&lossy compression algorithms such as SZ, SZ3, ZFP, and GZIP.    
 
