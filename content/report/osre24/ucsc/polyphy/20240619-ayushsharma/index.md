@@ -4,7 +4,7 @@ subtitle: "Visualizing 3D medicine embeddings using Polyglot and PolyPhy"
 summary: ""
 authors: [Ayush_Sharma_]
 author_notes: ["An undergrad at Thapar Institute of Engineering & Technology"]
-tags: ["osre24", "gsco24","polyphy"]
+tags: ["uc","osre24", "gsco24","polyphy"]
 categories: [GSoC'24, natural language processing]
 date: 2024-06-19
 lastmod: 2024-06-19
@@ -23,7 +23,7 @@ focal_point: ""
 preview_only: false
 ---
 
-Hello! My name is Ayush and this summer I'll be contributing to [Polyphy](https://ucsc-ospo.github.io/project/osre24/ucsc/polyphy/) and [Polyglot](https://normand-1024.github.io/Bio-inspired-Exploration-of-Language-Embedding/), a GPU oriented agent-based system for reconstructing and visualizing optimal transport networks defined over sparse data. under the mentorship of [Oskar Elek](https://ucsc-ospo.github.io/author/oskar-elek/) and [Kiran Deol](https://ucsc-ospo.github.io/author/kiran-deol/).
+Hello! My name is Ayush and this summer I'll be contributing to [Polyphy](/project/osre24/ucsc/polyphy/) and [Polyglot](https://normand-1024.github.io/Bio-inspired-Exploration-of-Language-Embedding/), a GPU oriented agent-based system for reconstructing and visualizing optimal transport networks defined over sparse data. under the mentorship of {{% mention oelek %}} and {{% mention kirandeol %}}.
 
 For the reference here's my [proposal](https://summerofcode.withgoogle.com/media/user/7a1cc1c971c5/proposal/gAAAAABmV3hljjurQ8HAS8PRRRZB2_c5vQ3clWisqad85y-gO7rNvpssnzqGlFeiYQkAb5qY5WDUoRKkxUoTHLLDXLwBvrAjSsRs1qNTYmMrFfsbs1aQrjo=.pdf) for this project.
 
