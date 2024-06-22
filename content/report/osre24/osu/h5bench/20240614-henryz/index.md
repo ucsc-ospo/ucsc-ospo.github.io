@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haoling (Henry) Zhou 
+title: Enhencing h5bench with HDF5 Compression Capability
 
 # Summary
 summary: The problem I am trying to solve is to implement multiple data compression algorithms in h5bench core access patterns through HDF5 filters. This capability should grant users the flexibility to configure the parameters and methods of compression applied to their datasets according to their specific needs and preferences. My solution primarily involves using a user-defined HDF5 filter mechanism to implement lossless and lossy compression algorithms, such as ZFP, SZ, and cuSZ. Throughout the process, I will deliver one C source code implementing compression configuration settings, one C source code implementing lossless and lossy algorithms, a set of performance reports before and after data compression in CSV and standard output files, and a technical documentation on h5bench user manual website.
