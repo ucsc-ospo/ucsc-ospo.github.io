@@ -35,7 +35,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/BanisharifM
-
+- icon: globe
+  icon_pack: fas
+  link: "https://www.cs.iastate.edu/people/mahdi-banisharifdehkordi"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -44,8 +46,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - 2024 Contributors
-- Google Summer of Code (GSoC) 2024 Contributors
-- Iowa State University
 ---
 Mahdi Banisharifdehkordi is a Ph.D. student in Computer Science at Iowa State University, specializing in Artificial Intelligence. Under the supervision of Dr. Ali Jannesari, Mahdi's research focuses on Machine Learning and Graph Neural Networks (GNN) in High-Performance Computing (HPC). He has extensive experience in programming, open-source development, and has authored papers on Business Intelligence Chatbots. Mahdi is proficient in Python, C, C++, Java, and JavaScript, and is dedicated to advancing the field of AI through his work on performance bottleneck diagnosis in HPC systems.
 
