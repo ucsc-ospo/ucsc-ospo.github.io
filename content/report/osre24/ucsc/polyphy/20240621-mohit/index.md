@@ -24,7 +24,7 @@ Hello everyone,
 
 My name is Mohit, and I am currently a sophomore at NIT Jalandhar. As part of the Polyphy project's team, I am determined to make data management much easier for everyone involved. My project also aims to increase the project's social presence.
 
-As part of the [PolyPhy](https://ucsc-ospo.github.io/project/osre24/ucsc/polyphy/) my [proposal](https://docs.google.com/document/d/1BCG6Y-6Usz0hMo11OM5TZY5B8hKTD43wgXSq2s5OcK4/edit?usp=sharing) under the mentorship of MENTOR aims to .... You might wonder, why create a new CMS when we could use existing solutions like Strapi, Contentful, or WordPress? The answer lies in the specific requirements of our project, which I'll cover in a separate blog post about the selection of the tech stack and code architecture.
+As part of the [PolyPhy](/project/osre24/ucsc/polyphy/) my [proposal](https://docs.google.com/document/d/1BCG6Y-6Usz0hMo11OM5TZY5B8hKTD43wgXSq2s5OcK4/edit?usp=sharing) under the mentorship of MENTOR aims to .... You might wonder, why create a new CMS when we could use existing solutions like Strapi, Contentful, or WordPress? The answer lies in the specific requirements of our project, which I'll cover in a separate blog post about the selection of the tech stack and code architecture.
 
 Returning to my programming journey, while the CMS is a significant part of the project, it also includes refactoring existing React code and migrating it to Next.js, among other cool tasks. The first two weeks of my project were primarily focused on this. Now, I am shifting more towards the CMS development.
 
