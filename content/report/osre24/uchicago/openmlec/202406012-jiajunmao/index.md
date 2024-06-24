@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 authors:
  - jiajunmao
- - meng-wang
+ - mengwanguc
  - anjus-george
 tags: ["osre24", reproducibility, "storage system", "distributed system"]
 categories: []
@@ -25,7 +25,7 @@ focal_point: ""
 preview_only: false
 ---
 
-Hello, I'm {{%mention jiajunmao%}}, a BS/MS student at the University of Chicago studying Computer Science. I will be spending this summer working on the project [OpenMLEC: Open-source MLEC implementation with HDFS on top of ZFS](https://ucsc-ospo.github.io/project/osre24/ornl/openmlec/) under the mentorship of {{% mention wang-meng%}}
+Hello, I'm {{%mention jiajunmao%}}, a BS/MS student at the University of Chicago studying Computer Science. I will be spending this summer working on the project [OpenMLEC: Open-source MLEC implementation with HDFS on top of ZFS](https://ucsc-ospo.github.io/project/osre24/ornl/openmlec/) under the mentorship of {{% mention mengwanguc %}}
 and {{% mention anjus-george %}}, my [proposal](https://docs.google.com/document/d/1nYgNlGdl0jUgW8avpu671oRpMoxaZHZPwlDfBNXRVro/edit?usp=sharing).
 
 How to increase data’s durability and reliability while decreasing storage cost have always been interesting topics of research. Erasure coded storage systems in recent years have been seen as strong candidates to replace replications for colder storage tiers. In the paper “Design Considerations and Analysis of Multi-Level Erasure Coding in Large-Scale Data Centers”, the authors explored using theory and simulation on how a multiple tiered erasure coded system can out-perform systems using single level erasure codes in areas such as encoding throughput and network bandwidth consumed for repair, addressing a few pain points in adopting erasure coded storage systems. I will be implementing the theoretical and simulation result of this paper by building on top of HDFS and ZFS, and benchmarking the system performance.
