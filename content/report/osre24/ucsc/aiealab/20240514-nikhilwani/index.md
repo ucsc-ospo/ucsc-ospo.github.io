@@ -4,7 +4,8 @@ subtitle: "Towards building Responsible AI"
 summary:
 authors: 
   - nikhilwani
-tags: ["osre24"]
+  - lgilpin
+tags: ["osre24", uc]
 categories: ["gsoc24", "Explainable AI(Xai)", "Responsible AI"]
 date: 2024-06-14
 lastmod: 2024-06-14
@@ -26,7 +27,7 @@ In this first blog post of a series of three, I’d like to introduce myself, my
 
 My name is Nikhil. I am an ML researcher who works at the intersection of NLP, ML, and HCI. I previously worked as a Machine Learning Engineer II at [VMware](https://vmware.com/) and spent some wonderful summers interning with ML teams at [NVIDIA](https://www.nvidia.com/) and [IIT Bombay](https://www.iitb.ac.in/). I also recently graduated from the [University of Southern California (USC)](https://usc.edu/) with [honors](https://www.cs.usc.edu/academic-programs/masters/cs_ms_honors/) in Computer Science and a master's thesis. 
 
-This year at Google Summer of Code (GSoC 24), I will be working on [developing trustworthy large language models](https://ucsc-ospo.github.io/project/osre24/ucsc/aiealab/). I’m very grateful to be mentored by [Prof. Lelani Gilpin](https://people.ucsc.edu/~lgilpin/) at the [AIEA lab, UC Santa Cruz](https://aiea-lab.github.io/). I truly admire the flexibility and ownership she allows me in pursuing my ideas independently within this project. Please feel free to peruse my accepted GSoC proposal [here](https://drive.google.com/drive/folders/16DHlcHGS7psoFXYc5q2L2-GOsLwIBXl1?usp=drive_link).
+This year at Google Summer of Code (GSoC 24), I will be working on [developing trustworthy large language models](/project/osre24/ucsc/aiealab/). I’m very grateful to be mentored by {{% mention lgilpin %}} at the [AIEA lab, UC Santa Cruz](https://aiea-lab.github.io/). I truly admire the flexibility and ownership she allows me in pursuing my ideas independently within this project. Please feel free to peruse my accepted GSoC proposal [here](https://drive.google.com/drive/folders/16DHlcHGS7psoFXYc5q2L2-GOsLwIBXl1?usp=drive_link).
 
 **Project:**
 My project has a tangible outcome:  An open-source, end-to-end, full-stack web app with a hybrid trustworthy LLM in the backend.
