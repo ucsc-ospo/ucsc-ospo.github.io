@@ -3,8 +3,6 @@
 title: John Wu
 
 # Username (this should match the folder name)
-authors:
-- kwu
 author: kwu
 
 # Is this the primary user of the site?
