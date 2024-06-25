@@ -2,9 +2,11 @@
 title: "Heterogeneous Graph Neural Networks for I/O Performance Bottleneck Diagnosis"
 subtitle: ""
 summary: ""
-authors: [mahdi]
+authors: 
+- mahdi
+- bindong
 author_notes: ["Ph.D. student in Computer Science at Iowa State University"]
-tags: ["osre24", "reproducibility", "AI", "machine learning", "hpc", "I/O"]
+tags: [uc, "osre24", "reproducibility", "AI", "machine learning", "hpc", "I/O"]
 categories: [SoR]
 date: 2024-06-14
 lastmod: 2024-06-14
