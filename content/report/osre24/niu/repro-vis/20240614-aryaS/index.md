@@ -2,7 +2,7 @@
 title: " Reproducibility in Data Visualization"
 subtitle: "Investigate Solutions for Capturing Visualizations"
 summary: ""
-authors: [Arya Sarkar]
+authors: [aryaS]
 author_notes: ["Founding Engineer @ Docunexus Inc."]
 tags: ["osre24","data visualization","reproducibility"]
 categories: ["visualization"]
@@ -23,7 +23,7 @@ focal_point: ""
 preview_only: false
 ---
 
-Hello! My name is Arya and I will be contributing to the research project titled [Reproducibility in Data Visualization](https://ucsc-ospo.github.io/project/osre24/niu/repro-vis/), with a focus on investigating and coming up with novel solutions to capture both static and dynamic visualizations from different sources. My project is titled Investigate Solutions for Capturing Visualizations and I am mentored by Prof. [David Koop](https://ucsc-ospo.github.io/author/david-koop/). 
+Hello! My name is {{% mention aryaS %}} and I will be contributing to the research project titled [Reproducibility in Data Visualization](/project/osre24/niu/repro-vis/), with a focus on investigating and coming up with novel solutions to capture both static and dynamic visualizations from different sources. My project is titled Investigate Solutions for Capturing Visualizations and I am mentored by Prof. {{% mention dakoop %}}. 
 
 Open-source has always piqued my interest, but often I found it hard to get started in as a junior in university. I spent a lot of time working with data visualizations but had never dived into the problem of reproducibility before diving into this project. When I saw a plethora of unique and interesting projects during the contribution phase of OSRE-2024, I was confused at the beginning. However, the more I dived into this project and understood the significance of research in this domain to ensure reproducibility, the more did I find myself getting drawn towards it. I am glad to be presented this amazing opportunity to work in the Open-source space as a researcher in reproducibility.
 
