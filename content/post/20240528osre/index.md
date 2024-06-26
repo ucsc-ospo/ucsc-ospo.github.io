@@ -3,8 +3,8 @@ title: "40 Contributors participating in OSRE '24"
 authors: [slieggi,carlosm]
 tags: [osre,sor]
 Categories: [News]
-date: 2023-05-28
-lastmod: 2023-05-28
+date: 2024-05-28
+lastmod: 2024-05-28
 featured: true
 draft: false
 active: true
