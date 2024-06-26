@@ -2,7 +2,9 @@
 title: Drishti
 subtitle: Visualization and Analysis of AI-based Applications
 summary:
-authors: [jaytau]
+authors: 
+- jaytau
+- jeanlucabez
 author_notes: ["CS Undergrad, BITS Pilani"]
 tags: ["osre24", "uc", "LBNL", "data science", "visualization", "performance analysis", "I/O", "HPC", "AI"]
 categories: ["GSoC'24"]
@@ -22,7 +24,7 @@ image:
 
 Namaste everyone! 🙏🏻
 
-I'm [Joel Tony](https://www.jaytau.com?ref=uc-ospo), a third-year Computer Science student at BITS Pilani, Goa, India. I'm truly honoured to be part of this year's Google Summer of Code program, working with the UC OSPO organisation on a project that genuinely excites me. I'm particularly grateful to be working under the mentorship of [Dr. Jean Luca Bez](/author/jean-luca-bez/), a Research Scientist at Lawrence Berkeley National Laboratory, and [Dr. Suren Byna](https://sbyna.github.io), a Full Professor at the Ohio State University. Their expertise in high-performance computing and data systems is invaluable as I tackle this project.
+I'm {{% mention jaytau %}}, a third-year Computer Science student at BITS Pilani, Goa, India. I'm truly honoured to be part of this year's Google Summer of Code program, working with the UC OSPO organisation on a project that genuinely excites me. I'm particularly grateful to be working under the mentorship of Dr. {{% mention jeanlucabez %}}, a Research Scientist at Lawrence Berkeley National Laboratory, and [Dr. Suren Byna](https://sbyna.github.io), a Full Professor at the Ohio State University. Their expertise in high-performance computing and data systems is invaluable as I tackle this project.
 
 My project, "[Drishti: Visualization and Analysis of AI-based Applications](/project/osre24/lbl/drishti)", aims to extend the [Drishti](https://github.com/hpc-io/drishti) framework to better support AI/ML workloads, focusing specifically on optimizing their Input/Output (I/O) performance. I/O refers to the data transfer between a computer's memory and external storage devices like hard drives (HDDs) or solid-state drives (SSDs). As AI models and datasets continue to grow exponentially in size, efficient I/O management has become a critical bottleneck that can significantly impact the overall performance of these data-intensive workloads.
 
