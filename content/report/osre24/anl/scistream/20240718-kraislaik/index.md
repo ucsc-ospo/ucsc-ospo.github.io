@@ -47,7 +47,11 @@ We ultimately settled on iperf3 and pvaPy (a scientific streaming application de
 
 So far, the first set of tools for benchmarking using iperf3 as traffic generator with profiles of constant rate and intermittent bursts have been developed, the tools generate traffic, collects the metrics that iperf3 exposes metrics including throughput, jitter and datagram losses, and saved to a csv file for further analysis. A Jupyter notebook is used to setup a FABRIC slice and configure a four-node experiment suitable for benchmarking SciStream base architecture. After running the experiments on the nodes on FABRIC and collecting results in a CSV file, cells in the Jupyter notebook were coded to analyze the data.
 In the analysis includes average, min, max and standard deviation of the various metric performances.
-![Example performance analysis](average_analysis.jpg)
+
+![Average performance analysis](average_analysis.jpg)
+![Minimum performance analysis](min.jpg)
+![Maximum performance analysis](max.jpg)
+![STD performance analysis](std.jpg)
 
 # Findings
 From the experiments conducted so far, the findings are as follows:
