@@ -9,11 +9,7 @@ authors:
 tags: ["osre24"]
 categories: []
 date: 2024-05-27
-<<<<<<< HEAD
-lastmod: 2024-6-21
-=======
-lastmod: 2024-6-14
->>>>>>> 33e5a0e143b3d6946cdc70e0fcc1eca490da4d26
+lastmod: 2024-7-19
 featured: false
 draft: false
 
