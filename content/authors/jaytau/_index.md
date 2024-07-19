@@ -31,10 +31,10 @@ bio: My research interests include distributed systems, storage systems, high-pe
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.jaytau.com
+  link: https://www.jaytau.com?ref=uc-ospo
 - icon: envelope
   icon_pack: fas
-  link: https://www.jaytau.com/#contact
+  link: https://www.jaytau.com/#contact?ref=uc-ospo
 - icon: github
   icon_pack: fab
   link: https://github.com/jay-tau
@@ -57,7 +57,7 @@ user_groups:
 
 Welcome to my UCSC OSPO profile!
 This mirrors my personal website at the time of writing and may be outdated.
-**For the latest info, please visit my [homepage](https://www.jaytau.com).**
+**For the latest info, please visit my [homepage](https://www.jaytau.com?ref=uc-ospo).**
 
 I am a pre-final year undergraduate student at [BITS Pilani](https://www.bits-pilani.ac.in), majoring in Computer Science.
 My research interests lie in computer systems, specifically distributed systems, storage systems, high-performance computing, and MLSys.
