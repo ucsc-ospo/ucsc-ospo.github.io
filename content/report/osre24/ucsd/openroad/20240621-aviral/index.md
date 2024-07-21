@@ -41,11 +41,11 @@ This method assesses the model's ability to accurately identify and explain comm
 
 ![Figure 1: Flow Chart of Basic Abbreviation Evaluation](figure1_basic_abbreviation_evaluation.png)
 
-![Additional Evaluation Chart](figure2_llm_judge_evaluation.png)
+![Examples](figure2_sample_examples.png)
 
 ### LLM Judge-Based Evaluation 
 
-![Figure 2: Flow Chart of LLM Judge-Based Evaluation](figure2_llm_judge_evaluation.png)
+![Figure 2: Flow Chart of LLM Judge-Based Evaluation](figure3_llm_judge_evaluation.png)
 
 For this more comprehensive evaluation, we:
 
@@ -56,9 +56,9 @@ For this more comprehensive evaluation, we:
 
 Here's a glimpse of our early benchmark results:
 
-![Benchmark](figure3_benchmark_orassistant_vs_gpt4o.png)
+![Benchmark](figure4_model_performance_comparison.png)
 
-![Model Performance Comparison](figure4_model_performance_comparison.png)
+![Example](figure5_sample_examples.png)
 
 ## Exploratory Data Analysis (EDA) on GitHub OpenROAD issues
 
@@ -83,13 +83,13 @@ To gather more data, I performed Exploratory Data Analysis (EDA) on GitHub OpenR
   - `tool`: Relevant tools or components
   - `date`: Issue creation timestamp
 
-![Figure 5: Sample structure of our processed JSONL data](figure5_jsonl_data_structure.png)
+![Figure 5: Sample structure of our processed JSONL data](figure6_jsonl_data_structure.png)
 
 After curating this dataset, I was able to run an Analysis on OpenROAD Github Issues, identifying multiple categories of issues in the form of a pie chart.
 
-![Figure 6: Distribution of OpenROAD issue types](figure6_issue_type_distribution.png)
+![Figure 6: Distribution of OpenROAD issue types](figure7_issue_type_distribution.png)
 
-![Figure 7: Breakdown of issues by specific OpenROAD tools](figure7_issues_by_openroad_tools.png)
+![Figure 7: Breakdown of issues by specific OpenROAD tools](figure8_issues_by_openroad_tools.png)
 
 ## Looking Ahead
 
