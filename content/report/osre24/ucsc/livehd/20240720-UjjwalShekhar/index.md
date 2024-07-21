@@ -3,7 +3,7 @@ title: "Hardware Hierarchical Dynamical Systems"
 subtitle: "Building an Efficient Tree Data Structure Used Commonly in Hardware Compilers with Benchmarking for Scalability."
 summary:
 authors: 
-  - Ujjwal Shekhar
+  - UjjwalShekhar
 tags: ["osre24", "uc"]
 categories: []
 date: 2024-07-20
