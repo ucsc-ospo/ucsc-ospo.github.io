@@ -23,7 +23,7 @@ focal_point: ""
 preview_only: false
 ---
 
-Hello there! I'm Acheme and I'm thrilled to share the progress on my project, "Optimizing Scientific Data Streaming: Developing Reproducible Benchmarks for High-Speed Memory-to-Memory Data Transfer over SciStream" under the mentorship of [Joaquin Chung](https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/authors/chungmiranda/_index.md) and [Flavio Castro](https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/authors/fcastro/_index.md) under the [SciStream](https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/project/osre24/anl/scistream/index.md) project.
+Hello there! I'm Acheme and I'm thrilled to share the progress on my project, "Optimizing Scientific Data Streaming: Developing Reproducible Benchmarks for High-Speed Memory-to-Memory Data Transfer over SciStream" under the mentorship of {{% mention chungmiranda %}} and {{% mention fcastro %}} under the [SciStream](/project/osre24/anl/scistream/) project.
 
 
 # Project Overview
