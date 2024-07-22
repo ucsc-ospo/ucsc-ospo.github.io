@@ -26,7 +26,7 @@ image:
 
 Hello! My name is Alicia Esquivel Morel, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](https://ucsc-ospo.github.io/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. I'm excited to be working with two fabulous mentors, [Kate Keahey](https://ucsc-ospo.github.io/author/kate-keahey/) and [Mark Powers](https://ucsc-ospo.github.io/author/mark-powers/).
 
-**Research Reproducibility with a TROVI Redesign**
+## Research Reproducibility with a TROVI Redesign
 
 As researchers, we constantly face challenges replicating experiments due to limitations in current tools. [TROVI](https://chameleoncloud.readthedocs.io/en/latest/technical/sharing.html), a platform designed to facilitate experiment replication, can be hindered by hard-to-follow interfaces and difficulties integrating code and data. This leads to confusion and frustration.
 
@@ -38,7 +38,6 @@ My SoR project tackles these issues by redesigning TROVI to enhance user experie
 * **Uploads and Sharing:** Uploading code and data, as well as collaborating with researchers, are key goals. Integration with platforms like GitHub will further streamline collaboration.
 * **Continuous Improvement:** A built-in feedback loop will allow users to provide input and suggestions, ensuring TROVI constantly evolves based on user needs.
 
-**Midterm report and next goals**
 
 **Progress I have made so far**
 
@@ -46,11 +45,11 @@ The first stage of my project began with conducting User Experience (UX) researc
 
 In summary, during the first weeks of the project, I focused on research and requirements gathering, including the literature review on state-of-the-art reproducibility platforms. Before midterm assessment, my work also involved the redesign process, prioritizing improved usability and user experience. I designed wireframes following requierements and user feedback and later translated them into a low-fidelity prototypes. Front-end and back-end considerations were made, such as selecting a front-end language (Vue.js) and a collaborative design tool (Figma).
 
-**What do I plan to do over the next two weeks?**
+## What do I plan to do over the next two weeks?
 
 During the next two weeks, I will address challenges encountered in the design process and make the necessary adjustments to ensure the success of the next steps of the project. A higher-fidelity prototype will be completed, including connections between the different objects and frames. This will facilitate the creation of a front-end with multiple flows in the prototype. Additionally, this will provide a preview of the end-user experience through the design process, without requiring the back-end to be functional or connected yet. I'm also investigating design tool API integrations to access TROVI's APIs. This will give us the ability to access and isolate any TROVI artifact properties associated with it.
 
-**What's next**
+# What's next
 
 I'm halfway in the redesign process. Next steps will include the integration of both the backend and frontend components to create a cohesive and functional system. We will also facilitate initial user interactions and testing to gather valuable feedback and ensure that the system meets the needs and expectations of end users.
 
@@ -58,6 +57,6 @@ In addition, as I progress, my focus will shift towards enhancing the user exper
 
 By the end of the program, I aim to deliver a functional and user-friendly product that not only meets the initial project goals but also exceeds user expectations. 
 
-**Stay tuned to see how TROVI is built for reproducible research!!**
+# Stay tuned to see how TROVI is built for reproducible research!!
 
 
