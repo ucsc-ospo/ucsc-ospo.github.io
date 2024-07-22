@@ -45,7 +45,7 @@ The first stage of my project began with conducting User Experience (UX) researc
 
 In summary, during the first weeks of the project, I focused on research and requirements gathering, including the literature review on state-of-the-art reproducibility platforms. Before midterm assessment, my work also involved the redesign process, prioritizing improved usability and user experience. I designed wireframes following requierements and user feedback and later translated them into a low-fidelity prototypes. Front-end and back-end considerations were made, such as selecting a front-end language (Vue.js) and a collaborative design tool (Figma).
 
-## What do I plan to do over the next two weeks?
+## What do I plan to do over the next weeks?
 
 During the next two weeks, I will address challenges encountered in the design process and make the necessary adjustments to ensure the success of the next steps of the project. A higher-fidelity prototype will be completed, including connections between the different objects and frames. This will facilitate the creation of a front-end with multiple flows in the prototype. Additionally, this will provide a preview of the end-user experience through the design process, without requiring the back-end to be functional or connected yet. I'm also investigating design tool API integrations to access TROVI's APIs. This will give us the ability to access and isolate any TROVI artifact properties associated with it.
 
