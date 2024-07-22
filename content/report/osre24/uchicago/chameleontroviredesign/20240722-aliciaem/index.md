@@ -32,14 +32,14 @@ As researchers, we constantly face challenges replicating experiments due to lim
 
 My SoR project tackles these issues by redesigning TROVI to enhance user experience reproducibility. Imagine a user-friendly platform where uploading code, sharing data, and collaborating with colleagues becomes easy and straighforward.
 
-## The Redesign's Goals**
+## The Redesign's Goals
 
 * **Enhanced User Experience:** Inspired by user-friendly platforms like Google Colab, we'll simplify TROVI's interface for intuitive navigation and ease of use.
 * **Uploads and Sharing:** Uploading code and data, as well as collaborating with researchers, are key goals. Integration with platforms like GitHub will further streamline collaboration.
 * **Continuous Improvement:** A built-in feedback loop will allow users to provide input and suggestions, ensuring TROVI constantly evolves based on user needs.
 
 
-## Progress I have made so far**
+## Progress I have made so far
 
 The first stage of my project began with conducting User Experience (UX) research and identifying user requirements for TROVI. I then conducted a literature review on reproducibility platforms to learn about efficient methodologies and platforms for reproducibility. This helped establish a clearer project scope. Additionally, I analyzed TROVI end-user feedback to understand redesign needs.
 
