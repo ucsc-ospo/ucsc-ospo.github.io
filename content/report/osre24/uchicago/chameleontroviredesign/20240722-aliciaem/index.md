@@ -19,7 +19,9 @@ image:
 ---
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/31085ae6-47bf-4410-817f-c14e3a43d288">
-Trovi redesign process and low fidelity prototype in Figma.
+<p style="text-align: center;">Trovi redesign process and low fidelity prototype in Figma.</p>
+
+
 
 
 Hello! My name is Alicia Esquivel Morel, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](https://ucsc-ospo.github.io/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. I'm excited to be working with two fabulous mentors, [Kate Keahey](https://ucsc-ospo.github.io/author/kate-keahey/) and [Mark Powers](https://ucsc-ospo.github.io/author/mark-powers/).
