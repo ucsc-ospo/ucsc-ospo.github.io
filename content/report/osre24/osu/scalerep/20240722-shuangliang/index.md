@@ -20,6 +20,10 @@ image:
   preview_only: false
 ---
 
+# Exploring Throttling Bugs in HDFS: Reproducing Developer Fixes
+
+Scalability is a critical concern for large-scale distributed systems like the Hadoop Distributed File System (HDFS). Throttling bugs, which affect the system's ability to manage data transfer rates effectively, can lead to performance issues and system instability. In my recent work, I focused on reproducing the effects of two specific throttling bugs in HDFS, which were fixed by developers. This blog provides an overview of these bugs and the process of reproducing their effects to validate the fixes.
+
 ## HDFS-17087: Missing Throttler in DataXceiver#readBlock
 
 One of the throttling bugs I explored was HDFS-17087. The DataXceiver#readBlock function in HDFS lacked a throttler, resulting in unregulated data reads. This absence could lead to potential performance degradation under heavy loads. The developer fixed this issue by adding a throttler to regulate the data transfer rate. In my work, I reproduced the bug and observed the system's behavior both before and after applying the developer's patch. The results showed a significant improvement in stability and performance post-fix.
