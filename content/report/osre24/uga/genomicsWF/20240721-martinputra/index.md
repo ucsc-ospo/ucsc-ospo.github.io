@@ -1,3 +1,26 @@
+---
+title: "Halfway Through SoR24: Building a Scalable Performance Benchmarking Tool for Genomics Workflows"
+# subtitle: "YOUR SUBTITLE (OPTIONAL)"
+summary:
+authors: [martinputra]
+#   - USERNAME1
+#   - USERNAME2
+tags: ["osre24", reproducibility, genomics, High Performance Computing (HPC), Performance Modeling, Data Analysis, Scientific Workflows]
+categories: []
+date: 2024-07-21
+lastmod: 2024-07-21
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+---
+
 ## Project Overview
 
 Hi! I'm Martin Putra, and I'm working on the "Reproducible Performance Benchmarking for Genomics Workflows on HPC Cluster" project under the supervision of [In Kee Kim](https://ucsc-ospo.github.io/author/in-kee-kim/). We are building GenScale, a scalable benchmarking tool for genomics workfload which leverages industrial-grade cluster manager and monitoring systems. GenScale will allow us to generate performance data under a setup that is representative of large-scale production settings. Ultimately, we hope GenScale and the datasets it produces will catalyze engagement between the computer systems and bioinformatics community, thus accelerating the pace of discovery at both fields.
