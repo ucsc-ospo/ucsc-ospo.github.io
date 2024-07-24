@@ -23,7 +23,7 @@ focal_point: ""
 preview_only: false
 ---
 
-Hello, I'm {{%mention mahdi%}}, a Ph.D. student in Computer Science at Iowa State University. I'm currently working on the [AIIO / Graph Neural Network](/project/osre24/lbl/aiio/) project under the guidance of {{% mention bindong %}} and Suren Byna. Our project focuses on enhancing the AIIO framework to automatically diagnose I/O performance bottlenecks in high-performance computing (HPC) systems using Graph Neural Networks (GNNs).
+Hello, I'm {{% mention mahdi %}}, a Ph.D. student in Computer Science at Iowa State University. I'm currently working on the [AIIO / Graph Neural Network](/project/osre24/lbl/aiio/) project under the guidance of {{% mention bindong %}} and Suren Byna. Our project focuses on enhancing the AIIO framework to automatically diagnose I/O performance bottlenecks in high-performance computing (HPC) systems using Graph Neural Networks (GNNs).
 
 # Project Overview
 
