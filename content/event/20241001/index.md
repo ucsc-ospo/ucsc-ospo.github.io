@@ -74,8 +74,6 @@ Interested in sponsoring this event? Sponsors get complimentary registration, re
 
 # Sponsors
 
-## {{< figure src="platinum.png" alt="Platinum Sponsors" caption="Platinum Sponsors" width="15%" >}}
-
 ## {{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="15%" >}}
 
 ## {{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="15%" >}}
