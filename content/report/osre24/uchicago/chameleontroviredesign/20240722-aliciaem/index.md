@@ -18,7 +18,7 @@ image:
   preview_only: false
 ---
 
-# Trovi redesign process and low fidelity prototype in Figma :rocket:
+## Trovi redesign process and low fidelity prototype in Figma :rocket:
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/31085ae6-47bf-4410-817f-c14e3a43d288">
 <!-- <p style="text-align: center;">Trovi redesign process and low fidelity prototype in Figma.</p> -->
