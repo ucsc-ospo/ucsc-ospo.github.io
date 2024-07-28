@@ -31,8 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ace6qv@missouri.edu
+  
 - icon: linkedin
-  icon_pack: fab
+  icon_pack: fab fa-linkedin big-icon
   link: [Alicia Esquivel Morel](https://www.linkedin.com/in/alicesquivel/) 
 
 
