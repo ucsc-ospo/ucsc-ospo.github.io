@@ -5,8 +5,8 @@ summary: ""
 authors: [architd,rsirvent]
 tags: ["osre24", reproducibility]
 categories: [SoR]
-date: 2024-06-12
-lastmod: 2024-06-12
+date:  2024-07-29
+lastmod: 2024-07-29
 featured: false
 draft: false
 
@@ -20,7 +20,7 @@ image:
 ---
 ## Introduction
 Hello everyone
-I'am Archit from India. An undergraduate student at the Indian Institute of Technology, Banaras Hindu University, IIT (BHU), Varanasi. As part of the [Automatic reproducibility of COMPSs experiments through the integration of RO-Crate in Chameleon](https://ucsc-ospo.github.io/project/osre24/bsc/ro-crate-compss/) my proposal [proposal](https://drive.google.com/file/d/1qY-uipQZPox144LD4bs05rn3islfcjky/view) under mentorship of {{% mention rsirvent%}} aims to develop a service that facilitates the automated replication of COMPSs experiments within the Chameleon infrastructure.
+I'am Archit from India. An undergraduate student at the Indian Institute of Technology, Banaras Hindu University, IIT (BHU), Varanasi. As part of the [Automatic reproducibility of COMPSs experiments through the integration of RO-Crate in Chameleon](/project/osre24/bsc/ro-crate-compss/) my proposal [proposal](https://drive.google.com/file/d/1qY-uipQZPox144LD4bs05rn3islfcjky/view) under mentorship of {{% mention rsirvent%}} aims to develop a service that facilitates the automated replication of COMPSs experiments within the Chameleon infrastructure.
 
 ## About the project:
 
