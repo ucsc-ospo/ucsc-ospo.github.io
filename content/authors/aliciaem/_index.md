@@ -27,15 +27,14 @@ bio: Alicia is a Graduate Research Assistant at the University of Missouri, Colu
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:ace6qv@missouri.edu
-  
-- icon: linkedin
-  icon_pack: fab fa-linkedin big-icon
-  link: [Alicia Esquivel Morel](https://www.linkedin.com/in/alicesquivel/) 
 
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:ace6qv@missouri.edu
+  - icon: linkedin
+    icon_pack: fab
+    link: [Alicia Esquivel Morel](https://www.linkedin.com/in/alicesquivel/)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
