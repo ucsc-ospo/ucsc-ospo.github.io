@@ -31,6 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ace6qv@missouri.edu
+- icon: linkedin
+  icon_pack: fab
+  link: [Alicia Esquivel Morel](https://www.linkedin.com/in/alicesquivel/) 
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
