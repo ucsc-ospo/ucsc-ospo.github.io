@@ -11,7 +11,7 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `troviportal.png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Trovi portal initial setup before UI improvement"
