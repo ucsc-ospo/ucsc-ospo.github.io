@@ -48,6 +48,6 @@ During the next two weeks, I will address challenges encountered in the design p
 
 3. By the end of the program, I aim to deliver a functional and user-friendly product that not only meets the initial project goals but also exceeds user expectations. 
 
-## Stay tuned to see how TROVI is built for reproducible research!!
+**Stay tuned to see how TROVI is built for reproducible research!!**
 
 
