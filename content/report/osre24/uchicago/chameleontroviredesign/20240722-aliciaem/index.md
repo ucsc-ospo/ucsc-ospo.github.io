@@ -1,5 +1,5 @@
 ---
-title: "Enhancing User Experience Reproducibility through TROVI Redesign"
+title: "Trovi redesign process and low fidelity prototype in Figma"
 summary:
 authors: ["aliciaem"]
 tags: ["osre24", "reproducibility", "UI", "UX", "cloud", "artifact"]
@@ -13,18 +13,12 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "UI redesign and low prototype of Trovi dashboard using Figma"
+  focal_point: "Center"
   preview_only: false
 ---
 
-# Trovi redesign process and low fidelity prototype in Figma :rocket:
-
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/31085ae6-47bf-4410-817f-c14e3a43d288">
-<!-- <p style="text-align: center;">Trovi redesign process and low fidelity prototype in Figma.</p> -->
-
-
-Hello! My name is Alicia Esquivel Morel, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](https://ucsc-ospo.github.io/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. I'm excited to be working with two fabulous mentors, [Kate Keahey](https://ucsc-ospo.github.io/author/kate-keahey/) and [Mark Powers](https://ucsc-ospo.github.io/author/mark-powers/).
+Hello! My name is {{% aliciaem %}}, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. I'm excited to be working with two fabulous mentors, {{% mention keahey %}}, and {{% mention mpowers %}}. .
 
 ## Research Reproducibility with a TROVI Redesign 
 
@@ -37,7 +31,6 @@ My SoR project tackles these issues by redesigning TROVI to enhance user experie
 * **Enhanced User Experience:** Inspired by user-friendly platforms like Google Colab, we'll simplify TROVI's interface for intuitive navigation and ease of use.
 * **Uploads and Sharing:** Uploading code and data, as well as collaborating with researchers, are key goals. Integration with platforms like GitHub will further streamline collaboration.
 * **Continuous Improvement:** A built-in feedback loop will allow users to provide input and suggestions, ensuring TROVI constantly evolves based on user needs.
-
 
 ## Progress I have made so far
 
