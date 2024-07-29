@@ -21,7 +21,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Alicia is a Graduate Research Assistant at the University of Missouri, Columbia - USA. She pursued her master’s as a Fulbright Scholar, and is currently working towards her PhD in Computer Science. Her research interests include, cloud computing, drone video analytics, simulation, and emulation environments, and zero trust paradigm. She has also been working with various NSF-funded testbeds including [Chameleon Cloud](https://chameleoncloud.org/), [FABRIC] (https://portal.fabric-testbed.net/), [POWDER] (https://powderwireless.net/), [AERPAW] (https://aerpaw.org/) and [ARA] (https://arawireless.org/), migrating simulation experiments to real world use-cases and infrastructures.
+bio: Alicia is a Graduate Research Assistant at the University of Missouri, Columbia - USA. She pursued her master’s as a Fulbright Scholar, and is currently working towards her PhD in Computer Science. Her research interests include, cloud computing, drone video analytics, simulation, and emulation environments, and zero trust paradigm. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,4 +51,4 @@ user_groups:
 - Summer of Reproducibility Students
 ---
 
-Alicia is a Graduate Research Assistant at the University of Missouri, Columbia - USA. She pursued her master’s as a Fulbright Scholar, and is currently working towards her PhD in Computer Science. Her research interests include, cloud computing, drone video analytics, simulation, and emulation environments, and zero trust paradigm. 
+Alicia is a Graduate Research Assistant at the University of Missouri, Columbia - USA. She pursued her master’s as a Fulbright Scholar, and is currently working towards her PhD in Computer Science. Her research interests include, cloud computing, drone video analytics, simulation, and emulation environments, and zero trust paradigm. She has also been working with various NSF-funded testbeds including [Chameleon Cloud](https://chameleoncloud.org/), [FABRIC] (https://portal.fabric-testbed.net/), [POWDER] (https://powderwireless.net/), [AERPAW] (https://aerpaw.org/) and [ARA] (https://arawireless.org/), migrating simulation experiments to real world use-cases and infrastructures.
