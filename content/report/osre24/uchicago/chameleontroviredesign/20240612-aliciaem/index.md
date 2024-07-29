@@ -1,5 +1,5 @@
 ---
-title: "Enhancing User Experience Reproducibility through TROVI Redesign"
+title: "First Steps in Enhancing User Experience Reproducibility through TROVI Redesign"
 # subtitle: "TROVI Redesign"
 summary:
 authors: ["aliciaem"]
@@ -11,15 +11,13 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `troviportal.png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
- caption: ""
- focal_point: ""
- preview_only: false
+  caption: "Trovi portal initial setup before UI improvement"
+  focal_point: Center
+  preview_only: false
 ---
-
-![troviportal](https://github.com/user-attachments/assets/ca6f9d6f-455b-4dab-ba29-751ebf668142)
 
 
 Hello! My name is {{ mention aliciaem %}}, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. Excited to be working with two fabulous mentors; {{% mention keahey %}}, and {{% mention mpowers %}}. 
