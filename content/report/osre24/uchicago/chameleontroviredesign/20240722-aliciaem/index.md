@@ -18,7 +18,7 @@ image:
   preview_only: false
 ---
 
-Hello! My name is {{% aliciaem %}}, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. I'm excited to be working with two fabulous mentors, {{% mention keahey %}}, and {{% mention mpowers %}}. .
+Hello! My name is {{% mention aliciaem %}}, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. I'm excited to be working with two fabulous mentors, {{% mention keahey %}}, and {{% mention mpowers %}}. .
 
 ## Research Reproducibility with a TROVI Redesign 
 
