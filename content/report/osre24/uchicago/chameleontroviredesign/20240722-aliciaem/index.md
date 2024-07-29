@@ -13,9 +13,9 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "UI redesign and low prototype of Trovi dashboard using Figma"
-  focal_point: "Center"
-  preview_only: false
+  caption: "UI redesign and low prototype of Trovi dashboard using Figma"
+  focal_point: Center
+  preview_only: false
 ---
 
 Hello! My name is {{% mention aliciaem %}}, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. I'm excited to be working with two fabulous mentors, {{% mention keahey %}}, and {{% mention mpowers %}}. .
