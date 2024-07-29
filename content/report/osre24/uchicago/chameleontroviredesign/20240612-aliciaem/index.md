@@ -19,7 +19,10 @@ image:
  preview_only: false
 ---
 
-Hello! My name is Alicia Esquivel Morel, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](https://ucsc-ospo.github.io/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. Excited to be working with two fabulous mentors; [Kate Keahey](https://ucsc-ospo.github.io/author/kate-keahey/), and [Mark Powers](https://ucsc-ospo.github.io/author/mark-powers/). 
+![troviportal](https://github.com/user-attachments/assets/ca6f9d6f-455b-4dab-ba29-751ebf668142)
+
+
+Hello! My name is {{ mention aliciaem %}}, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. Excited to be working with two fabulous mentors; {{% mention keahey %}}, and {{% mention mpowers %}}. 
 
 **Research Reproducibility with a TROVI Redesign**
 
