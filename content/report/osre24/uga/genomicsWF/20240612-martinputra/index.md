@@ -21,7 +21,7 @@ image:
   preview_only: false
 ---
 
-Hi! I'm Martin, and I will be working on [Reproducible Performance Benchmarking for Genomics Workflows on HPC Cluster](https://ucsc-ospo.github.io/project/osre24/uga/genomicswf/) under the mentorship of [In Kee Kim](https://ucsc-ospo.github.io/author/in-kee-kim/). Our work is driven by the scale of computing systems that hosts data commons -- we believe that performance characterization of genomics workload should be done *rapidly* and at the *scale* similar to production settings. [Feel free to check our proposal](https://drive.google.com/file/d/1LmOpCKv09ZGKlkG6VNleWBZ792nIuVOf/view?usp=sharing) for more details!
+Hi! I'm Martin, and I will be working on [Reproducible Performance Benchmarking for Genomics Workflows on HPC Cluster](/project/osre24/uga/genomicswf/) under the mentorship of {{% mention inkee.kim %}}. Our work is driven by the scale of computing systems that hosts data commons -- we believe that performance characterization of genomics workload should be done *rapidly* and at the *scale* similar to production settings. [Feel free to check our proposal](https://drive.google.com/file/d/1LmOpCKv09ZGKlkG6VNleWBZ792nIuVOf/view?usp=sharing) for more details!
 
 We propose *GenScale*, a genomics workload benchmarking tool which can achieve both the scale and speed necessary for characterizing performance under large-scale settings. *GenScale* will be built on top of industrial-grade cluster manager (e.g. Kubernetes), metrics collection & monitoring systems (e.g. Prometheus), and will support comprehensive set of applications used in state-of-art genomics workflows. Initial version developed during this project will include DNA and RNA alignment workflows. 
 
