@@ -4,7 +4,7 @@ subtitle: "Evaluating Drift Detection Algorithms"
 summary:
 authors: 
   - joanna
-tags: ["osre24"]
+tags: ["osre24", "reproducibility"]
 categories: ["osre24", "reproducibility"]
 date: 2024-07-21
 lastmod: 2024-07-21
@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 
-Hello! I'm Joanna! Over the past month, I have been contributing to the [ML in Detecting and Addressing System Drift](/project/osre24/anl/last) project under the mentorship of [Ray Andrew](https://ucsc-ospo.github.io/author/ray-andrew-sinurat/)  and [Sandeep Madireddy](https://ucsc-ospo.github.io/author/sandeep-madireddy/). My project aims to design a pipeline to evaluate drift detection algorithms on system traces. The goal is to characterize different drifts, understand how they affect model performance, and evaluate the performance of state-of-the-art (SOTA) drift detection algorithms.
+Hello! I'm Joanna! Over the past month, I have been contributing to the [ML in Detecting and Addressing System Drift](/project/osre24/anl/last) project under the mentorship of {{% mention rayandrew %}} and {{% mention sandeep %}}. My project aims to design a pipeline to evaluate drift detection algorithms on system traces. The goal is to characterize different drifts, understand how they affect model performance, and evaluate the performance of state-of-the-art (SOTA) drift detection algorithms.
 
 # Progress
 
