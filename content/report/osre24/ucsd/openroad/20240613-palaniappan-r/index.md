@@ -25,9 +25,9 @@ preview_only: false
 
 Hi there! 
 
-I’m Palaniappan R, currently an undergraduate student at the Birla Institute of Technology & Science, Pilani, India.
+I’m {{% mention palaniappan-r %}}, currently an undergraduate student at the Birla Institute of Technology & Science, Pilani, India.
 
-I'll be working on the [LLM Assistant for OpenROAD - Model Architecture and Prototype](https://summerofcode.withgoogle.com/programs/2024/projects/DSo6kvA5) project, under the mentorship of [Indira Iyer](https://ucsc-ospo.github.io/author/indira-iyer/) and [Jack Luar](https://ucsc-ospo.github.io/author/jack-luar/). 
+I'll be working on the [LLM Assistant for OpenROAD - Model Architecture and Prototype](https://summerofcode.withgoogle.com/programs/2024/projects/DSo6kvA5) project, under the mentorship of {{% mention iiyer %}} and {{% mention luarss %}}. 
 
 My project aims to develop the architecture for a chat assistant built for OpenROAD and its native flow, designed to assist beginners and experienced users by giving easy access to existing resources, offering troubleshooting assistance, and providing fast and accurate responses to common questions. I plan to do this by leveraging state-of-the-art retrieval and fine-tuning techniques.
 
