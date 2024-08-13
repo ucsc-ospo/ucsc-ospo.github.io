@@ -6,8 +6,8 @@ authors: [Ayush_Sharma_]
 author_notes: ["An undergrad at Thapar Institute of Engineering & Technology"]
 tags: ["uc","osre24", "gsco24","polyphy"]
 categories: [GSoC'24, natural language processing]
-date: 2024-07-19
-lastmod: 2024-07-19
+date: 2024-08-12
+lastmod: 2024-08-12
 featured: false
 draft: false
 
@@ -22,8 +22,8 @@ image:
 ---
 
 ## Introduction
-    Hello! My name is {{% mention Ayush_Sharma_ %}}, a machine learning engineer and researcher based out of Chandigarh, a beautiful city in Northern India known for its modern architecture and green spaces.
-    For the last month and a half I have been working closely with my mentors {{% mention oelek %}} and {{% mention kirandeol %}}  on the project titled [Unveiling Medicine Patterns: 3D Clustering with Polyphy/Polyglot](\project\osre24\ucsc\polyphy)as part of GSoC 2024.
+Hello! My name is {{% mention Ayush_Sharma_ %}}, a machine learning engineer and researcher based out of Chandigarh, a beautiful city in Northern India known for its modern architecture and green spaces.
+For the last month and a half I have been working closely with my mentors {{% mention oelek %}} and {{% mention kirandeol %}}  on the project titled [Unveiling Medicine Patterns: 3D Clustering with Polyphy/Polyglot](\project\osre24\ucsc\polyphy)as part of GSoC 2024.
 
 ## Progress and Challenges
 The project focuses on developing effective clustering algorithms to visualize medicine data in three dimensions using PolyPhy and Polyglot. My journey began with data preprocessing and cleaning, where unnecessary data points were removed, and missing values were addressed.
