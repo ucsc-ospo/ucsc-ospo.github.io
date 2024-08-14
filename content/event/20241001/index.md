@@ -58,12 +58,11 @@ projects:
 
 ## Join us in creating new communities, partnerships, and collaborations in amplifying research impact with open source.
 
-AGENDA COMING SOON
+*AGENDA COMING SOON*
 
-- **Two-day hybrid event** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities. 
-- **October 1, Day 1 (hybrid):** Keynotes and panels, Oktoberfest reception in the evening
-- **October 2, Day 2 (hybrid):** Technical workshops highlighting open source efforts at UCSC
-
+**Two-day hybrid event** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities. 
+- **October 1, Day 1 :** Keynotes and panels, Oktoberfest reception in the evening
+- **October 2, Day 2 :** Technical workshops highlighting open source efforts at UCSC
 
 The event is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO). This year we are offering [three levels of sponsorships](#sponsors) to help make this event possible. The event follows [this code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
 
