@@ -20,7 +20,7 @@ image:
   focal_point: "Center"
   preview_only: true
 ---
-Hi, I am Mrigank. I am one of the _Summer of Reproducibility_ fellows for 2024, and I will be working on [deriving realistic performance benchmarks for Python interpreters](https://ucsc-ospo.github.io/project/osre24/uutah/static-python-perf/) with [Ben](https://ucsc-ospo.github.io/author/ben-greenman/) from the University of Utah.
+Hi, I am Mrigank. I am one of the _Summer of Reproducibility_ fellows for 2024, and I will be working on [deriving realistic performance benchmarks for Python interpreters](/project/osre24/uutah/static-python-perf/) with {{% mention bennn %}} from the University of Utah.
 
 ## Background and Motivation
 
