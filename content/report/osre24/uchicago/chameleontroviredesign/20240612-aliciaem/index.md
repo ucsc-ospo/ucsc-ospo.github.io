@@ -1,5 +1,5 @@
 ---
-title: "Enhancing User Experience Reproducibility through TROVI Redesign"
+title: "First Steps in Enhancing User Experience Reproducibility through TROVI Redesign"
 # subtitle: "TROVI Redesign"
 summary:
 authors: ["aliciaem"]
@@ -14,12 +14,13 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
- caption: ""
- focal_point: ""
- preview_only: false
+  caption: "Trovi portal initial setup before UI improvement"
+  focal_point: Center
+  preview_only: false
 ---
 
-Hello! My name is Alicia Esquivel Morel, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](https://ucsc-ospo.github.io/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. Excited to be working with two fabulous mentors; [Kate Keahey](https://ucsc-ospo.github.io/author/kate-keahey/), and [Mark Powers](https://ucsc-ospo.github.io/author/mark-powers/). 
+
+Hello! My name is {{% mention aliciaem %}}, and I'm a graduate research assistant at the University of Missouri – Columbia, pursuing a PhD in Computer Science. This summer, I'm working on a project to [improve user experience reproducibility through a redesign of TROVI](/project/osre24/uchicago/trovi/), as part of the Summer of Reproducibility (SoR) program. Excited to be working with two fabulous mentors; {{% mention keahey %}}, and {{% mention mpowers %}}. 
 
 **Research Reproducibility with a TROVI Redesign**
 
