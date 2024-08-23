@@ -1,6 +1,6 @@
 ---
-title: "Data leakage in applied ML: reproducing examples of irreproducibility"
-subtitle: "Exploring Data Leakage in Machine Learning Education" 
+title: "Reproducing and addressing Data Leakage issue : Duplicates in dataset"
+subtitle: "Exploring Data Leakage in Skin cancer classification paper" 
 authors: [KyrillosIshak]
 tags: ["osre24", "reproducibility"]
 categories: ["SummerofReproducibility24"]
