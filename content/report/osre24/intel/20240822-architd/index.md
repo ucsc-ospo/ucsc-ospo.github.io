@@ -26,7 +26,7 @@ I'm Archit from India, an undergraduate student at the Indian Institute of Techn
 
 ## About the Project
 
-The project proposes to create a service that can take a COMPSs crate (an artifact adhering to the RO-Crate specification) and, through analysis of the provided metadata, construct a Chameleon-compatible image for replicating the experiment on the testbed. Minor adjustments to the COMPSs RO-Crate are anticipated, such as incorporating third-party software necessary for the application.
+The project proposes to create a service that can take a COMPSs crate (an artifact adhering to the RO-Crate specification) and, through analysis of the provided metadata, construct a Chameleon-compatible image for replicating the experiment on the testbed.
 
 ## Final Product
 
@@ -74,7 +74,7 @@ However, the following issues still exist with the service and can be improved u
 
 ## Deliverables
 
-- [Reproducibility Service Repository](https://github.com/Minimega12121/COMPSs-Reproducibility-Service): This repository contains the main service along with guidelines on how to use it. It will be launched in the main COMPSs repository as a tool.
+- [Reproducibility Service Repository](https://github.com/Minimega12121/COMPSs-Reproducibility-Service): This repository contains the main service along with guidelines on how to use it. The service will be integrated with the COMPSs official distribution in its next release.
 - [Chameleon Appliance](https://www.chameleoncloud.org/appliances/121/) : This is a single-node appliance with COMPSs 3.3.1 installed, so that anyone with access to Chameleon can reproduce experiments.
 <!-- - [Experiments Analysis](https://docs.google.com/spreadsheets/d/1W4CKqiYVPquSwXFRITbb1Hga1xcyv2_3DJIcq7JalZk/edit?gid=0#gid=0) : This report contains details of experiments I have reproduced using the Reproducibility Service on a SLURM cluster, a local machine, and a Chameleon appliance, along with observations. -->
 

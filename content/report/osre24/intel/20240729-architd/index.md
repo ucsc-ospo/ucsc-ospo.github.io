@@ -25,7 +25,7 @@ I'am Archit from India. An undergraduate student at the Indian Institute of Tech
 
 ## About the project:
 
-The project proposes to create a service that will have the capability to take a COMPSs crate (an artifact adhering to the RO-Crate specification) and, through analysis of the provided metadata construct a Chameleon-compatible image for replicating the experiment on the testbed. Minor adjustments to the COMPSs RO-Crate are anticipated, such as incorporating  third- party software necessary for the application.
+The project proposes to create a service that will have the capability to take a COMPSs crate (an artifact adhering to the RO-Crate specification) and, through analysis of the provided metadata construct a Chameleon-compatible image for replicating the experiment on the testbed. 
 
 ## Progress
 
