@@ -23,8 +23,7 @@ I'am Archit from India. An undergraduate student at the Indian Institute of Tech
 
 ## About the project:
 
-The project proposes to create a service that will have the capability to take a COMPSs crate (an artifact adhering to the RO-Crate specification) and, through analysis of the provided metadata construct a Chameleon-compatible image for replicating the experiment on the testbed. Minor adjustments to the COMPSs RO-Crate are anticipated, such as incorporating  third- party software necessary for the application.
-
+The project proposes to create a service that will have the capability to take a COMPSs crate (an artifact adhering to the RO-Crate specification) and, through analysis of the provided metadata construct a Chameleon-compatible image for replicating the experiment on the testbed.
 ## How it all started
 
 This journey began amidst our college's cultural fest, in which I was participating, just 15 days before the proposal submission deadline. Many of my friends had been working for months to get selected for GSoC. I didn’t think I could participate this year because I was late, so I thought, "Better luck next year." But during the fest, I kept hearing about UC OSPO and that a senior had been selected within a month. So, I was in my room when my friend told me, "What's the worst that can happen? Just apply," and so I did. I chose this project and wrote my introduction in Slack without knowing much. After that, it's history. I worked really hard for the next 10 days learning about the project, making the proposal, and got selected.
