@@ -8,6 +8,6 @@ view: compact
 image:
   placement: 3
   focal_point: "Center"
-  #caption: 'May 23rd starting at 5pm in the Baskin Courtyard! Come to hear about ... and talk about ... the amazing Open Source activities happening on campus.'
-  filename: '2024slugfest.png'
+  #caption: 'Creating new communities, partnerships, and collaborations to amplify research impact with open source.'
+  filename: '2024symposium&oktoberfest.png'
 --- 
