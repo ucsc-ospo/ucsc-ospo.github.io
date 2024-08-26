@@ -12,13 +12,12 @@ address:
   postcode: '95064'
   country: United States
 
-summary: 'Join us in creating new communities, partnerships, and collaborations in amplifying research impact with open source.'
+summary: 'Creating new communities, partnerships, and collaborations to amplify research impact with open source.'
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-10-01'
-date_end: '2024-10-01'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -56,18 +55,22 @@ projects:
 
 
 
-## Join us in creating new communities, partnerships, and collaborations in amplifying research impact with open source.
+## Creating new communities, partnerships, and collaborations to amplify research impact with open source.
 
-*AGENDA COMING SOON*
+*AGENDA and REGISTRATION AVAILABLE SEPTEMBER 1*
 
-**Hybrid event on October 1 at UC Santa Cruz Hay Barn** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities. 
-**14th Annual Oktoberfest reception wraps up this year's Symposium** 
-*Note the Oktoberfest is for participants 21 years or older*
+**Hybrid event on October 1 at UC Santa Cruz Hay Barn** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities.
 
-The event is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO) and follows [our event code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
 
-This year's in-person event will be free for all **invited participants** and other members of the **UC open source community**  
-- Voluntary donation or sponsorship appreciated (see [below](#sponsor))
+**14th Annual Oktoberfest reception wraps up this year's event.** 
+> *Note the Oktoberfest is for participants 21 years or older.*
+
+
+The Open Source Symposium is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO) and follows [our event code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
+
+This year's in-person event will be free for all **invited participants** and members of the **UC open source community**  
+
+> Voluntary donation or sponsorship appreciated (see [below](#sponsor))
 
 # Sponsor
 
