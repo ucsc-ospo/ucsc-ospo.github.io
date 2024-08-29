@@ -12,13 +12,12 @@ address:
   postcode: '95064'
   country: United States
 
-summary: 'Join us in creating new communities, partnerships, and collaborations in amplifying research impact with open source.'
+summary: 'Creating new communities, partnerships, and collaborations to amplify research impact with open source.'
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-10-01'
-date_end: '2024-10-02'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -56,74 +55,26 @@ projects:
 
 
 
-## Join us in creating new communities, partnerships, and collaborations in amplifying research impact with open source.
+## Creating new communities, partnerships, and collaborations to amplify research impact with open source.
 
-AGENDA COMING SOON
+*AGENDA and REGISTRATION AVAILABLE SEPTEMBER 1*
 
-- **Two-day hybrid event** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities. 
-- **October 1, Day 1 (hybrid):** Keynotes and panels, Oktoberfest reception in the evening
-- **October 2, Day 2 (hybrid):** Technical workshops highlighting open source efforts at UCSC
+**Hybrid event on October 1 at UC Santa Cruz Hay Barn** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities.
 
 
-The event is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO). This year we are offering [three levels of sponsorships](#sponsors) to help make this event possible. The event follows [this code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
-
-> This year's in-person event will be free for all invited participants and other members of the UCSC open source community  
-> Voluntary donation or sponsorship appreciated; contact slieggi@ucsc.edu for more information.  
-
-Interested in sponsoring this event? Sponsors get complimentary registration, recognition and other benefits (see [below](#sponsor-benefits))
-
-# Sponsors
-
-## {{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="15%" >}}
-
-## {{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="15%" >}}
-
-## {{< figure src="bronze.png" alt="Bronze Sponsors" caption="Bronze Sponsors" width="15%" >}}
-
-# Sponsor Benefits
-
-Does your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2022 Open Source Research Symposium?  
-
-Organizations that sponsor this event will be given public acknowledgement on the Symposium website and agenda, and provided space to in our sponsor table area.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align: middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="th-0pky">Sponsorship Level</th>
-    <th class="th-0pky">Amount</th>
-    <th class="th-0pky">Benefits</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">{{< figure src="bronze.png" alt="Bronze Sponsors" caption="Silver Sponsors" width="50%" >}}</td>
-    <td class="tg-0pky">$500</td>
-    <td class="tg-0pky">Acknowledgement at event + shared sponsor table space</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">{{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="50%" >}}</td>
-    <td class="tg-0pky">$1,000</td>
-    <td class="tg-0pky">Acknowledgements at event + sponsor table space</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">{{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="50%" >}}</td>
-    <td class="tg-0pky">$2,000</td>
-    <td class="tg-0pky">Acknowledgements at event and on website + prime sponsor table space</td>
-  </tr>
-</tbody>
-</table>  
+**14th Annual Oktoberfest reception wraps up this year's event.** 
+> *Note the Oktoberfest is for participants 21 years or older.*
 
 
-If your organization might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)). You can 
+The Open Source Symposium is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO) and follows [our event code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
 
+This year's in-person event will be free for all **invited participants** and members of the **UC open source community**  
+
+> Voluntary donation or sponsorship appreciated (see [below](#sponsor))
+
+# Sponsor
+
+Do you or your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 Open Source Research Symposium?   Sponsor will be provided a number of benefits including public acknowledgement on the Symposium website and agenda, and space to in our sponsor table area.If you might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)). 
 
 # Logistics
 
