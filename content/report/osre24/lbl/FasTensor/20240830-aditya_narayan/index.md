@@ -59,17 +59,17 @@ Writing this tool was an adventure in throughput testing and exploring APIs. I w
 
 We settled on O_DIRECT + Linux AIO. Feel free to modify `ftstream/fastflush.h` to suit your needs.
 
-<img src="https://github.com/aditya-narayan5/GSoC24-Final_Report/blob/f486087ae3e6ef1f1077c885e9352c9440848724/images/ftstream.png" width=75% height=75%>
+<img src="https://raw.githubusercontent.com/aditya-narayan5/GSoC24-Final_Report/f486087ae3e6ef1f1077c885e9352c9440848724/images/ftstream.png" width=75% height=75%>
 
 ### Stream Support
 FasTensor has just one simple paradigm: you give it a data source, an output data store, and your transform, and it handles all the behind-the-scenes grunt work of computing over big datasets so you can focus on your research.
 
 We aimed to achieve the same for streaming: Drop in the STREAM keyword, append a pattern identifying your stream, and use your usual transform. 
 
-<img src="https://github.com/aditya-narayan5/GSoC24-Final_Report/blob/f486087ae3e6ef1f1077c885e9352c9440848724/images/example_code.png" width=75% height=100%>
+<img src="https://raw.githubusercontent.com/aditya-narayan5/GSoC24-Final_Report/f486087ae3e6ef1f1077c885e9352c9440848724/images/example_code.png" width=75% height=100%>
 Voila! Now your previous FasTensor code supports live data streams.
 
-<img src="https://github.com/aditya-narayan5/GSoC24-Final_Report/blob/da34fab7a857b0223332d84a0aa1c8cdf0811761/images/fastensor_streaming_demo.gif" width=75% height=75%>
+<img src="https://raw.githubusercontent.com/aditya-narayan5/GSoC24-Final_Report/da34fab7a857b0223332d84a0aa1c8cdf0811761/images/fastensor_streaming_demo.gif" width=75% height=75%>
 
 #### Technical tidbits:
 - Implements a manager-worker pattern to allow us flexibility in the future to implement different stream semantics such as windowing, CPU-memory based load balancing
