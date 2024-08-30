@@ -77,6 +77,6 @@ There is significant potential for further improvement. Future work should focus
 # Deliverables
 The following are the deliverables of this project:
 - [Trovi Artifact](https://www.chameleoncloud.org/experiment/share/384ee2bd-853c-427b-877b-3af2993fb502)
-- [Github Repository](https://github.com/williamnixon20/osre-drift): This repository contains the code for generating drift datasets with labels and notebooks with benchmarking results
+- [Github Repository](https://github.com/JoannaCCJH/drift-detection-OSRE24): This repository contains the code for generating drift datasets with labels and notebooks with benchmarking results
 
 
