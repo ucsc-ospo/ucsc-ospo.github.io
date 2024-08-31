@@ -57,7 +57,9 @@ projects:
 
 ## Creating new communities, partnerships, and collaborations to amplify research impact with open source.
 
-*AGENDA and REGISTRATION AVAILABLE SEPTEMBER 1*
+**[DRAFT AGENDA](content/event/20241001/agenda/index.md)** 
+
+*REGISTRATION OPENS SEPTEMBER 1*
 
 **Hybrid event on October 1 at UC Santa Cruz Hay Barn** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities.
 
