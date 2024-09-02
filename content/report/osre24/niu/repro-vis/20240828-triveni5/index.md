@@ -20,7 +20,7 @@ image:
 ---
 Hello everyone!
 
-I'm Triveni, a Master's student in Computer Science at Northern Illinois University (NIU). I'm excited to share my progress on the OSRE 2024 project [Categorize Differences in Reproduced Visualizations](https://ucsc-ospo.github.io/project/osre24/niu/repro-vis/) focusing on data visualization reproducibility. Working under the mentorship of [David Koop](https://ucsc-ospo.github.io/author/david-koop/), I've made some significant strides and faced some interesting challenges.
+I'm Triveni, a Master's student in Computer Science at Northern Illinois University (NIU). I'm excited to share my progress on the OSRE 2024 project [Categorize Differences in Reproduced Visualizations](/project/osre24/niu/repro-vis/) focusing on data visualization reproducibility. Working under the mentorship of [David Koop]{{% mention dakoop %}}, I've made some significant strides and faced some interesting challenges.
 
 # Reproducibility in data visualization
 
@@ -44,7 +44,7 @@ For instance, in one bar plot, the height of a specific bars were slightly incre
 
 # Understanding User Perspectives on Reproducibility
 
-To complement the technical analysis, I created a pilot survey to understand how users perceive reproducibility in data visualizations. The survey evaluates user interpretations of two visualizations and explores which visual parameters impact their decision-making. This user-centered approach is crucial because even minor differences in visual representation can significantly affect how data is interpreted and used
+To complement the technical analysis, I created a pilot survey to understand how users perceive reproducibility in data visualizations. The survey evaluates user interpretations of two visualizations and explores which visual parameters impact their decision-making. This user-centered approach is crucial because even minor differences in visual representation can significantly affect how data is interpreted and used.
 
 Pilot Survey Example:
 
