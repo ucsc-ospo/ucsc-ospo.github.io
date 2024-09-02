@@ -20,7 +20,7 @@ image:
 ---
 Hello everyone!
 
-I'm Triveni, a Master's student in Computer Science at Northern Illinois University (NIU). I'm excited to share my progress on the OSRE 2024 project [Categorize Differences in Reproduced Visualizations](/project/osre24/niu/repro-vis/) focusing on data visualization reproducibility. Working under the mentorship of [David Koop]{{% mention dakoop %}}, I've made some significant strides and faced some interesting challenges.
+I'm Triveni, a Master's student in Computer Science at Northern Illinois University (NIU). I'm excited to share my progress on the OSRE 2024 project [Categorize Differences in Reproduced Visualizations](/project/osre24/niu/repro-vis/) focusing on data visualization reproducibility. Working under the mentorship of {{% mention dakoop %}}, I've made some significant strides and faced some interesting challenges.
 
 # Reproducibility in data visualization
 
