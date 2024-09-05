@@ -71,29 +71,25 @@ Register here
 |----|----------------|
 |09:00|Registration Open|
 || Light refreshments/coffee|
-|09:30|Welcoming Remarks|
-|| |
-|09:40|Open Source in Industry - Lightning Talks followed by panel discussion|
-| |Panelist: [Tom Calloway](https://www.linkedin.com/in/spotfoss/) (AWS), [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), GitHub TBC|
-|11:00| Break|
-|| |
-|11:20| Keynote|
-|| |
-|11:50| Keynote|
-|| |
-|12:20| Hosted lunch|
-|||
-|13:50| Lightning Talk on Innovation and Business Engagement at UCSC|
-|||
-|14:00| Open Source at UCSC|
-|||
-|15:10| Keynote|
-|||
-|15:40| Break|
-|||
-|16:00|Open Source and AI|
-|||
-|17:00|Meeting wrap up| 
+|09:15|Welcoming Remarks|
+|| OSPO Team|
+|09:30|Panel on Open Source in Industry|
+| |Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS (TBC), GitHub (TBC)|
+|10:45| Break|
+|| --|
+|11:00| Panel on Open Source in AgTech|
+|| Moderator: Rob Trice; Panelists: Colleen Josephson (UCSC) Drew Zabrocki, (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association), Others TBC |
+|12:15| Hosted lunch|
+||--|
+|13:50| Panel on Open Source and AI|
+||Panelist: Leilani Gilpin (UCSC); Karsten Wade (Open Community Architects/Kwai Foundation), Others TBC|
+|14:50| Keynote on OSS Security|
+||TBC|
+|15:20| Break|
+||--|
+|15:35|Open Source Ecosystems at UCSC|
+||Panelist TBC|
+|16:50|Meeting wrap up| 
 ||Start of Oktoberfest - **21 year+ event**|
 |19:00|Event ends|
 
