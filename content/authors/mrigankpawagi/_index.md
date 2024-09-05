@@ -20,7 +20,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mrigank is pursuing mathematics and computing at the Indian Institute of Science. He is interested in software engineering, programming languages, and large language models.
+bio: Mrigank is pursuing mathematics and computing at the Indian Institute of Science. He is interested in software engineering, programming languages, and applications of LLMs for code generation.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,4 +46,4 @@ email: ""
 user_groups:
 - 2024 Contributors
 ---
-Mrigank is pursuing mathematics and computing at the Indian Institute of Science. He is interested in software engineering, programming languages, and large language models. Outside of research, Mrigank enjoys building applications and also teaching programming or mathematics. In his free time, Mrigank likes to read books, play badminton, write poetry, and listen to music. 
+Mrigank is junior undergrad pursuing mathematics and computing at the Indian Institute of Science in Bengaluru. He is most interested in software engineering, programming languages, and applications of large language models for code generation. He also enjoys both teaching, like through volunteering or by leading student-club activities, and also exploring the pedagogical implications of his work. When away from work, he might be hacking code, listening to his favorite music, [writing on his blog](https://mrigank.in/musings/), or occasionally playing badminton. When he was in high school, he loved developing websites and apps that he thought could fix the world.

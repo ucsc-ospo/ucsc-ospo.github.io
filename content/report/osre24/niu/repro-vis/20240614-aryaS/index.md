@@ -5,7 +5,7 @@ summary: ""
 authors: [aryaS]
 author_notes: ["Founding Engineer @ Docunexus Inc."]
 tags: ["osre24","data visualization","reproducibility"]
-categories: ["visualization"]
+categories: ["SoR"]
 date: 2024-06-14
 lastmod: 2024-06-14
 featured: false
