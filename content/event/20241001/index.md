@@ -4,7 +4,7 @@ title: '2024 UCSC Open Source Symposium'
 event: 'UCSC Open Source Symposium'
 #event_url: https://example.org
 
-location: Hay Barn, University of California, Santa Cruz
+location: Cowell Hay Barn, University of California, Santa Cruz
 address:
   street: 1156 High St
   city: Santa Cruz
@@ -58,7 +58,7 @@ projects:
 {{% cta cta_link="#agenda" cta_text="Agenda -->" %}}
 <!-- {{% cta cta_link="" cta_text="Registration" %}} -->
 
-**Registration opens soon**  
+**[Registration Now Open](https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link)**  
 {{% callout note %}}
 Registration required for both in-person and remote participants
 {{% /callout %}}
