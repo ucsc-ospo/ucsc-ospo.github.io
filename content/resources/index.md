@@ -51,7 +51,7 @@ image:
 
 ## Self-Learning / Friendly Entry Points
 
--   [Open Source Basics](https://www.youtube.com/watch?v%3DupxUAI-fAtE) (Emily's
+-   [Open Source Basics](https://www.youtube.com/watch?v=upxUAI-fAtE) (Emily's
     favorite intro video, featuring a cookie recipe theme!)
 -   [How to Open Source](https://howtoopensource.dev)
 -   [Hacktoberfest](https://hacktoberfest.com) (annual
