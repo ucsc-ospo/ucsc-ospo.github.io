@@ -16,7 +16,7 @@ banner:
 
 There are three ways to sponsor the Symposium:
 
-1. During [registration](https://ucsc.irisregistration.com/Register/Form/Form?formId=10271) by credit card
+1. Per OUR GIVING PAGE (link coming soon!)
 2. Per check:
   - Make check payable to "UC Regents"
   - Reference Open Source Symposium Sponsorship
