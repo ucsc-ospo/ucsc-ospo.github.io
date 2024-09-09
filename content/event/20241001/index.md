@@ -58,7 +58,7 @@ projects:
 {{% cta cta_link="#agenda" cta_text="Agenda -->" %}}
 <!-- {{% cta cta_link="" cta_text="Registration" %}} -->
 
-**[Registration Now Open](https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link)**  
+# [Registration Now Open](https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link) #  
 {{% callout note %}}
 Registration required for both in-person and remote participants
 {{% /callout %}}
@@ -142,4 +142,4 @@ Use code UC0 online for the UCSC rate
 
 # Sponsor
 
-Do you or your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 Open Source Research Symposium?   Sponsor will be provided a number of benefits including public acknowledgement on the Symposium website and agenda, and space to in our sponsor table area. If you might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)) or [check out our how to give page] ({{< relref "/bankinfo" >}}). 
+Do you or your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 Open Source Research Symposium?   Sponsor will be provided a number of benefits including public acknowledgement on the Symposium website and agenda, and space to in our sponsor table area. If you might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)) or [check out our how to give page]([/bankinfo](https://ucsc-ospo.github.io/bankinfo/)). 
