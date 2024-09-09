@@ -8,6 +8,6 @@ view: compact
 image:
   placement: 3
   focal_point: "Center"
-  #caption: 'Join us in creating new communities, partnerships, and collaborations in amplifying research impact with open source.'
-  filename: '2024symposium1.png'
+  #caption: 'Creating new communities, partnerships, and collaborations to amplify research impact with open source.'
+  filename: '2024symposium&oktoberfest.png'
 --- 

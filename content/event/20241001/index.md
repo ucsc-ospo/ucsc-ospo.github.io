@@ -4,7 +4,7 @@ title: '2024 UCSC Open Source Symposium'
 event: 'UCSC Open Source Symposium'
 #event_url: https://example.org
 
-location: University of California, Santa Cruz
+location: Cowell Hay Barn, University of California, Santa Cruz
 address:
   street: 1156 High St
   city: Santa Cruz
@@ -12,13 +12,12 @@ address:
   postcode: '95064'
   country: United States
 
-summary: 'Join us in creating new communities, partnerships, and collaborations in amplifying research impact with open source.'
+summary: 'Creating new communities, partnerships, and collaborations to amplify research impact with open source.'
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-10-01'
-date_end: '2024-10-02'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -54,75 +53,70 @@ slides:
 projects:
 ---
 
+## Creating new communities, partnerships, and collaborations to amplify research impact with open source. 
+
+{{% cta cta_link="#agenda" cta_text="Agenda -->" %}}
+<!-- {{% cta cta_link="" cta_text="Registration" %}} -->
+
+**[Registration Now Open](https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link)**  
+{{% callout note %}}
+Registration required for both in-person and remote participants
+{{% /callout %}}
 
 
-## Join us in creating new communities, partnerships, and collaborations in amplifying research impact with open source.
+# Overview
 
-*AGENDA COMING SOON*
+The Open Source Symposium is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO) and follows [our event code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
 
-**Two-day hybrid event** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities. 
-- **October 1, Day 1 :** Keynotes and panels, Oktoberfest reception in the evening
-- **October 2, Day 2 :** Technical workshops highlighting open source efforts at UCSC
+**Hybrid event on October 1 at UC Santa Cruz Hay Barn** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities.
 
-The event is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO). This year we are offering [three levels of sponsorships](#sponsors) to help make this event possible. The event follows [this code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
+**14th Annual Oktoberfest reception wraps up this year's event.**  
+{{% callout note %}}
+Note the Oktoberfest is for participants 21 years or older.
+{{% /callout %}}
 
-> This year's in-person event will be free for all invited participants and other members of the UCSC open source community  
-> Voluntary donation or sponsorship appreciated; contact slieggi@ucsc.edu for more information.  
+This year's in-person event will be free for all **invited participants** and members of the **UC open source community**  
 
-Interested in sponsoring this event? Sponsors get complimentary registration, recognition and other benefits (see [below](#sponsor-benefits))
+{{% callout note %}}
+Voluntary donation or sponsorship appreciated (see [below](#sponsor))
+{{% /callout %}}
 
-# Sponsors
+# Agenda
 
-## {{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="15%" >}}
-
-## {{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="15%" >}}
-
-## {{< figure src="bronze.png" alt="Bronze Sponsors" caption="Bronze Sponsors" width="15%" >}}
-
-# Sponsor Benefits
-
-Does your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2022 Open Source Research Symposium?  
-
-Organizations that sponsor this event will be given public acknowledgement on the Symposium website and agenda, and provided space to in our sponsor table area.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align: middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="th-0pky">Sponsorship Level</th>
-    <th class="th-0pky">Amount</th>
-    <th class="th-0pky">Benefits</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">{{< figure src="bronze.png" alt="Bronze Sponsors" caption="Silver Sponsors" width="50%" >}}</td>
-    <td class="tg-0pky">$500</td>
-    <td class="tg-0pky">Acknowledgement at event + shared sponsor table space</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">{{< figure src="silver.png" alt="Silver Sponsors" caption="Silver Sponsors" width="50%" >}}</td>
-    <td class="tg-0pky">$1,000</td>
-    <td class="tg-0pky">Acknowledgements at event + sponsor table space</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">{{< figure src="gold.png" alt="Gold Sponsors" caption="Gold Sponsors" width="50%" >}}</td>
-    <td class="tg-0pky">$2,000</td>
-    <td class="tg-0pky">Acknowledgements at event and on website + prime sponsor table space</td>
-  </tr>
-</tbody>
-</table>  
-
-
-If your organization might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)). You can 
-
+|Time||Session/Activity|
+|----|-|----------------|
+|09:00| -|Registration Open|
+||| *Light refreshments/coffee*|
+|||----------------|
+|09:15| -|**Welcoming Remarks**|
+||| *From OSPO Team*|
+|||----------------|
+|09:30| -|**Panel on Open Source in Industry**|
+|||*Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS (TBC), GitHub (TBC)*|
+|||----------------|
+|10:45| -|Break|
+|||----------------|
+|11:00| -|**Panel on Open Source in AgTech**|
+|| |*Moderator: Rob Trice; Panelists: Colleen Josephson (UCSC) Drew Zabrocki, (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association), Others TBC* |
+|||----------------|
+|12:15| -|Hosted lunch|
+|||----------------|
+|13:50| -|**Panel on Open Source and AI**|
+|||*Panelist: Leilani Gilpin (UCSC); Karsten Wade (Open Community Architects/Kwai Foundation), Others TBC*|
+|||----------------|
+|14:50| -|**Keynote on OSS Security**|
+|||TBC|
+|||----------------|
+|15:20| -|Break|
+|||----------------|
+|15:35| -|**Open Source Ecosystems at UCSC**|
+|||Panelist TBC|
+|||----------------|
+|16:50| -|**Meeting wrap up**| 
+||||
+|||*Start of Oktoberfest* - **21 year+ event**|
+|||----------------|
+|19:00| -|Event ends|
 
 # Logistics
 
@@ -145,3 +139,7 @@ Use code UC0 online for the UCSC rate
 - [Fairfield Inn and Suites](https://www.marriott.com/en-us/hotels/sjccr-fairfield-inn-and-suites-santa-cruz/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)  
 2956 Mission Street, Santa Cruz, CA 95060  
 Use code UC0 online for the UCSC rate  
+
+# Sponsor
+
+Do you or your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 Open Source Research Symposium?   Sponsor will be provided a number of benefits including public acknowledgement on the Symposium website and agenda, and space to in our sponsor table area.If you might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)). 
