@@ -94,25 +94,28 @@ Voluntary donation or sponsorship appreciated (see [below](#sponsor))
 |09:30| -|**Panel on Open Source in Industry**|
 |||*Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS (TBC), GitHub (TBC)*|
 |||----------------|
-|10:45| -|Break|
+|10:40| -|Break|
 |||----------------|
-|11:00| -|**Panel on Open Source in AgTech**|
+|10:55| -|**Panel on Open Source in AgTech**|
 || |*Moderator: Rob Trice; Panelists: Colleen Josephson (UCSC) Drew Zabrocki, (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association), Others TBC* |
 |||----------------|
-|12:15| -|Hosted lunch|
+|12:05| -|Hosted lunch|
 |||----------------|
-|13:50| -|**Panel on Open Source and AI**|
-|||*Panelist: Leilani Gilpin (UCSC); Karsten Wade (Open Community Architects/Kwai Foundation), Others TBC*|
-|||----------------|
-|14:50| -|**Keynote on OSS Security**|
+|13:30| -|**Keynote on Open Source and the Arts**|
 |||TBC|
 |||----------------|
-|15:20| -|Break|
+|14:00| -|**Panel on Open Source and AI**|
+|||*Panelist: Leilani Gilpin (UCSC); Karsten Wade (Open Community Architects/Kwai Foundation), Others TBC*|
 |||----------------|
-|15:35| -|**Open Source Ecosystems at UCSC**|
+|15:00| -|Break|
+|||----------------|
+|15:15| -|**Keynote on OSS Security**|
+|||TBC|
+|||----------------|
+|15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
 |||Panelist TBC|
 |||----------------|
-|16:50| -|**Meeting wrap up**| 
+|16:45| -|**Meeting wrap up**| 
 ||||
 |||*Start of Oktoberfest* - **21 year+ event**|
 |||----------------|
