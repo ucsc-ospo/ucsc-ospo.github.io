@@ -17,8 +17,6 @@ image:
   preview_only: false
 ---
 
-# Midterm Check-In: Progress on the AutoAppendix Project
-
 Hi all,
 
 I'm happy to share a quick update on the AutoAppendix project as we’re about

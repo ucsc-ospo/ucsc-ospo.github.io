@@ -17,8 +17,6 @@ image:
   preview_only: false
 ---
 
-# AutoAppendix: Towards One-Click reproducibility of high-performance computing experiments
-
 Hi everyone,
 
 I'm excited to wrap up the AutoAppendix project with our final findings and
