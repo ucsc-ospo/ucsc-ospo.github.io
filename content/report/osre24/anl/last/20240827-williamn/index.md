@@ -24,7 +24,7 @@ preview_only: false
 ---
 
 # Background
-Hello there! I'm William and this is my final blog for my proposal "Developing A Comprehensive Pipeline to Benchmark Drift Management Approaches" under the mentorship of [Ray Andrew](https://ucsc-ospo.github.io/author/ray-andrew-sinurat/) and [Sandeep Madireddy](https://ucsc-ospo.github.io/author/sandeep-madireddy/) under the [LAST](/project/osre24/anl/last) project.
+Hello there! I'm William and this is my final blog for my proposal "Developing A Comprehensive Pipeline to Benchmark Drift Management Approaches" under the mentorship of {{% mention rayandrew %}} and {{% mention sandeep %}} under the [LAST](/project/osre24/anl/last) project.
 
 If you're not familiar with it, this project aims to address the issue of model aging, where machine learning (ML) models experience a decline in effectiveness over time due to environmental changes, known as drift. My goal is to design an extensible pipeline that evaluates and benchmarks the robustness of state-of-the-art algorithms in addressing these drifts. 
 
