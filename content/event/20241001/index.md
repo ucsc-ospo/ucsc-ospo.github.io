@@ -4,7 +4,7 @@ title: '2024 UCSC Open Source Symposium'
 event: 'UCSC Open Source Symposium'
 #event_url: https://example.org
 
-location: University of California, Santa Cruz
+location: Cowell Hay Barn, University of California, Santa Cruz
 address:
   street: 1156 High St
   city: Santa Cruz
@@ -53,30 +53,73 @@ slides:
 projects:
 ---
 
+## Creating new communities, partnerships, and collaborations to amplify research impact with open source. 
+
+{{% cta cta_link="#agenda" cta_text="Agenda -->" %}}
+<!-- {{% cta cta_link="" cta_text="Registration" %}} -->
+
+# [Registration Now Open](https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link) #  
+{{% callout note %}}
+Registration required for both in-person and remote participants
+{{% /callout %}}
 
 
-## Creating new communities, partnerships, and collaborations to amplify research impact with open source.
-
-**[DRAFT AGENDA](content/event/20241001/agenda/index.md)** 
-
-*REGISTRATION OPENS SEPTEMBER 1*
-
-**Hybrid event on October 1 at UC Santa Cruz Hay Barn** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities.
-
-
-**14th Annual Oktoberfest reception wraps up this year's event.** 
-> *Note the Oktoberfest is for participants 21 years or older.*
-
+# Overview
 
 The Open Source Symposium is organized by the [UC Santa Cruz Open Source Program Office](https://ospo.ucsc.edu/) (OSPO) and follows [our event code of conduct](https://docs.google.com/document/d/e/2PACX-1vQMA4vVjqQYmAvSRpjOemfBJUb-1NsBThQSvJOrECzyYJz9myHrqdr6DBV2oFFBpvFeQ7TG_Sn793SZ/pub).
 
+**Hybrid event on October 1 at UC Santa Cruz Hay Barn** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities.
+
+**14th Annual Oktoberfest reception wraps up this year's event.**  
+{{% callout note %}}
+Note the Oktoberfest is for participants 21 years or older.
+{{% /callout %}}
+
 This year's in-person event will be free for all **invited participants** and members of the **UC open source community**  
 
-> Voluntary donation or sponsorship appreciated (see [below](#sponsor))
+{{% callout note %}}
+Voluntary donation or sponsorship appreciated (see [below](#sponsor))
+{{% /callout %}}
 
-# Sponsor
+# Agenda
 
-Do you or your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 Open Source Research Symposium?   Sponsor will be provided a number of benefits including public acknowledgement on the Symposium website and agenda, and space to in our sponsor table area.If you might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)). 
+|Time||Session/Activity|
+|----|-|----------------|
+|09:00| -|Registration Open|
+||| *Light refreshments/coffee*|
+|||----------------|
+|09:15| -|**Welcoming Remarks**|
+||| *From OSPO Team*|
+|||----------------|
+|09:30| -|**Panel on Open Source in Industry**|
+|||*Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS (TBC), GitHub (TBC)*|
+|||----------------|
+|10:40| -|Break|
+|||----------------|
+|10:55| -|**Panel on Open Source in AgTech**|
+|| |*Moderator: Rob Trice; Panelists: Colleen Josephson (UCSC) Drew Zabrocki, (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association), Others TBC* |
+|||----------------|
+|12:05| -|Hosted lunch|
+|||----------------|
+|13:30| -|**Keynote on Open Source and the Arts**|
+|||TBC|
+|||----------------|
+|14:00| -|**Panel on Open Source and AI**|
+|||*Panelist: Leilani Gilpin (UCSC); Karsten Wade (Open Community Architects/Kwai Foundation), Others TBC*|
+|||----------------|
+|15:00| -|Break|
+|||----------------|
+|15:15| -|**Keynote on OSS Security**|
+|||TBC|
+|||----------------|
+|15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
+|||Panelist TBC|
+|||----------------|
+|16:45| -|**Meeting wrap up**| 
+||||
+|||*Start of Oktoberfest* - **21 year+ event**|
+|||----------------|
+|19:00| -|Event ends|
 
 # Logistics
 
@@ -99,3 +142,7 @@ Use code UC0 online for the UCSC rate
 - [Fairfield Inn and Suites](https://www.marriott.com/en-us/hotels/sjccr-fairfield-inn-and-suites-santa-cruz/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)  
 2956 Mission Street, Santa Cruz, CA 95060  
 Use code UC0 online for the UCSC rate  
+
+# Sponsor
+
+Do you or your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 Open Source Research Symposium?   Sponsor will be provided a number of benefits including public acknowledgement on the Symposium website and agenda, and space to in our sponsor table area. If you might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)) or [check out our how to give page]([/bankinfo](https://ucsc-ospo.github.io/bankinfo/)). 
