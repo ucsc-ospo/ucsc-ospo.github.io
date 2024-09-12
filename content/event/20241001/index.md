@@ -56,13 +56,11 @@ projects:
 ## Creating new communities, partnerships, and collaborations to amplify research impact with open source. 
 
 {{% cta cta_link="#agenda" cta_text="Agenda -->" %}}
-<!-- {{% cta cta_link="" cta_text="Registration" %}} -->
+{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link" cta_text="Register Now!" %}}
 
-# [Registration Now Open](https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link) #  
 {{% callout note %}}
 Registration required for both in-person and remote participants
 {{% /callout %}}
-
 
 # Overview
 
@@ -120,6 +118,8 @@ Voluntary donation or sponsorship appreciated (see [below](#sponsor))
 |||*Start of Oktoberfest* - **21 year+ event**|
 |||----------------|
 |19:00| -|Event ends|
+
+{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link" cta_text="Register Now!" %}}
 
 # Logistics
 
