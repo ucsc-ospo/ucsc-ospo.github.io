@@ -87,7 +87,7 @@ Voluntary donation or sponsorship appreciated (see [below](#sponsor))
 ||| *Presenatio by UCSC OSPO Team*|
 ||||
 |09:30| -|**Panel on Open Source in Industry**|
-|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/); (UCSC)Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS , GitHub*|
+|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS , GitHub*|
 ||||
 |10:40| -|Break|
 ||||
@@ -98,7 +98,7 @@ Voluntary donation or sponsorship appreciated (see [below](#sponsor))
 ||||
 |13:30| -|**Keynote on Open Source and the Arts**|
 |||*[Kate Hollenbach](https://www.linkedin.com/in/kjhollen/) (Gray Area) and [Xin Xin](https://www.linkedin.com/in/xin-xin-50ab172a0/) (Processing Foundation)*|
-|||----------------|
+||||
 |14:00| -|**Panel on Open Source and AI**|
 |||*Panelist: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation)*|
 ||||
@@ -108,7 +108,7 @@ Voluntary donation or sponsorship appreciated (see [below](#sponsor))
 ||||
 ||||
 |15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
-|||Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelist [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub);  SCIPP; 
+|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelist [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub);  SCIPP*| 
 ||||
 |16:45| -|**Meeting wrap up**| 
 ||||
