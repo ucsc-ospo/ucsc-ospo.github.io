@@ -100,7 +100,7 @@ Voluntary donation or sponsorship appreciated (see [below](#sponsor))
 |||*[Kate Hollenbach](https://www.linkedin.com/in/kjhollen/) (Gray Area) and [Xin Xin](https://www.linkedin.com/in/xin-xin-50ab172a0/) (Processing Foundation)*|
 ||||
 |14:00| -|**Panel on Open Source and AI**|
-|||*Panelist: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation)*|
+|||*Panelist: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j)*|
 ||||
 |15:00| -|Break|
 ||||
