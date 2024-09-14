@@ -56,12 +56,10 @@ projects:
 ## Creating new communities, partnerships, and collaborations to amplify research impact with open source. 
 
 {{% cta cta_link="#agenda" cta_text="Agenda -->" %}}
-<!-- {{% cta cta_link="" cta_text="Registration" %}} -->
+{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link" cta_text="Register Now!" %}}
 
-**[Registration Now Open](https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link)**  
-{{% callout note %}}
-Registration required for both in-person and remote participants
-{{% /callout %}}
+
+*Registration required for both in-person and remote participants*
 
 
 # Overview
@@ -71,9 +69,6 @@ The Open Source Symposium is organized by the [UC Santa Cruz Open Source Program
 **Hybrid event on October 1 at UC Santa Cruz Hay Barn** (in-person attendance highly encouraged, online participation welcome) that includes keynote speakers, panels, and technical workshops with experts from industry, academia and open source communities.
 
 **14th Annual Oktoberfest reception wraps up this year's event.**  
-{{% callout note %}}
-Note the Oktoberfest is for participants 21 years or older.
-{{% /callout %}}
 
 This year's in-person event will be free for all **invited participants** and members of the **UC open source community**  
 
@@ -87,36 +82,41 @@ Voluntary donation or sponsorship appreciated (see [below](#sponsor))
 |----|-|----------------|
 |09:00| -|Registration Open|
 ||| *Light refreshments/coffee*|
-|||----------------|
+||||
 |09:15| -|**Welcoming Remarks**|
-||| *From OSPO Team*|
-|||----------------|
+||| *Presenatio by UCSC OSPO Team*|
+||||
 |09:30| -|**Panel on Open Source in Industry**|
-|||*Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS (TBC), GitHub (TBC)*|
-|||----------------|
-|10:45| -|Break|
-|||----------------|
-|11:00| -|**Panel on Open Source in AgTech**|
-|| |*Moderator: Rob Trice; Panelists: Colleen Josephson (UCSC) Drew Zabrocki, (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association), Others TBC* |
-|||----------------|
-|12:15| -|Hosted lunch|
-|||----------------|
-|13:50| -|**Panel on Open Source and AI**|
-|||*Panelist: Leilani Gilpin (UCSC); Karsten Wade (Open Community Architects/Kwai Foundation), Others TBC*|
-|||----------------|
-|14:50| -|**Keynote on OSS Security**|
-|||TBC|
-|||----------------|
-|15:20| -|Break|
-|||----------------|
-|15:35| -|**Open Source Ecosystems at UCSC**|
-|||Panelist TBC|
-|||----------------|
-|16:50| -|**Meeting wrap up**| 
+|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS , GitHub*|
+||||
+|10:40| -|Break|
+||||
+|10:55| -|**Panel on Open Source in AgTech**|
+|| |*Moderator: [Rob Trice](https://www.linkedin.com/in/robtrice/); Panelists: [Colleen Josephson](https://www.linkedin.com/in/colleen-josephson-4b3a9216/) (UCSC), [Drew Zabrocki](https://www.linkedin.com/in/drewzabrocki/), (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association)* |
+||||
+|12:05| -|Hosted lunch|
+||||
+|13:30| -|**Keynote on Open Source and the Arts**|
+|||*[Kate Hollenbach](https://www.linkedin.com/in/kjhollen/) (Gray Area) and [Xin Xin](https://www.linkedin.com/in/xin-xin-50ab172a0/) (Processing Foundation)*|
+||||
+|14:00| -|**Panel on Open Source and AI**|
+|||*Panelist: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation)*|
+||||
+|15:00| -|Break|
+||||
+|15:15| -|**Keynote on OSS Security**|
+||||
+||||
+|15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
+|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelist [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub);  SCIPP*| 
+||||
+|16:45| -|**Meeting wrap up**| 
 ||||
 |||*Start of Oktoberfest* - **21 year+ event**|
-|||----------------|
+||||
 |19:00| -|Event ends|
+
+{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link" cta_text="Register Now!" %}}
 
 # Logistics
 
@@ -142,4 +142,4 @@ Use code UC0 online for the UCSC rate
 
 # Sponsor
 
-Do you or your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 Open Source Research Symposium?   Sponsor will be provided a number of benefits including public acknowledgement on the Symposium website and agenda, and space to in our sponsor table area.If you might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)). 
+Do you or your organization want to support and promote open source innovation in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 Open Source Research Symposium?   Sponsor will be provided a number of benefits including public acknowledgement on the Symposium website and agenda, and space to in our sponsor table area. If you might be interested in sponsoring, please contact Stephanie Lieggi ([slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)) or [check out our how to give page](https://ucsc-ospo.github.io/bankinfo/). 

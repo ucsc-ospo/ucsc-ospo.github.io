@@ -20,12 +20,12 @@ image:
 
 Hello everyone,
 
-I'm [Klaus Kraßnitzer](https://ucsc-ospo.github.io/author/kkrassni/) and am currently finishing up my Master's degree at
-the Technical University of Vienna. This summer, under the guidance of [Sascha Hunold](https://ucsc-ospo.github.io/author/hunold/), 
+I'm {{% mention kkrassni %}} and am currently finishing up my Master's degree at
+the Technical University of Vienna. This summer, under the guidance of {{% mention hunold %}}, 
 I'm excited to dive into a project that aims to enhance reproducibility in
 high-performance computing research.
 
-Our project, [AutoAppendix](https://ucsc-ospo.github.io/project/osre24/tuwien/autoappendix/), focuses on the rigorous evaluation and potential
+Our project, [AutoAppendix](/project/osre24/tuwien/autoappendix/), focuses on the rigorous evaluation and potential
 automation of Artifact Description (AD) and Artifact Evaluation (AE) appendices
 from publications to this year's [Supercomputing Conference (SC)](https://supercomputing.org/). Due to a sizeable
 chunk of SC publications utlizing [Chameleon Cloud](https://chameleoncloud.org/), a 
