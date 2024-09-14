@@ -9,7 +9,7 @@ appearance:
   theme_day: carlos
   theme_night:
   font: carlos
-  font_size: L
+  font_size: M
 
 # SEO
 
