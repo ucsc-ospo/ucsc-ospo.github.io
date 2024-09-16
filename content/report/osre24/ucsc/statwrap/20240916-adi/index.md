@@ -1,5 +1,5 @@
 ---
-title: "StatWrap: Automated Reproducibility Checklists Generation"
+title: "[MidTerm] StatWrap: Automated Reproducibility Checklists Generation"
 subtitle: "Enhancing Reproducibility of Research projects"
 summary:
 authors: 
