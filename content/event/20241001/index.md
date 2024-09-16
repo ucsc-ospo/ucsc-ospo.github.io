@@ -93,8 +93,8 @@ This year's event will be free for all **invited participants** and members of t
 ||||
 |12:05| -|Hosted lunch|
 ||||
-|13:30| -|**Keynote on Open Source and the Arts**|
-|||*[Kate Hollenbach](https://www.linkedin.com/in/kjhollen/) (Gray Area) and [Xin Xin](https://www.linkedin.com/in/xin-xin-50ab172a0/) (Processing Foundation)*|
+|13:30| -|**Keynote: From Code Education to Code Contribution**|
+|||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
 ||||
 |14:00| -|**Panel on Open Source and AI**|
 |||*Panelist: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j)*|
