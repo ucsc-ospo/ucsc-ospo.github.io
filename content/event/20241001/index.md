@@ -88,8 +88,8 @@ This year's event will be free for all **invited participants** and members of t
 ||||
 |10:40| -|Break|
 ||||
-|10:55| -|**Panel on Open Source in AgTech**|
-|| |*Moderator: [Rob Trice](https://www.linkedin.com/in/robtrice/); Panelists: [Colleen Josephson](https://www.linkedin.com/in/colleen-josephson-4b3a9216/) (UCSC), [Drew Zabrocki](https://www.linkedin.com/in/drewzabrocki/) (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association)* |
+|10:55| -|**Panel on Open Source for Agrifood**|
+|| |*Moderator: [Rob Trice](https://www.linkedin.com/in/robtrice/); Panelists: [Brendan Dowdle](https://www.linkedin.com/in/brendanbdowdle/), (farm-ng), [Colleen Josephson](https://www.linkedin.com/in/colleen-josephson-4b3a9216/) (UCSC),[Colin Rinta Stewart](https://www.linkedin.com/in/colinoak/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Market.Organic), [Drew Zabrocki](https://www.linkedin.com/in/drewzabrocki/) (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association)* |
 ||||
 |12:05| -|Hosted lunch|
 ||||
