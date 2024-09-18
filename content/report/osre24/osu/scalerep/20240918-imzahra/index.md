@@ -18,7 +18,7 @@ image:
   preview_only: false
 ---
 
-Hello everyine, 
+Hello everyone, 
 
 In my SoR 2024 project, [ScaleRep project](project/osre24/osu/scalerep/) for SoR 2024 under the mentorship of {{% mention bogdanstoica %}} and {{% mention wang.7564 %}}. I’m excited to share the final progress and insights we’ve gathered on tackling scalability bugs in large-scale distributed systems. I aimed to tackle the reproducibility challenges posed by scalability bugs in large-scale distributed systems. Below is a detailed summary of the investigations and findings we've conducted on scalability bugs in large-scale distributed systems.
 
@@ -57,6 +57,6 @@ Packaging and sharing our reproducible investigations through Trovi and Chameleo
 Our investigation into IGNITE-16600 revealed several important insights into speed-based throttling and its impact on system performance under high-load conditions. By analyzing the checkpoint starvation and thread throttling mechanisms, we were able to identify areas for improvement in the latest Ignite releases.
 
 ## Next Steps
-- Expanding Collaboration: The packaged bugs and replayable Trovi experiments will be made available to the broader research community, encouraging further investigation and enhancements to large-scale distributed systems.
+Expanding Collaboration: The packaged bugs and replayable Trovi experiments will be made available to the broader research community, encouraging further investigation and enhancements to large-scale distributed systems.
 
 The ScaleRep project has been an exciting journey into the world of scalability bugs, pushing the boundaries of what’s possible in terms of reproducibility and benchmarking. Through this project, we’ve demonstrated the importance of rigorous testing and comprehensive documentation in improving the reliability of distributed systems.
