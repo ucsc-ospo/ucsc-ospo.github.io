@@ -38,9 +38,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/company/open-source-program-office-uc-santa-cruz/?viewAsMember=true
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/UC_OSPO
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/UC_OSPO
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCCbqOaAyKrVuYIaehV2cF1g
