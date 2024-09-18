@@ -70,7 +70,7 @@ The Open Source Symposium is organized by the [UC Santa Cruz Open Source Program
 
 **Our 14th Annual Oktoberfest reception will follow the main program.** 
 
-This year's event will be free for all **invited participants** and members of the **UC open source community**. However, we welcome voluntary donations and sponsorship to support event costs; [please see the end of this page](#sponsorship) if you are interested.
+This year's event will be free this year! However, we welcome voluntary donations and sponsorship to support event costs; [please see the end of this page](#sponsorship) if you are interested.
 
 
 # Agenda
