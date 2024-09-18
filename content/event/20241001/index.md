@@ -84,7 +84,7 @@ This year's event will be free for all **invited participants** and members of t
 ||| *Presentation by UCSC OSPO Team*|
 ||||
 |09:45| -|**Panel on Open Source in Industry**|
-|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS)*|
+|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelists: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS)*|
 ||||
 |10:45| -|Break|
 ||||
@@ -97,7 +97,7 @@ This year's event will be free for all **invited participants** and members of t
 |||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
 ||||
 |14:00| -|**Panel on Open Source and AI**|
-|||*Panelist: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j)*|
+|||*Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j)*|
 ||||
 |15:00| -|Break|
 ||||
@@ -105,7 +105,7 @@ This year's event will be free for all **invited participants** and members of t
 ||||
 ||||
 |15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
-|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelist [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
+|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelists: [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
 ||||
 |16:45| -|**Meeting Wrap Up**| 
 ||||
