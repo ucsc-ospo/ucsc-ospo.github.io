@@ -80,18 +80,18 @@ This year's event will be free for all **invited participants** and members of t
 |09:00| -|Registration Open|
 ||| *Light refreshments/coffee*|
 ||||
-|09:15| -|**Welcoming Remarks**|
+|09:30| -|**Welcoming Remarks**|
 ||| *Presentation by UCSC OSPO Team*|
 ||||
-|09:30| -|**Panel on Open Source in Industry**|
+|09:45| -|**Panel on Open Source in Industry**|
 |||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS, GitHub*|
 ||||
-|10:40| -|Break|
+|10:45| -|Break|
 ||||
-|10:55| -|**Panel on Open Source for Agrifood**|
+|11:00| -|**Panel on Open Source for Agrifood**|
 || |*Moderator: [Rob Trice](https://www.linkedin.com/in/robtrice/); Panelists: [Brendan Dowdle](https://www.linkedin.com/in/brendanbdowdle/), (farm-ng), [Colleen Josephson](https://www.linkedin.com/in/colleen-josephson-4b3a9216/) (UCSC),[Colin Rinta Stewart](https://www.linkedin.com/in/colinoak/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Market.Organic), [Drew Zabrocki](https://www.linkedin.com/in/drewzabrocki/) (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association)* |
 ||||
-|12:05| -|Hosted lunch|
+|12:15| -|Hosted lunch|
 ||||
 |13:30| -|**Keynote: From Code Education to Code Contribution**|
 |||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
@@ -105,7 +105,7 @@ This year's event will be free for all **invited participants** and members of t
 ||||
 ||||
 |15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
-|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelist [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub);  SCIPP*| 
+|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelist [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
 ||||
 |16:45| -|**Meeting Wrap Up**| 
 ||||
