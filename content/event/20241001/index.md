@@ -84,7 +84,7 @@ This year's event will be free for all **invited participants** and members of t
 ||| *Presentation by UCSC OSPO Team*|
 ||||
 |09:45| -|**Panel on Open Source in Industry**|
-|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS, GitHub*|
+|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS)*|
 ||||
 |10:45| -|Break|
 ||||
