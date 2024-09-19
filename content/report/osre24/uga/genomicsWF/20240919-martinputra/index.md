@@ -1,5 +1,5 @@
 ---
-title: "Halfway Through SoR24: Building a Scalable Performance Benchmarking Tool for Genomics Workflows"
+title: "Towards Scalable Performance Benchmarking of Genomics Workflows"
 # subtitle: "YOUR SUBTITLE (OPTIONAL)"
 summary:
 authors: [martinputra]
@@ -20,8 +20,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-# Towards Scalable Performance Benchmarking of Genomics Workflows
 
 ## Project Background
 
