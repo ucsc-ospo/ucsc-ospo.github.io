@@ -31,7 +31,7 @@ featured: true
 
 image:
   caption: ''
-  focal_point: Right
+  focal_point: ""
 
 url_code: ''
 url_pdf: ''
