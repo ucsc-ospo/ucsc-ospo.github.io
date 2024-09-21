@@ -18,7 +18,7 @@ image:
   preview_only: false
 ---
 
-Hey there, scalability enthusiasts and fellow researchers! I’m excited to share my progress on the [ScaleRep project](project/osre24/osu/scalerep/) for SoR 2024 under the mentorship of {{% mention bogdanstoica %}} and {{% mention wang.7564 %}}. Here’s a glimpse into how we’re tackling scalability bugs in large-scale distributed systems.
+Hey there, scalability enthusiasts and fellow researchers! I’m excited to share my progress on the [ScaleRep project](/project/osre24/osu/scalerep/) for SoR 2024 under the mentorship of {{% mention bogdanstoica %}} and {{% mention wang.7564 %}}. Here’s a glimpse into how we’re tackling scalability bugs in large-scale distributed systems.
 
 ## Project Overview
 
