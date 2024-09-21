@@ -20,7 +20,7 @@ image:
 
 Hello everyone, 
 
-In my SoR 2024 project, [ScaleRep project](project/osre24/osu/scalerep/) for SoR 2024 under the mentorship of {{% mention bogdanstoica %}} and {{% mention wang.7564 %}}. I’m excited to share the final progress and insights we’ve gathered on tackling scalability bugs in large-scale distributed systems. I aimed to tackle the reproducibility challenges posed by scalability bugs in large-scale distributed systems. Below is a detailed summary of the investigations and findings we've conducted on scalability bugs in large-scale distributed systems.
+In my SoR 2024 project, [ScaleRep project](/project/osre24/osu/scalerep/) for SoR 2024 under the mentorship of {{% mention bogdanstoica %}} and {{% mention wang.7564 %}}. I’m excited to share the final progress and insights we’ve gathered on tackling scalability bugs in large-scale distributed systems. I aimed to tackle the reproducibility challenges posed by scalability bugs in large-scale distributed systems. Below is a detailed summary of the investigations and findings we've conducted on scalability bugs in large-scale distributed systems.
 
 ## Project Overview
 
