@@ -83,8 +83,8 @@ This year's event is free for all attendees! However, we welcome voluntary donat
 |09:30| -|**Welcoming Remarks**|
 ||| *Presentation by UCSC OSPO Team*|
 ||||
-|09:45| -|**Panel on Open Source in Industry**|
-|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelists: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS)*|
+|14:00| -|**Panel on Open Source and AI**|
+|||*Moderator: [Karsten Wade](https://www.linkedin.com/in/karsten-wade/); Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j), [Toby Morning](https://www.linkedin.com/in/urbantech/) (Musa Capital) *|
 ||||
 |10:45| -|Break|
 ||||
@@ -96,8 +96,8 @@ This year's event is free for all attendees! However, we welcome voluntary donat
 |13:30| -|**Keynote: From Code Education to Code Contribution**|
 |||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
 ||||
-|14:00| -|**Panel on Open Source and AI**|
-|||*Moderator: [Karsten Wade](https://www.linkedin.com/in/karsten-wade/); Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j)*|
+|14:00| -|**Panel on Open Source in Industry**|
+|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelists: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS)*|
 ||||
 |15:00| -|Break|
 ||||
