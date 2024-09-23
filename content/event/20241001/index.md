@@ -70,7 +70,7 @@ The Open Source Symposium is organized by the [UC Santa Cruz Open Source Program
 
 **Our 14th Annual Oktoberfest reception will follow the main program.** 
 
-This year's event will be free this year! However, we welcome voluntary donations and sponsorship to support event costs; [please see the end of this page](#sponsorship) if you are interested.
+This year's event is free for all attendees! However, we welcome voluntary donations and sponsorship to support event costs; [please see the end of this page](#sponsorship) if you are interested.
 
 
 # Agenda
@@ -97,12 +97,12 @@ This year's event will be free this year! However, we welcome voluntary donation
 |||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
 ||||
 |14:00| -|**Panel on Open Source and AI**|
-|||*Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j)*|
+|||*Moderator: [Karsten Wade](https://www.linkedin.com/in/karsten-wade/); Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j)*|
 ||||
 |15:00| -|Break|
 ||||
-|15:15| -|**Keynote on OSS Security**|
-||||
+|15:15| -|**Keynote: The XZ Security Breach and Open Source Security - Lessons Learned**|
+|||*[Jarrod Millman](https://bids.berkeley.edu/people/jarrod-millman) (UC Berkeley) and [Juanita Gomez](https://www.linkedin.com/in/juanitagomezr/) (UCSC)|
 ||||
 |15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
 |||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelists: [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
