@@ -22,9 +22,10 @@ image:
 Hello everyone! I'm Shaivi Malik, a computer science and engineering student. I am thrilled to announce that I have been selected as a Summer of Reproducibility Fellow. I will be contributing to the [Data leakage in applied ML: reproducing examples of irreproducibility](/project/osre24/nyu/data-leakage/) project under the mentorship of {{% mention ffund %}} and {{% mention MSaeed %}}. You can find my proposal [here](https://drive.google.com/file/d/1WAsDif61O2fWgtkl75bQAnIcm2hryt8z/view?usp=sharing). 
 
 This summer, we will reproduce studies from medicine, radiology and genomics. Through these studies, we'll explore and demonstrate three types of data leakage:
-    1.Pre-processing on train and test sets together
-    2.Model uses features that are not legitimate
-    3.Feature selection on training and test sets
+
+  1. Pre-processing on train and test sets together
+  2. Model uses features that are not legitimate
+  3. Feature selection on training and test sets
 
 For each paper, we will replicate the published results with and without the data leakage error, and present performance metrics for comparison. We will also provide explanatory materials and example questions to test understanding. All these resources will be bundled together in a dedicated repository for each paper. 
 
