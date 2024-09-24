@@ -20,7 +20,7 @@ banner:
 
 There are three ways to support the 2024 Symposium:
 
-1. Per OUR GIVING PAGE (link coming soon!)
+1. Per [OUR GIVING PAGE](https://give.ucsc.edu/campaigns/38026/donations/new?designation=opensourcesoftwareresearchcross&) 
 2. Per check:
   - Make check payable to "UC Regents"
   - Reference Open Source Symposium Sponsorship
