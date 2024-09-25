@@ -105,7 +105,7 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 |||*[Jarrod Millman](https://bids.berkeley.edu/people/jarrod-millman) (UC Berkeley) and [Juanita Gomez](https://www.linkedin.com/in/juanitagomezr/) (UCSC)*|
 ||||
 |15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
-|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelists: [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Giordan Stark](https://www.linkedin.com/in/giordon-stark-5576b71b/) (SCIPP), [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
+|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelists: [Jose Renau](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Giordan Stark](https://www.linkedin.com/in/giordon-stark-5576b71b/) (SCIPP), [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
 ||||
 |16:45| -|**Meeting Wrap Up**| 
 ||||
