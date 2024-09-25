@@ -84,7 +84,7 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 ||| *Presentation by UCSC OSPO Team*|
 ||||
 |09:45| -|**Panel on Open Source and AI**|
-|||*Moderator: [Karsten Wade](https://www.linkedin.com/in/karsten-wade/); Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j), [Toby Morning](https://www.linkedin.com/in/urbantech/) (Musa Capital) *|
+|||*Moderator: [Karsten Wade](https://www.linkedin.com/in/karsten-wade/); Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j), [Toby Morning](https://www.linkedin.com/in/urbantech/) (Musa Capital)*|
 ||||
 |10:45| -|Break|
 ||||
