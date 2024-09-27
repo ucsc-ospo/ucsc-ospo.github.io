@@ -119,7 +119,8 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 
 [Link to UCSC Campus and Parking Map](https://taps.ucsc.edu/pdf/parking-map.pdf)  
 
-- Parking permits will be available from attendants upon arrival at the Hay Barn. Associated parking spaces are located near the Hay Barn (Lot 170), with overflow parking nearby in Lot 116. Late arrivals can obtain a permit by coming to the reception desk just inside the Hay Barn.
+- Parking permits are available for purchase through the [TAPS website](https://ucsc.aimsparking.com/permits/?cmd=new_non_auth) and can be done ahead of time or when you arrive at the event venue. Parking spaces are located near the Hay Barn (Lot 170), with overflow parking nearby in Lot 116.
+  
 
 ## Hotels in Santa Cruz
 
