@@ -59,7 +59,9 @@ projects:
 {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link" cta_text="Register Now!" %}}
 
 
-*Registration is required for both in-person and remote participants.*
+*Registration is required for both in-person and remote participants.* 
+
+**In-person registration to close 4pm September 27.** Anyone registering for in-person after that time will be included as a remote participant and put on the waitlist for the in-person event. 
 
 
 # Overview
