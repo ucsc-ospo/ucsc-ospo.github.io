@@ -61,7 +61,7 @@ projects:
 
 *Registration is required for both in-person and remote participants.* 
 
-**In-person registration to close 4pm September 27.** Anyone registering for in-person after that time will be included as a remote participant and put on the waitlist for the in-person event. 
+**In-person registration to close at 10am September 30.** Anyone registering after that time will can still participate as a remote participant. 
 
 
 # Overview
