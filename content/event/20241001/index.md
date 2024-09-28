@@ -59,7 +59,9 @@ projects:
 {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link" cta_text="Register Now!" %}}
 
 
-*Registration is required for both in-person and remote participants.*
+*Registration is required for both in-person and remote participants.* 
+
+**In-person registration to close at 10am September 30.** Anyone registering after that time will can still participate as a remote participant. 
 
 
 # Overview
@@ -83,8 +85,8 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 |09:30| -|**Welcoming Remarks**|
 ||| *Presentation by UCSC OSPO Team*|
 ||||
-|14:00| -|**Panel on Open Source and AI**|
-|||*Moderator: [Karsten Wade](https://www.linkedin.com/in/karsten-wade/); Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j), [Toby Morning](https://www.linkedin.com/in/urbantech/) (Musa Capital) *|
+|09:45| -|**Panel on Open Source and AI**|
+|||*Moderator: [Karsten Wade](https://www.linkedin.com/in/karsten-wade/); Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j), [Toby Morning](https://www.linkedin.com/in/urbantech/) (Musa Capital)*|
 ||||
 |10:45| -|Break|
 ||||
@@ -97,15 +99,15 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 |||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
 ||||
 |14:00| -|**Panel on Open Source in Industry**|
-|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelists: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS)*|
+|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelists: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS), [VM (Vicky) Brasseur](https://www.linkedin.com/in/vmbrasseur/)*|
 ||||
 |15:00| -|Break|
 ||||
 |15:15| -|**Keynote: The XZ Security Breach and Open Source Security - Lessons Learned**|
-|||*[Jarrod Millman](https://bids.berkeley.edu/people/jarrod-millman) (UC Berkeley) and [Juanita Gomez](https://www.linkedin.com/in/juanitagomezr/) (UCSC)|
+|||*[Jarrod Millman](https://bids.berkeley.edu/people/jarrod-millman) (UC Berkeley) and [Juanita Gomez](https://www.linkedin.com/in/juanitagomezr/) (UCSC)*|
 ||||
 |15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
-|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelists: [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Giordan Stark](https://www.linkedin.com/in/giordon-stark-5576b71b/) (SCIPP), [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
+|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelists: [Jose Renau](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Giordan Stark](https://www.linkedin.com/in/giordon-stark-5576b71b/) (SCIPP), [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
 ||||
 |16:45| -|**Meeting Wrap Up**| 
 ||||
@@ -119,7 +121,8 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 
 [Link to UCSC Campus and Parking Map](https://taps.ucsc.edu/pdf/parking-map.pdf)  
 
-- Parking permits will be available from attendants upon arrival at the Hay Barn. Associated parking spaces are located near the Hay Barn (Lot 170), with overflow parking nearby in Lot 116. Late arrivals can obtain a permit by coming to the reception desk just inside the Hay Barn.
+- Parking permits are available for purchase through the [TAPS website](https://ucsc.aimsparking.com/permits/?cmd=new_non_auth) and can be done ahead of time or when you arrive at the event venue. Parking spaces are located near the Hay Barn (Lot 170), with overflow parking nearby in Lot 116.
+  
 
 ## Hotels in Santa Cruz
 
