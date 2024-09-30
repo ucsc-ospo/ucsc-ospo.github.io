@@ -90,7 +90,7 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 |11:00| -|**Panel on Open Source for Agrifood**|
 || |*Moderator: [Rob Trice](https://www.linkedin.com/in/robtrice/); Panelists: [Brendan Dowdle](https://www.linkedin.com/in/brendanbdowdle/), (farm-ng), [Colleen Josephson](https://www.linkedin.com/in/colleen-josephson-4b3a9216/) (UCSC),[Colin Rinta Stewart](https://www.linkedin.com/in/colinoak/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Market.Organic), [Drew Zabrocki](https://www.linkedin.com/in/drewzabrocki/) (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association)* |
 ||||
-|12:15| -Lunch|
+|12:15| -|Lunch|
 ||||
 |13:30| -|**Keynote: From Code Education to Code Contribution**|
 |||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
