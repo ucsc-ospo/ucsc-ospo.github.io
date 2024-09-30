@@ -56,12 +56,9 @@ projects:
 ## Creating new communities, partnerships, and collaborations to amplify research impact with open source ✨
 
 
-{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link" cta_text="Register Now!" %}}
+{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfOdOTXkUYwLMwGqGumi9yU3-QbZ4gWkte_kJ7A-mvw5n8Zjw/viewform?usp=sf_link" cta_text="Register Now!" %}}
 
-
-*Registration is required for both in-person and remote participants.* 
-
-**In-person registration to close at 10am September 30.** Anyone registering after that time will can still participate as a remote participant. 
+**In-person registration is closed.** You can still register to participate as a remote participant. 
 
 
 # Overview
@@ -93,13 +90,13 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 |11:00| -|**Panel on Open Source for Agrifood**|
 || |*Moderator: [Rob Trice](https://www.linkedin.com/in/robtrice/); Panelists: [Brendan Dowdle](https://www.linkedin.com/in/brendanbdowdle/), (farm-ng), [Colleen Josephson](https://www.linkedin.com/in/colleen-josephson-4b3a9216/) (UCSC),[Colin Rinta Stewart](https://www.linkedin.com/in/colinoak/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Market.Organic), [Drew Zabrocki](https://www.linkedin.com/in/drewzabrocki/) (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association)* |
 ||||
-|12:15| -|Hosted lunch|
+|12:15| -Lunch|
 ||||
 |13:30| -|**Keynote: From Code Education to Code Contribution**|
 |||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
 ||||
 |14:00| -|**Panel on Open Source in Industry**|
-|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelists: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS), [VM (Vicky) Brasseur](https://www.linkedin.com/in/vmbrasseur/)*|
+|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelists: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS), [VM (Vicky) Brasseur](https://www.linkedin.com/in/vmbrasseur/) (Semios)*|
 ||||
 |15:00| -|Break|
 ||||
@@ -111,7 +108,7 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 ||||
 |16:45| -|**Meeting Wrap Up**| 
 ||||
-|||**Oktoberfest** - **must be 21+ to attend**|
+|17:00||**Oktoberfest** - **must be 21+ to attend**|
 ||||
 |19:00| -|Event ends|
 
