@@ -35,7 +35,7 @@ Metrics are collected using Prometheus at each site and fed into a central Mimir
 All logs are sent to a central Loki, with Grafana used for visualization and alerting.
 Chameleon currently collects around 3,000 metrics. Manually reviewing and setting alerts for them is time-consuming and labor-intensive.
 This project aims to help Chameleon operators monitor their systems more effectively and improve overall reliability by creating an anomaly detection service to augment the existing alerting framework.
-![High level data flow](ad.jpg)
+![High level data flow](ad.jpeg)
 
 Over the summer, we focused on analyzing the data and identified 33 key metrics, after discussions with Chameleon operators, from the Prometheus Node Exporter that serve as leading indicators of resource usage on the nodes. For example:
 - CPU usage: Metrics like node_load1, node_load5, and node_load15.
