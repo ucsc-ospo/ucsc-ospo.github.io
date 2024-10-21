@@ -61,8 +61,12 @@ Below are the results from the four methods on different outages, followed by an
 
 ![Resulsts of different approaches](comparison_plot.jpg)
 
+The above figure shows the percentage of outage data that was flagged as anomalous by different models.
+
 ![cause of anomaly according to each model](partial-authentication-outage_plot.jpg)
 ![cause of anomaly according to each model](chiuc-uplink-networking_plot.jpg)
+
+The above two plots shows two examples of the top 5 metrics which contributed to the anomaly score by each anomaly detection model.
 
 Although the methods seem to indicate anomalies during outages, they are not able to pinpoint the affected service or the exact cause.
 For example, the first partial authentication outage was due to a DNS error, which can manifest in various ways, such as reduced CPU, memory, or network usage.
