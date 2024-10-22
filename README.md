@@ -47,27 +47,35 @@ The website has five "lists":
 
 ## How to add a new annual edition of the Open Source Research Experience
 
-To archive the current year (e.g. 2023) and start a new OSRE edition: 
-- Copy `/content/osre` to `/content/osre23` (`/content/osre` contains always the newest edition, `/content/osre23` is the archived edition)
-- Update tags in `content/osre` projects and reports lists:
-  - In `content/osre/studentpages.md` update `tag: [osre24]`
-  - In `content/osre/projects.md` update `tag: [osre24]`
-- Update links to previous year and back to new year
+To archive the current year (e.g. 2024) and start a new OSRE edition: 
+- Copy `/content/osre24` to `/content/osre25` 
+- Make the following updates:
+  - Update `/content/osre25/intro.md`
+  - Update `/content/osre/index.md`
   - For Student Pages:
-    - In `/content/osre/studentpages.md` update `subtitle: "Go to [last year's student pages](/osre23/#studentpages)"`
-    - In `/content/osre23/studentpages.md` update `subtitle: "Return to [new student pages](/osre/#studentpages)"`
+    - In `/content/osre25/studentpages.md` 
+      - Update `subtitle: "Go to [2024 student pages](/osre24/#studentpages)"`
+      - Update `tag: [osre25]`
+      - Update "OSRE 2025" in body
+    - In `/content/osre24/studentpages.md` update `subtitle: "Go to [2023 student pages](/osre23/#studentpages)  \nReturn to [2025 student pages](/osre25/#studentpages)"`
   - For Projects:
-    - In `/content/osre/projects.md` update `subtitle: "Go to [last year's projects](/osre23/#projects)"`
-    - In `/content/osre23/projects.md` update `subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"` (2022 projects are under `/lastosre` because that was still under CROSS. When archiving OSRE 2024, update `/content/osre24/projects.md` with `subtitle: "Go to [2023 projects](/osre23/#projects) or return to [new projects](/osre/#projects)"`)
+    - In `/content/osre25/projects.md` 
+      - Update `title: 2025 Projects`
+      - Update `subtitle: "Go to [2024 projects](/osre24/#projects)"`
+      - Update `tag: [osre25]`
+    - In `/content/osre24/projects.md"` update `subtitle: "Go to [2023 projects](/osre23/#projects)  \nReturn to [2025 projects](/content/osre25/#projects)"`
   - For Timelines:
-    - In `/content/osre/timeline.md` update `subtitle: "Go to [last year's timeline](/osre23/#timeline)"`
-    - In `/content/osre23/timeline.md` update `subtitle: "Return to [new timeline](/osre/#timeline)"`
-- Copy `/content/report/osre23/ucsc/admin/20221106-admin` to `/content/report/osre24/ucsc/admin/20231006-admin` and update tags in `index.md` of that directory:
-  - Update title to OSRE 2024
-  - Replace all `osre23` with `osre24`
-- Update `/content/osre23/intro.md` cta link `url: '/osre23/#projects'`
-- Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2024.
-- Copy `/content/sor` to `/content/sor23`, make 2024 updates to `/content/sor`, and update SoR links in `/content/oser23/osre23.md` to `/sor23` and vice versa.
+    - In `/content/osre25/timeline.md` 
+      - Update `subtitle: "Go to [2024 timeline](/osre24/#timeline)"`
+      - In body update `caption="Table: OSRE 2025 Timeline"`
+      - Update `/content/osre25/timeline.csv`
+    - In `/content/osre24/timeline.md` update `subtitle: "Go to [2023 timeline](/osre23/#timeline)  \nReturn to [2025 timeline](/osre25/#timeline)"`
+- Copy `/content/report/osre24/ucsc/admin/20231006-admin` to `/content/report/osre25/ucsc/admin/20231021-admin` (or any other `YYYYMMDD-admin` name) and update tags (and any new instructions) in `index.md` of that directory:
+  - Update title to OSRE 2025
+  - Replace all `osre24` with `osre25`
+- Update `/content/osre25/intro.md` cta link `url: '/osre25/#projects'`
+- Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2025 (The OSRE documentation is updated in place -- use version control to find out about documentation of earlier years)
+- Copy `/content/sor24` to `/content/sor25`, make 2025 updates to `/content/sor25`, and update SoR links in `/content/oser25/osre25.md` to `/sor25` and vice versa.
 
 ## Website framework
 
