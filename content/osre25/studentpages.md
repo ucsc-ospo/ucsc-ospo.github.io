@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Student pages
-subtitle: "Go to [2023 student pages](/osre23/#studentpages)  \nReturn to [2025 student pages](/osre25/#studentpages)"
+subtitle: "Go to [2024 student pages](/osre24/#studentpages)"
 
 # Position of this section on the page
 weight: 35
@@ -15,7 +15,7 @@ content:
     # The folders to display content from
     folders:
       - report
-    tags: [osre24]
+    tags: [osre25]
     category: ''
     publication_type: ''
     author: ''
@@ -49,4 +49,4 @@ design:
   columns: '2'
 ---
 
-We are asking OSRE 2024 students and contributors to share their progress on a regular basis. We are excited to be able to highlight their work on this website and in events such as our Open Source Symposium. This [blog post](/report/osre24/ucsc/admin/20231006-admin/) contains instructions on how to start highlighting contributor work with blog posts, also known as "student pages". And here they are:
+We are asking OSRE 2025 students and contributors to share their progress on a regular basis. We are excited to be able to highlight their work on this website and in events such as our Open Source Symposium. This [blog post](/report/osre24/ucsc/admin/20231006-admin/) contains instructions on how to start highlighting contributor work with blog posts, also known as "student pages". And here they are:
