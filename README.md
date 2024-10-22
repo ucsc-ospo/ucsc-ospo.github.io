@@ -48,10 +48,11 @@ The website has five "lists":
 ## How to add a new annual edition of the Open Source Research Experience
 
 To archive the current year (e.g. 2024) and start a new OSRE edition: 
+- Update `/content/osre/index.md`
 - Copy `/content/osre24` to `/content/osre25` 
-- Make the following updates:
+- Make the following updates within `/content/osre25`:
   - Update `/content/osre25/intro.md`
-  - Update `/content/osre/index.md`
+  - Rename and update `content/osre25/osre25.md`
   - For Student Pages:
     - In `/content/osre25/studentpages.md` 
       - Update `subtitle: "Go to [2024 student pages](/osre24/#studentpages)"`

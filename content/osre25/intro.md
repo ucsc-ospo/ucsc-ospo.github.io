@@ -3,7 +3,7 @@ widget: hero
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: "2024 Open Source Research Experience"
+title: "2025 Open Source Research Experience"
 subtitle: "Matching UC researchers with summer students and sponsors."
 summary: "The Open Source Research Experience (OSRE) program provides support for undergraduate and graduate students contributing to open source research efforts. The goal of the program is to seed contributor communities, build community infrastructures and teaching incubator fellows and other UC researchers to effectively lead and delegate. Our participation in the Google Summer of Code is included as part of this mentorship program."
 weight: 10 # Position of section on the page
@@ -15,7 +15,7 @@ hero_media: 'osre.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: '/osre24#projects'
+  url: '/osre25#projects'
   label: View Projects
   icon_pack: fas
   icon: download
@@ -25,7 +25,7 @@ cta:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: "The Open Source Research Experience (OSRE) program provides support for undergraduate and graduate students contributing to open source projects and reproducible research efforts. With its dual focus on both increasing open source communities and making computational research efforts reproducible, the OSRE supports a wide variety of projects. In connection with the OSRE, the UCSC OSPO has taken part in the [Google Summer of Code](https://summerofcode.withgoogle.com) as a mentor organization and managed other sponsored programs such as the NSF funded [Summer of Reproducibility](https://ucsc-ospo.github.io/sor24/).  Information from past OSRE years can be found here: [2023](/osre23) and [2022](https://cross.ucsc.edu/2022-osre/index.html) ([final 2022 reports](/post/20220929)).  
+  label: "The Open Source Research Experience (OSRE) program provides support for undergraduate and graduate students contributing to open source projects and reproducible research efforts. With its dual focus on both increasing open source communities and making computational research efforts reproducible, the OSRE supports a wide variety of projects. In connection with the OSRE, the UCSC OSPO has taken part in the [Google Summer of Code](https://summerofcode.withgoogle.com) as a mentor organization and managed other sponsored programs such as the NSF funded [Summer of Reproducibility](https://ucsc-ospo.github.io/sor25/).  Information from past OSRE years can be found here: [2024](/osre24), [2023](/osre23) and [2022](https://cross.ucsc.edu/2022-osre/index.html) ([final 2022 reports](/post/20220929)).  
 
 Mentors interested in participating in the OSRE (including for projects relevant to GSoC and the SoR) can [post their project ideas](https://ucsc-ospo.github.io/osredocs/formentors/) for students to review. [Project ideas](#projects) are short abstracts that provide an overview of the tasks students will accomplish over the summer.  See [mentor page](#formentors) for more details.
 
