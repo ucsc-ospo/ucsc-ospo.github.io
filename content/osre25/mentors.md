@@ -11,7 +11,7 @@ content:
     - Administration
     - University of California Mentors
     - Summer of Reproducibility Mentors
-    - 2024 Contributors
+    - 2025 Contributors
 design:
   columns: '2'
   show_social: false
