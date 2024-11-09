@@ -78,6 +78,7 @@ For participants local to the Bay Area, mileage reimbursement will be provided b
 
 
 **Shuttle and Ground Transportation**
+
 We will arrange for airport shuttles for those arriving on Jan 8 and departing Jan 10 from San Jose airport (SJC). The shuttle schedule will be based on flight schedules and we will attempt to group people together based on arrival times. More information on this will be provided once travel schedules become more clear. If you are a self-paying attendee, please let us know if you would like to be included on the shuttle service. Attendees that arriving and departing outside of the group shuttle window can arrange an Uber or Lyft (reimbursements will be provided to sponsored participants) 
 
 Shuttle transportation will be provided between the hotel and the workshop venue the morning and evening of January 9th. 
@@ -90,6 +91,7 @@ San Francisco International Airport (SFO) is 63 miles from the Dream Inn Hotel i
 
 
 **Hotel**
+
 [Dream Inn](https://maps.app.goo.gl/bST3qPwmSLPhHEpY9) Santa Cruz is located 3 miles from the Seymour Marine Discovery Center. Hotel amenities include a heated beachfront swimming pool and hot tub, pool bar, direct access to Cowell beach, and it is home to the Jack O’Neill Restaurant & Lounge. The hotel is at the end of the scenic route via the West Cliff Drive and next to the Santa Cruz Boardwalk and Wharf. Visit Dream Inn Santa Cruz [website](https://maps.app.goo.gl/bST3qPwmSLPhHEpY9) for more information about the hotel.
 
 A hotel room from Jan 8th to Jan 10th for one person per institution will be covered. 
@@ -103,22 +105,22 @@ The hotel and conference venue are located on the coast near many beautiful beac
 
 Santa Cruz has so many natural and cultural attractions, it is hard to just pick a few to highlight. [This travler's guide](https://www.santacruz.org/plan-your-trip/online-travelers-guide/) might be of interest if you plan to explore the area.  
 
-*Natural Bridges State Beach*
+- *Natural Bridges State Beach*: 
 A refuge for wintering Monarch Butterflies, this park boasts a sandy cove, tidepools, a nature trail through the Butterfly Preserve, and several hiking trails. There is also a bicycle path around the perimeter of the park.
 
-*Redwoods*
+- *Redwoods*: 
 Santa Cruz is surrounded by redwood forrest and there are numerous state parks where you can enjoy walking through these majestic trees. Henry Cowell State Park is the most easily accessible redwood are from Santa Cruz. It is about a 20 minute drive from the Dream Inn and has numerous trails. It is also notable that UC Santa Cruz main campus is also set in middle of the redwoods and is easily accessible via public transport from the Dream Inn. 
 
-*Downtown Santa Cruz*
+- *Downtown Santa Cruz*: 
 A 20 minute walk (.8 mi) from the Dream Inn. Downtown Santa Cruz offers a wide range of shopping, dining and nightlife activities.
 
-*Santa Cruz Wharf*
+- *Santa Cruz Wharf*: 
 Right next to the Dream Inn, the Wharf offers scenic views and is great for a leisurely stroll and sea lion sightings. Offers dining options and gift shops.
 
-*Santa Cruz Beach Boardwalk*
+- *Santa Cruz Beach Boardwalk*: 
 During the winter months, the boardwalk is open in limited capacity on the weekends. However, the largest arcade in the country is located at the Boardwalk and is open daily year round. 
 
-*Mystery spot*
+- *Mystery spot*: 
 The Mystery Spot is a gravitational anomaly located in the redwood forests just outside of Santa Cruz. It is a circular area of effect around 150 feet or 46 meters in diameter. You can experience the puzzling variations of gravity, perspective, and height. 
 
 
