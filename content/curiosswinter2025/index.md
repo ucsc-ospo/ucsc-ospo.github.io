@@ -64,15 +64,17 @@ Our meeting room has an oceanview with an attached terrace on a bluff overlookin
 
 *Address*: Seymour Marine Discovery Center, 100 McAllister Way, Santa Cruz, CA 95060
 
+Shuttle transportation will be provided between the hotel and the workshop venue the morning and evening of January 9th. 
+
 
 **Meeting Venue Parking**
 
-Please use ParkMobile to validate your parking. The ParkMobile zone is 15154. Parking is enforced Monday–Friday, 8 AM–5 PM, except holidays. 
+If you are driving to the meeting venue, please use ParkMobile to validate your parking. The ParkMobile zone is 15154. Parking is enforced Monday–Friday, 8 AM–5 PM, except holidays.
 
 
 # Travel to Santa Cruz
 
-The UCSC OSPO event team will arrange for flights (as needed) and a hotel room from Jan 8th to Jan 10th for one person per institution and the CURIOSS organizing group. Other CURIOSS members (self-funded) who want to attend (self-funded) should still register for the event and indicate if they want us to include their names on theon at the conference hotel room list. 
+The UCSC OSPO event team will arrange for flights (as needed) and a hotel room from Jan 8th to Jan 10th for one person per institution and the CURIOSS organizing group. Other CURIOSS members  who want to attend (self-funded) should still register for the event and indicate if they want us to include their names on theon at the conference hotel room list. 
 
 For participants local to the Bay Area, mileage reimbursement will be provided based on established rates for one person per institution.  To receive mileage reimbursement, submit a request including a Google Map of your route to Yelena (ymartyno@ucsc.edu).
 
@@ -81,7 +83,6 @@ For participants local to the Bay Area, mileage reimbursement will be provided b
 
 We will arrange for airport shuttles for those arriving on Jan 8 and departing Jan 10 from San Jose airport (SJC). The shuttle schedule will be based on flight schedules and we will attempt to group people together based on arrival times. More information on this will be provided once travel schedules become more clear. If you are a self-paying attendee, please let us know if you would like to be included on the shuttle service. Attendees that arriving and departing outside of the group shuttle window can arrange an Uber or Lyft (reimbursements will be provided to sponsored participants) 
 
-Shuttle transportation will be provided between the hotel and the workshop venue the morning and evening of January 9th. 
 
 **Airports**
 
