@@ -31,7 +31,7 @@ featured: true
 
 image:
   caption: ''
-  focal_point: Right
+  focal_point: ""
 
 url_code: ''
 url_pdf: ''
@@ -56,10 +56,9 @@ projects:
 ## Creating new communities, partnerships, and collaborations to amplify research impact with open source ✨
 
 
-{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLScO6Bo8y7CkCzKHc8bePAusKt5kiFVLIEKAADzxwFjrAnN3yQ/viewform?usp=sf_link" cta_text="Register Now!" %}}
+{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfOdOTXkUYwLMwGqGumi9yU3-QbZ4gWkte_kJ7A-mvw5n8Zjw/viewform?usp=sf_link" cta_text="Register Now!" %}}
 
-
-*Registration is required for both in-person and remote participants.*
+**In-person registration is closed.** You can still register to participate as a remote participant. 
 
 
 # Overview
@@ -70,7 +69,7 @@ The Open Source Symposium is organized by the [UC Santa Cruz Open Source Program
 
 **Our 14th Annual Oktoberfest reception will follow the main program.** 
 
-This year's event will be free for all **invited participants** and members of the **UC open source community**. However, we welcome voluntary donations and sponsorship to support event costs; [please see the end of this page](#sponsorship) if you are interested.
+This year's event is free for all attendees! However, we welcome [voluntary donations and sponsorship](https://give.ucsc.edu/campaigns/38026/donations/new?designation=opensourcesoftwareresearchcross&) to support event costs; [please see the end of this page](#sponsorship) for more details.
 
 
 # Agenda
@@ -80,36 +79,36 @@ This year's event will be free for all **invited participants** and members of t
 |09:00| -|Registration Open|
 ||| *Light refreshments/coffee*|
 ||||
-|09:15| -|**Welcoming Remarks**|
+|09:30| -|**Welcoming Remarks**|
 ||| *Presentation by UCSC OSPO Team*|
 ||||
-|09:30| -|**Panel on Open Source in Industry**|
-|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelist: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), AWS, GitHub*|
+|09:45| -|**Panel on Open Source and AI**|
+|||*Moderator: [Karsten Wade](https://www.linkedin.com/in/karsten-wade/); Panelists: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j), [Toby Morning](https://www.linkedin.com/in/urbantech/) (Musa Capital)*|
 ||||
-|10:40| -|Break|
+|10:45| -|Break|
 ||||
-|10:55| -|**Panel on Open Source in AgTech**|
-|| |*Moderator: [Rob Trice](https://www.linkedin.com/in/robtrice/); Panelists: [Colleen Josephson](https://www.linkedin.com/in/colleen-josephson-4b3a9216/) (UCSC), [Drew Zabrocki](https://www.linkedin.com/in/drewzabrocki/) (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association)* |
+|11:00| -|**Panel on Open Source for Agrifood**|
+|| |*Moderator: [Rob Trice](https://www.linkedin.com/in/robtrice/); Panelists: [Brendan Dowdle](https://www.linkedin.com/in/brendanbdowdle/), (farm-ng), [Colleen Josephson](https://www.linkedin.com/in/colleen-josephson-4b3a9216/) (UCSC),[Colin Rinta Stewart](https://www.linkedin.com/in/colinoak/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Market.Organic), [Drew Zabrocki](https://www.linkedin.com/in/drewzabrocki/) (Totem / Purdue Open Ag Technology Center/International Fresh Produce Association)* |
 ||||
-|12:05| -|Hosted lunch|
+|12:15| -|Lunch|
 ||||
-|13:30| -|**Keynote on Open Source and the Arts**|
-|||*[Kate Hollenbach](https://www.linkedin.com/in/kjhollen/) (Gray Area) and [Xin Xin](https://www.linkedin.com/in/xin-xin-50ab172a0/) (Processing Foundation)*|
+|13:30| -|**Keynote: From Code Education to Code Contribution**|
+|||*[Kate Hollenbach](https://grayarea.org/community-entry/kate-hollenbach/) (Gray Area) and [Xin Xin](https://docs.google.com/document/d/1hohgIr0rjkGeMa5sJKrv6MQf8HubNf4sJ22funAMG6g/pub) (Processing Foundation)*|
 ||||
-|14:00| -|**Panel on Open Source and AI**|
-|||*Panelist: [Leilani Gilpin](https://www.linkedin.com/in/leilanigilpin/) (UCSC); [Karsten Wade](https://www.linkedin.com/in/karsten-wade/) (Open Community Architects/Kwai Foundation); [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist/) (Neo4j)*|
+|14:00| -|**Panel on Open Source in Industry**|
+|||*Moderator: [James Davis](https://www.linkedin.com/in/james-davis-1b80011/) (UCSC OSPO), Panelists: [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) (Intel), [Neha Ojha](https://www.linkedin.com/in/nehaojha/) (IBM/Ceph/UCSC Alumna), [Tom Callaway](https://www.linkedin.com/in/spotfoss/) (AWS), [VM (Vicky) Brasseur](https://www.linkedin.com/in/vmbrasseur/) (Semios)*|
 ||||
 |15:00| -|Break|
 ||||
-|15:15| -|**Keynote on OSS Security**|
-||||
+|15:15| -|**Keynote: The XZ Security Breach and Open Source Security - Lessons Learned**|
+|||*[Jarrod Millman](https://bids.berkeley.edu/people/jarrod-millman) (UC Berkeley) and [Juanita Gomez](https://www.linkedin.com/in/juanitagomezr/) (UCSC)*|
 ||||
 |15:45| -|**Open Source Ecosystems and Innovation at UCSC**|
-|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelist [Jose Renua](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub);  SCIPP*| 
+|||*Moderator: [Stephanie Lieggi](https://www.linkedin.com/in/stephanie-lieggi-8542624/), UCSC OSPO; Panelists: [Jose Renau](https://www.linkedin.com/in/jose-renau/), (CSE Chair, Baskin Engineering); [Giordon Stark](https://www.linkedin.com/in/giordon-stark-5576b71b/) (SCIPP), [Emily Lovell](https://www.linkedin.com/in/emilymarielovell/) (UCSC Open Source Incubator Fellow); [Ben Legum](https://www.linkedin.com/in/legum/) (IBE Hub); [Eric Vin](https://www.linkedin.com/in/ericevin/) (PhD Candidate/Scenic Project)*| 
 ||||
 |16:45| -|**Meeting Wrap Up**| 
 ||||
-|||**Oktoberfest** - **must be 21+ to attend**|
+|17:00||**Oktoberfest** - **must be 21+ to attend**|
 ||||
 |19:00| -|Event ends|
 
@@ -119,7 +118,8 @@ This year's event will be free for all **invited participants** and members of t
 
 [Link to UCSC Campus and Parking Map](https://taps.ucsc.edu/pdf/parking-map.pdf)  
 
-- Parking permits will be available from attendants upon arrival at the Hay Barn. Associated parking spaces are located near the Hay Barn (Lot 170), with overflow parking nearby in Lot 116. Late arrivals can obtain a permit by coming to the reception desk just inside the Hay Barn.
+- Parking permits are available for purchase through the [TAPS website](https://ucsc.aimsparking.com/permits/?cmd=new_non_auth) and can be done ahead of time or when you arrive at the event venue. Parking spaces are located near the Hay Barn (Lot 170), with overflow parking nearby in Lot 116.
+  
 
 ## Hotels in Santa Cruz
 
