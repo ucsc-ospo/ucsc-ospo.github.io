@@ -43,15 +43,13 @@ slides:
 
 # Workshop Details 
 
-The CURIOSS Winter Workshop 2025 is a one-day event designed to foster collaboration, share knowledge, generate outputs, and build a community among Open Source Program Offices within academic and research institutions. 
-
-The workshop’s primary goal is to create a collaborative environment where OSPOs can share their accomplishments, discuss challenges, and explore how CURIOSS can continue to evolve to best support the growing OSPO ecosystem.
+The CURIOSS Winter Workshop 2025 is a one-day event designed to foster collaboration and community among Open Source Program Offices within academic and research institutions. Participating OSPOs will be invited to share accomplishments, discuss challenges, and explore how CURIOSS can continue evolving to best support the growing OSPO ecosystem.
 
 
 # Schedule 
 
 - The full agenda will be posted by mid-December
-- We expect there to be an evening on January 8 at or near the Dream Inn. More details to be provided soon.
+- We expect there to be an evening event on January 8 at or near the Dream Inn. More details to be provided soon.
 - The meeting will run from 9am to about 5pm on January 9, followed by a dinner at the meeting venue. 
 
 
@@ -74,21 +72,18 @@ If you are driving to the meeting venue, please use ParkMobile to validate your 
 
 # Travel to Santa Cruz
 
-The UCSC OSPO event team will arrange for flights (as needed) and a hotel room from Jan 8th to Jan 10th for one person per institution and the CURIOSS organizing group. Other CURIOSS members  who want to attend (self-funded) should still register for the event and indicate if they want us to include their names on theon at the conference hotel room list. 
+The UCSC OSPO event team will arrange for flights and a hotel room from Jan 8th to Jan 10th for one person per institution and the CURIOSS organizing group. Other CURIOSS members who plan to attend (self-funded) should aso register for the event and indicate if they want us to include their names on the hotel room list. 
 
-For participants local to the Bay Area, mileage reimbursement will be provided based on established rates for one person per institution.  To receive mileage reimbursement, submit a request including a Google Map of your route to Yelena (ymartyno@ucsc.edu).
+For participants local to the Bay Area, mileage reimbursement will be provided based on established rates for one person per institution.  To receive mileage reimbursement, submit a request including a copy of a Google Map of your route to Yelena (ymartyno@ucsc.edu).
 
 
 **Shuttle and Ground Transportation**
 
-We will arrange for airport shuttles for those arriving on Jan 8 and departing Jan 10 from San Jose airport (SJC). The shuttle schedule will be based on flight schedules and we will attempt to group people together based on arrival times. More information on this will be provided once travel schedules become more clear. If you are a self-paying attendee, please let us know if you would like to be included on the shuttle service. Attendees that arriving and departing outside of the group shuttle window can arrange an Uber or Lyft (reimbursements will be provided to sponsored participants) 
-
+We will arrange for airport shuttles for those arriving on Jan 8 and departing Jan 10 from San Jose airport (SJC). The shuttle schedule will be based on flight schedules and we will attempt to group people together based on arrival times. More information on this will be provided once travel schedules become more clear. If you are a self-paying attendee, please let us know if you would like to be included on the shuttle service. Attendees not taking the group shuttle can arrange their own transportation with Uber or Lyft, or pre-arrange a [local shuttle](https://taps.ucsc.edu/travel/airport-shuttles.html) If you are arranging your own transportation, from San Jose Airport the average Uber travel time is 47 minutes and the average price is $70. 
 
 **Airports**
 
-San Jose Mineta International Airport (SJC) is 34.2 miles from the Dream Inn Hotel in Santa Cruz. This is a preferred airport and group shuttle will be provided for those arriving on Jan 8 and departing Jan 10. If you are arranging your own transportation, the average Uber travel time is 47 minutes and the average price is $70.
-
-San Francisco International Airport (SFO) is 63 miles from the Dream Inn Hotel in Santa Cruz. If you are flying into SFO you will need to arrange your own transportation, the average Uber travel time is 73 minutes and the average price is $150.
+San Jose Mineta International Airport (SJC) is 34.2 miles from the Dream Inn Hotel in Santa Cruz. This is the preferred airport and group shuttle will be provided for those arriving on Jan 8 and departing Jan 10.  San Francisco International Airport (SFO) is 63 miles from the Dream Inn Hotel in Santa Cruz. If you are flying into SFO you will need to arrange your own transportation, the average Uber travel time is 73 minutes and the average price is $150.
 
 
 **Hotel**
@@ -96,7 +91,9 @@ San Francisco International Airport (SFO) is 63 miles from the Dream Inn Hotel i
 [Dream Inn](https://maps.app.goo.gl/bST3qPwmSLPhHEpY9) Santa Cruz is located 3 miles from the Seymour Marine Discovery Center. Hotel amenities include a heated beachfront swimming pool and hot tub, pool bar, direct access to Cowell beach, and it is home to the Jack O’Neill Restaurant & Lounge. The hotel is at the end of the scenic route via the West Cliff Drive and next to the Santa Cruz Boardwalk and Wharf. Visit Dream Inn Santa Cruz [website](https://maps.app.goo.gl/bST3qPwmSLPhHEpY9) for more information about the hotel.
 
 A hotel room from Jan 8th to Jan 10th for one person per institution will be covered. 
-For other participants, the room rate is $179 plus tax per night for the nights of January 8th and 9th. If you’d like to extend your stay, the room rate is $229 plus tax per night for the nights of January 10th and 11th. 
+For other participants, the room rate is $179 plus tax per night for the nights of January 8th and 9th. Instructions for booking hotels if you are paying for yourself will be available soon. 
+
+Note that if intend to extend your stay, the room rate is $229 plus tax per night for the nights of January 10th and 11th. 
 
 *Self parking at the Dream Inn hotel is complimentary.* 
 
