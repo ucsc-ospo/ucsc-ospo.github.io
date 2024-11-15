@@ -41,6 +41,8 @@ slides:
 ---
 # [REGISTRATION LINK](https://docs.google.com/forms/d/e/1FAIpQLScVmSIDhLQNwLz5pNbbiv-RW-K_9vFTX0aFwpXoxLFW1GcN7w/viewform?usp=sf_link) 
 
+All *sponsored participants* must register by **December 6** in order for us to arrange your travel. All other participants should register by January 3. 
+
 # Workshop Details 
 
 The CURIOSS Winter Workshop 2025 is a one-day event designed to foster collaboration and community among Open Source Program Offices within academic and research institutions. Participating OSPOs will be invited to share accomplishments, discuss challenges, and explore how CURIOSS can continue evolving to best support the growing OSPO ecosystem.
@@ -49,7 +51,7 @@ The CURIOSS Winter Workshop 2025 is a one-day event designed to foster collabora
 # Schedule 
 
 - The full agenda will be posted by mid-December
-- We expect there to be an evening event on January 8 at or near the Dream Inn. More details to be provided soon.
+- We are tentatively expecting to be arranging an evening event on January 8 at or near the Dream Inn. More details to be provided soon.
 - The meeting will run from 9am to about 5pm on January 9, followed by a dinner at the meeting venue. 
 
 
