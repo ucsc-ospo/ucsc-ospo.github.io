@@ -50,7 +50,7 @@ The CURIOSS Winter Workshop 2025 is a one-day event designed to foster collabora
 
 # Schedule 
 
-- The full agenda will be posted by mid-December
+- The full agenda will be posted by mid-December.
 - We are tentatively expecting to be arranging an evening event on January 8 at or near the Dream Inn. More details to be provided soon.
 - The meeting will run from 9am to about 5pm on January 9, followed by a dinner at the meeting venue. 
 
