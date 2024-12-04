@@ -21,6 +21,10 @@ main:
     parent: programs
     url: "/osre"
     weight: 10
+  - name: 🧪 Summer of Reproducibility
+    parent: programs
+    url: "/sor"
+    weight: 15  
   - name: 🪺 Open Source Incubator Fellowship
     parent: programs
     url: "/post/incubator"
