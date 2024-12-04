@@ -25,7 +25,7 @@ The OSRE organizers will give a brief overview of the Summer of Reproducibility 
 
 The OSRE and the SoR is modeled after the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) which matches undergraduate student contributors with mentors working on open source projects. One goal of the OSRE program is to help make computational research efforts reproducible with our NSF funded Summer of Reproducibility. The OSRE leverages our involvement in global programs like GSoC to recruit students from around the world. All students are paid a stipend and mentors are provided administrative and other needed support to allow for a productive summer.  
 
-The [OSRE 2024](/osre24) supported the work of [40 successful summer projects](/osre24/#studentpages) and we are looking to expand that number even further this year. But we need mentors to work with our amazing students. Mentors from previous years have spoken highly of their experience:  
+The [OSRE 2024](/osre24) supported the work of [40 successful summer projects](/https://ucsc-ospo.github.io/osre24/#studentpages) and we are looking to expand that number even further this year. But we need mentors to work with our amazing students. Mentors from previous years have spoken highly of their experience:  
 
 > The OSRE funded student … helped us create detailed docs and scripts to easily reproduce our project evaluations. This not only eases our own future work, but also helps us promote our work as other people can easily reproduce our results.  
 
