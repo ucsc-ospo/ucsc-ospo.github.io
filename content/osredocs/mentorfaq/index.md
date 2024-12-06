@@ -28,7 +28,7 @@ The OSRE program supports projects in a wide range of open source communities an
 
 ### What is the process for becoming a mentor and submitting a project / project idea?
 
-The program organizers invite potential mentors to [post](https://ucsc-ospo.github.io/osredocs/formentors/) their project ideas directly onto the [Project Ideas page](https://ucsc-ospo.github.io/osre24/#projects) so that interested student can review them. Project ideas do not have to be pre-screened by the OSRE/SoR organizers in order to be submitted. We will review your submission before uploading and let you know if we have any questions about your project idea or think the description could use any editing/additional information. 
+The program organizers invite potential mentors to [post](/osredocs/formentors/) their project ideas directly onto the [Project Ideas page](/osre24/#projects) so that interested student can review them. Project ideas do not have to be pre-screened by the OSRE/SoR organizers in order to be submitted. We will review your submission before uploading and let you know if we have any questions about your project idea or think the description could use any editing/additional information. 
 
 To add a project idea, please read [the instructions](/osredocs/formentors) for participating mentors. Mentors should use tags to associate with a particular year and whether it is a University of California affiliated ("UC") or Summer of Reproducibililty ("Reproductiblity") project (or both). More tags can be used to associate the project with a particular research area, e.g. AI, machine learning, chip design, storage systems, data science. We also ask all mentors to include their biosketch and headshot on the mentor page. 
 

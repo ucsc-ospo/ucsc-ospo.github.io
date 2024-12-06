@@ -24,7 +24,7 @@ preview_only: false
 ---
 
 Hello! My name is {{%mention syed%}}, a PhD candidate at the Department of Electrical and Computer Engineering, Boston University.
-This summer I worked on the project [ML-Powered Problem Detection in Chameleon](https://ucsc-ospo.github.io/project/osre24/uchicago/ml_detect_chameleon/) 
+This summer I worked on the project [ML-Powered Problem Detection in Chameleon](/project/osre24/uchicago/ml_detect_chameleon/) 
 as part of the Summer of Reproducibility (SoR) program with the mentorship of {{% mention acoskun %}} and {{% mention msherman %}}.
 
 Chameleon is an open testbed that has supported over 5,000 users working on more than 500 projects.

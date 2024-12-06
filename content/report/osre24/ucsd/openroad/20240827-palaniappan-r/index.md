@@ -46,7 +46,7 @@ The entire dataset building process has been automated, allowing for dynamic upd
 
 ## The Tool-Based Architecture
 
-After experimenting with multiple RAG approaches, a tool-based setup proved to be the most effective solution. Data from various domains are embedded into vector databases, and hybrid search retriever functions are applied to these vector stores. These functions are organized as individual tools that can be called by the chatbot. To maintain context, each query is rephrased while considering the chat history. This ensures a more precise and context-rich query. Please refer to my previous [blog post](https://ucsc-ospo.github.io/report/osre24/ucsd/openroad/20240719-palaniappan-r/) for more information on the retrieval tools.
+After experimenting with multiple RAG approaches, a tool-based setup proved to be the most effective solution. Data from various domains are embedded into vector databases, and hybrid search retriever functions are applied to these vector stores. These functions are organized as individual tools that can be called by the chatbot. To maintain context, each query is rephrased while considering the chat history. This ensures a more precise and context-rich query. Please refer to my previous [blog post](/report/osre24/ucsd/openroad/20240719-palaniappan-r/) for more information on the retrieval tools.
 
 As depicted in the flowchart, a preliminary LLM call analyzes the input query, rephrases it based on the chat history and picks the appropriate tools for the rephrased query. Subsequently, documents are retrieved using the tool and sent to the LLM, which produces a relevant, context-aware response.
 

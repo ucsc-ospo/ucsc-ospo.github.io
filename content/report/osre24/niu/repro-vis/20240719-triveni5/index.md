@@ -20,7 +20,7 @@ image:
 ---
 Hello everyone!
 
-I'm Triveni, a Master's student in Computer Science at Northern Illinois University (NIU). I'm excited to share my progress on the OSRE 2024 project [Categorize Differences in Reproduced Visualizations](https://ucsc-ospo.github.io/project/osre24/niu/repro-vis/) focusing on data visualization reproducibility. Working under the mentorship of [David Koop](https://ucsc-ospo.github.io/author/david-koop/), I've made some significant strides and faced some interesting challenges.
+I'm Triveni, a Master's student in Computer Science at Northern Illinois University (NIU). I'm excited to share my progress on the OSRE 2024 project [Categorize Differences in Reproduced Visualizations](/project/osre24/niu/repro-vis/) focusing on data visualization reproducibility. Working under the mentorship of {{% mention dakoop %}}, I've made some significant strides and faced some interesting challenges.
 
 ## Initial Approach and Challenges
 I began my work by comparing original visualizations with reproduced ones using OpenCV for pixel-level comparison. This method helped highlight structural differences but also brought to light some challenges. Different versions of libraries rendered visualizations slightly differently, causing minor positional changes that didn't affect the overall message but were still flagged as discrepancies.
