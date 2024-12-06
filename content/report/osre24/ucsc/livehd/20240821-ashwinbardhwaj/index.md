@@ -46,7 +46,7 @@ Given these benchmarks, it is important to track the abilities of these LLMs to 
 
 # Previous Blogs
 Please feel free to check out my previous blogs!
-- [First Blog](https://ucsc-ospo.github.io/report/osre24/ucsc/livehd/20240611-ashwinbardhwaj/)
-- [Midterm Blog](https://ucsc-ospo.github.io/report/osre24/ucsc/livehd/20240718-ashwinbardhwaj/)
+- [First Blog](/report/osre24/ucsc/livehd/20240611-ashwinbardhwaj/)
+- [Midterm Blog](/report/osre24/ucsc/livehd/20240718-ashwinbardhwaj/)
 
 Thank you for reading!

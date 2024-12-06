@@ -60,7 +60,7 @@ As the project concludes, several areas for growth have emerged:
 
 If you’re interested in seeing the project’s evolution, check out my earlier posts:
 
-- [Intro Blog](https://ucsc-ospo.github.io/report/osre24/ucsc/statwrap/20240614-adi/)
-- [MidTerm Blog](https://ucsc-ospo.github.io/report/osre24/ucsc/statwrap/20240916-adi/)
+- [Intro Blog](/report/osre24/ucsc/statwrap/20240614-adi/)
+- [MidTerm Blog](/report/osre24/ucsc/statwrap/20240916-adi/)
 
 Thank you for reading!

@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
 ---
-Hi everyone! I am Ujjwal Shekhar, a Computer Engineering student at the International Institute of Information Technology - Hyderabad. I am excited to share my current progress on the project titled "Hardware Hierarchical Dynamical Systems" as part of the [Open Source Research Experience (OSRE) program](https://ucsc-ospo.github.io/osre/) and [Google Summer of Code](https://summerofcode.withgoogle.com/). I am working with my mentors, {{% mention renau %}} and {{% mention sgarg3 %}}, on this project.
+Hi everyone! I am Ujjwal Shekhar, a Computer Engineering student at the International Institute of Information Technology - Hyderabad. I am excited to share my current progress on the project titled "Hardware Hierarchical Dynamical Systems" as part of the [Open Source Research Experience (OSRE) program](/osre/) and [Google Summer of Code](https://summerofcode.withgoogle.com/). I am working with my mentors, {{% mention renau %}} and {{% mention sgarg3 %}}, on this project.
 
 # Project Overview
 With hardware compilers, it is not uncommon for the size of code that the hardware compilers need to handle to go into millions. We aim to improve the efficiency of the tree data structure to be used for representing the Abstract Syntax Tree (AST) of the input program. The tree data structure is optimized for typical AST traversal and queries. Some queries that are made to this tree are much more frequent than others.

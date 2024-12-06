@@ -20,7 +20,7 @@ draft: false
 #   focal_point: "Center"
 #   preview_only: false
 ---
-Hi, I am Mrigank. As a _Summer of Reproducibility 2024_ fellow, I have been working on [deriving realistic performance benchmarks for Python interpreters](/report/osre24/uutah/static-python-perf/20240817-mrigankpawagi/) with {{% mention bennn %}} from the University of Utah. In particular, we want to benchmark Meta's Static Python interpreter (which is a part of their Cinder project) and compare its performance with CPython on different levels of typing. In this post, I will share updates on my work since my [last update](https://ucsc-ospo.github.io/report/osre24/uutah/static-python-perf/20240909-mrigankpawagi/). This post forms my final report for the _Summer of Reproducibility 2024_.
+Hi, I am Mrigank. As a _Summer of Reproducibility 2024_ fellow, I have been working on [deriving realistic performance benchmarks for Python interpreters](/report/osre24/uutah/static-python-perf/20240817-mrigankpawagi/) with {{% mention bennn %}} from the University of Utah. In particular, we want to benchmark Meta's Static Python interpreter (which is a part of their Cinder project) and compare its performance with CPython on different levels of typing. In this post, I will share updates on my work since my [last update](/report/osre24/uutah/static-python-perf/20240909-mrigankpawagi/). This post forms my final report for the _Summer of Reproducibility 2024_.
 
 ## Since Last Time: Typing Django Files
 

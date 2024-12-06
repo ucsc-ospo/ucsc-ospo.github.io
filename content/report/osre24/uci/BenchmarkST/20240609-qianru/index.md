@@ -21,7 +21,7 @@ image:
   preview_only: false
 ---
 
-Hello! My name is Qianru, and I will be working on a project to improve spatial transcriptomics during Google Summer of Code 2024. My project, [Benchmarking Gene Imputation Methods for Spatial Transcriptomics](https://ucsc-ospo.github.io/project/osre24/uci/benchmarkst/), is mentored by [Ziheng Duan](https://ucsc-ospo.github.io/author/ziheng-duan/) and [Cormac Flanagan](https://users.soe.ucsc.edu/~cormac/). The goal is to create a standard platform to evaluate methods for filling in missing gene data, which is a big challenge in spatial transcriptomics. [My proposal can be viewed here!](https://drive.google.com/file/d/1ydqGuuzpNgPpVUBvTiFvF1q7qV9gA_wm/view?usp=sharing)
+Hello! My name is Qianru, and I will be working on a project to improve spatial transcriptomics during Google Summer of Code 2024. My project, [Benchmarking Gene Imputation Methods for Spatial Transcriptomics](/project/osre24/uci/benchmarkst/), is mentored by {{% mention ziheng %}} and [Cormac Flanagan](https://users.soe.ucsc.edu/~cormac/). The goal is to create a standard platform to evaluate methods for filling in missing gene data, which is a big challenge in spatial transcriptomics. [My proposal can be viewed here!](https://drive.google.com/file/d/1ydqGuuzpNgPpVUBvTiFvF1q7qV9gA_wm/view?usp=sharing)
 
 Spatial transcriptomics lets us see where genes are active in tissues, giving us insight into how cells interact in their natural environment. However, current methods often miss some gene data, making it hard to get a complete picture. Gene imputation can help fill in these gaps.
 

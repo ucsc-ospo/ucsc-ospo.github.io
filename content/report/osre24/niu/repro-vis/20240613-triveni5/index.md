@@ -20,7 +20,7 @@ image:
 ---
 Hello everyone!
 
-I'm Triveni, a Master's student in Computer Science at Northern Illinois University (NIU). When I came across the OSRE 2024 project [Categorize Differences in Reproduced Visualizations](https://ucsc-ospo.github.io/project/osre24/niu/repro-vis/) focusing on data visualization reproducibility, I was excited because it aligned with my interest in data visualization. While my initial interest was in geospatial data visualization, the project's goal of ensuring reliable visualizations across all contexts really appealed to me. So, I actively worked on understanding the project’s key concepts and submitted my proposal [My proposal can be viewed here](https://drive.google.com/file/d/1R1c23oUC7noZo5NrUzuDbjwo0OqbkrAK/view) under mentorship of [David Koop](https://ucsc-ospo.github.io/author/david-koop/) to join the project.
+I'm Triveni, a Master's student in Computer Science at Northern Illinois University (NIU). When I came across the OSRE 2024 project [Categorize Differences in Reproduced Visualizations](/project/osre24/niu/repro-vis/) focusing on data visualization reproducibility, I was excited because it aligned with my interest in data visualization. While my initial interest was in geospatial data visualization, the project's goal of ensuring reliable visualizations across all contexts really appealed to me. So, I actively worked on understanding the project’s key concepts and submitted my proposal [My proposal can be viewed here](https://drive.google.com/file/d/1R1c23oUC7noZo5NrUzuDbjwo0OqbkrAK/view) under mentorship of {{% mention dakoop %}} to join the project.
 
 ## Early Steps and Challenges:
 
