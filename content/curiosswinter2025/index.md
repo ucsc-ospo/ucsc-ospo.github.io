@@ -50,8 +50,8 @@ The CURIOSS Winter Workshop 2025 is a one-day event designed to foster collabora
 
 # Schedule 
 
-- The full agenda will be posted by mid-December.
-- We are tentatively expecting to be arranging an evening event on January 8 at or near the Dream Inn. More details to be provided soon.
+- Current Agenda [here](https://docs.google.com/document/d/1pSRToAvQFvWYWSDF4Mxitc60zPILaesqlW82pbzVoU4/edit?usp=sharing). 
+- We are arranging an evening event on January 8. Due to [unforseen circumstances](https://www.kqed.org/news/12020079/santa-cruz-wharf-likely-to-be-closed-for-weeks-after-partial-collapse) our original venue is unavailable. We will provide updates soon!  
 - The meeting will run from 9am to about 5pm on January 9, followed by a dinner at the meeting venue. 
 
 
