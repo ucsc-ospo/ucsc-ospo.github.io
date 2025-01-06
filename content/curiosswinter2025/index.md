@@ -51,8 +51,8 @@ The CURIOSS Winter Workshop 2025 is a one-day event designed to foster collabora
 # Schedule 
 
 - Current Agenda [here](https://docs.google.com/document/d/1pSRToAvQFvWYWSDF4Mxitc60zPILaesqlW82pbzVoU4/edit?usp=sharing). 
-- We are arranging an evening event on January 8. Due to [unforseen circumstances](https://www.kqed.org/news/12020079/santa-cruz-wharf-likely-to-be-closed-for-weeks-after-partial-collapse) our original venue is unavailable. We will provide updates soon!  
-- The meeting will run from 9am to about 5pm on January 9, followed by a dinner at the meeting venue. 
+- We are excited that the Santa Cruz Whart reopened last weekend! The Janury 8 event will be at [Olita's](http://www.olitassantacruz.com/) starting at 5:30pm. It is a short walk from the hotel along the wharf. We will provide a taco and nacho bar as well as beverages of your choice. We can order additional items to accommodate any dietary requirements.    
+- The January 9th meeting will run from 8:45am to about 5pm, followed by a dinner at the meeting venue. 
 
 
 # Meeting Venue
@@ -101,7 +101,9 @@ Note that if you intend to extend your stay, the room rate is $229 plus tax per 
 
 # Weather and Things To Do
 
-The hotel and conference venue are located on the coast near many beautiful beaches and scenic walks. Note that while winters are relatively mild in Santa Cruz, December and January are the rainy season. Temperatures typically range from evening lows of 45 degrees F /  7 degrees C to daytime highs of 65 degrees F / 18 degrees C, and temperatures can vary throughout the day. It is smart to dress in layers. 
+The hotel and conference venue are located on the coast near many beautiful beaches and scenic walks. Note that while winters are relatively mild in Santa Cruz, December and January are the rainy season. 
+
+*Update* We are expecting to have a very [mild few days](https://weather.com/weather/tenday/l/Santa+Cruz+CA?canonicalCityId=131bf60c3314f0c9a7f93012276b6e7ed19334d3a6509eb32227b9e9a13de6bc) in Santa Cruz this week. Temperatures will range from evening lows of 45 degrees F /  7 degrees C to daytime highs of 65 degrees F / 18 degrees C. We will be on the coast so can get a little windy, so it is smart to dress in layers. 
 
 Santa Cruz has so many natural and cultural attractions, it is hard to just pick a few to highlight. [This travler's guide](https://www.santacruz.org/plan-your-trip/online-travelers-guide/) might be of interest if you plan to explore the area.  
 
