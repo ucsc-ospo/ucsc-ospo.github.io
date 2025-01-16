@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student, University of California, Irvine
+role: Ph.D. Candidate, University of California, Irvine
 
 # Organizations/Affiliations
 organizations:
@@ -48,8 +48,6 @@ email: ""
 user_groups:
 -  University of California Mentors
 ---
-I am a third-year CS Ph.D. student at the [University of California, Irvine](https://uci.edu/), advised by Prof. [Jing Zhang](https://www.ics.uci.edu/~jingz31/). 
+I am a fourth-year CS Ph.D. candidate at the [University of California, Irvine](https://uci.edu/), advised by Prof. [Jing Zhang](https://www.ics.uci.edu/~jingz31/). 
 Previously, I graduated from the [College of Control Science and Technology, Zhejiang University](http://www.cse.zju.edu.cn/english/). 
-During my undergrad, I was fortunate to work with Prof. [Xiaoqian Wang](https://engineering.purdue.edu/~joywang/), [Yueyang Wang](http://www.cse.cqu.edu.cn/info/2097/5067.htm), [Quanzheng Li](https://projects.iq.harvard.edu/camca/people/li-quanzheng-phd), and [Fei Wu](https://person.zju.edu.cn/en/wufei). 
-
-Now, I am interested in computational biology and machine learning.
+My main research goal is to develop trustworthy computational methods to understand single-cell gene regulation, especially in spatial contexts, and their contributions to various diseases.![alt text](avatar_square.jpg)
