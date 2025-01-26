@@ -3,7 +3,7 @@ title: "Final Blog: BenchmarkST: Cross-Platform, Multi-Species Spatial Transcrip
 subtitle: ""
 summary:
 authors: 
-  - Qianru Zhang
+  - qianru
 tags: ["osre24", reproducibility, machine learning, bioinformatics, spatial transcriptomics]
 categories: ["osre24", "reproducibility"]
 date: 2024-08-29
