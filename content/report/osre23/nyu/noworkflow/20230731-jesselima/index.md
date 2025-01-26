@@ -13,14 +13,14 @@ focal_point: "Smart"
 preview_only: false
 ---
 
-This post describes our midterm work status and some achievements we have done so far in [the project](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit#heading=h.nnxl1g16trg0) for the [noWorkflow](https://ucsc-ospo.github.io/project/osre23/nyu/noworkflow/) package. 
+This post describes our midterm work status and some achievements we have done so far in [the project](https://docs.google.com/document/d/1YMtPjZXcgt5eplyxIgQE8IBpQIiRlB9eqVSQiIPhXNU/edit#heading=h.nnxl1g16trg0) for the [noWorkflow](/project/osre23/nyu/noworkflow/) package. 
 
 
 #### The initial weeks
 
 I started doing a bibliographical review on reproducibility in the Data Science (DS) and Machine Learning (ML) realms. It was a new subject to me, and I aimed to build a more robust theoretical background in the field. Meanwhile, I took notes in [this series of posts](https://jaglima.github.io/). 
 
-Then, as planned, I integrated with the current noWorkflow supporters in order get a broader view of the project and their contributions. Additionally, [Juliana Freire](https://ucsc-ospo.github.io/author/juliana-freire/), [Joao Felipe Pimental](https://ucsc-ospo.github.io/author/joao-felipe-pimentel/) and I set up a weekly one-hour schedule to keep track of my activities. 
+Then, as planned, I integrated with the current noWorkflow supporters in order get a broader view of the project and their contributions. Additionally, {{% mention julianafreire %}}, {{% mention jpimentel %}}, and I set up a weekly one-hour schedule to keep track of my activities. 
 
 ### Brainstormed opportunities
 

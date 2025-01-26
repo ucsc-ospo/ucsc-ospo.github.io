@@ -24,7 +24,7 @@ preview_only: false
 ---
 
 
-With guidance from mentors [Ray Andrew](https://ucsc-ospo.github.io/author/ray-andrew-sinurat/) and [Sandeep Madireddy](https://ucsc-ospo.github.io/author/sandeep-madireddy/) under the [LAST](/project/osre24/anl/last) project, I aim to develop a pipeline to benchmark the efficacy of various drift management algorithms. 
+With guidance from mentors {{% mention rayandrew %}} and {{% mention sandeep %}} under the [LAST](/project/osre24/anl/last) project, I aim to develop a pipeline to benchmark the efficacy of various drift management algorithms. 
 
 Despite the abundance of literature on this subject, reproducibility remains a challenge due to the lack of available source code. As such, by crafting this pipeline, I aim to create standardized platform for researchers and practitioners to compare several state-of-the-art drift management approaches. Through rigorous testing and benchmarking, we seek to identify the most effective algorithms across a spectrum of drift scenarios, including gradual, sudden, and recurring drift.
 

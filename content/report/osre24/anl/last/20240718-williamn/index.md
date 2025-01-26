@@ -23,7 +23,7 @@ focal_point: ""
 preview_only: false
 ---
 
-Hello there! I'm William and I'm thrilled to share the progress on my project, "Developing A Comprehensive Pipeline to Benchmark Drift Management Approaches" under the mentorship of [Ray Andrew](https://ucsc-ospo.github.io/author/ray-andrew-sinurat/) and [Sandeep Madireddy](https://ucsc-ospo.github.io/author/sandeep-madireddy/) under the [LAST](/project/osre24/anl/last) project.
+Hello there! I'm William and I'm thrilled to share the progress on my project, "Developing A Comprehensive Pipeline to Benchmark Drift Management Approaches" under the mentorship of {{% mention rayandrew %}} and {{% mention sandeep %}} under the [LAST](/project/osre24/anl/last) project.
 
 
 # Project Overview

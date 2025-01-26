@@ -17,6 +17,7 @@ image:
   filename: 'resources.png'
 --- 
 
+# [Also see resources on UC OSPO Network page](https://ucospo.net/oss-resources/) 
 ## Fellowship/Internship Programs \[Paid\]
 
 -   [Outreachy Internships](https://www.outreachy.org)

@@ -4,7 +4,7 @@ widget_id: Home
 headless: true
 weight: 15
 active: true
-title: Featured
+title: Featured Posts
 subtitle: 
 design:
   columns: "3"
