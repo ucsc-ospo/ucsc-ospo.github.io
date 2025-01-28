@@ -21,7 +21,9 @@ projects: [ospo]
 
 The OSRE organizers recorded information session for mentors is now available for your review. 
 
-## [View video here](https://youtu.be/Nz0vBhSap9g?si=CwA4QTlYr9lPtc3Q)
+
+{{< youtube Nz0vBhSap9g >}}  
+
 
 The OSRE is modeled after the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) which matches undergraduate student contributors with mentors working on open source projects. The OSRE leverages our involvement in global programs like GSoC to recruit students from around the world. All students are paid a stipend and mentors are provided administrative and other needed support to allow for a productive summer.  
 
