@@ -1,12 +1,12 @@
 ---
-title: "Final Blog: FSA - Benchmarking Fail-Slow Algorithms"
+title: "Final Blog: SS_Bench - Benchmarking SciStream"
 subtitle: "Exploring Advanced ML in RAID Slowdown Condition Analysis"
 summary: ""
-authors: [kexin-pei, ruidanli, xikangsong]
-tags: ["osre24", reproducibility, "machine learning", "storage"]
+authors: [kraislaik]
+tags: ["osre24", reproducibility]
 categories: []
-date: 2024-08-14
-lastmod: 2024-08-14
+date: 2025-01-29
+lastmod: 2024-01-29
 featured: false
 draft: false
 
@@ -18,7 +18,8 @@ preview_only: false
 
 ## Introduction
 
-Hello! I hope you're enjoying the summer as much as I am. I'm excited to join the SOR community as a 2024 contributor. My name is {{%mention xikangsong%}}, and I'm thrilled to collaborate with mentors {{%mention ruidanli%}} and {{%mention kexin-pei%}} on the FSA-Benchmark project. This project is dedicated to exploring and benchmarking various machine learning models to identify disks at high risk of fail-slow anomalies. Throughout this journey, we tested a broad range of algorithms, from traditional approaches to state-of-the-art techniques, using a robust evaluation system to compare their effectiveness.
+Hello! My name is {{%mention kraislaik%}}, and I'm thrilled to have collaborated with my mentors {{% mention chungmiranda %}} and {{% mention fcastro %}} under the [SciStream](/project/osre24/anl/scistream/) project. This project aims to develop SciStream-bench, a set of benchmarks and artifacts designed to precisely evaluate the performance of scientific streaming applications across diverse traffic patterns when running over the SciStream framework.
+####################################################
 
 In the first half of the project, I focused on implementing and testing different machine learning models for detecting disks at high risk of fail-slow anomalies. This involved setting up initial models such as the Cost-Sensitive Ranking Model and Multi-Prediction Models, and beginning to explore LSTM networks for analyzing input disk data.
 
