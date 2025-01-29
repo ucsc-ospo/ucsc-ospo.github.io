@@ -2,7 +2,7 @@
 title: "OpenROAD - An Open-Source, Autonomous RTL-GDSII Flow for Chip Design"
 authors: [luarss]
 author_notes: ["Individual Contributor at Precision Innovations"]
-tags: ["osre24", "ucsd", "uc", "chip design", "asicdesign", "llm", "ml", "ai"]
+tags: ["osre25", "ucsd", "uc", "chip design", "asicdesign", "llm", "ml", "ai"]
 date: 2025-01-19
 ---
 
