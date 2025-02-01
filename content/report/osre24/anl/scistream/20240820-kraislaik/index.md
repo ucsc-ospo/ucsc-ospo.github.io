@@ -18,7 +18,7 @@ preview_only: false
 
 ## Introduction
 
-Hello! My name is {{%mention kraislaik%}}, and I'm thrilled to have collaborated with my mentors {{% mention chungmiranda %}} and {{% mention fcastro %}} under the [SciStream](/project/osre24/anl/scistream/) project. This project aims to develop SciStream-bench, a set of benchmarks and artifacts designed to precisely evaluate the performance of scientific streaming applications across diverse traffic patterns when running over the SciStream framework.
+Hello! My name is {{%mention kraislaik%}}, and I'm thrilled to have collaborated with my mentors [Joaquin Chung](https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/authors/chungmiranda/_index.md) and  [Flavio Castro](https://github.com/ucsc-ospo/ucsc-ospo.github.io/blob/main/content/authors/fcastro/_index.md) under the [SciStream](/project/osre24/anl/scistream/) project. This project aims to develop SciStream-bench, a set of benchmarks and artifacts designed to precisely evaluate the performance of scientific streaming applications across diverse traffic patterns when running over the SciStream framework.
 
 In the first half of the project, I focused on describing scientific streaming profiles based on use-cases experienced at Argonne National Lab. The necessary python scripts were developed to generate bursty and constant rate streaming traffic profiles.
 
