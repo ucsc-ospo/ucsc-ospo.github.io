@@ -19,8 +19,13 @@ and
 [Pyright](https://microsoft.github.io/pyright/#/)
 address the problem with type checkers that can reason about an
 ever-growing subset of untyped code.
-Widening the subset to precisely reason about untyped programming
-patterns is an ongoing challenge.
+Widening the subset with precise types is an ongoing challenge.
+
+Furthermore, designs for precise gradual types need to be reproducible
+across languages.
+Ideas that works well in one language need to be validated
+in other contexts in a principled, scientific way to separate
+deep insights from language-specific hacks.
 
 Type narrowing is a key feature of gradual languages.
 Narrowing uses type tests in code to refine types and push
@@ -36,19 +41,36 @@ if typeof(item["price"] == "number"):
     return item["price"] + (item["price"] * 0.30) // add tax
 ```
 
-Nearly every gradual language agrees that _some form_ of type narrowing is needed.
-There is widespread disagreement about how much support is enough, however.
+Nearly every gradual language agrees that _some form_ of type narrowing is needed,
+but there is widespread disagreement about how much support is enough.
 TypeScript lets users define custom type tests, but it does not analyze
 those tests to see whether they are reliable.
 Flow does analyze tests.
-TypeScript does not allow asymmetric type tests, but Flow, Mypy and Pyright
-all do!
+TypeScript does not allow asymmetric type tests (example: `is_even_number`),
+but Flow, Mypy and Pyright all do!
 None of the above track information compositionally through program
-execution, but Typed Racket (another gradual language) does --- is the
-extra machinery in Typed Racket really worth the effort?
+execution, but another gradual language called Typed Racket does
+Is the extra machinery in Typed Racket really worth the effort?
 
-The goal of this project is to rigorously study type narrowing in practice
-and identify tradeoffs to inform language designs.
+Over the past several months, we have curated a language design
+benchmark for type narrowing, **If-T**:
+
+- <https://github.com/utahplt/ift-benchmark>
+
+The benchmark presents type system challenges in a language-agnostic way
+to facilitate reproducibility across languages.
+It also includes a [_datasheet_](https://github.com/utahplt/ifT-benchmark/blob/main/DATASHEET.md)
+to encourage cross-language comparisons
+that focus on fundamental typing features rather than incidental difference
+between languages.
+So far, we have implemented the benchmark for five gradual languages.
+There are many others to explore, and much more to learn.
+
+The goal of this project is to replicate and extend the If-T type narrowing
+benchmark.
+Outcomes include a deep understanding of principled type narrowing,
+and of how to construct a benchmark that enables reproducible
+cross-language comparisons.
 
 Related Work:
 * Type Narrowing in TypeScript
