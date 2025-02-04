@@ -86,4 +86,4 @@ Upon merging a pull request, the website uses a GitHub workflow to first build t
 
 This website is based on [Hugo Blox](https://hugoblox.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).  
 
-**Important:** The website is using a Bootstrap-styled version of a Hugo Blox template. Therefore, the [Bootstrap documentation site](https://bootstrap.hugoblox.com/) is relevant here. New templates are now Tailwind-styled. It might also be the reason why this website tends to throw errors with Hugo versions greater than `0.119.0`.
+**Important:** The website is using a Bootstrap-styled version of a Hugo Blox template. Therefore, the [Bootstrap documentation site](https://bootstrap.hugoblox.com/) is relevant here. New templates are now Tailwind-styled. This website tends to throw errors with Hugo versions greater than `0.119.0` -- possibly due to lack of maintenance of its Bootstrap-styled template.
