@@ -12,13 +12,13 @@ A project serves as the context for one or more project ideas. Each project is r
 - Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) 
 - Option B (via git):
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
-  - Create `content/project/osre24/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre23/ORGANIZATION/PROJECTNAME`
+  - Create `content/project/osre25/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre24/ORGANIZATION/PROJECTNAME`
   - In that directory create/update `index.md` and the project's image (`featured.png` or `featured.jpg`) 
   - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/project/osre22/ucsc/polyphorm/index.md)):
     - Add the project's title in `title:`, 
-    - Date the project entry with `date:` and `lastmod:`, using one of the formats `2022-05-27` (day only), `2022-05-27T07:32:00` (with time), `1979-05-27T00:32:00-07:00` (UTC-7 timezone), or `2022-05-27T07:32:00Z` (UTC timezone). Note that projects dated in the future will not display.
-    - Include a list of `authors:`, using either names in quotes or user names (see below for instructions on how to add user names)
-    - **IMPORTANT**: set a list of tags that include `"osre23"` and either `"uc"` or `"reproducibility"` or both, depending on whether your project has a mentor affiliated with a UC campus or associated national lab (LBL, LANL, LLNL), or is a _Summer of Reproducibility_ project. Feel free to add additional tags.
+    - Date the project entry with `date:` and `lastmod:`, using the format `2022-05-27`. **Note that projects dated in the future will not display**.
+    - Include a list of `authors:`, using either names in quotes or user names (see below for instructions on how to establish user names)
+    - **IMPORTANT**: set a list of tags that include `"osre25"` and either `"uc"` or `"reproducibility"` or both, depending on whether your project has a mentor affiliated with a UC campus or associated national lab (LBL, LANL, LLNL), or is a _Summer of Reproducibility_ project. Feel free to add additional tags.
     - Below the frontmatter start with a description of the project and include links to the project's webpage. 
     - Add each project idea with level-3 header, i.e., `### ...` and add a list of **essential information** that includes *topics*, *skills*, *difficulty*, *size* (175 vs 350 hours), and *mentors*.
   - Make a pull request.
@@ -30,9 +30,9 @@ Mentors are welcome to add information about themselves (see [example](https://o
   - Include name, title, affiliations, email, short bio, github profile (if applicable), whether you are UC or Summer of Reproducibility mentor (or both), and, optionally, photo, web page and social media links.
 - Option B (via git): 
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io) (or combine with pull request of adding/updating a project above)
-  - Create `/content/authors/USER` directory.
+  - Create `/content/authors/USER` directory (where `USER` is a unique username, e.g. the one you use for your github account).
   - In that directory copy an `_index.md` file from another user and update it (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/authors/slieggi/_index.md))
-    - Many icons are available (see [documentation](https://wowchemy.com/docs/getting-started/page-builder/#icons))
+    - Many icons are available (see [documentation](https://bootstrap.hugoblox.com/getting-started/page-builder/#icons))
     - **IMPORTANT**: Under `user_groups:` add either `- University of California Mentors` or `- Summer of Reproducibility Mentors` (or both).
     - The bio and any other information goes below the frontmatter.
 
@@ -78,6 +78,12 @@ To archive the current year (e.g. 2024) and start a new OSRE edition:
 - Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2025 (The OSRE documentation is updated in place -- use version control to find out about documentation of earlier years)
 - Copy `/content/sor24` to `/content/sor25`, make 2025 updates to `/content/sor25`, and update SoR links in `/content/oser25/osre25.md` to `/sor25` and vice versa.
 
+## How to fix the deployment workflow
+
+Upon merging a pull request, the website uses a GitHub workflow to first build the new version of the website and then deploy it on GitHub Pages. The workflow is specified in `.github/workflows/hugo.yaml`. It is based on the [recommended workflow for Hugo sites](https://github.com/actions/starter-workflows/blob/main/pages/hugo.yml) but with differences that are necessary for older Hugo versions (see below). Every once in a while GitHub decides to introduce breaking changes to the meaning of their workflow commands. This usually requires no more than changing the versions to the latest shown in the [sample workflow](https://github.com/actions/starter-workflows/blob/main/pages/hugo.yml). A good example is the combined update of pull requests [#726](https://github.com/ucsc-ospo/ucsc-ospo.github.io/pull/726) and [#727](https://github.com/ucsc-ospo/ucsc-ospo.github.io/pull/727).
+
 ## Website framework
 
-This website is based on [Hugo Blox](https://hugoblox.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).
+This website is based on [Hugo Blox](https://hugoblox.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).  
+
+**Important:** The website is using a Bootstrap-styled version of a Hugo Blox template. Therefore, the [Bootstrap documentation site](https://bootstrap.hugoblox.com/) is relevant here. New templates are now Tailwind-styled. It might also be the reason why this website tends to throw errors with Hugo versions greater than `0.119.0`.
