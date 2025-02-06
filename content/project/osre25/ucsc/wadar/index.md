@@ -1,7 +1,7 @@
 ---
 title: "WaDAR"
-authors: [{{% mention "cjosephson" %}}, {{% mention "ericdvet" %}}]
-author_notes: ["Assistant Professor, University of California Santa Cruz", "Graduate Student Researcher. University of California Santa Cruz]
+authors: [cjosephson, ericdvet]
+author_notes: ["Assistant Professor, University of California Santa Cruz", "Graduate Student Researcher. University of California Santa Cruz"]
 tags: ["osre25", "uc", "wireless sensing", "agrotech"]
 date: 2025-02-05
 lastmod: 2025-02-05
