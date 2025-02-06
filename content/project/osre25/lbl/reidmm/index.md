@@ -22,7 +22,7 @@ Aligned with the vision of the 2025 Open Source Research Experience (OSRE), this
 
 
 ### Project Deliverables
-This project will deliver three things, software, evaluation results and demo. The software which implements the above ReIDM2 algorithm will be hosted on the github repo as open-access repositories. The evaluation results and demo will be published along the github repo.
+This project will deliver three things, software, evaluation results and demo. The software which implements the above ReIDMM algorithm will be hosted on the github repo as open-access repositories. The evaluation results and demo will be published along the github repo.
 
 
 ### ReIDMM
