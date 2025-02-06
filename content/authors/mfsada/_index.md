@@ -23,7 +23,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-Mohammad Firas Sada is a researcher at UC San Diego with a focus on high-performance networking and distributed systems. He leads integration projects for the National Research Platform (NRP) and its collaboration with various testbeds such as FABRIC, utilizing technologies like the SENSE platform for end-to-end networked science at exascale. His work includes contributions to software-defined networks, FPGA experimentation, and performance optimization in research environments. Mohammad is also deeply involved in efforts to integrate academic testbeds with cutting-edge technologies for advancing scientific research.
+bio: Mohammad Firas Sada is a researcher at UC San Diego with a focus on high-performance networking and distributed systems. He leads integration projects for the National Research Platform (NRP) and its collaboration with various testbeds such as FABRIC, utilizing technologies like the SENSE platform for end-to-end networked science at exascale. His work includes contributions to software-defined networks, FPGA experimentation, and performance optimization in research environments. Mohammad is also deeply involved in efforts to integrate academic testbeds with cutting-edge technologies for advancing scientific research.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
