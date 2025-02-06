@@ -30,7 +30,7 @@ This project will deliver three things, software, evaluation results and demo. T
 - **Topics**: ReIDMM: Re-identifying Multiple Objects across Multiple Streams`
 - **Skills**: Proficient in Python, Experience with images processing, machine learning
 - **Difficulty**: Difficult
-- **Size**: Large (350 hours)
+- **Size**: Large (400 hours)
 - **Mentor**: {{% mention bindong %}}, "Linsey Pang"
 
 
