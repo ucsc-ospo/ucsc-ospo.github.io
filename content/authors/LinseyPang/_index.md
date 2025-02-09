@@ -31,17 +31,17 @@ bio: Linsey's research interests are in Data Mining + Machine Learning + AI.
 social:
 - icon: home
   icon_pack: fas
-  link: https://crd.lbl.gov/divisions/scidata/sdm/staff/dongbin/
+  link: [https://www.linkedin.com/in/linsey-pang-50590450/]
 - icon: envelope
   icon_pack: fas
-  link: mailto:goon1983@gmail.com
+  link: mailto:panglinsey@gmail.com
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/db-berkeley/
+  link: [https://www.linkedin.com/in/linsey-pang-50590450/]
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "goon1983@gmail.com"
+email: "panglinsey@gmail.com"
 
 
 # Organizational groups that you belong to (for People widget)
