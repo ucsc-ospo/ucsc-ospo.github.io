@@ -48,6 +48,7 @@ email: "panglinsey@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - University of California Mentors
+- Summer of Reproducibility Mentors
 ---
 Linsey Pang is a Principal Machine Learning Scientist at Salesforce, working on deep learning recommendation modeling projects. Prior to this, she was a Principal Data Scientist at Walmart Lab. She was leading the Pricing, One demand data science projects. Prior to joining Walmart Lab, she worked as an applied scientist at eBay Inc.  She finished her PhD degree in machine learning research at the University of Sydney. 
 
