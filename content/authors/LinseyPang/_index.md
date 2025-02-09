@@ -49,6 +49,6 @@ email: "panglinsey@gmail.com"
 user_groups:
 - University of California Mentors
 ---
-Bin Dong is a Research Scientist at LBNL. His research focuses on the intersection of Big Data, High-Performance Computing (HPC), and NoAI (Not Only AI). His work explores essential techniques in AI infrastructure, the interpretation of AI models, and the application of AI to complex systems. He is also studying new data programming models and advanced data indexing and search methods to improve efficiency and scalability in handling large datasets.
+Linsey Pang is a Principal Machine Learning Scientist at Salesforce, working on deep learning recommendation modeling projects. Prior to this, she was a Principal Data Scientist at Walmart Lab. She was leading the Pricing, One demand data science projects. Prior to joining Walmart Lab, she worked as an applied scientist at eBay Inc.  She finished her PhD degree in machine learning research at the University of Sydney. 
 
 
