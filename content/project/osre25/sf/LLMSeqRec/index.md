@@ -1,5 +1,5 @@
 ---
-title: LLMSeqRec: LLM Enhanced Contextual Sequential Recommender
+title: "LLMSeqRec: LLM Enhanced Contextual Sequential Recommender"
 authors: ["Linsey Pang",bindong]
 author_notes: ["Salesforce","Research Scientist, Lawrence Berkeley Lab"]
 tags: ["osre25", "uc", "AI", "LLM", "Recommender"]
@@ -14,26 +14,32 @@ By integrating LLM-generated embeddings and contextual representations, LLMSeqRe
 
 
 ### Project Objectives
-Aligned with the vision of the 2025 Open Source Research Experience (OSRE), this project aims to develop an open-source algorithm for multiple-object re-identification across diverse open-source data streams. As highlighted earlier, this method is expected to have wide-ranging applications in both scientific research and industry. Utilizing an open-source dataset, our focus will be on re-identifying common objects such as vehicles and pedestrians. The primary challenge lies in designing a unified algorithm, ReIDMM, capable of performing robust multi-object re-identification across multiple streams. Users will be able to tag any object as a target in a video or image for tracking across streams. Below is an outline of the algorithms to be developed in this project: 
+Aligned with the vision of the 2025 Open Source Research Experience (OSRE),  this project aims to develop an LLM-Enhanced Contextual Sequential Recommender (LLMSeqRec) to improve sequential recommendation accuracy across various scientific and business applications. Sequential recommender systems are widely used to analyze and predict patterns over time, assisting in fields such as biology, ecology, medicine, physics, engineering, environmental science, and e-commerce. However, traditional models often struggle with capturing complex contextual dependencies and adapting to dynamic user behaviors, as they primarily rely on vanilla sequential Id orders.
+To address these limitations, this project will leverage Large Language Models (LLMs) to enhance context-aware sequential recommendations by dynamically integrating LLM-generated embeddings and contextual representations. The core challenge lies in designing LLMSeqRec, a unified and scalable model capable of enriching user intent modeling, mitigating cold-start issues, and capturing long-range dependencies within sequential data. Unlike conventional systems that rely solely on structured interaction logs, LLMSeqRec will interpret and augment sequences with semantic context, resulting in more accurate, adaptable, and explainable recommendations. Below is an outline of the methodologies and models that will be developed in this project: 
 
-- **Step 1: Target Object Identification**: Randomly select a target object from an image or video using object detection models such as YOLOv7. These models detect objects by generating bounding boxes around them. Target objects could include vehicles, pedestrians, animals, or other recognizable entities. This step ensures an initial object of interest is chosen for re-identification.
+- **Step 1: Data Preprocessing & Feature Creation**: 
+Develop a data processing pipeline to parse user’s sequential interaction behaviors into sequential data points for LLM-based embeddings and contextual sequential transformer modeling; Extract user behavior sequences, items’ metadata, and temporal patterns to create context-aware sequential representations for training, validation and testing; The data source can be from Amazon open public data or Movie Lense data set. The data points creation can follow SASRec (in the reference 1). 
 
-- **Step 2: Feature Extraction and Embedding**: Once the target object is identified, extract relevant features such as bounding box coordinates, timestamp, location metadata (if available), and visual characteristics. A multimodal embedding approach is used, where these features are transformed into a numerical representation (embedding vector) that captures the object's unique identity. This allows for efficient comparison across different images or videos.
 
-- **Step 3: Searching and Matching**: To find the target object in other images or videos: (1) Extract embeddings of all objects detected in the other images/videos; (2) Compute similarity between the target object’s embedding and those of all detected objects using metrics like cosine similarity or Euclidean distance. (3) Rank objects by similarity, returning the most probable matches. The highest-ranked results are likely to be the same object observed from different angles, lighting conditions, or time frames.
+- **Step 2: Model Development**: 
+Design and implement LLM-enhanced sequential recommendation models, integrating pretrained language models to augment user-item interactions with semantic context; Develop an adaptive mechanism to incorporate external contextual signals, such as product descriptions, reviews into the sequential recommendation process; The baseline model can be SASRec pytorch implementation. 
+
+
+- **Step 3: Evaluation**: :
+Benchmark LLMSeqRec against state-of-the-art sequential recommenders, evaluating on accuracy, NDCG and cold-start performance; Conduct ablation studies to analyze the impact of LLM-generated embeddings on recommendation quality; Optimize model inference speed and efficiency for real-time recommendation scenarios.
+
 
 
 ### Project Deliverables
-This project will deliver three things, software, evaluation results and demo. The software which implements the above ReIDMM algorithm will be hosted on the github repo as open-access repositories. The evaluation results and demo will be published along the github repo.
-
+This project will deliver three components, software, model training, validation and performance evaluation and demo. The software which implements the above LLMSeqRec model will be hosted on the github repo as open-access repositories. The evaluation results and demo will be published along the  github repo .
 
 ### ReIDMM
 
-- **Topics**: ReIDMM: Re-identifying Multiple Objects across Multiple Streams`
-- **Skills**: Proficient in Python, Experience with images processing, machine learning
+- **Topics**:  LLM Enhanced Contextual Sequential Recommender
+- **Skills**: Proficiency in Python, Pytorch, Github, Self-attention, Transformer
 - **Difficulty**: Difficult
 - **Size**: Large (400 hours)
-- **Mentor**: {{% mention bindong %}}, "Linsey Pang"
+- **Mentor**: Linsey Pang, Bin Dong
 
 
 
