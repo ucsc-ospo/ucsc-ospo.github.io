@@ -1,28 +1,26 @@
 ---
 # Display name
-title: Bin Dong
+title: Linsey Pang
 
 # Username (this should match the folder name)
 authors:
-- bindong
+- LinseyPang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Research Scientist, Lawrence Berkeley National Laboratory"
+role: "Applied Scientist, Salesforce"
 
 
 # Organizations/Affiliations
 organizations:
-- name: The Scientific Data Division (SciData)
-  url: "https://crd.lbl.gov/divisions/scidata/"
-- name: Lawrence Berkeley National Laboratory
-  url: "https://www.lbl.gov/"
+- name: Salesforce 
+  url: "https://www.salesforce.com/"
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bin's research interests are in high-performance computing + big data + AI/non-AI. 
+bio: Linsey's research interests are in Data Mining + Machine Learning + AI. 
 
 
 
