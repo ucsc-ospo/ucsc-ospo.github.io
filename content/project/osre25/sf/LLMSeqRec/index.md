@@ -1,6 +1,6 @@
 ---
 title: "ReIDMM: Re-identifying Multiple Objects across Multiple Streams"
-authors: [bindong, "Linsey Pang"]
+authors: ["Linsey Pang",bindong]
 author_notes: ["Research Scientist, Lawrence Berkeley Lab", "Salesforce"]
 tags: ["osre25", "uc", "AI", "Image Processing", "Search"]
 date: 2025-02-06T10:15:56-07:00
