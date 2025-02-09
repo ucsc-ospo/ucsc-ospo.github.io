@@ -1,5 +1,5 @@
 ---
-title: "GenFail: Discovering Reproducible Failure Scenarios and Developing Failure-Aware Scheduling for Genomic Workflows"
+title: "GeFARe: Discovering Reproducible Failure Scenarios and Developing Failure-Aware Scheduling for Genomic Workflows"
 authors: [inkee.kim]
 author_notes: ["Associate Professor of School of Computing, University of Georgia"]
 tags: [osre25, reproducibility, genomics, "high performance computing (HPC)", "failure characterization", "scientific workflow scheduling", kubernetes]
