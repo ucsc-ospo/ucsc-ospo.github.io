@@ -2,7 +2,7 @@
 title: "Towards High Performance NCCL-enabled 2D partitioned PyLops-MPI library"
 authors: [yuxihong, matteoravasi, nanding]
 author_notes: ["Postdoc Researcher, Lawrence Berkeley Lab","Senior Research Advisor, Shearwater GeoServices", "Research Scientist, Lawrence Berkeley Lab"]
-tags: ["osre25", "Seismic Redatuming", "PyLops", "Distributed Algorithms"]
+tags: ["osre25", "PyLops-MPI", "Distributed Algorithms"]
 date: 2025-02-09T10:15:56-07:00
 lastmod: 2025-02-09T10:15:56-07:00
 ---
@@ -13,6 +13,8 @@ lastmod: 2025-02-09T10:15:56-07:00
 [PyLops](https://github.com/PyLops/pyLops) ecosystem designed to enable large-scale, distributed-memory computations for matrix-free inverse problems. PyLops has achieved more than 400 stars till now. [PyLops-MPI](https://github.com/PyLops/pyLops-mpi) is an extension of the PyLops. It can be widely used in scientific computation problems, especially in the computational geophysics. Developed as part of the [2023 Google Summer of Code](https://summerofcode.withgoogle.com/archive/2023/projects/eNJTJO25), PyLops-MPI builds on the core PyLops framework by integrating MPI-based parallelism through the mpi4py library. This allows users to efficiently scale PyLops-based computations beyond a single node, leveraging high-performance computing (HPC) clusters for tackling increasingly large problem sizes.
 
 By extending PyLops' modular and user-friendly interface to distributed environments, PyLops-MPI provides researchers and engineers with a powerful tool for developing scalable scientific applications across disciplines, from geophysics to machine learning. As part of the broader PyLops ecosystem, it represents a significant step toward high-performance, parallel inverse problem solving, catering to both academia and industry. 
+
+PyLops-MPI is aimed to provide an efficient and user-friendly distibuted inverse problem solution. The software are designed to handle all three distinct use-cases in the distributed inverse problem: (1) Both model and data are fully distributed across nodes. (2) Data are distributed across nodes but model is available at all nodes. (3) Both model and data are available in all nodes (or just in the master). There are multiple use-cases for PyLops-MPI in computational geophysics, e.g. [Least-squares Migration](https://pylops.github.io/pylops-mpi/tutorials/lsm.html#sphx-glr-tutorials-lsm-py), [Multi-Dimensional Deconvolution](https://pylops.github.io/pylops-mpi/tutorials/mdd.html#sphx-glr-tutorials-mdd-py) and [Post Stack Inversion - 3D](https://pylops.github.io/pylops-mpi/tutorials/poststack.html#sphx-glr-tutorials-poststack-py). We've already provided a solution based on mpi4py. With the development of PyLops-MPI, we plan to upgrade the communication infrastructure of PyLops-MPI to better support GPU-based cluster and reduce the overall datavement. This will further boost the performance of PyLops-MPI. 
 
 This project is designed based on the roadmap of PyLops-MPI library. We plan to provide three major functionalities for the PyLops-MPI. Firstly, in the PyLops-MPI library, we support the NVIDIA GPU where we operates data on GPU. However, when we communciate, we need to copy data back to CPU and call mpi4py. We plan to use NCCL instead of mpi4py when we call GPU routines. Secondly, the parallelism of PyLops-MPI is achieved through spliting the computation of different frequency matrices to different MPI processors. It might not be scalable when we have multiply right hand side inverse problems. We propose to support standard 2D SUMMA algorithm for the computation. The frequency matrices will be split in 2D blocks and this will improve the scalability of the library. Finally, we would like to benchmark MPI one-sided API in PyLops-MPI library since asynchronous execution features of one-sided API will improve the scalability of the algorithm. 
 
@@ -26,6 +28,12 @@ Aligned with the vision of the 2025 Open Source Research Experience (OSRE), the 
 - **Goal 2: Benchmarking 2D Parallelism in PyLops-MPI Library**: Understanding the design of PyLops-MPI. Understanding the design of 2D partition design in current PyLops-MPI library. Benchmarking the performance of 2D partition design in PyLops-MPI compared with original 1D partition design.
 
 - **Goal 3: Enabling MPI One-sided API in PyLops-MPI Library**: Understanding the design of PyLops-MPI. Uderstanding the message roofline model and MPI one-sided API. Implementing the one-sided communication strategies in the PyLops-MPI library.
+
+### Project Benchmark Suites
+We plan to use at least three use cases in the [tutorial sections](https://pylops.github.io/pylops-mpi/tutorials/) in PyLops-MPI. We will measure the communication volume and time to solution of these use-cases.
+
+### Project Benchmark Testbeds
+Yuxi Hong is granted access to the world-leading supercomputers such as Delta, Delta-AI through an [ACCESS funded grant](https://www.xras.org/public/requests/193551-ACCESS-CIS250038). [Delta](https://docs.ncsa.illinois.edu/systems/delta/en/latest/) is a dedicated, ACCESS-allocated resource designed by HPE and NCSA, delivering a highly capable GPU-focused compute environment for GPU and CPU workloads. [DeltaAI](https://docs.ncsa.illinois.edu/systems/deltaai/en/latest/) is a companion system to Delta. Powered by the NVIDIA GH200 Grace Hopper Superchip, DeltaAI provides powerful compute capabilities for simulation and data science. The team also has access to [Perlmutter](https://docs.nersc.gov/systems/perlmutter/architecture/) supercomputer based in LBNL. 
 
 
 ### Project Deliverables
