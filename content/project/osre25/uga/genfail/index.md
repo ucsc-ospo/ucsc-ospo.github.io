@@ -8,7 +8,6 @@ lastmod: 2024-02-09
 ---
 
 
-
 **Project Idea description**
 
 Large-scale genomic workflow executions require large-scale computing infrastructure, as well as high utilization of that infrastructure, to maximize throughput. Systems researchers have developed various techniques to achieve this goal, including scheduling, resource harvesting, tail mitigation, and failure recovery. However, many of these large-scale efforts have been carried out by separate groups/institutions that operate such large-scale infrastructure (e.g., major tech companies and national research labs). Reproducing and building upon these works at a similar scale in an academic environment is challenging – even labs with strong ties to these institutions often have to rely on trace-based research, which does not fully capture the complexities of real-world deployments. 
