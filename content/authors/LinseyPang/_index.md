@@ -20,7 +20,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Linsey's research interests are in Data Mining + Machine Learning + AI. 
+bio: Linsey's research interests are in Deep Learning + Machine Learning + AI. 
 
 
 
