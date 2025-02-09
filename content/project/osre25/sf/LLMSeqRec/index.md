@@ -39,7 +39,7 @@ This project will deliver three components, software, model training, validation
 - **Skills**: Proficiency in Python, Pytorch, Github, Self-attention, Transformer
 - **Difficulty**: Difficult
 - **Size**: Large (400 hours)
-- **Mentor**: Linsey Pang, Bin Dong
+- **Mentor**: {{% mention LinseyPang %}}, {{% mention bindong %}}
 
 
 
