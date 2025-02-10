@@ -31,13 +31,13 @@ bio: Linsey's research interests are in Deep Learning + Machine Learning + AI.
 social:
 - icon: home
   icon_pack: fas
-  link: [https://www.linkedin.com/in/linsey-pang-50590450/]
+  link: https://www.linkedin.com/in/linsey-pang-50590450/
 - icon: envelope
   icon_pack: fas
   link: mailto:panglinsey@gmail.com
 - icon: linkedin
   icon_pack: fab
-  link: [https://www.linkedin.com/in/linsey-pang-50590450/]
+  link: https://www.linkedin.com/in/linsey-pang-50590450/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
