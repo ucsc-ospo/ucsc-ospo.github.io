@@ -33,7 +33,7 @@ Benchmark LLMSeqRec against state-of-the-art sequential recommenders, evaluating
 ### Project Deliverables
 This project will deliver three components, software, model training, validation and performance evaluation and demo. The software which implements the above LLMSeqRec model will be hosted on the github repo as open-access repositories. The evaluation results and demo will be published along the  github repo .
 
-### ReIDMM
+### LLMSeqRec
 
 - **Topics**:  LLM Enhanced Contextual Sequential Recommender
 - **Skills**: Proficiency in Python, Pytorch, Github, Self-attention, Transformer
