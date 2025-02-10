@@ -43,7 +43,7 @@ This project will deliver three components, software, model training, validation
 
 ### References: 
 
-- Self-Attentive Sequential Recommendation
+- Self-Attentive Sequential Recommendation (SASRec)
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer
 - VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks
 - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
