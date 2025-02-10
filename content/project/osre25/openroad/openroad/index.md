@@ -1,6 +1,6 @@
 ---
 title: "OpenROAD - An Open-Source, Autonomous RTL-GDSII Flow for Chip Design"
-authors: [mliberty, luarss]
+authors: [mliberty, emrmonteiro, AcKoucher, luarss]
 author_notes: ["VP Engineering, Precision Innovations - Technical Head of OpenROAD", "Individual Contributor at Precision Innovations"]
 tags: ["osre25", "ucsd", "uc", "chip design", "asicdesign", "llm", "ml", "ai"]
 date: 2025-01-19
@@ -52,7 +52,7 @@ OpenROAD supports block floorplans that are rectangular in shape.  Some designs 
   * **Size**: Medium (175 hours)
   * **Mentors**: Osama Hammad Abdel Reheem & Ethan Mahintorabi
 
-LEF (Library Exchange Format) is a standard format for describing physical design rules for integrated circuits.   OpenROAD has support for many constructs but some newer ones for advanced process nodes are not supported.  This project is to support parsing such information and storing in the OpenDB for use by the rest of the tool.
+LEF (Library Exchange Format) is a standard format for describing physical design rules for integrated circuits.  OpenROAD has support for many constructs but some newer ones for advanced process nodes are not supported.  This project is to support parsing such information and storing in the OpenDB for use by the rest of the tool.
 
 ### ORAssistant - LLM Data Engineering and Testing
 
