@@ -41,14 +41,14 @@ This project will deliver three components, software, model training, validation
 - **Size**: Large (400 hours)
 - **Mentor**: {{% mention LinseyPang %}}, {{% mention bindong %}}
 
-- References: 
+### References: 
 
-Self-Attentive Sequential Recommendation
-BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer
-VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks
-Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
-Amazon Dataset: https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews 
-Movie Lense Data:  https://grouplens.org/datasets/movielens/  
+- Self-Attentive Sequential Recommendation
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer
+- VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+- Amazon Dataset: https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews 
+- Movie Lense Data:  https://grouplens.org/datasets/movielens/  
 
 
 
