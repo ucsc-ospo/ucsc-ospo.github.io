@@ -1,6 +1,6 @@
 ---
 title: "LLMSeqRec: LLM Enhanced Contextual Sequential Recommender"
-authors: ["Linsey Pang",bindong]
+authors: [LinseyPang,bindong]
 author_notes: ["Salesforce","Research Scientist, Lawrence Berkeley Lab"]
 tags: ["osre25", "uc", "AI", "LLM", "Recommender"]
 date: 2025-02-06T10:15:56-07:00
