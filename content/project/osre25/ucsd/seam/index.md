@@ -22,7 +22,7 @@ The proposed work includes expanding the Python library to support comprehensive
 - **Topics:** Kubernetes, Python, Cloud Computing, Networking, Programmable Networking, Monitoring, CI/CD
 - **Skills:** Python, Kubernetes, P4 programming, KubeVirt, ESnet SENSE, Docker, GitLab CI/CD, Prometheus, Grafana, PostgreSQL, Flask
 - **Difficulty:** Hard
-- **Size:** Large (400 hours)
+- **Size:** Large (350 hours)
 - **Mentors:** {{% mention "mfsada" %}}
 
 ### Seam / Full-Stack Web Development and Dashboard
@@ -32,7 +32,7 @@ The proposed work includes building a **Flask-based web dashboard** using **Boot
 - **Topics:** Full-Stack Web Development, Flask, Bootstrap, PostgreSQL, Kubernetes, Monitoring, DevOps
 - **Skills:** Web Development, Flask, Bootstrap, PostgreSQL, API Development, Kubernetes
 - **Difficulty:** Medium to Hard
-- **Size:** Medium (300 hours)
+- **Size:** Medium (175 hours)
 - **Mentors:** {{% mention "mfsada" %}}
 
 ### Seam / CI/CD and GitLab Integration
@@ -42,7 +42,7 @@ The proposed work includes setting up **GitLab CI/CD pipelines** for automated *
 - **Topics:** CI/CD, GitLab, Python, Kubernetes, DevOps, Testing, Automation
 - **Skills:** GitLab CI/CD, Python, Kubernetes, Docker, Automation, Testing, Benchmarking
 - **Difficulty:** Medium to Hard
-- **Size:** Medium (300 hours)
+- **Size:** Medium (175 hours)
 - **Mentors:** {{% mention "mfsada" %}}
 
 ### Seam / Networking & SmartNIC Programming
@@ -52,7 +52,7 @@ The proposed work includes writing **P4 programs** to control network traffic fl
 - **Topics:** Networking, P4 Programming, SmartNICs, Kubernetes Networking, Cloud Computing
 - **Skills:** P4, Networking, SmartNICs, Kubernetes Networking, Multus, Calico, gRPC
 - **Difficulty:** Hard
-- **Size:** Large (400 hours)
+- **Size:** Large (350 hours)
 - **Mentors:** {{% mention "mfsada" %}}
 
 
