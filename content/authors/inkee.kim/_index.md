@@ -44,7 +44,6 @@ email: ""
 user_groups:
 - Summer of Reproducibility Mentors
 ---
-In Kee Kim is an Associate Professor in the School of Computing at the University of Georgia, where his research focuses on cloud computing, large-scale distributed systems, and IoT/edge computing. He earned his Ph.D. in Computer Science from the University of Virginia in 2018. His work addresses scheduling and resource management challenges in three main areas: (1) optimizing resource usage for scientific computations in cloud environments, (2) enhancing performance and reliability of serverless workflows on heterogeneous platforms, and (3) improving throughput and minimizing latency for AI applications running on resource-constrained edge devices and accelerators. His research receives support from agencies such as the NSF, NIFA/USDA, and DoD, as well as from industry partners.
 In Kee Kim is currently an Associate Professor in the School of Computing at the University of Georgia. He obtained his Ph.D. in Computer Science from the University of Virginia in 2018.
  
 His research interests are centered around cloud computing, large-scale distributed systems, and IoT/edge computing, with a focus on scheduling and resource management. Specifically, his ongoing research focuses on three main areas.
