@@ -50,6 +50,6 @@ user_groups:
 - University of California Mentors
 - Summer of Reproducibility Mentors
 ---
-Linsey Pang is a Principal Machine Learning Scientist at Salesforce, working on deep learning recommendation modeling projects. Prior to this, she was a Principal Data Scientist at Walmart Lab. She was leading the Pricing, One demand data science projects. Prior to joining Walmart Lab, she worked as an applied scientist at eBay Inc.  She finished her PhD degree in machine learning research at the University of Sydney. 
+Linsey Pang is a Principal Machine Learning Scientist at Salesforce, working on deep learning recommendation modeling projects. Prior to this, she was a Principal Data Scientist at Walmart Lab. She was leading the Pricing, One demand data science projects. Prior to joining Walmart Lab, she worked as an applied scientist at eBay Inc.  She finished her PhD degree in machine learning research at the University of Sydney. She co-organizes multiple workshops and tutorials at CIKM, KDD, and WSDM etc in top data mining conferences.
 
 
