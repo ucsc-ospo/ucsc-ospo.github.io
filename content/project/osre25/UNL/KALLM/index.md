@@ -21,19 +21,19 @@ However, currently there exist little to no open-source implementations of KAN-b
 ### Project Methodology
 The project methodology is a mix of implementation and evaluation. The mentors are well-experienced in working with large codebases and will be available to guide through the technical and non-technical portions of the project. The step-by-step project methodology is outlined as follows. 
 
-- **Installation of SmolLM2 from the official Git Repo: The open-source implementation of SmolLM2 engine (hereon referred to as smollm plainly) is available on [GitHub] (https://github.com/huggingface/smollm/tree/main/tools/smol_tools). The project primarily focuses on language reasoning and hence we limit ourselves to the SmolLM2 implementation and forego other forks of SmolLM such as the SmolVLM family.
+- **Installation of SmolLM2 from the official Git Repo:** The open-source implementation of SmolLM2 engine (hereon referred to as smollm plainly) is available on [GitHub] (https://github.com/huggingface/smollm/tree/main/tools/smol_tools). The project primarily focuses on language reasoning and hence we limit ourselves to the SmolLM2 implementation and forego other forks of SmolLM such as the SmolVLM family.
   - 	The project needs to be sanity checked by installing the engine on local computers.
-  - 	b.	Following that, the students are to familiarize themselves with basic workflow such as running a sample code using the pretrained model. The instructions for installing SmolLM are located under the “tools” at smollm/tools/smol-tools subfolder.
-  - 	c.	Next step is to train the SmolLM using the prepackaged Transformer model called “HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC". The instructions are provided [here] (https://github.com/huggingface/smollm/tree/main/tools/smol_tools).
+  - 	Following that, the students are to familiarize themselves with basic workflow such as running a sample code using the pretrained model. The instructions for installing SmolLM are located under the “tools” at smollm/tools/smol-tools subfolder.
+  - 	Next step is to train the SmolLM using the prepackaged Transformer model called “HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC". The instructions are provided [here] (https://github.com/huggingface/smollm/tree/main/tools/smol_tools).
 
-- **Implementation—KAT in SmolLM: The smollm pretrained model is at smollm/tools/smollm_local_inference/mlc.py. The pretrained model is called "HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC". This is an MLP-based Transformer. However, we will train the smollm with transformers ourselves with the same model as well as with KAT.
+- **Implementation—KAT in SmolLM:** The smollm pretrained model is at smollm/tools/smollm_local_inference/mlc.py. The pretrained model is called "HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC". This is an MLP-based Transformer. However, we will train the smollm with transformers ourselves with the same model as well as with KAT.
   - A KAT implementation is available on GitHub at [ICLR2025] (https://github.com/Adamdad/kat). To implement KAT in smollm, we will replace the default Transformer (HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC) with the open-source KAT mentioned above.
 
-- **Training SmolLM with default Transformer and with KAT: This step will require compute resources and requires deployment of the implementation on Chameleon Cloud and/or National Research Platform (NRP). The mentors have access to these two testbeds and will provide the students access to those resources.
+- **Training SmolLM with default Transformer and with KAT:** This step will require compute resources and requires deployment of the implementation on Chameleon Cloud and/or National Research Platform (NRP). The mentors have access to these two testbeds and will provide the students access to those resources.
   - The first task of this step is to port to the implementation to Chameleon Cloud before the model can be trained. This task may require around a week’s worth of turnaround time and can be performed in parallel with steps 1 & 2 if needed.
-  - **Training:
+  - **Training:**
 
-- **Benchmarking: Finally, the benchmarks used throughout this project to evaluate our implementations will be the same as those for the release (pretrained) versions SmolLM2-135M-Instruct and SmolLM2-360M-Instruct.
+- **Benchmarking:** Finally, the benchmarks used throughout this project to evaluate our implementations will be the same as those for the release (pretrained) versions SmolLM2-135M-Instruct and SmolLM2-360M-Instruct.
 ### Project Timeline
 
 
