@@ -13,7 +13,7 @@ Sampling these scenarios and running them in a simulator yields synthetic data w
 Since Scenic was released open-source in 2019, our group and many others in academia have used Scenic to find, diagnose, and fix bugs in autonomous cars, aircraft, robots, and other kinds of systems.
 In industry, it is being used by companies including Boeing, Meta, Deutsche Bahn, and Toyota in domains spanning autonomous driving, aviation, household robotics, railways, maritime, and virtual reality.
 
-Our long-term goal is that Scenic become a widely-used common representation and toolkit supporting the entire design lifecycle of AI-based cyber-physical systems.
+Our long-term goal is for Scenic to become a widely-used common representation and toolkit supporting the entire design lifecycle of AI-based cyber-physical systems.
 Towards this end, we have many summer projects available, ranging from adding new application domains to working on the Scenic compiler and sampler:
 
 1. 3D Driving Scenarios
@@ -53,7 +53,7 @@ However, our experiments so far have mainly focused on simple scenarios involvin
 
 The goal of this project is to develop an *aviation library* for Scenic (like the driving domain mentioned in the previous project) which will allow users to create complex aviation scenarios in a simulator-agnostic way.
 The library would define concepts for aircraft, flight paths, weather, etc. and allow importing real-world data about these.
-The student would demonstrate the library by writing some example scenarios and testing either simple aircraft controllers or (if time allows) ML-based flight software.
+The student would demonstrate the library's functionality by writing some example scenarios and testing either simple aircraft controllers or (if time allows) ML-based flight software.
 
 ### Interfacing Scenic to New Simulators
 
@@ -69,12 +69,12 @@ Some possibilities include:
 
 - The [AWSIM](https://github.com/tier4/AWSIM) driving simulator (to allow testing the [Autoware](https://autoware.org/) open-source autonomous driving software stack)
 - The [CoppeliaSim](https://www.coppeliarobotics.com/) robotics simulator
-- NVIDIA's [Cosmos](https://github.com/NVIDIA/Cosmos), a LLM which generates videos from text prompts
+- NVIDIA's [Cosmos](https://github.com/NVIDIA/Cosmos), an LLM which generates videos from text prompts
 - NVIDIA's [Omniverse](https://www.nvidia.com/en-us/omniverse/) (various applications, e.g. simulating virtual factories)
 - Various simulators for which we have prototype interfaces that could be generalized and made more usable, including [MuJoCo](https://mujoco.org/) and [Isaac Sim](https://developer.nvidia.com/isaac/sim)
 
 The goal of the project would be to create an interface between Scenic and the new simulator and write scenarios demonstrating it.
-If time allows, we could do a case study on a realistic system and start writing it up for publication at an academic conference.
+If time allows, we could do a case study on a realistic system for publication at an academic conference.
 
 ### Optimizing and Parallelizing Scenic
 
