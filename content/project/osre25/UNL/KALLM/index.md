@@ -14,7 +14,7 @@ lastmod: 2025-02-09T10:15:56-07:00
 
 However, currently there exist little to no open-source implementations of KAN-based Transformers in open-source LLMs. Until recently, an efficient implementation of KAN was not available; the same can be said for KAN-based Transformer implementations. With the recent efficient implementations of open-source KAN-based Transformers (KATs), integrating them into open-source LLM engines becomes a possibility.  This project will implement KAT as the core architecture of the Transformer in SmolLM2, an open-source LLM and perform evaluation and benchmarking against language reasoning tasks. 
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/aa4e2fa1-1a33-4511-a76c-2e95e24feee1)">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/aa4e2fa1-1a33-4511-a76c-2e95e24feee1">
 </p>
 ![image](https://github.com/user-attachments/assets/aa4e2fa1-1a33-4511-a76c-2e95e24feee1)
 
