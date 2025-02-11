@@ -33,7 +33,7 @@ The project methodology is a mix of implementation and evaluation. The mentors a
   - The first task of this step is to port to the implementation to Chameleon Cloud before the model can be trained. This task may require around a week’s worth of turnaround time and can be performed in parallel with steps 1 & 2 if needed.
   - **Training:** The FULL dataset for training smollm is called smolltalk located here: [HuggingFaceTB/smoltalk] (https://huggingface.co/datasets/HuggingFaceTB/smoltalk). The training code and instructions are at  [huggingface/alignment-handbook] (https://github.com/huggingface/alignment-handbook/tree/main/recipes/smollm2). Although the baseline uses SmolLM2-1.7.B-Instruct (pretrained model), we will instead train smollm for SmolLM2-135M-Instruct and SmolLM2-360M-Instruct as noted at the bottom of the page at [HuggingFaceTB/smoltalk](https://huggingface.co/datasets/HuggingFaceTB/smoltalk)· Datasets at Hugging Face. According to this, for SmolLM2-135M-Instruct and SmolLM2-360M-Instruct we will ONLY use the [smol-smolltalk dataset](https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk). 
 
-- **Benchmarking:** Finally, the benchmarks used throughout this project to evaluate our implementations will be the same as those for the release (pretrained) versions SmolLM2-135M-Instruct and SmolLM2-360M-Instruct.
+- **Benchmarking:** Finally, the benchmarks used throughout this project to evaluate our implementations will be the same as those for the release (pretrained) versions SmolLM2-135M-Instruct and SmolLM2-360M-Instruct. The benchmarks for language reasoning will be [chosen](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/).
 
 
 ### Project Timeline
