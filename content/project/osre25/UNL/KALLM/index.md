@@ -25,10 +25,10 @@ The project methodology is a mix of implementation and evaluation. The mentors a
 - **Installation of SmolLM2 from the official Git Repo:** The open-source implementation of SmolLM2 engine (hereon referred to as smollm plainly) is available on [GitHub] (https://github.com/huggingface/smollm/tree/main/tools/smol_tools). The project primarily focuses on language reasoning and hence we limit ourselves to the SmolLM2 implementation and forego other forks of SmolLM such as the SmolVLM family.
   - The project needs to be sanity checked by installing the engine on local computers.
   - Following that, the students are to familiarize themselves with basic workflow such as running a sample code using the pretrained model. The instructions for installing SmolLM are located under the “tools” at smollm/tools/smol-tools subfolder.
-  - Next step is to train the SmolLM using the prepackaged Transformer model called “HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC". The instructions are provided [here] (https://github.com/huggingface/smollm/tree/main/tools/smol_tools).
+  - Next step is to train the SmolLM using the prepackaged Transformer model called “HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC". The instructions are provided [here](https://github.com/huggingface/smollm/tree/main/tools/smol_tools).
 
 - **Implementation—KAT in SmolLM:** The smollm pretrained model is at smollm/tools/smollm_local_inference/mlc.py. The pretrained model is called "HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC". This is an MLP-based Transformer. However, we will train the smollm with transformers ourselves with the same model as well as with KAT.
-  - A KAT implementation is available on GitHub at [ICLR2025] (https://github.com/Adamdad/kat). To implement KAT in smollm, we will replace the default Transformer (HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC) with the open-source KAT mentioned above.
+  - A KAT implementation is available on GitHub at [ICLR2025](https://github.com/Adamdad/kat). To implement KAT in smollm, we will replace the default Transformer (HF://mlc-ai/SmolLM2-1.7B-Instruct-q0f16-MLC) with the open-source KAT mentioned above.
 
 - **Training SmolLM with default Transformer and with KAT:** This step will require compute resources and requires deployment of the implementation on Chameleon Cloud and/or National Research Platform (NRP). The mentors have access to these two testbeds and will provide the students access to those resources.
   - The first task of this step is to port to the implementation to Chameleon Cloud before the model can be trained. This task may require around a week’s worth of turnaround time and can be performed in parallel with steps 1 & 2 if needed.
@@ -43,7 +43,7 @@ The following project timeline is anticipated. Some tasks may take longer or sho
 
 
 ### Project Testbeds 
-Sai Lamba Karanam had adminstrator-level access to the [National Research Platform (NRP)] (https://nationalresearchplatform.org/) and will provide access to cloud resources (compute) to the students working on the project. Both mentors will also have access to [Chameleon Cloud platform] (https://www.chameleoncloud.org/) and will grant access to compute resources for training, evaluation and benchmarking purposes.
+Sai Lamba Karanam had adminstrator-level access to the [National Research Platform (NRP)](https://nationalresearchplatform.org/) and will provide access to cloud resources (compute) to the students working on the project. Both mentors will also have access to [Chameleon Cloud platform](https://www.chameleoncloud.org/) and will grant access to compute resources for training, evaluation and benchmarking purposes.
 
 ### Project Deliverables
 KALLM will be hosted on github at [repo] (https://github/saisumanv/KALLM). The mentors have extensive experience working with Machine Learning (ML) and Artifical Intelligence (AI) workflows in academic and industry settings. We seek to choose mentees that are willing to learn implementation of AI models and working with semi-large code bases. Mentees will have to become comfortable working with remote cloud testbeds (Chameleon and/or NRP) during the latter-half of the project. Some milestines described in the Project Methodolody can be done in parallel.
