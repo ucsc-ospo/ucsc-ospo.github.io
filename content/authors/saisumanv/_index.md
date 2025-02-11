@@ -17,8 +17,7 @@ organizations:
 - name: University of Nebraska-Lincoln
 
 # Short bio (displayed in user profile at end of posts)
-bio: - <img align="left" width="125" height="165" src="https://github.com/user-attachments/assets/53943012-aa9d-4b3f-8ecd-d6d4dbd73355">
-I am a PhD Candidate at the University of Nebraska-Lincoln (UNL) in Computer Science in my final semester. My research involves non-blackbox design of ML/AI models across multiple domains, namely, communication networks, large data analysis, distributed computing, data transfers in High-Energy Physics, and computational biology.
+bio: - I am a PhD Candidate at the University of Nebraska-Lincoln (UNL) in Computer Science in my final semester. My research involves non-blackbox design of ML/AI models across multiple domains, namely, communication networks, large data analysis, distributed computing, data transfers in High-Energy Physics, and computational biology.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
