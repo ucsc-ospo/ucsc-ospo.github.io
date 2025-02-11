@@ -1,6 +1,6 @@
 ---
-title: "DirtViz 2.0"
-authors: [Colleen Josephson]
+title: "DirtViz 2.0 (2023)"
+authors: [cjosephson]
 author_notes: [UC Santa Cruz Assistant Professor]
 tags: ["osre23", "uc", "data science", "website design", "data visualization", "analytics"]
 date: 2022-02-07
@@ -15,7 +15,7 @@ DirtViz is a project to visualize data collected from sensors deployed in sensor
 - **Skills:** javascript, python, bash, webservers, git, embedded systems
 - **Difficulty:** Easy/Moderate
 - **Size:** Large, 350 hours
-- **Mentors:** [Colleen Josephson](mailto:cjosephson@ucsc.edu), [Sonia Naderi](mailto:sonaderi@ucsc.edu), [Stephen Taylor](mailto:sgtaylor@ucsc.edu), [John Madden](mailto:jtmadden@ucsc.edu)
+- **Mentors:** {{% mention cjosephson %}}, [Sonia Naderi](mailto:sonaderi@ucsc.edu), [Stephen Taylor](mailto:sgtaylor@ucsc.edu), [John Madden](mailto:jtmadden@ucsc.edu)
 
 Specific tasks:
 - Refine our web-based visualization tools to easily allow users to zoom in on date ranges, change axes, etc.

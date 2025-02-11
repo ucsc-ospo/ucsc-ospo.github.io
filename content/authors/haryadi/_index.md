@@ -27,9 +27,6 @@ bio: Haryadi S. Gunawi is an Associate Professor in the Department of Computer S
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:haryadi@cs.uchicago.edu
 - icon: home
   icon_pack: fas
   link: https://people.cs.uchicago.edu/~haryadi/

@@ -12,13 +12,13 @@ A project serves as the context for one or more project ideas. Each project is r
 - Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) 
 - Option B (via git):
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
-  - Create `content/project/osre24/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre23/ORGANIZATION/PROJECTNAME`
+  - Create `content/project/osre25/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre24/ORGANIZATION/PROJECTNAME`
   - In that directory create/update `index.md` and the project's image (`featured.png` or `featured.jpg`) 
   - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/project/osre22/ucsc/polyphorm/index.md)):
     - Add the project's title in `title:`, 
-    - Date the project entry with `date:` and `lastmod:`, using one of the formats `2022-05-27` (day only), `2022-05-27T07:32:00` (with time), `1979-05-27T00:32:00-07:00` (UTC-7 timezone), or `2022-05-27T07:32:00Z` (UTC timezone). Note that projects dated in the future will not display.
-    - Include a list of `authors:`, using either names in quotes or user names (see below for instructions on how to add user names)
-    - **IMPORTANT**: set a list of tags that include `"osre23"` and either `"uc"` or `"reproducibility"` or both, depending on whether your project has a mentor affiliated with a UC campus or associated national lab (LBL, LANL, LLNL), or is a _Summer of Reproducibility_ project. Feel free to add additional tags.
+    - Date the project entry with `date:` and `lastmod:`, using the format `2022-05-27`. **Note that projects dated in the future will not display**.
+    - Include a list of `authors:`, using either names in quotes or user names (see below for instructions on how to establish user names)
+    - **IMPORTANT**: set a list of tags that include `"osre25"` and either `"uc"` or `"reproducibility"` or both, depending on whether your project has a mentor affiliated with a UC campus or associated national lab (LBL, LANL, LLNL), or is a _Summer of Reproducibility_ project. Feel free to add additional tags.
     - Below the frontmatter start with a description of the project and include links to the project's webpage. 
     - Add each project idea with level-3 header, i.e., `### ...` and add a list of **essential information** that includes *topics*, *skills*, *difficulty*, *size* (175 vs 350 hours), and *mentors*.
   - Make a pull request.
@@ -30,9 +30,9 @@ Mentors are welcome to add information about themselves (see [example](https://o
   - Include name, title, affiliations, email, short bio, github profile (if applicable), whether you are UC or Summer of Reproducibility mentor (or both), and, optionally, photo, web page and social media links.
 - Option B (via git): 
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io) (or combine with pull request of adding/updating a project above)
-  - Create `/content/authors/USER` directory.
+  - Create `/content/authors/USER` directory (where `USER` is a unique username, e.g. the one you use for your github account).
   - In that directory copy an `_index.md` file from another user and update it (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/authors/slieggi/_index.md))
-    - Many icons are available (see [documentation](https://wowchemy.com/docs/getting-started/page-builder/#icons))
+    - Many icons are available (see [documentation](https://bootstrap.hugoblox.com/getting-started/page-builder/#icons))
     - **IMPORTANT**: Under `user_groups:` add either `- University of California Mentors` or `- Summer of Reproducibility Mentors` (or both).
     - The bio and any other information goes below the frontmatter.
 
@@ -47,28 +47,43 @@ The website has five "lists":
 
 ## How to add a new annual edition of the Open Source Research Experience
 
-To archive the current year (e.g. 2023) and start a new OSRE edition: 
-- Copy `/content/osre` to `/content/osre23` (`/content/osre` contains always the newest edition, `/content/osre23` is the archived edition)
-- Update tags in `content/osre` projects and reports lists:
-  - In `content/osre/studentpages.md` update `tag: [osre24]`
-  - In `content/osre/projects.md` update `tag: [osre24]`
-- Update links to previous year and back to new year
+To archive the current year (e.g. 2024) and start a new OSRE edition: 
+- Update `/content/osre/index.md`
+- Copy `/content/osre24` to `/content/osre25` 
+- Make the following updates within `/content/osre25`:
+  - Update `/content/osre25/intro.md`
+  - Rename and update `content/osre25/osre25.md`
   - For Student Pages:
-    - In `/content/osre/studentpages.md` update `subtitle: "Go to [last year's student pages](/osre23/#studentpages)"`
-    - In `/content/osre23/studentpages.md` update `subtitle: "Return to [new student pages](/osre/#studentpages)"`
+    - In `/content/osre25/studentpages.md` 
+      - Update `subtitle: "Go to [2024 student pages](/osre24/#studentpages)"`
+      - Update `tag: [osre25]`
+      - Update "OSRE 2025" in body
+    - In `/content/osre24/studentpages.md` update `subtitle: "Go to [2023 student pages](/osre23/#studentpages)  \nReturn to [2025 student pages](/osre25/#studentpages)"`
   - For Projects:
-    - In `/content/osre/projects.md` update `subtitle: "Go to [last year's projects](/osre23/#projects)"`
-    - In `/content/osre23/projects.md` update `subtitle: "Go to [2022 projects](/lastosre) or return to [new projects](/osre/#projects)"` (2022 projects are under `/lastosre` because that was still under CROSS. When archiving OSRE 2024, update `/content/osre24/projects.md` with `subtitle: "Go to [2023 projects](/osre23/#projects) or return to [new projects](/osre/#projects)"`)
+    - In `/content/osre25/projects.md` 
+      - Update `title: 2025 Projects`
+      - Update `subtitle: "Go to [2024 projects](/osre24/#projects)"`
+      - Update `tag: [osre25]`
+    - In `/content/osre24/projects.md"` update `subtitle: "Go to [2023 projects](/osre23/#projects)  \nReturn to [2025 projects](/content/osre25/#projects)"`
   - For Timelines:
-    - In `/content/osre/timeline.md` update `subtitle: "Go to [last year's timeline](/osre23/#timeline)"`
-    - In `/content/osre23/timeline.md` update `subtitle: "Return to [new timeline](/osre/#timeline)"`
-- Copy `/content/report/osre23/ucsc/admin/20221106-admin` to `/content/report/osre24/ucsc/admin/20231006-admin` and update tags in `index.md` of that directory:
-  - Update title to OSRE 2024
-  - Replace all `osre23` with `osre24`
-- Update `/content/osre23/intro.md` cta link `url: '/osre23/#projects'`
-- Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2024.
-- Copy `/content/sor` to `/content/sor23`, make 2024 updates to `/content/sor`, and update SoR links in `/content/oser23/osre23.md` to `/sor23` and vice versa.
+    - In `/content/osre25/timeline.md` 
+      - Update `subtitle: "Go to [2024 timeline](/osre24/#timeline)"`
+      - In body update `caption="Table: OSRE 2025 Timeline"`
+      - Update `/content/osre25/timeline.csv`
+    - In `/content/osre24/timeline.md` update `subtitle: "Go to [2023 timeline](/osre23/#timeline)  \nReturn to [2025 timeline](/osre25/#timeline)"`
+- Copy `/content/report/osre24/ucsc/admin/20231006-admin` to `/content/report/osre25/ucsc/admin/20231021-admin` (or any other `YYYYMMDD-admin` name) and update tags (and any new instructions) in `index.md` of that directory:
+  - Update title to OSRE 2025
+  - Replace all `osre24` with `osre25`
+- Update `/content/osre25/intro.md` cta link `url: '/osre25/#projects'`
+- Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2025 (The OSRE documentation is updated in place -- use version control to find out about documentation of earlier years)
+- Copy `/content/sor24` to `/content/sor25`, make 2025 updates to `/content/sor25`, and update SoR links in `/content/oser25/osre25.md` to `/sor25` and vice versa.
+
+## How to fix the deployment workflow
+
+Upon merging a pull request, the website uses a GitHub workflow to first build the new version of the website and then deploy it on GitHub Pages. The workflow is specified in `.github/workflows/hugo.yaml`. It is based on the [recommended workflow for Hugo sites](https://github.com/actions/starter-workflows/blob/main/pages/hugo.yml) but with differences that are necessary for older Hugo versions (see below). Every once in a while GitHub decides to introduce breaking changes to the meaning of their workflow commands. This usually requires no more than changing the versions to the latest shown in the [sample workflow](https://github.com/actions/starter-workflows/blob/main/pages/hugo.yml). A good example is the combined update of pull requests [#726](https://github.com/ucsc-ospo/ucsc-ospo.github.io/pull/726) and [#727](https://github.com/ucsc-ospo/ucsc-ospo.github.io/pull/727).
 
 ## Website framework
 
-This website is based on [Hugo Blox](https://hugoblox.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).
+This website is based on [Hugo Blox](https://hugoblox.com), a website framework using [Hugo](https://github.com/gohugoio/hugo) that can be deployed with GitHub and Netlify. The theme of the OSPO website is the [Research Group Theme](https://research-group.netlify.app/).  
+
+**Important:** The website is using a Bootstrap-styled version of a Hugo Blox template. Therefore, the [Bootstrap documentation site](https://bootstrap.hugoblox.com/) is relevant here. New templates are now Tailwind-styled. This website tends to throw errors with Hugo versions greater than `0.119.0` -- possibly due to lack of maintenance of its Bootstrap-styled template.

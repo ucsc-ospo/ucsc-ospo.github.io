@@ -17,6 +17,7 @@ image:
   filename: 'resources.png'
 --- 
 
+# [Also see resources on UC OSPO Network page](https://ucospo.net/oss-resources/) 
 ## Fellowship/Internship Programs \[Paid\]
 
 -   [Outreachy Internships](https://www.outreachy.org)
@@ -51,7 +52,7 @@ image:
 
 ## Self-Learning / Friendly Entry Points
 
--   [Open Source Basics](https://www.youtube.com/watch?v%3DupxUAI-fAtE) (Emily's
+-   [Open Source Basics](https://www.youtube.com/watch?v=upxUAI-fAtE) (Emily's
     favorite intro video, featuring a cookie recipe theme!)
 -   [How to Open Source](https://howtoopensource.dev)
 -   [Hacktoberfest](https://hacktoberfest.com) (annual
