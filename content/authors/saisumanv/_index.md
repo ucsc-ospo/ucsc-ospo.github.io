@@ -12,9 +12,13 @@ superuser: false
 # Role/position
 role: "PhD Candidate, University of Nebraska-Lincoln"
 
+# Organizations/Affiliations
+organizations:
+- name: University of Nebraska-Lincoln
+  url: "https://unl.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: - I am a PhD Candidate at the University of Nebraska-Lincoln (UNL) in Computer Science in my final semester. My research involves non-blackbox design of ML/AI models across multiple domains, namely, communication networks, large data analysis, distributed computing, data transfers in High-Energy Physics, and computational biology.
+bio: I am a PhD Candidate at the University of Nebraska-Lincoln (UNL) in Computer Science in my final semester. My research involves non-blackbox design of ML/AI models across multiple domains, namely, communication networks, large data analysis, distributed computing, data transfers in High-Energy Physics, and computational biology.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
