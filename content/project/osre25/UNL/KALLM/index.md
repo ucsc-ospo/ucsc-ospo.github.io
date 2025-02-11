@@ -56,7 +56,7 @@ KALLM is part of larger collabortive effort between the mentors and involves mil
 - **Topics**: Towards High Performance NCCL-enabled 2D partitioned PyLops-MPI library
 - **Skills**: Python proficiency, scikit-learn, Experience with Linux, Introductory Experience with Cloud Computing Platforms
 - **Difficulty**: Easy-Medium
-- **Size**: Easy-Medium (175 hours)
+- **Size**: Medium (175 hours)
 - **Mentor**: {{% mention saisumanv %}}, {{% mention zahmeeth %}}
 
 ### About the Mentors
