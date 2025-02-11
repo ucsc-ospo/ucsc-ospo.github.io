@@ -19,7 +19,7 @@ However, currently there exist little to no open-source implementations of KAN-b
 
 
 
-### Project Methodology
+### Project Methodology and Milestones
 The project methodology is a mix of implementation and evaluation. The mentors are well-experienced in working with large codebases and will be available to guide through the technical and non-technical portions of the project. The step-by-step project methodology is outlined as follows. 
 
 - **Installation of SmolLM2 from the official Git Repo:** The open-source implementation of SmolLM2 engine (hereon referred to as smollm plainly) is available on [GitHub] (https://github.com/huggingface/smollm/tree/main/tools/smol_tools). The project primarily focuses on language reasoning and hence we limit ourselves to the SmolLM2 implementation and forego other forks of SmolLM such as the SmolVLM family.
@@ -42,19 +42,19 @@ The following project timeline is anticipated. Some tasks may take longer or sho
  ![image](https://github.com/user-attachments/assets/5a91f8fe-fb4c-4844-bff2-75c933e6f73a)
 
 
-### Project Benchmark Suites
-
 ### Project Testbeds 
 Sai Lamba Karanam had adminstrator-level access to the [National Research Platform (NRP)] (https://nationalresearchplatform.org/) and will provide access to cloud resources (compute) to the students working on the project. Both mentors will also have access to [Chameleon Cloud platform] (https://www.chameleoncloud.org/) and will grant access to compute resources for training, evaluation and benchmarking purposes.
 
 ### Project Deliverables
+KALLM will be hosted on github at [repo] (https://github/saisumanv/KALLM). The mentors have extensive experience working with Machine Learning (ML) and Artifical Intelligence (AI) workflows in academic and industry settings. We seek to choose mentees that are willing to learn implementation of AI models and working with semi-large code bases. Mentees will have to become comfortable working with remote cloud testbeds (Chameleon and/or NRP) during the latter-half of the project. Some milestines described in the Project Methodolody can be done in parallel.
 
+KALLM is part of larger collabortive effort between the mentors and involves milestones and outcomes that fall outside the scope of this project, but are related. The mentors plan to publish the large project outcomes aat ML-based venue(s) towards the end of Fall 2025. The mentees will be added as coauthors.
 
 
 ### KALLM
 
 - **Topics**: Towards High Performance NCCL-enabled 2D partitioned PyLops-MPI library
-- **Skills**: Python proficiency, scikit-learn, Experience with Linux, Introductory Experience with Cloud Computing Platoforms
+- **Skills**: Python proficiency, scikit-learn, Experience with Linux, Introductory Experience with Cloud Computing Platforms
 - **Difficulty**: Easy-Medium
 - **Size**: Easy-Medium (175 hours)
 - **Mentor**: {{% mention saisumanv %}}, {{% mention zahmeeth %}}
