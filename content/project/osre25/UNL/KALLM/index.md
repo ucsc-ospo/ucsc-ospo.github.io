@@ -43,17 +43,20 @@ The following project timeline is anticipated. Some tasks may take longer or sho
 
 ### Project Benchmark Suites
 
-### Project Benchmark Testbeds
-
+### Project Testbeds 
+Sai Lamba Karanam had adminstrator-level access to the [National Research Platform (NRP)] (https://nationalresearchplatform.org/) and will provide access to cloud resources (compute) to the students working on the project. Both mentors will also have access to [Chameleon Cloud platform] (https://www.chameleoncloud.org/) and will grant access to compute resources for training, evaluation and benchmarking purposes.
 
 ### Project Deliverables
 
 
 
-### PyLops-MPI
+### KALLM
 
 - **Topics**: Towards High Performance NCCL-enabled 2D partitioned PyLops-MPI library
 - **Skills**: Python proficiency, scikit-learn, Experience with Linux, Introductory Experience with Cloud Computing Platoforms
 - **Difficulty**: Easy-Medium
 - **Size**: Easy-Medium (175 hours)
 - **Mentor**: {{% mention saisumanv %}}, {{% mention zahmeeth %}}
+
+### About the Mentors
+
