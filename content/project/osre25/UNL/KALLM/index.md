@@ -48,7 +48,7 @@ Sai Lamba Karanam had adminstrator-level access to the [National Research Platfo
 ### Project Deliverables
 KALLM will be hosted on github at [repo](https://github/saisumanv/KALLM). The mentors have extensive experience working with Machine Learning (ML) and Artifical Intelligence (AI) workflows in academic and industry settings. We seek to choose mentees that are willing to learn implementation of AI models and working with semi-large code bases. Mentees will have to become comfortable working with remote cloud testbeds (Chameleon and/or NRP) during the latter-half of the project. Some milestines described in the Project Methodolody can be done in parallel.
 
-KALLM is part of larger collabortive effort between the mentors and involves milestones and outcomes that fall outside the scope of this project, but are related. The mentors plan to publish the large project outcomes aat ML-based venue(s) towards the end of Fall 2025. The mentees will be added as coauthors.
+KALLM is part of larger collaborative effort between the mentors and involves milestones and outcomes that fall outside the scope of this project, but are related. The mentors plan to publish the large project outcomes aat ML-based venue(s) towards the end of Fall 2025. The mentees will be added as coauthors.
 
 
 ### KALLM
@@ -57,7 +57,7 @@ KALLM is part of larger collabortive effort between the mentors and involves mil
 - **Skills**: Python proficiency, scikit-learn, Experience with Linux, Introductory Experience with Cloud Computing Platforms
 - **Difficulty**: Easy-Medium
 - **Size**: Medium (175 hours)
-- **Mentor**: [@username] (https://www.github.com/saisumanv), [@username] (https://www.github.com/zahmeeth) 
+- **Mentor**: [@saisumanv](https://www.github.com/saisumanv), [@zahmeeth](https://www.github.com/zahmeeth) 
 
 ### About the Mentors
 - <img align="left" width="125" height="165" src="https://github.com/user-attachments/assets/53943012-aa9d-4b3f-8ecd-d6d4dbd73355">
