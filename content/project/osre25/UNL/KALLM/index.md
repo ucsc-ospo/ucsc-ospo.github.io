@@ -43,7 +43,7 @@ The following project timeline is anticipated. Some tasks may take longer or sho
 
 
 ### Project Testbeds 
-Sai Lamba Karanam had adminstrator-level access to the [National Research Platform (NRP)](https://nationalresearchplatform.org/) and will provide access to cloud resources (compute) to the students working on the project. Both mentors will also have access to [Chameleon Cloud platform](https://www.chameleoncloud.org/) and will grant access to compute resources for training, evaluation and benchmarking purposes.
+Sai Lamba Karanam has adminstrator-level access to the [National Research Platform (NRP)](https://nationalresearchplatform.org/) and will provide access to cloud resources (compute) to the students working on the project. Both mentors will also have access to [Chameleon Cloud platform](https://www.chameleoncloud.org/) and will grant access to compute resources for training, evaluation and benchmarking purposes.
 
 ### Project Deliverables
 KALLM will be hosted on github at [repo](https://github/saisumanv/KALLM). The mentors have extensive experience working with Machine Learning (ML) and Artifical Intelligence (AI) workflows in academic and industry settings. We seek to choose mentees that are willing to learn implementation of AI models and working with semi-large code bases. Mentees will have to become comfortable working with remote cloud testbeds (Chameleon and/or NRP) during the latter-half of the project. Some milestines described in the Project Methodolody can be done in parallel.
