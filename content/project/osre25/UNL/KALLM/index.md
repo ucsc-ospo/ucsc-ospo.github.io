@@ -16,7 +16,7 @@ However, currently there exist little to no open-source implementations of KAN-b
 <p align="center">
   <img width="760" height="500" src="https://github.com/user-attachments/assets/aa4e2fa1-1a33-4511-a76c-2e95e24feee1">
 </p>
-![image](https://github.com/user-attachments/assets/aa4e2fa1-1a33-4511-a76c-2e95e24feee1)
+
 
 
 ### Project Methodology
@@ -61,6 +61,7 @@ Sai Lamba Karanam had adminstrator-level access to the [National Research Platfo
 
 ### About the Mentors
 - ![image](https://github.com/user-attachments/assets/53943012-aa9d-4b3f-8ecd-d6d4dbd73355)
+<img align="left" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/user-attachments/assets/53943012-aa9d-4b3f-8ecd-d6d4dbd73355)">
 **Sai Suman Lamba Karanam:** I am a PhD Candidate at the University of Nebraska-Lincoln (UNL) in my final semester. My research ties multiple domains together via non-blackbox Machine Learning (ML) and Artificial Intelligence (AI) modeling. Prior to joining PhD at UNL, I taught Embedded Systems Applications course at UNL. At UNL I was a recipient of outstanding graduate researcher award and multiple teaching awards. My current outside collaborations include a computational biology-based project with Argonne National Laboratory (ANL at the University of Chicago). I also spent two stints as a graduate research fellow at Adobe Research (Adobe Systems Inc., San Jose, CA). I am also actively involved in research conference activities in the field of communication networks.
 - ![image](https://github.com/user-attachments/assets/b992ad6d-0083-4f4f-9d0b-f37c3e711a1c)
 **Dr. Zahmeeth Sakkaff:** I am Dr. Zahmeeth Sayed Sakkaff. I will be joining WVU Tech (Beckley) and WVU (Morgantown) as an Assistant Professor with a joint appointment in the Computer Science Department starting Fall 2025. Currently, I am an Assistant Professor of Computer Science at St. Bonaventure University. I hold a Ph.D. in Computer Engineering and an M.S. in Computer Science from the University of Nebraska–Lincoln, and an M.Phil. in Computer Science from the University of Peradeniya. 
