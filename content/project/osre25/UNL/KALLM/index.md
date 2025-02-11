@@ -38,7 +38,7 @@ The project methodology is a mix of implementation and evaluation. The mentors a
 
 ### Project Timeline
 The following project timeline is anticipated. Some tasks may take longer or shorter than anticipated and hence the timeline is not 100% set in stone. However, it serves as a baseline based on the mentor’s prior experience on working with similar research projects. Each cell in the timeline chart is one week.
-<p align="center"> ![image](https://github.com/user-attachments/assets/5a91f8fe-fb4c-4844-bff2-75c933e6f73a) </p>
+ ![image](https://github.com/user-attachments/assets/5a91f8fe-fb4c-4844-bff2-75c933e6f73a)
 
 
 ### Project Benchmark Suites
