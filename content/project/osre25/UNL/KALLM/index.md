@@ -57,7 +57,7 @@ KALLM is part of larger collabortive effort between the mentors and involves mil
 - **Skills**: Python proficiency, scikit-learn, Experience with Linux, Introductory Experience with Cloud Computing Platforms
 - **Difficulty**: Easy-Medium
 - **Size**: Medium (175 hours)
-- **Mentor**: {{% mention saisumanv %}}, {{% mention zahmeeth %}}
+- **Mentor**: [@username] (https://www.github.com/saisumanv), [@username] (https://www.github.com/zahmeeth) 
 
 ### About the Mentors
 - <img align="left" width="125" height="165" src="https://github.com/user-attachments/assets/53943012-aa9d-4b3f-8ecd-d6d4dbd73355">
