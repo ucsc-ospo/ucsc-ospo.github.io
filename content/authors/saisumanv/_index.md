@@ -15,6 +15,9 @@ role: "PhD Candidate, University of Nebraska-Lincoln"
 # Organizations/Affiliations
 organizations:
 - name: University of Nebraska-Lincoln
+  url: "https://unl.edu/"
+
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: - I am a PhD Candidate at the University of Nebraska-Lincoln (UNL) in Computer Science in my final semester. My research involves non-blackbox design of ML/AI models across multiple domains, namely, communication networks, large data analysis, distributed computing, data transfers in High-Energy Physics, and computational biology.
@@ -39,5 +42,5 @@ email: ""
 user_groups:
 - Summer of Reproducibility Mentors
 ---
-**Sai Suman Lamba Karanam:** I am a PhD Candidate at the University of Nebraska-Lincoln (UNL) in Computer Science in my final semester. My research ties multiple domains together via non-blackbox Machine Learning (ML) and Artificial Intelligence (AI) modeling. Prior to joining PhD at UNL, I taught Embedded Systems Applications course at UNL. At UNL I was a recipient of outstanding graduate researcher award and multiple teaching awards. My current outside collaborations include a computational biology-based project with Argonne National Laboratory (ANL at the University of Chicago). I also spent two stints as a graduate research fellow at Adobe Research (Adobe Systems Inc., San Jose, CA). I am also actively involved in research conference activities in the field of communication networks.
+**Sai Suman Lamba Karanam:** <img align="left" width="125" height="165" src="https://github.com/user-attachments/assets/53943012-aa9d-4b3f-8ecd-d6d4dbd73355"> I am a PhD Candidate at the University of Nebraska-Lincoln (UNL) in Computer Science in my final semester. My research ties multiple domains together via non-blackbox Machine Learning (ML) and Artificial Intelligence (AI) modeling. Prior to joining PhD at UNL, I taught Embedded Systems Applications course at UNL. At UNL I was a recipient of outstanding graduate researcher award and multiple teaching awards. My current outside collaborations include a computational biology-based project with Argonne National Laboratory (ANL at the University of Chicago). I also spent two stints as a graduate research fellow at Adobe Research (Adobe Systems Inc., San Jose, CA). I am also actively involved in research conference activities in the field of communication networks.
 
