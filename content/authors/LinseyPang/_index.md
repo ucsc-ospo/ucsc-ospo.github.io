@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Applied Scientist, Salesforce"
+role: "Principal Applied Scientist, Salesforce"
 
 
 # Organizations/Affiliations
