@@ -7,7 +7,7 @@ date: 2025-02-11T13:00:00-08:00
 lastmod: 2025-02-11T13:00:00-08:00
 ---
 
-### OpenAI embeddings dataset
+### Vector Embeddings Dataset
 
  - **Topics:** `Vector Embeddings` `LLMs` `Transformers` 
  - **Skills:** software development, apis, scripting, python
