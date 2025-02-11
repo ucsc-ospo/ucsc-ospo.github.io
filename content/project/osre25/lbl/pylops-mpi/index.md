@@ -45,7 +45,7 @@ We plan to have two or three mentees for the projects since each goal is a miles
 - **Topics**: Towards High Performance NCCL-enabled 2D partitioned PyLops-MPI library
 - **Skills**: Proficient in Python, Experience with MPI, Experience with GPU
 - **Difficulty**: Medium
-- **Size**: Medium (150 hours)
+- **Size**: Medium (175 hours)
 - **Mentor**: {{% mention yuxihong %}}, {{% mention matteoravasi %}}, {{% mention nanding %}}
 
 
