@@ -38,7 +38,7 @@ This project will deliver three components, software, model training, validation
 - **Topics**:  LLM Enhanced Contextual Sequential Recommender
 - **Skills**: Proficiency in Python, Pytorch, Github, Self-attention, Transformer
 - **Difficulty**: Difficult
-- **Size**: Large (400 hours)
+- **Size**: Large (350 hours)
 - **Mentor**: {{% mention LinseyPang %}}, {{% mention bindong %}}
 
 ### References: 
