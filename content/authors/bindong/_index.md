@@ -15,10 +15,8 @@ role: "Research Scientist, Lawrence Berkeley National Laboratory"
 
 # Organizations/Affiliations
 organizations:
-- name: Scientific Data Management Research
-  url: "https://crd.lbl.gov/divisions/scidata/sdm/"
-- name: Computing Sciences Research Division
-  url: "https://crd.lbl.gov"
+- name: The Scientific Data Division (SciData)
+  url: "https://crd.lbl.gov/divisions/scidata/"
 - name: Lawrence Berkeley National Laboratory
   url: "https://www.lbl.gov/"
 
@@ -38,14 +36,14 @@ social:
   link: https://crd.lbl.gov/divisions/scidata/sdm/staff/dongbin/
 - icon: envelope
   icon_pack: fas
-  link: mailto:dbin@lbl.gov
+  link: mailto:goon1983@gmail.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/db-berkeley/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dbin@lbl.gov"
+email: "goon1983@gmail.com"
 
 
 # Organizational groups that you belong to (for People widget)
@@ -53,4 +51,6 @@ email: "dbin@lbl.gov"
 user_groups:
 - University of California Mentors
 ---
-Bin Dong is Research Scientist at LBNL
+Bin Dong is a Research Scientist at LBNL. His research focuses on the intersection of Big Data, High-Performance Computing (HPC), and NoAI (Not Only AI). His work explores essential techniques in AI infrastructure, the interpretation of AI models, and the application of AI to complex systems. He is also studying new data programming models and advanced data indexing and search methods to improve efficiency and scalability in handling large datasets.
+
+
