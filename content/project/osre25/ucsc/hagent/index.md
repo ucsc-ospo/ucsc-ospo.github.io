@@ -29,6 +29,8 @@ results in a code with just a few edits. Like MCY, there has to be a step to con
 the change affects results. The project should benchmarks and compare with MCY.
 
 - **Skills Needed:** Python, Verilog, and understand agents
+- **Difficulty:** Medium
+- **Size:** Medium
 - **Mentors:** {{% mention "renau" %}}, {{% mention "frabieik" %}}
 
 ### HDEval Competition Repository
@@ -46,6 +48,8 @@ The specification is free form. For any given specification, an expert on the ar
 Typical specifications consist of a plan, API, and a sample usage.
 
 - **Skills Needed:**  Web design, some hardware understanding
+- **Difficulty:** Medium
+- **Size:** Medium
 - **Mentors:** {{% mention "renau" %}}, {{% mention "frabieik" %}}
 
 ### Integrate Silicon Compiler
@@ -64,6 +68,8 @@ populate context accordingly.
 The end result should allow to select different tools and options trhough silicon compiler. 
 
 - **Skills Needed:**  Backend chip design
+- **Difficulty:** High
+- **Size:** Medium
 - **Mentors:** {{% mention "renau" %}}
 
 
@@ -88,5 +94,7 @@ already existing emulator [vice-emu](https://vice-emu.sourceforge.io/) or
 specification.
 
 - **Skills Needed:**  Verilog for front-end design
+- **Difficulty:** High
+- **Size:** Large (175 or 350 hours)
 - **Mentors:** {{% mention "renau" %}}
 
