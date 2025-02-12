@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nan Ding
+title: Yuxi Hong
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Research Scientist, Lawrence Berkeley National Laboratory"
+role: "Postdoctoral Researcher, Lawrence Berkeley National Laboratory"
 
 
 # Organizations/Affiliations
@@ -22,7 +22,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Nan Ding's research interests include high-performance computing, performance modeling, and performance optimization. 
+bio: Yuxi Hong's research interests include HPC, Numerical Linear Algebra, GPU programming, sparse computation, low rank algorithms.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -31,17 +31,17 @@ bio: Nan Ding's research interests include high-performance computing, performan
 social:
 - icon: home
   icon_pack: fas
-  link: https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/members/staff/nan-ding/
+  link: https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/members/postdocs/yuxi-hong/
 - icon: envelope
   icon_pack: fas
-  link: mailto:nanding@lbl.gov
+  link: mailto:yuxi.hong.research@gmail.com
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nandingz/
+  link: https://www.linkedin.com/in/yuxi-hong-9a981951/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nanding@lbl.gov"
+email: "yuxi.hong.research@gmail.com"
 
 
 # Organizational groups that you belong to (for People widget)
@@ -49,7 +49,6 @@ email: "nanding@lbl.gov"
 user_groups:
 - University of California Mentors
 ---
-Nan Ding is a Research Scientist in the Performance and Algorithms group of the Computer Science Department at Lawrence Berkeley National Laboratory. Her research interests include high-performance computing, performance modeling, and performance optimization. Nan received her Ph.D. in computer science from Tsinghua University, Beijing, China, in 2018.
-
+Yuxi Hong is a postdoctoral research fellow in the Performance and Algorithms group of the Computer Science Department at Lawrence Berkeley National Laboratory. He obtained his Ph.D. in Computer Science at King Abdullah University of Science and Technology (KAUST). He received an MS degree in Electronics Engineering from Tsinghua University and a BSc from Tsinghua University. His current research interests include HPC, Numerical Linear Algebra, GPU programming, sparse computation, low rank methods and efficient Machine Learning/ Deep learning.
 
 
