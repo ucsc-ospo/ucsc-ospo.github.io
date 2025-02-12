@@ -1,6 +1,6 @@
 ---
 title: "SciStream-Rep: An Artifact for Reproducible Benchmarks of Scientific Streaming Applications"
-tags: [osre25, reproducibility, networking, data streaming, high performance computing, benchmarking, testbeds, cyber security]
+tags: [osre25, lanl, reproducibility, networking, data streaming, high performance computing, benchmarking, testbeds, cyber security]
 authors: [chungmiranda, fcastro]
 author_notes: ["Research Scientist at Argonne National Laboratory", "Systems Developer at Argonne National Laboratory"]
 date: 2025-02-10
@@ -10,7 +10,7 @@ Data is generated at ever-increasing rates, yet it's often processed more slowly
 frequently operate below their full capacity—or discard valuable data—due to network bottlenecks, security domain mismatches, 
 and insufficient real-time processing capabilities. [SciStream](https://github.com/scistream/scistream-proto) reimagines how 
 scientific data moves across modern research infrastructure by providing a framework for high-speed (+100Gbps) memory-to-memory 
-streaming that doesn't compromise on security or performance. Whether connecting scientific instruments to analysis clusters or 
+streaming that doesn't compromise on security. Whether connecting scientific instruments to analysis clusters or 
 bridging across institutional boundaries, SciStream provides the foundation for next-generation scientific workflows. Building 
 on our [published research](https://dl.acm.org/doi/abs/10.1145/3502181.3531475), we're now expanding the framework's 
 capabilities through open-source development and community collaboration.
@@ -72,7 +72,8 @@ The Specific Tasks of the Project Include:
 - **Mentors:** {{% mention chungmiranda %}}, {{% mention fcastro %}}
 
 While TCP+TLS proxies are the current standard for secure data streaming, QUIC's integration of transport and security layers promises significant performance benefits for scientific workflows. However, the effectiveness of QUIC-based proxies for 
-high-throughput scientific data streaming remains largely unexplored. Initial evaluations of federated streaming architectures ([PAW'23 paper](https://par.nsf.gov/servlets/purl/10380551)) suggest potential benefits of QUIC, but comprehensive benchmarking is 
+high-throughput scientific data streaming remains largely unexplored. Initial evaluations of federated streaming architectures ([INDIS'22 
+paper](https://par.nsf.gov/servlets/purl/10380551)) suggest potential benefits of QUIC, but comprehensive benchmarking is 
 needed. This project aims to implement and thoroughly benchmark QUIC proxies against traditional TCP+TLS solutions, with special attention to hardware encryption offloading capabilities. The inherent advantages of QUIC's TLS 1.3 integration and multiplexing 
 features could potentially revolutionize how we handle secure data streaming in scientific environments.
 
