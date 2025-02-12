@@ -10,14 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: "Student at National University of Singapore"
+role: "Individual Contributor"
 
 # Organizations/Affiliations
 organizations:
-  - name: School of Computing
-    url: "https://www.comp.nus.edu.sg/"
-  - name: National University of Singapore
-    url: "https://nus.edu.sg/"
+  - name: Precision Innovations
+    url: https://precisioninno.com/
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,7 +28,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:espsluar@gmail.com
+  link: mailto:jluar@precisioninno.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/song-luar
@@ -45,4 +43,6 @@ user_groups:
   - 2023 Contributors
   - University of California Mentors
 ---
-Jack is a Masters graduate from the National University of Singapore. Key interests are in open-source Electronic Design Automation (EDA) and applying AI for Very Large Scale Integration (VLSI) design optimisation. 
+Jack is a Masters graduate from the National University of Singapore. Key interests are in open-source Electronic Design Automation (EDA) and applying AI for Very Large Scale Integration (VLSI) design optimisation.
+
+In GSoC 2024, he mentored two students and shipped the [ORAssistant](https://github.com/The-OpenROAD-Project/ORAssistant) project, a conversational chatbot meant to answer queries about OpenROAD and the OpenROAD-flow-scripts suite.
