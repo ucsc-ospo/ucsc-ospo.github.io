@@ -8,11 +8,11 @@ lastmod: 2025-02-11T12:34:56-07:00
 ---
 
 
-Brahma is a lightweight framework for building cross-platform WebXR based experiences using Three.js for the front-end and a simple Node.js/WebSocket script on the backend. It was created at the Social Emotional Technology Lab to facilitate the development of novel collaborative interfaces and virtual environments capable of loading scientific datasets. For example, in the featured image, multiple avatars are exploring a [marine science dataset related to seal migration paths](https://www.science.org/doi/10.1126/science.adf0566) overlaid on NOAA bathymetry and telemetry data. 
+Brahma is a lightweight framework for building collaborative and cross platform WebXR based experiences using Three.js for the front-end and a simple Node.js/WebSocket script on the backend. It was created at the Social Emotional Technology Lab to facilitate the development of novel collaborative interfaces and virtual environments capable of loading scientific datasets. For example, in the featured image, multiple avatars are exploring a [marine science dataset related to seal migration paths](https://www.science.org/doi/10.1126/science.adf0566) overlaid on NOAA bathymetry and telemetry data. 
 
 It addresses a gap where prior open-source collaborative VR is no longer available such as the defunct [Mozilla Hubs](https://support.mozilla.org/en-US/kb/end-support-mozilla-hubs) or proprietary engine based frameworks such as [Ubiq](https://ubiq.online/). Furthermore, it uses very little computational resources to run and develop, enabling creators who may not have a powerful computer to run a game engine in order to develop a networked VR application.
 
-This project is to release this Brahma publicly-- creating a lightweight open source framework that facilitates multi-user games, scientific visualizations and other applications. In order to do so, we need to formalize the framework, provide documentation, and key examples so that the open source tool can be extensible and serve a wider community.
+This project involves the first public release of Brahma-- creating a lightweight open source framework that facilitates multi-user games, scientific visualizations and other applications. In order to do so, we need to formalize the framework, provide documentation, and implement key examples so that the open source tool can be extensible and serve a wider community.
 
 Mentees can expect to learn best practices for VR development and testing and gain familiarity with full stack development practices. Mentees should have access and experience using a VR headset.
 
