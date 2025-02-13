@@ -30,7 +30,7 @@ OpenROAD is a large and complex program.  This project is to improve the code qu
   * **Skills**: C++, Qt
   * **Difficulty**: Medium
   * **Size**: Large (350 hours)
-  * **Mentors**: {{< mention mliberty >}} & Peter Gadfort
+  * **Mentors**: {{< mention mliberty >}} & {{< mention gadfort >}}
 
 The OpenROAD GUI is a crucial set of functionality for users to see and investigate their design.  GUI testing is specialized and rather different from standard unit testing.  The GUI therefore needs improvements to its testing to cover both interaction and rendering.  The GUI uses the Qt framework.  An open-source testing tool like https://github.com/faaxm/spix will be set up and key tests developed.  This will provide the framework for all future testing.
 
@@ -40,7 +40,7 @@ The OpenROAD GUI is a crucial set of functionality for users to see and investig
   * **Skills**: C++, data structures and algorithms
   * **Difficulty**: Medium
   * **Size**: Large (350 hours)
-  * **Mentors**: Eder Matheus Rodrigues Monteiro & {{< mention gudeh >}}
+  * **Mentors**: {{<mention emrmonteiro>}} & {{< mention gudeh >}}
 
 OpenROAD supports block floorplans that are rectangular in shape.  Some designs may require more complex shapes to fit.  This project extends the tool to support rectilinear polygon shapes as floorplans.  This will require upgrading data structures and algorithms in various parts of OpenROAD including floor plan generation, pin placement, and global placement.
 
