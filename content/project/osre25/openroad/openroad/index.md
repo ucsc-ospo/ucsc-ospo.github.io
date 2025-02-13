@@ -40,7 +40,7 @@ The OpenROAD GUI is a crucial set of functionality for users to see and investig
   * **Skills**: C++, data structures and algorithms
   * **Difficulty**: Medium
   * **Size**: Large (350 hours)
-  * **Mentors**: {{<mention emrmonteiro>}} & {{< mention gudeh >}}
+  * **Mentors**: {{< mention emrmonteiro >}} & {{< mention gudeh >}}
 
 OpenROAD supports block floorplans that are rectangular in shape.  Some designs may require more complex shapes to fit.  This project extends the tool to support rectilinear polygon shapes as floorplans.  This will require upgrading data structures and algorithms in various parts of OpenROAD including floor plan generation, pin placement, and global placement.
 
