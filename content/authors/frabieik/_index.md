@@ -42,5 +42,5 @@ email: ""
 user_groups:
 - University of California Mentors
 ---
-Sakshi is a Ph.D. student at the University of California, Santa Cruz in the domain of Computer Engineering.  Her research interests are compiler and EDA tool design for productive hardware development flow. She is working on [HAgent](https://github.com/masc-ucsc/hagent) and [HDEval](https://github.com/masc-ucsc/hdeval) as a part of the [Micro Architecture at Santa Cruz (MASC)](https://masc.soe.ucsc.edu/) group.
+Farzaneh is a Ph.D. student at the University of California, Santa Cruz in the domain of Computer Engineering.  Her research interests are compiler and EDA tool design for productive hardware development flow. She is working on [HAgent](https://github.com/masc-ucsc/hagent) and [HDEval](https://github.com/masc-ucsc/hdeval) as a part of the [Micro Architecture at Santa Cruz (MASC)](https://masc.soe.ucsc.edu/) group.
 
