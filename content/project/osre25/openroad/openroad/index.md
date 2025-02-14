@@ -50,7 +50,7 @@ OpenROAD supports block floorplans that are rectangular in shape.  Some designs 
   * **Skills**: Boost Spirit parsers, Database, C++
   * **Difficulty**: Medium
   * **Size**: Medium (175 hours)
-  * **Mentors**: Osama Hammad Abdel Reheem & Ethan Mahintorabi
+  * **Mentors**: {{< mention osamahammad21 >}} & {{< mention QuantamHD >}}
 
 LEF (Library Exchange Format) is a standard format for describing physical design rules for integrated circuits.  OpenROAD has support for many constructs but some newer ones for advanced process nodes are not supported.  This project is to support parsing such information and storing in the OpenDB for use by the rest of the tool.
 
@@ -60,7 +60,7 @@ LEF (Library Exchange Format) is a standard format for describing physical desig
   * **Skills**: large language model engineering, database, evaluation, CI/CD, open-source or related software development, full-stack
   * **Difficulty**: Medium
   * **Size**: Medium (175 hours)
-  * **Mentor**: {{< mention luarss >}}
+  * **Mentor**: {{< mention luarss >}} & {{< mention palaniappan-r >}}
 
 This project is aimed at enhancing robustness and accuracy for [OR Assistant](https://woset-workshop.github.io/PDFs/2024/11_ORAssistant_A_Custom_RAG_ba.pdf), the [conversational assistant for OpenROAD](https://github.com/The-OpenROAD-Project/ORAssistant) through comprehensive testing and evaluation. You will work with members of the OpenROAD team and other researchers to enhance the existing dataset to cover a wide range of use cases to deliver accurate responses more efficiently. This project will focus on data engineering and benchmarking and you will collaborate on a project on the LLM model engineering. Tasks include: creating evaluation pipelines, building databases to gather feedback, improving CI/CD, writing documentation, and improving the backend and frontend services as needed (non-exhaustive). You will gain valuable experience and skills in understanding chip design flows and applications. Open to proposals from all levels of ML practitioners.
 
@@ -70,6 +70,6 @@ This project is aimed at enhancing robustness and accuracy for [OR Assistant](ht
   * **Skills**: large language model engineering, prompt engineering, fine-tuning
   * **Difficulty**: Medium
   * **Size**: Medium (175 hours)
-  * **Mentor**: {{< mention luarss >}}
+  * **Mentor**: {{< mention luarss >}} & {{< mention palaniappan-r >}}
 
 This project is aimed at enhancing robustness and accuracy for [OR Assistant](https://woset-workshop.github.io/PDFs/2024/11_ORAssistant_A_Custom_RAG_ba.pdf), the [conversational assistant for OpenROAD](https://github.com/The-OpenROAD-Project/ORAssistant) through enhanced model architectures. You will work with members of the OpenROAD team and other researchers to explore alternate architectures beyond the existing RAG-based implementation. This project will focus on improving reliability and accuracy of the existing model architecture. You will collaborate on a tandem project on data engineering for OR assistant. Tasks include: reviewing and understanding the state-of-the-art in retrieval augmented generation, implementing best practices, caching prompts, improving relevance and accuracy metrics, writing documentation and improving the backend and frontend services as needed (non-exhaustive).  You will gain valuable experience and skills in understanding chip design flows and applications. Open to proposals from all levels of ML practitioners.
