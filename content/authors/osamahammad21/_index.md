@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Osama Hammad Abdel Reheem
+title: Osama Hammad
 
 # Username (this should match the folder name)
 authors:
@@ -10,16 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: "Software Engineer"
+role: "Senior Software Engineer"
 
 # Organizations/Affiliations
 organizations:
-  - name: Precision Innovations
-    url: https://precisioninno.com/
-
+  - name: Precision Innovations Inc.
+    url: "https://www.precisioninno.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Senior EDA developer at the OpenROAD project.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -28,19 +27,18 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: osama@precisioninno.com
+  link: mailto:osama@precisioninno.com
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/osama-abdel-reheem-0001a4134
+  link: https://www.linkedin.com/in/osama-hammad-11b67913a
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of California Mentors
 ---
-Osama is a software engineer at Precision Innovations.
-
+Osama is a Senior Software Engineer with a Bachelor’s degree in Computer Engineering from The American University in Cairo. With over 8 years of experience in the tech industry, including 5 years specializing in the Electronic Design Automation (EDA) sector, he has contributed to the development and maintenance of the detailed routing module (DRT) in the OpenROAD project.
