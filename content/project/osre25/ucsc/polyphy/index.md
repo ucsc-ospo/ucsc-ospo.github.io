@@ -28,3 +28,31 @@ The ideal contributor for this project has experience with Python (and common sc
 - Explore different embedding techniques for medicinal data (including implementing novel embedding procedures).
 - Explore different dimensionality reduction techniques, with a focus on faithful visualizations.
 - Document the process and resulting findings in a publicly available report.
+
+### Enhancing PolyPhy Web Application
+
+- **Topics:** `Web Development` `UI/UX Design` `Full Stack Development` `JavaScript` `Next.js` `Node.js`
+- **Skills:** Full Stack Web Development, UI/UX Design, JavaScript, Next.js, Node.js, Technical Communication
+- **Difficulty:** Challenging
+- **Size:** Medium (175 hours)
+- **Mentors:** {{% mention oelek %}}, [Kiran Deol](mailto:kdeol@ualberta.ca)
+
+
+This project aims to revamp and enhance the PolyPhy web platform to better support contributors, users, and researchers. The goal is to optimize the website’s UI/UX, improve its performance, and integrate Mediglot to provide users with a seamless experience in visualizing both general network structures and 3D medicinal embeddings.
+
+The contributor will be responsible for improving the website’s overall look, feel, and functionality, ensuring a smooth and engaging experience for both contributors and end-users. This includes addressing front-end and back-end challenges, optimizing the platform for better accessibility, and ensuring seamless integration with Mediglot.
+
+The ideal candidate should have experience in full-stack web development, particularly with **Next.js**, **JavaScript**, and **Node.js**, and should be familiar with UI/UX design principles. A strong ability to communicate effectively, both in writing and through code, is essential for this role.
+
+**Specific tasks:**
+1. **Collaborate with mentors** to understand the project's goals and the specific requirements for the website improvements.
+2. **UI/UX Redesign**: 
+   - Redesign and enhance the website’s navigation, layout, and visual elements to create an intuitive and visually engaging experience.
+   - Improve mobile responsiveness for broader accessibility across devices.
+3. **Website Performance & Stability**:
+   - Identify and resolve performance bottlenecks, bugs, or issues affecting speed, stability, and usability.
+4. **Mediglot Integration**: 
+   - Integrate the Mediglot web application with PolyPhy, ensuring seamless functionality and a unified user experience for visualizing medicinal data alongside general network reconstructions.
+5. **Documentation**:
+   - Document the development process, challenges, and solutions in a clear and organized manner, ensuring transparent collaboration with mentors and the community.
+
