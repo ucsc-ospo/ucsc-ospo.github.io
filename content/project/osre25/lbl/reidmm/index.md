@@ -1,6 +1,6 @@
 ---
 title: "ReIDMM: Re-identifying Multiple Objects across Multiple Streams"
-authors: [bindong, "Linsey Pang"]
+authors: [bindong, LinseyPang]
 author_notes: ["Research Scientist, Lawrence Berkeley Lab", "Salesforce"]
 tags: ["osre25", "uc", "AI", "Image Processing", "Search"]
 date: 2025-02-06T10:15:56-07:00
@@ -30,8 +30,11 @@ This project will deliver three things, software, evaluation results and demo. T
 - **Topics**: ReIDMM: Re-identifying Multiple Objects across Multiple Streams`
 - **Skills**: Proficient in Python, Experience with images processing, machine learning
 - **Difficulty**: Difficult
-- **Size**: Large (400 hours)
-- **Mentor**: {{% mention bindong %}}, "Linsey Pang"
+- **Size**: Large (350 hours)
+- **Mentor**: {{% mention bindong %}}, {{% mention LinseyPang %}}
 
 
 
+### Reference:
+- [multiple-object-tracking-using-person](https://medium.datadriveninvestor.com/multiple-object-tracking-using-person-re-identification-f9b7360cda1a)
+- Dataset: [Vehicle re-identification dataset and paper](https://paperswithcode.com/task/vehicle-re-identification) and [Person re-identification data and paper](https://paperswithcode.com/task/person-re-identification)
