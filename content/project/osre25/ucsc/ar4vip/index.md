@@ -12,13 +12,13 @@ Our intended use is primarily indoors or outdoors but within private confines e.
 Using AR/VR headsets or smart glasses allows navigation without using a cane and frees
 the users' hands for other tasks.
 
-### Continue development on Meta Quest 3 headset
+### Continue Development on Meta Quest 3 Headset
 
 - **Topics:** `Dynamic scenes` `Spatial audio` `Proximity detection`
 - **Skills:** AR/VR familiarity, WebXR, Unity, SLAM, good communicator, good documentation skills
 - **Difficulty:** Moderate
 - **Size:** Medium or large (175 or 350 hours)
-- **Mentors:** [alex pang](mailto:pang@soe.ucsc.edu), [james davis](davis@cs.ucsc.edu)
+- **Mentors:** [Alex Pang](mailto:pang@soe.ucsc.edu), [James Davis](davis@cs.ucsc.edu)
 
 Continue development and field testing with the Meta Quest 3 headset.
 See this [repository page](https://github.com/sail360/UCSC-VIP-Research) for current status.
@@ -36,7 +36,7 @@ Specific tasks:
 - **Skills:** AR/VR familiarity, WebXR, Unity, SLAM, good communicator, good documentation skills
 - **Difficulty:** Moderate
 - **Size:** Large (350 hours)
-- **Mentors:** [alex pang](mailto:pang@soe.ucsc.edu), [James Davis](mailto:davis@cs.ucsc.edu)
+- **Mentors:** [Alex Pang](mailto:pang@soe.ucsc.edu), [James Davis](mailto:davis@cs.ucsc.edu)
 
 VR headsets are bulky and awkward, but currently is more advanced than AR glasses in terms of programmability.
 Ultimately, the form factor of smart glasses is more practical for extended use by our target users.
