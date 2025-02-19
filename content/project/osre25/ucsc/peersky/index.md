@@ -1,6 +1,6 @@
 ---
 title: "Peersky Browser"
-authors: [akhilesh]
+authors: [akhileshthite]
 author_notes: ["MS Sudent, UC Santa Cruz"]
 tags: ["osre25", "dweb", "p2p", "local-first", "browser"]
 date: 2025-02-18T12:00:00-08:00
