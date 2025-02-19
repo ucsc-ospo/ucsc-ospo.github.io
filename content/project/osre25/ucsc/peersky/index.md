@@ -15,7 +15,7 @@ lastmod: 2025-02-18T12:00:00-08:00
 - **Skills:** JavaScript, Electron.js, HTML/CSS
 - **Difficulty:** Moderate
 - **Size:** Medium (175 hours)
-- **Mentors:** [Akhilesh Thite](mailto:athite@ucsc.edu)
+- **Mentors:** {{% mention akhileshthite %}}
 
 Implement web extension support in Electron by leveraging its web extension node modules, pre-installing extensions, and providing a user interface for adding, updating, and securely managing them.
 
@@ -40,7 +40,7 @@ Implement web extension support in Electron by leveraging its web extension node
 - **Skills:** JavaScript, Distributed Systems, P2P
 - **Difficulty:** Moderate
 - **Size:** Medium (175 hours)
-- **Mentors:** [Akhilesh Thite](mailto:athite@ucsc.edu)
+- **Mentors:** {{% mention akhileshthite %}}
 
 Implement chat history synchronization for Hyper chat rooms, ensuring that new devices retrieve all past messages—including those sent while offline—for a seamless user experience. Additionally, research and experiment with mDNS to enable true offline, peer-to-peer messaging on local networks.
 
