@@ -30,7 +30,7 @@ Implement web extension support in Electron by leveraging its web extension node
   - Add an option for users to manually update all installed extensions.
 - **Validate and Sandbox Extensions:**
   - Check the integrity and manifest structure of the uploaded extensions to ensure they meet Chrome Manifest V3 requirements.
-- Apply sandboxing techniques and enforce strict content security policies to mitigate potential risks.
+  - Apply sandboxing techniques and enforce strict content security policies to mitigate potential risks.
 - **Extension Management UI:**
   - Design a dedicated UI at the top right of the navigation bar to manage extensions, including stack order and pinning functionality for quick access and organization.
 
@@ -55,3 +55,5 @@ Implement chat history synchronization for Hyper chat rooms, ensuring that new d
 - **Research mDNS (Multicast DNS):**
   - mDNS is a protocol that allows devices on the same local network to communicate with each other without the need for a central DNS server. This enables peer-to-peer communication, especially in offline environments, making it ideal for offline messaging.
   - Experiment with the `mDNS()` function to enable peer-to-peer communication for offline chat rooms.
+- **Create Hyper Chat Web App Version:**
+  - Currently, Hyper chat is accessed via `peersky://p2p/chat`. Develop a web app version of Hyper chat that can be hosted on the `hyper://` protocol (`hyper://chat.p2plabs.xyz`). This way, other P2P browsers (like [Agregore](https://agregore.mauve.moe/)) can use it to communicate.
