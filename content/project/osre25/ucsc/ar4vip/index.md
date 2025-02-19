@@ -7,28 +7,30 @@ date: 2025-02-18
 lastmod: 2025-02-18
 ---
 
-[Polyphorm](https://github.com/CreativeCodingLab/Polyphorm) is an agent-based system for reconstructing and visualizing *optimal transport networks* defined over sparse data. Rooted in astronomy and inspired by nature, we have used Polyphorm to reconstruct the [Cosmic web](https://youtu.be/5ILwq5OFuwY) structure, but also to discover network-like patterns in natural language data. You can find more details about our research [here](https://elek.pub/projects/Rhizome-Cosmology). Under the hood, Polyphorm uses a richer 3D scalar field representation of the reconstructed network, instead of a discrete representation like a graph or a mesh.
+We are interested in developing navigation aids for visually impaired people (VIP) using AR/VR technologies.
+Our intended use is primarily indoors or outdoors but within private confines e.g. person's backyard.
+Using AR/VR headsets or smart glasses allows navigation without using a cane and frees
+the users' hands for other tasks.
 
-**PolyPhy** will be a Python-based redesigned version of Polyphorm, currently in the beginning of its development cycle. PolyPhy will be a multi-platform toolkit meant for a wide audience across different disciplines: astronomers, neuroscientists, data scientists and even artists and designers. All of the offered projects focus on PolyPhy, with a variety of topics including design, coding, and even research. Ultimately, PolyPhy will become a tool for discovering connections between different disciplines by creating quantitatively comparable structural analytics.
+### Continue development on Meta Quest 3 headset
 
-### Develop website for PolyPhy
-
-- **Topics:** `Web Development` `Dynamic Updates` `UX`
-- **Skills:** web development experience, good communicator, (HTML/CSS), (Javascript)
+- **Topics:** `Dynamic scenes` `Spatial audio` `Proximity detecction`
+- **Skills:** AR/VR familiarity, WebXR, Unity, SLAM, good communicator, good documentation skills
 - **Difficulty:** Moderate
 - **Size:** Medium or large (175 or 350 hours)
-- **Mentors:** [Oskar Elek](mailto:oelek@ucsc.edu)
+- **Mentors:** [alex pang](mailto:pang@soe.ucsc.edu)
 
-Develop a clean and welcoming website for the project. The organization needs to reflect the needs of PolyPhy users, but also provide a convenient entry point for interested project contributors. No excessive pop-ups or webjunk.
+Continue development and field testing with the Meta Quest 3 headset.
+See this [repository page](https://github.com/sail360/UCSC-VIP-Research) for current status.
 
 Specific tasks:
-- Work with mentors on understanding the context of the project.
-- Port the contents of the [repository page](https://github.com/CreativeCodingLab/Polyphorm) to a dedicated website.
-- Design the structure of the website according to best OS practices.
-- Work with the visual designer (see below) in creating a coherent and organic presentation.
-- Interactively link important metrics from the project dev environment as well as documentation.
+- Improve spatial audio mapping
+- Improve obstacle detection, at different heights, with pre-scanned geometry as well as dynamic objects
+  e.g. other people, pets, doors
+- Special handling of hazards e.g. stairs, uneven floors, etc.
+- Explore/incorporate AI to help identify objects in the scene when requested by user
 
-### Setup CI/CD for PolyPhy
+### New Development on Smart Glasses
 
 - **Topics:** `Continuous Integration` `Continuous Deployment` `DevOps`
 - **Skills:** experience with CI/CD, GitHub, Python package deployment
