@@ -1,10 +1,10 @@
 ---
-title: "Polyphorm / PolyPhy"
-authors: [oelek]
-author_notes: ["OSPO Incubator Fellow, UC Santa Cruz"]
-tags: ["osre22", "uc", "data science", "website design"]
-date: 2022-11-07T10:15:56-07:00
-lastmod: 2022-11-07T10:15:56-07:00
+title: "AR4VIP"
+authors: ["alex pang"]
+author_notes: ["CSE Professor, UC Santa Cruz"]
+tags: ["osre25", "uc", "ar/vr", "navigation aid", "visually impaired people"]
+date: 2025-02-18
+lastmod: 2025-02-18
 ---
 
 [Polyphorm](https://github.com/CreativeCodingLab/Polyphorm) is an agent-based system for reconstructing and visualizing *optimal transport networks* defined over sparse data. Rooted in astronomy and inspired by nature, we have used Polyphorm to reconstruct the [Cosmic web](https://youtu.be/5ILwq5OFuwY) structure, but also to discover network-like patterns in natural language data. You can find more details about our research [here](https://elek.pub/projects/Rhizome-Cosmology). Under the hood, Polyphorm uses a richer 3D scalar field representation of the reconstructed network, instead of a discrete representation like a graph or a mesh.
