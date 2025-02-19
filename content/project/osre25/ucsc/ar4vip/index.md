@@ -14,11 +14,11 @@ the users' hands for other tasks.
 
 ### Continue development on Meta Quest 3 headset
 
-- **Topics:** `Dynamic scenes` `Spatial audio` `Proximity detecction`
+- **Topics:** `Dynamic scenes` `Spatial audio` `Proximity detection`
 - **Skills:** AR/VR familiarity, WebXR, Unity, SLAM, good communicator, good documentation skills
 - **Difficulty:** Moderate
 - **Size:** Medium or large (175 or 350 hours)
-- **Mentors:** [alex pang](mailto:pang@soe.ucsc.edu)
+- **Mentors:** [alex pang](mailto:pang@soe.ucsc.edu), [james davis](davis@cs.ucsc.edu)
 
 Continue development and field testing with the Meta Quest 3 headset.
 See this [repository page](https://github.com/sail360/UCSC-VIP-Research) for current status.
@@ -32,16 +32,24 @@ Specific tasks:
 
 ### New Development on Smart Glasses
 
-- **Topics:** `Continuous Integration` `Continuous Deployment` `DevOps`
-- **Skills:** experience with CI/CD, GitHub, Python package deployment
+- **Topics:** `Dynamic scenes` `Spatial audio` `Proximity detection`
+- **Skills:** AR/VR familiarity, WebXR, Unity, SLAM, good communicator, good documentation skills
 - **Difficulty:** Moderate
 - **Size:** Large (350 hours)
-- **Mentors:** [Oskar Elek](mailto:oelek@ucsc.edu), [Anisha Goel](mailto:anishagoel14@gmail.com)
+- **Mentors:** [alex pang](mailto:pang@soe.ucsc.edu), [James Davis](mailto:davis@cs.ucsc.edu)
 
-The objective is to setup a CI/CD pipeline that automates the build testing and deployment of the software. The resulting process needs to be robust to contributor errors and work in the distributed conditions of a diverse contributor base.
+VR headsets are bulky and awkward, but currently is more advanced than AR glasses in terms of programmability.
+Ultimately, the form factor of smart glasses is more practical for extended use by our target users.
+There are many vendors working on pushing out their version of smart glasses targetting various applications
+e.g. alternative for watching TV, etc.  We are interested in those that provide capabilities to support
+spatial computing.  Most of these will likely have their own brand specific APIs.  This project has 2 goals:
+(a) develop generic brand-independent API, perhaps extensions to WebXR, to support overarching goal of navigation
+aid for VIP, and 
+(b) port functionality of VR version to smart glasses while taking advantage of smart glass functionalities and sensors.
 
 Specific tasks:
-- Automate continuous building, testing, merging and deployment for PolyPhy in GitHub.
-- Publish the CI/CD metrics and build assets to the project webpage.
-- Work with other contributors in educating them about the best practices of using the developed CI/CD pipeline.
-- Add support for automated packaging using common management systems (pip, Anaconda).
+- Explore current and soon-to-be-available smart glass options e.g. Snap Spectacles, Xreal Air 2 ultra, etc. and select a platform to work on (subject to cost and availability of SDK).  At a minimum, glass should be microphones and speakers, and cameras.  Infrared cameras or other low light capability is a plus.  Sufficient battery life or option for quick exchange.
+- Identify support provided by SDK e.g. does it do realtime scene reconstruction? does it support spatial audio? etc.  If it supports features outside of WebXR, provide generic hooks to improve portability of code to other smart glasses.
+- Port and extend functionalities from the Meta Quest 3 VR headsets to smart glass platform.
+- Add AI support if glasses support them.
+- Provide documentation of work.
