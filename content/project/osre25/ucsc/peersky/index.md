@@ -11,7 +11,7 @@ lastmod: 2025-02-18T12:00:00-08:00
 
 ### Implement Web Extensions Integration
 
-- **Topics:** `Browser Extensions` `UI/UX` `Electron`
+- **Topics:** `Browser Extensions`, `UI/UX`, `Electron`
 - **Skills:** JavaScript, Electron.js, HTML/CSS
 - **Difficulty:** Moderate
 - **Size:** Medium (175 hours)
@@ -37,7 +37,7 @@ Implement web extension support in Electron by leveraging its web extension node
 ### Implement Chat History Synchronization for Hyper Chat Rooms
 
 - **Topics:** `P2P Communication`, `Hypercore Protocol`, `Real-time Synchronization`
-- **Skills:** JavaScript, Hypercore protocol, distributed systems
+- **Skills:** JavaScript, Distributed Systems, P2P
 - **Difficulty:** Moderate
 - **Size:** Medium (175 hours)
 - **Mentors:** [Akhilesh Thite](mailto:athite@ucsc.edu)
