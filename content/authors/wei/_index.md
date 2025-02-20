@@ -54,7 +54,7 @@ email: "zhangwei217245@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- University of California Mentors
+- Summer of Reproducibility Mentors
 ---
 Dr. Zhang's key contributions include:
 
