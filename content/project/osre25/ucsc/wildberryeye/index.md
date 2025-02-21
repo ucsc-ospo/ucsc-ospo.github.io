@@ -14,7 +14,7 @@ WildBerryEye leverages Raspberry Pi and YOLO object detection models to monitor 
 - **Topics:** `Full Stack Development` `React` `Flask`
 - **Skills:** Experience with full stack development and real time processing
 - **Difficulty:** Moderate to Challenging 
-- **Size:** Medium or large (200 hrs)
+- **Size:** Medium or large (175 or 350 hrs)
 - **Mentors:** [Carlos Isaac Espinosa Ramirez](mailto:caiespin@ucsc.edu)
 
 Develop a clean and intuitive web-based interface for WildBerryEye, ensuring ease of use for researchers and contributors. The platform should present real-time pollinator detection results, facilitate data visualization, and allow users to interact with system settings efficiently. The website must be accessible, visually appealing, and optimized for both desktop and mobile users, avoiding unnecessary complexity or intrusive elements.
