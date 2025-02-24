@@ -25,7 +25,7 @@ Here, we highlight some specific projects that will work well in the summer ment
  - **Skills:** software development, backend, rest api, data munging, http request inspection, python
  - **Difficulty:** Moderate
  - **Size:** Medium (175 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Lucas Ellenberger](mailto:lmellenb@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Lucas Ellenberger](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The Quiz Composer houses quizzes and quiz questions in a simple and unambiguous format based
 on [JSON](https://en.wikipedia.org/wiki/JSON) and [Markdown](https://en.wikipedia.org/wiki/Markdown) (specifically, the [CommonMark specification](https://commonmark.org)).
@@ -51,7 +51,7 @@ See Also:
  - **Skills:** software development, backend, rest api, data munging, python
  - **Difficulty:** Moderate
  - **Size:** Medium (175 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Lucas Ellenberger](mailto:lmellenb@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Lucas Ellenberger](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The Quiz Composer can export quizzes to many different formats,
 each with a varying level of interactivity and feature support.
@@ -76,7 +76,7 @@ See Also:
  - **Skills:** software development, backend, data munging, python
  - **Difficulty:** Moderate-Challenging
  - **Size:** Large (350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Lucas Ellenberger](mailto:lmellenb@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Lucas Ellenberger](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 Questions in the Quiz Composer are described using [JSON](https://en.wikipedia.org/wiki/JSON) and [Markdown](https://en.wikipedia.org/wiki/Markdown)
 files which contain the question prompt, possible answers, and the correct answer.
