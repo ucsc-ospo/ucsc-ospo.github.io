@@ -1,6 +1,6 @@
 ---
 title: "AI Data Readiness Inspector (AIDRIN)"
-authors: [jeanlucabez, "Suren Byna"]
+authors: [jeanlucabez, surenbyna]
 author_notes: ["Research Scientist, Lawrence Berkeley Lab", " The Ohio State University (OSU)"]
 tags: ["osre25", "uc", "LBNL", "data science", "AI"]
 date: 2025-02-11T10:15:00-07:00
@@ -19,4 +19,4 @@ The proposed work will include improvements in the AIDRIN framework to (1) enhan
 - **Skills:** Python, C/C++, good communicator
 - **Difficulty:** Moderate
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention jeanlucabez %}} and [Suren Byna](mailto:sbyna@lbl.gov)
+- **Mentors:** {{% mention jeanlucabez %}} and {{% mention surenbyna %}}
