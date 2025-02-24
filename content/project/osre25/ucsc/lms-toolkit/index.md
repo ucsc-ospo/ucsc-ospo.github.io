@@ -33,7 +33,7 @@ but add support for more LMSs.
  - **Skills:** software development, backend, rest api, data munging, http request inspection, python
  - **Difficulty:** Moderate
  - **Size:** Medium or Large (175 or 350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Batuhan Salih](mailto:basalih@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Batuhan Salih](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The LMS Toolkit already has basic read-write support for core Canvas functionality (working with grades and assignments).
 However, there are still many more features that can be supported such as
@@ -62,7 +62,7 @@ See Also:
  - **Skills:** software development, backend, rest api, data munging, http request inspection, python
  - **Difficulty:** Moderate
  - **Size:** Large (350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Batuhan Salih](mailto:basalih@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Batuhan Salih](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The goal of the LMS toolkit is to provide a single interface for all LMSs.
 It is a lofty goal, however there is currently only support for [Canvas](https://en.wikipedia.org/wiki/Instructure#Canvas).
@@ -85,7 +85,7 @@ See Also:
  - **Skills:** software development, backend, rest api, data munging, http request inspection, python
  - **Difficulty:** Challenging
  - **Size:** Large (350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Batuhan Salih](mailto:basalih@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Batuhan Salih](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The goal of the LMS toolkit is to provide a single interface for all LMSs.
 It is a lofty goal, however there is currently only support for [Canvas](https://en.wikipedia.org/wiki/Instructure#Canvas).
@@ -110,7 +110,7 @@ See Also:
  - **Skills:** software development, backend, rest api, data munging, http request inspection, python
  - **Difficulty:** Challenging
  - **Size:** Large (350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Batuhan Salih](mailto:basalih@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Batuhan Salih](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The goal of the LMS toolkit is to provide a single interface for all LMSs.
 It is a lofty goal, however there is currently only support for [Canvas](https://en.wikipedia.org/wiki/Instructure#Canvas).
@@ -135,7 +135,7 @@ See Also:
  - **Skills:** software development, backend, testing, ci, docker
  - **Difficulty:** Challenging
  - **Size:** Large (350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Batuhan Salih](mailto:basalih@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Batuhan Salih](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The goal of the LMS toolkit is to provide a single interface for all LMSs.
 This means that our system must communicate with several different (the LMSs),
