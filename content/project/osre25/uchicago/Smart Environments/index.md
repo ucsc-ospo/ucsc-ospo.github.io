@@ -2,7 +2,7 @@
 title: "Smart Environments – An AI System for Reproducible Custom Computing Environments" 
 authors: [mpowers, msherman]
 author_notes: ["University of Chicago", "University of Chicago"]
-tags: ["osre24", "reproducibility", "machine learning", "OS"]
+tags: ["osre25", "reproducibility", "machine learning", "OS"]
 date: 2025-02-18
 lastmod: 2025-02-18
 ---
@@ -26,7 +26,7 @@ Modern research on cloud testbeds often requires setting up specialized software
 - DevOps: Automated environment configuration, CI/CD workflows, and containerization.
 **Difficulty**: Hard
 **Size**: Large
-**Mentors**: Marc (mtrichardson@uchicago.edu)
+**Mentors**: Marc Richardson (mtrichardson@uchicago.edu)
 **Tasks**:
 - Requirement Gathering & NLP Design
     - Research the specific needs of researchers building experimental setups.

@@ -2,7 +2,7 @@
 title: "Assessing and Enhancing CC-Snapshot for Reproducible Experiment Environments"
 authors: [mpowers, msherman]
 author_notes: ["University of Chicago", "University of Chicago"]
-tags: ["osre24", "reproducibility", "operating systems"]
+tags: ["osre25", "reproducibility", "operating systems"]
 date: 2025-02-18
 lastmod: 2025-02-18
 ---
@@ -24,7 +24,7 @@ In this project, you will review existing CC-Snapshot workflows, research the la
 **Skills**: Linux / OS Concepts, Cloud Tools, Systems Programming / Scripting, DevOps / CI
 **Difficulty**: Moderate
 **Size**: Medium
-**Mentors**: {{% mention msherman %}} {{% mention mpowers %}}
+**Mentors**: {{% mention msherman %}}, {{% mention mpowers %}}
 **Tasks**: 
   - Ensure Snapshot Consistency
     - Reboot into a ramdisk and copy the offline disk.

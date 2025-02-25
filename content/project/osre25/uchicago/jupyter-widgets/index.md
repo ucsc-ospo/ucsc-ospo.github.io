@@ -2,7 +2,7 @@
 title: "Widgets for Python-chi in Jupyter" 
 authors: [mpowers, msherman]
 author_notes: ["University of Chicago", "University of Chicago"]
-tags: ["osre24", "reproducibility", "visualization", "UX"]
+tags: ["osre25", "reproducibility", "visualization", "UX"]
 date: 2025-02-18
 lastmod: 2025-02-18
 ---
@@ -26,7 +26,7 @@ As cloud researchers often work with Jupyter Notebooks for interactive data anal
 - Software Engineering & CI: Ability to version-control, test, and deploy Python packages.
 **Difficulty**: Moderate
 **Size**: Medium
-**Mentor**: {{% mention msherman %}} {{% mention mpowers %}}
+**Mentor**: {{% mention msherman %}}, {{% mention mpowers %}}
 **Tasks**:
 - Resource Visualization Widgets
     - Build custom widgets that show reserved resources (nodes, networks, storage) in Jupyter.
