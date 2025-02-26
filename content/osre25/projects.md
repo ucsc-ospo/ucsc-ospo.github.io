@@ -37,9 +37,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: UC Mentors
+    - name: UC Mentors/GSoC
       tag: uc
-    - name: Reproducibility
+    - name: Reproducibility/SoR
       tag: reproducibility
     - name: Hide
       tag: hidden
