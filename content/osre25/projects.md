@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: 2025 Projects
-subtitle: "2025 projects still being added! For SoR eligible projects, filter for Reproducibiltiy/SoR filter. " 
+subtitle: "For SoR eligible projects, filter for Reproducibiltiy/SoR filter. " 
 
 # Position of this section on the page
 weight: 70
