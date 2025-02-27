@@ -3,6 +3,7 @@
 title: Suren Byna
 
 # Username (this should match the folder name)
+author: surenbyna
 authors:
 - surenbyna
 
