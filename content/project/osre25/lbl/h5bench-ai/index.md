@@ -1,6 +1,6 @@
 ---
 title: "h5bench with AI workloads"
-authors: [jeanlucabez, "Suren Byna"]
+authors: [jeanlucabez, surenbyna]
 author_notes: ["Research Scientist, Lawrence Berkeley Lab", " The Ohio State University (OSU)"]
 tags: ["osre25", "uc", "LBNL", "data science", "benchmarking", "AI"]
 date: 2025-02-11T10:15:00-07:00
@@ -19,4 +19,4 @@ The proposed work will include (1) analyzing and characterizing AI workloads tha
 - **Skills:** Python, C/C++, good communicator
 - **Difficulty:** Moderate
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention jeanlucabez %}} and [Suren Byna](mailto:sbyna@lbl.gov)
+- **Mentors:** {{% mention jeanlucabez %}} and {{% mention surenbyna %}}
