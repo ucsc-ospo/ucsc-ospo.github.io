@@ -2,7 +2,7 @@
 title: "Enhancing Reproducibility in Distributed AI Training: Leveraging Checkpointing and Metadata Analytics"
 authors: [kakulo]
 author_notes: ["Computer Scientist, Pacific Northwest National Laboratory"]
-tags: ["reproducibility", "AI", "metadata", "checkpoint", "PNNL"]
+tags: ["osre25", "reproducibility", "AI", "metadata", "checkpoint", "PNNL"]
 date: 2025-02-21T09:00:00-07:00
 lastmod: 2025-02-21T09:00:00-07:00
 ---

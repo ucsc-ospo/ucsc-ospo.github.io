@@ -2,7 +2,7 @@
 title: "Enhancing Reproducibility in RAG Frameworks for Scientific Workflows"
 authors: [kakulo]
 author_notes: ["Computer Scientist, Pacific Northwest National Laboratory"]
-tags: ["reproducibility", "LLM", "RAG", "AI", "PNNL"]
+tags: ["osre25", "reproducibility", "LLM", "RAG", "AI", "PNNL"]
 date: 2025-02-20T09:00:00-07:00
 lastmod: 2025-02-20T09:00:00-07:00
 ---
