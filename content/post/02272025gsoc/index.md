@@ -1,6 +1,6 @@
 ---
-title: "Accepted as 2024 GSoC Mentor Organiztion"
-subtitle: "OSRE 2024 will benefit from GSOC outreach and funding."
+title: "Accepted as 2025 GSoC Mentor Organiztion"
+subtitle: "Excited to once again be working with such an amazing program."
 authors: [slieggi]
 tags: [sor,osre]
 categories: [News]
@@ -35,4 +35,4 @@ Interested students should check out our [projects](/osre25/#projects) for propo
 - Storage systems
 - High Performance Computing
 
-Students are encouraged to reach out to our mentors during the proposals stage. See our [student information section](/osre25/#forstudents) for information related to the proposal process. Note we ask that all interested student join our Slack channel by **March 27** in order for their application to be considered. Contact the [OSRE admin](mailto:ospo-info-group@ucsc.edu) to get the link.
+Students are encouraged to reach out to our mentors during the proposals stage. See our [student information section](/osre25/#forstudents) for information related to the proposal process. Note we ask that all interested student join our Slack channel by **March 23** in order for their application to be considered. Contact the [OSRE admin](mailto:ospo-info-group@ucsc.edu) to get the link.
