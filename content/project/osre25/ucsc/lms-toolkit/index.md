@@ -27,6 +27,13 @@ The [LINQS Lab](https://linqs.org) has made many contributions to the maintain a
 Currently, the LMS Toolkit only supports Canvas, but this suite of projects hopes to not only expand existing support,
 but add support for more LMSs.
 
+All students interested in LINQS projects for OSRE/GSoC 2025 should fill out [this form](https://forms.gle/RxGqnQiCDeHSX6tq6).
+Towards the end of the application window, we will contact those who we believe to be a good fit for a LINQS project.
+The form will stop accepting responses once the application window closes.
+Do not post on any of the project repositories about OSRE/GSoC
+(e.g., comment on an issue that you want to tackle it as a part of OSRE/GSoC 2025).
+Remember, these are active repositories that were not created for OSRE/GSoC.
+
 ### Advanced Canvas Support
 
  - **Topics:** `Backend` `Teaching Tools` `API`
