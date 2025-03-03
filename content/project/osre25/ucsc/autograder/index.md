@@ -19,6 +19,13 @@ The [LINQS Lab](https://linqs.org) has made many contributions to the maintain a
 As an open source project, there are endless opportunities for development, improvements, and collaboration.
 Here, we highlight some specific projects that will work well in the summer mentorship setting.
 
+All students interested in LINQS projects for OSRE/GSoC 2025 should fill out [this form](https://forms.gle/RxGqnQiCDeHSX6tq6).
+Towards the end of the application window, we will contact those who we believe to be a good fit for a LINQS project.
+The form will stop accepting responses once the application window closes.
+Do not post on any of the project repositories about OSRE/GSoC
+(e.g., comment on an issue that you want to tackle it as a part of OSRE/GSoC 2025).
+Remember, these are active repositories that were not created for OSRE/GSoC.
+
 ### LLM Detection
 
  - **Topics:** `AI/ML` `LLM` `Research` `Backend`
