@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: SoR 2025 Projects
-subtitle: "For SoR eligible projects, filter for Reproducibiltiy/SoR. " 
+# subtitle: "For SoR eligible projects, filter for Reproducibiltiy/SoR. " 
 
 # Position of this section on the page
 weight: 20
@@ -16,10 +16,11 @@ content:
     folders:
       - project
     # Replace this tag to the current year (e.g. osre24)
-    tags: [osre25, reproducibility]
+    tags:
+      - osre25
     # Uncomment below to exclude content with specific tags:
-#    exclude_tags:
-#      - preface    
+    #exclude_tags:
+    #  - uc    
     # Uncomment below to show specific Hugo Page kinds
     kinds:
       - page
@@ -34,13 +35,13 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `filter_button` below.
-  # filter_button:
+  filter_button:
   #  - name: All
   #    tag: '*'
   #  - name: UC Mentors/GSoC
   #    tag: uc
-  #  - name: Reproducibility/SoR
-  #    tag: reproducibility
+    - name: Reproducibility/SoR
+      tag: reproducibility
   #  - name: Hide
   #    tag: hidden
 
