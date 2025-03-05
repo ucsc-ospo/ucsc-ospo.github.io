@@ -33,6 +33,7 @@ email: ""
 
 user_groups:
   - 2024 Contributors
+  - University of California Mentors
 ---
 
 Aviral is concurrently pursuing an integrated B.Tech-M.Tech in Computer Science Engineering with a specialization in Cyber Security at National Forensic Sciences University, Delhi Campus, and a B.S. in Data Science and Applications at the Indian Institute of Technology, Madras. Key subject areas of interest include Machine Learning, Artificial Intelligence, Data Science, and Cyber Security. He likes solving Capture The Flag (CTF) challenges that test his ability to uncover vulnerabilities and secure systems.
