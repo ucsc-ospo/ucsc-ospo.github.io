@@ -1,6 +1,6 @@
 ---
 title: "Contextualization – Extending Chameleon’s Orchestration for One-Click Experiment Deployment" 
-authors: [mpowers, msherman]
+authors: [marshalp]
 author_notes: ["University of Chicago", "University of Chicago"]
 tags: ["osre25", "reproducibility", "cloud computing", "systems architecture"]
 date: 2025-02-18
@@ -26,7 +26,7 @@ lastmod: 2025-02-18
 - CI/CD & DevOps: Experience building or integrating asynchronous deployment and notifications.
 **Difficulty**: Hard
 **Size**: Large (suitable for a semester-long project or a summer internship)
-**Mentors**: {{% mention msherman %}}, {{% mention mpowers %}}
+**Mentors**: {{% mention marshalp %}}
 **Tasks**:
 - One-Click Template Launch
   - Design a template (in Heat or similar) specifying multiple cloud resources (images, networks, disk images, SSH keys, etc.).
