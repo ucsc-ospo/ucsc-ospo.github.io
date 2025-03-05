@@ -1,7 +1,7 @@
 ---
 title: "MPI Appliance for HPC Research on Chameleon" 
-authors: [mpowers]
-author_notes: ["University of Chicago", "Argonne National Laboratory"]
+authors: [raffenettik]
+author_notes: ["Argonne National Laboratory"]
 tags: ["osre25", "reproducibility", "MPI", "cloud computing"]
 date: 2025-02-18
 lastmod: 2025-02-18
@@ -24,7 +24,7 @@ This project aims to develop a streamlined template for launching MPI (Message P
 - Scripting & Automation: Ability to write scripts (e.g., Bash, Python) to automate setup and deployment steps.
 **Difficulty**: Moderate to Hard
 **Size**: Medium
-**Mentor**: {{% mention msherman %}}, {{% mention mpowers %}}, Ken Raffenetti (raffenet@anl.gov)
+**Mentor**: {{% mention raffenettik %}}
 **Tasks**
 - Disk Images with MPI Dependencies
     - Build base images with the correct versions of MPI (e.g., MPICH, OpenMPI) and any required libraries (e.g., GCC, network libraries).
