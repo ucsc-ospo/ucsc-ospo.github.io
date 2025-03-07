@@ -84,14 +84,14 @@ Related Work:
 ### Evaluate New Gradual Languages
 
 * Topics: `benchmark implementation`, `programming languages`, `types`
-* Skills: Ruby, Lua, Python, Clojure, PHP
+* Skills: Ruby, Lua, Python, Clojure, or PHP
 * Difficulty: Medium
 * Size: Small
 * Mentor: {{% mention bennn %}}
 
 Bring the If-T Benchmark to new typecheckers.
 Examples include
-[Sorbet]https://sorbet.org/(),
+[Sorbet](https://sorbet.org/),
 [Hack](https://hacklang.org/),
 [Luau](https://luau.org/),
 [Pyre](https://pyre-check.org/),
@@ -106,7 +106,7 @@ of benchmark results.
 ### Do Unsound Narrowings Lead to Exploits?
 
 * Topics: `corpus study`, `types`, `counterexamples`
-* Skills: TypeScript, Python
+* Skills: TypeScript or Python
 * Difficulty: Medium
 * Size: Small
 * Mentor: {{% mention bennn %}}
