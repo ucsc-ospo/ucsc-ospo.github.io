@@ -9,6 +9,8 @@ lastmod: 2025-02-18
 
 ## Overview
 
+Reproducibility in computer systems research is often hindered by the quality and completeness of artifact descriptions and the complexity of establishing experimental environments. When experiments involve multiple interconnected components, researchers struggle with hardcoded configurations, inadequate documentation of setup processes, and missing validation steps that would verify correct environment establishment. This project addresses these challenges by extending orchestration capabilities beyond basic hardware provisioning to include comprehensive contextualization—making complex, multi-component experimental environments deployable via parameterized templates with clear validation points, standardized metadata, and minimal user intervention—thus significantly reducing the barriers to reproducing complex distributed systems experiments.
+
 [Chameleon](chameleoncloud.org) already provides powerful capabilities to orchestrate and configure resources through Heat templates (similar to Terraform) and the [python-chi](https://python-chi.readthedocs.io/) library. However, these focus primarily on provisioning (i.e., allocating and configuring hardware resources). This project goes a step further by addressing contextualization—the process of creating complete, ready-to-use experimental environments that incorporate everything from network layout to instance-level configuration and discovery—with additional features such as parameterized templates, experiment-level metadata, and output reporting.
 
 ## Key Outcomes
@@ -19,14 +21,19 @@ lastmod: 2025-02-18
 - Optional Advanced Features: Partial reconfiguration to avoid full rebuilds when changes are minor, an “export” function to capture existing deployments into a new template, and potential publishing to Trovi for reproducibility and archiving.
 
 **Topics**: Cloud Computing & Orchestration, Infrastructure as Code, DevOps & Automation, Reproducible Research Environments
+
 **Skills**:
 - OpenStack & Heat Templates: Familiarity with provisioning resources on Chameleon using Heat or Terraform-like workflows.
 - Python & Scripting: For enhancing or extending the python-chi library.
 - Systems / Network Knowledge: Understanding multi-VM topologies, cluster configurations, and network-level interactions.
 - CI/CD & DevOps: Experience building or integrating asynchronous deployment and notifications.
+
 **Difficulty**: Hard
+
 **Size**: Large (suitable for a semester-long project or a summer internship)
+
 **Mentors**: {{% mention marshalp %}}
+
 **Tasks**:
 - One-Click Template Launch
   - Design a template (in Heat or similar) specifying multiple cloud resources (images, networks, disk images, SSH keys, etc.).
