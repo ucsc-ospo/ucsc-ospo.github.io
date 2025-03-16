@@ -23,7 +23,7 @@ The proposed work includes expanding the Python library to support comprehensive
 - **Skills:** Python, Kubernetes, P4 programming, KubeVirt, ESnet SENSE, Docker, GitLab CI/CD, Prometheus, Grafana, PostgreSQL, Flask
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}, {{% mention "jweekley" %}}
+- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}, {{% mention "jweekley" %}}, {{% mention "dweitzel" %}}
 
 ### Seam / Full-Stack Web Development and Dashboard
 
@@ -33,7 +33,7 @@ The proposed work includes building a **Flask-based web dashboard** using **Boot
 - **Skills:** Web Development, Flask, Bootstrap, PostgreSQL, API Development, Kubernetes
 - **Difficulty:** Medium to Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}, {{% mention "jweekley" %}}
+- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}, {{% mention "jweekley" %}}, {{% mention "dweitzel" %}}
 
 ### Seam / CI/CD and GitLab Integration
 
@@ -43,7 +43,7 @@ The proposed work includes setting up **GitLab CI/CD pipelines** for automated *
 - **Skills:** GitLab CI/CD, Python, Kubernetes, Docker, Automation, Testing, Benchmarking
 - **Difficulty:** Medium to Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}, {{% mention "jweekley" %}}
+- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}, {{% mention "jweekley" %}}, {{% mention "dweitzel" %}}
 
 ### Seam / Networking & SmartNIC Programming
 
@@ -53,6 +53,6 @@ The proposed work includes writing **P4 programs** to control network traffic fl
 - **Skills:** P4, Networking, SmartNICs, Kubernetes Networking, Multus, Calico, gRPC
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}, {{% mention "jweekley" %}}
+- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}, {{% mention "jweekley" %}}, {{% mention "dweitzel" %}}
 
 
