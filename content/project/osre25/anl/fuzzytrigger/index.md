@@ -5,6 +5,7 @@ author_notes: ["Computer Scientist at Argonne National Laboratory"]
 tags: ["osre25", "anl", "benchmarking", "edge-cloud", "large language model", "multimodal model", "ai/ml"]
 date: 2025-02-22T10:15:00-07:00
 lastmod: 2025-02-22T10:15:00-07:00
+draft: true
 ---
 
 ###  Project Description
