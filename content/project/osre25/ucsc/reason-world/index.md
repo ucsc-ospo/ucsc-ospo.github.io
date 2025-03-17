@@ -2,7 +2,7 @@
 title: "ReasonWorld"
 authors: [profjamesdavis]
 author_notes: ["Professor CSE, UC Santa Cruz"]
-tags: ["osre25", "UC", "reproducibility", "AR/VR", "Multimodal", "World model", "LLM/VLM"]
+tags: ["osre25", "UC", "AR/VR", "Multimodal", "World model", "LLM/VLM"]
 date: 2025-02-28
 lastmod: 2022-02-28
 ---
