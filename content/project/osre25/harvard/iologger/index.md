@@ -2,7 +2,7 @@
 title: "IO logger: IO tracing in the modern computing era"
 authors: [juncheng]
 author_notes: [Assistant Professor, Harvard University]
-tags: [osre25, reproducibility]
+tags: [osre25, operating systems]
 date: 2025-02-28
 lastmod: 2025-03-02
 ---
