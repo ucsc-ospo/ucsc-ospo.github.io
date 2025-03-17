@@ -1,6 +1,6 @@
 ---
 title: "Seam: Kubernetes-Aware Programmable Networking & Cloud Provisioning"
-authors: [mfsada, tdefanti, jweekley]
+authors: [mfsada, tdefanti, jweekley, dweitzel]
 author_notes: ["Researcher, UC San Diego"]
 tags: ["osre25", "uc", "web development", "educational technologies", "ucsd", "sdsc", "kubernetes", "smartnics", "networks"]
 date: 2025-02-05
