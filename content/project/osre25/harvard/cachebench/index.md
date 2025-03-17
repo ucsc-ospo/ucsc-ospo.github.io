@@ -2,7 +2,7 @@
 title: "CacheBench: Building a Benchmarking Suite for Cache Performance Evaluation"
 authors: [juncheng]
 author_notes: [Assistant Professor, Harvard University]
-tags: [osre25, reproducibility]
+tags: [osre25, storage systems]
 date: 2025-02-28
 lastmod: 2025-03-02
 ---
