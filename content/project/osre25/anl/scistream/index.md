@@ -1,6 +1,6 @@
 ---
 title: "Architecting the Future of Scientific Data: Multi-Site Streaming Without Compromise"
-tags: [osre25, lanl, reproducibility, networking, data streaming, high performance computing, benchmarking, testbeds, cyber security]
+tags: [osre25, lanl, networking, data streaming, high performance computing, benchmarking, testbeds, cyber security]
 authors: [chungmiranda, fcastro]
 author_notes: ["Research Scientist at Argonne National Laboratory", "Systems Developer at Argonne National Laboratory"]
 date: 2025-02-10
