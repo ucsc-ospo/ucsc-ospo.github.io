@@ -42,6 +42,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - University of California Mentors
+- National Research Platform
 ---
 
 Thomas A. DeFanti, PhD, is a recall research scientist at UCSD's Calit2/Qualcomm Institute, and a distinguished professor emeritus of Computer Science at the University of Illinois at Chicago (UIC). He received the 1988 ACM Outstanding Contribution Award, became an ACM Fellow in 1994, and was presented the Distinguished Alumni Award from The Ohio State University in 2018.

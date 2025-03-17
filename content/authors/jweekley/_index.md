@@ -40,6 +40,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - University of California Mentors
+- National Research Platform
 ---
 
 Jeffrey Weekley is a cyberinfrastructure engineer, HPC manager, and the Director of Research IT at the University of California, Santa Cruz. He oversees the Hummingbird HPC cluster, a mid-scale system serving over 1,100 researchers, and leads efforts to expand its capabilities with a $1.8 million upgrade. Previously, he served as the Director of Cyberinfrastructure and Research Computing at UC Merced, where he built the university’s first dedicated research computing cluster, and at the Naval Postgraduate School, conducting research in advanced computing infrastructure such as high-speed networks, large-scale visualization and remote collaboration environments for defense-related applications. His expertise spans HPC architecture, research cybersecurity, and scalable infrastructure solutions for research computing. He plays a key role in developing research IT governance policies at UC Santa Cruz, with a focus on research cybersecurity, data management, and institutional cyberinfrastructure strategy. In his own research, Weekley studies on how generative AI may have benefits for post-secondary learners with cognitive and behavioral disabilities. He actively contributes to national research computing initiatives, collaborating with the National Research Platform (NRP), Campus Research Computing Consortium (CARCC), and other mid-scale cyberinfrastructure communities.
