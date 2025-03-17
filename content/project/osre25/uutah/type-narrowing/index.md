@@ -2,7 +2,7 @@
 title: "Type Narrowing: A Language Design Benchmark"
 authors: [bennn]
 author_notes: ["University of Utah"]
-tags: [osre25, reproducibility, "programming languages", types]
+tags: [osre25, "programming languages", types]
 date: 2025-02-01
 lastmod: 2025-02-01
 ---
