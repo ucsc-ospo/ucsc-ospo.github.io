@@ -50,8 +50,6 @@ projects:
 ---
 
 
-![UC Open Banner](UC_Open_Narrow_Banner.png)
-
 {{< button success >}}
 label: REGISTRATION & FULL AGENDA
 link: https://ucospo.net/events/uc-open-4-2025/ 
