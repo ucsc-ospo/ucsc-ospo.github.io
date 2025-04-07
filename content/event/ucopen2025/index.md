@@ -49,12 +49,7 @@ slides:
 projects:
 ---
 
-
-{{< button success >}}
-label: REGISTRATION & FULL AGENDA
-link: https://ucospo.net/events/uc-open-4-2025/ 
-{{< /button >}}
-
+{{< cta cta_link="https://ucospo.net/events/uc-open-4-2025/" cta_text="REGISTRATION & FULL AGENDA" >}}
 
 The University of California Open Summit (UC Open) 2025 will highlight the value open source has to the UC system and how UC contributions are a benefit to open source communities. This event welcomes UC faculty, technical staff, and students, as well as the industry and open source community interested in collaborating with UC researchers. The UC Open aims to leverage participants’ experience, knowledge, and expertise in order to increase the impact of the research and education on UC campuses. Our keynotes, panels, directed discussions and technical sessions will cover a wide range of issue relevant to open source communities inside and outside academia.
 
