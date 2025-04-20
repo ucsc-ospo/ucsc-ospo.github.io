@@ -2,7 +2,7 @@
 title: "Disentangled Generation and Editing of Pathology Images"
 authors: [xi]
 author_notes: [PhD Candidate at the University of California, Irvine]
-tags: [osre25, uc, reproducibility, machine learning, computational pathology, generative models, disentanglement, image editing]
+tags: [osre25, uc, machine learning, computational pathology, generative models, disentanglement, image editing]
 date: 2025-02-07
 lastmod: 2025-02-07
 ---
