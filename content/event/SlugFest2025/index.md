@@ -17,8 +17,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-28T17:00:00-0700'
-date_end: '2025-05-28T19:00:00-0700'
+date: '2025-05-27T17:00:00-0700'
+date_end: '2025-05-27T19:00:00-0700'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -64,7 +64,7 @@ projects:
 
 All are welcome to join! The event begins with food and ends with a raffle.
 
-**WHEN & WHERE: Thursday May 28 starting at 5pm in the Baskin Courtyard; moving into E-180**
+**WHEN & WHERE: Tuesday May 27 - starting at 5pm in the Baskin Courtyard; moving into E-180**
 
 
 
