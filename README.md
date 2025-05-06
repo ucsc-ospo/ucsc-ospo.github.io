@@ -1,4 +1,4 @@
-# The Open Source Program Office, UC Santa Cruz
+# The UC Santa Cruz Open Source Program Office
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![twitter](https://img.shields.io/twitter/follow/UC_OSPO?style=social)](https://twitter.com/UC_OSPO)
