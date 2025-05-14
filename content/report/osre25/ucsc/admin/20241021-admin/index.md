@@ -3,10 +3,10 @@ title: "Writing a blog about your OSRE 2025 project"
 subtitle: "Since OSRE 2023 we ask student contributors to blog!"
 summary: "This is now common practice and an efficient way to track activities within OSRE projects. Include links to proposals, presentations, reports, and experience."
 authors: [slieggi, carlosm]
-tags: [osre24]
+tags: [osre25]
 categories: []
 date: 2024-10-21
-lastmod: 2024-10-21
+lastmod: 2025-05-13
 featured: false
 draft: false
 
@@ -26,13 +26,10 @@ image:
 projects: [osre]
 ---
 
-As last year, the Organization Admins will be asking students and contributors to provide regular status updates which will help us better highlight the work you are doing and track activities within our OSRE projects. These progress reports will also form the basis of blog reports prepared by students in the course of their summer. Blog reports should include links to proposals, presentations, reports, and an overview of the student's experience. 
+OSRE participants are required to blog three times during their summer program. The first blog is a chance to introduce yourself and your project. The second blog occurs around the mid-point of the project and a final blog post is expected as part of you final project delverable. The organization administrator will send emails with specific dates. Instructions for the blog are indicated below. All blogs should include links to proposals, presentations, links to any deliverables/products as well as an overview of the student's experience. Check out the student pages from previous years to get an idea of content / size. 
 
-Your experience is invaluable for future OSRE candidates and for improving the program every year.
+We will also ask students and contributors to provide regular status updates which will help track your activities. The organization administrator will provide more details once the program work begins. 
 
-## Size and content
-
-Keep it short and crisp. Include a short description of your project, a link to your project proposal, and, later in the program, links to the GSoC reports you provided. 
 
 ## Making a pull request for your blog
 
@@ -42,11 +39,11 @@ Keep it short and crisp. Include a short description of your project, a link to 
   - The short bio and any other information goes below the frontmatter
 
 - Post your blog
-  - Add `/content/report/osre24/ORGANIZATION/PROJECTNAME/DATE-USERNAME/index.md`
+  - Add `/content/report/osre25/ORGANIZATION/PROJECTNAME/DATE-USERNAME/index.md`
   - Add a frontmatter to `index.md`, using the labels below
   - Blog text goes below the frontmatter
   - In that same directory include a picture and call it `featured.png` (also supports `.jpg`, `.jpeg`) 
-- Commit to your fork and make a pull request and [email OSRE Admins](mailto:ospo-info-group@ucsc.edu/) (currently: Stephanie Lieggi).
+- Commit to your fork and make a pull request. [Email OSRE Admins](mailto:ospo-info-group@ucsc.edu/) with questions.
 
 ### Example frontmatter and text body
 ```
