@@ -74,11 +74,11 @@ All are welcome to join! The event begins with food and ends with a raffle.
 
 5:45 – Welcome by the UCSC Open Source Program Office
 
-6:00 – Lightning Introductions with breaks for Q&A
+5:50 - Lightning Talks & Q&A 
 
-6:40 - Raffle! (You must register to be included in the raffle and be present to claim the prize)
+6:55 - Raffle! (**You must register to be included in the raffle and be present to claim the prize**)
 
-7:00 - Event closes 
+7:00 - Event closes (Sticking around to network is encouraged)
 
 
 
