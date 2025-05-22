@@ -18,7 +18,7 @@ abstract: ''
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-05-27T17:00:00-0700'
-date_end: '2025-05-27T19:00:00-0700'
+date_end: '2025-05-27T19:10:00-0700'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -70,15 +70,15 @@ All are welcome to join! The event begins with food and ends with a raffle.
 
 **Fun and informal event to celebrate Open Source at UCSC**
 
-5:00 – Event Starts / Food and socializing
+5:00 – Event Starts / Food & socializing
 
-5:45 – Welcome by the UCSC Open Source Program Office
+5:50 – Welcome by the UCSC Open Source Program Office
 
-5:50 - Lightning Talks & Q&A 
+6:00 - Lightning Talks & Discussions 
 
-6:55 - Raffle! (**You must register to be included in the raffle and be present to claim the prize**)
+7:00 - Raffle! (**You must register to be included in the raffle and be present to claim the prize**)
 
-7:00 - Event closes (Sticking around to network is encouraged)
+7:10 - Official Event closes (Sticking around to network is encouraged)
 
 
 
