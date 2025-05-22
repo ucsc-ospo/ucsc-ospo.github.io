@@ -70,7 +70,7 @@ All are welcome to join! The event begins with food and ends with a raffle.
 
 **Fun and informal event to celebrate Open Source at UCSC**
 
-5:00 – Event Starts / Food and socializing
+5:00 – Event Starts / Food & socializing
 
 5:50 – Welcome by the UCSC Open Source Program Office
 
