@@ -1,21 +1,23 @@
 ---
 title: "The First Annual UC Open Highlights Open Source Innovation in the UC System"
-date: 05-26-2025
-draft: false
-description: "Celebrating Open Source and Open Science throughout the UC system"
-Categories: [News]
+subtitle: ""
+authors: [slieggi]
 tags: [event]
+categories: [News]
+date: 2025-05-28
+lastmod: 2025-06-02
+featured: true
 draft: false
 active: true
-author: UC OSPO Network
 
-resources:
-  - name: banner1
-    src: "ucopenpics.jpg"
-    params:
-      description: "photos by Steven Cotton Photography and Juanita Gomez, UCSC"
-      showOnTop: true
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: [ospo, osre]
 ---
+
 
 **[Full agenda](../../events/uc-open-4-2025/_index.md) and [links to videos](https://youtube.com/playlist?list=PLgEgostMUSe2s4xUSI4iYsr16d1adYyh3&si=6sS-_EUNeXH3qlZD)!**
 
