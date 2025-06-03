@@ -9,7 +9,7 @@ author:
 
 resources:
   - name: banner1
-    src: "svc-corner-front-500.jpg"
+    src: "ucopenpics.jpg"
     params:
       description: "photos by Steven Cotton Photography and Juanita Gomez, UCSC"
       showOnTop: true
