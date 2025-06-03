@@ -3,9 +3,11 @@ title: "The First Annual UC Open Highlights Open Source Innovation in the UC Sys
 date: 05-26-2025
 draft: false
 description: "Celebrating Open Source and Open Science throughout the UC system"
+Categories: [News]
 tags: [event]
-displayInList: true
-author:
+draft: false
+active: true
+author: UC OSPO Network
 
 resources:
   - name: banner1
