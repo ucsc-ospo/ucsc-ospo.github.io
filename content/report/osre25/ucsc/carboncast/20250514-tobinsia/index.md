@@ -22,7 +22,7 @@ image:
 
 # Google Summer of Code ‘25: CarbonCast
 
-Under the mentorship of Professor Abel Souza, my Google Summer of Code (GSoC) ‘25 [proposal](https://summerofcode.withgoogle.com/programs/2025/projects/7yvAix3k) is centered around building upon [CarbonCast](/project/osre25/ucsc/carboncast) to create an API to enable user access and utilization of energy data in optimizing their electricity consumption.
+Under the mentorship of Professor Abel Souza, my Google Summer of Code (GSoC) ‘25 [proposal](https://summerofcode.withgoogle.com/programs/2025/projects/7yvAix3k) is centered around building upon [CarbonCast](/content/project/osre25/ucsc/carboncast) to create an API to enable user access and utilization of energy data in optimizing their electricity consumption.
 
 ## What is CarbonCast?
 
