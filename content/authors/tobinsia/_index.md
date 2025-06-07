@@ -20,7 +20,7 @@ organizations:
   url: "https://www.uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tobin Sia is an undergraduate Computer Science student at the University of California, Irvine. His interests lie at the intersection of systems design, sustainability, and emerging technologies. He is currently part of a bioinformatics research lab analyzing genomic data to identify biomarkers for neuropsychiatric disorders, and is also actively exploring applications of blockchain and decentralized systems, including smart contract development and crypto-based infrastructure. Tobin is particularly interested in how distributed systems can be designed to support both performance and environmental responsibility. During GSoC, he looks forward to contributing to open-source work under the mentorship of Professor Abel Souza.
+bio: Tobin Sia is an undergraduate Computer Science student at the University of California, Irvine.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
