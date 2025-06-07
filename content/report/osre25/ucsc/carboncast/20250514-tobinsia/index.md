@@ -59,7 +59,7 @@ The original CarbonCast system was built as a research artifact. To refine it in
 
 ## Impact Beyond Research
 
-The paper that inspired this project, Multi-day Forecasting of Electric Grid Carbon Intensity using Machine Learning, pioneered the idea of forecasting carbon intensity over multiple days using a hierarchical machine learning model. This goes beyond the typical 24-hour day-ahead models that are common in the industry and allows for better planning and longer-term decision-making.
+The paper that inspired this project, [Multi-day Forecasting of Electric Grid Carbon Intensity using Machine Learning](https://energy.acm.org/eir/multi-day-forecasting-of-electric-grid-carbon-intensity-using-machine-learning/), pioneered the idea of forecasting carbon intensity over multiple days using a hierarchical machine learning model. This goes beyond the typical 24-hour day-ahead models that are common in the industry and allows for better planning and longer-term decision-making.
 
 CarbonCast builds directly on that foundation by transforming research into practical, real-world infrastructure. It is an open-source platform that anyone can run, contribute to, and benefit from. Whether you're a developer building carbon-aware applications, a policymaker working on grid decarbonization strategies, or a sustainability-conscious individual looking to reduce your carbon footprint, CarbonCast provides the tools to make informed, impactful choices.
 
