@@ -49,11 +49,11 @@ With open and easy to deploy tools, individuals can make better-informed decisio
 
 The plan for this summer is to develop the backend API services for CarbonCast. This summer, I’m focused on two major goals:
 
-### Geographical Expansion
+### 1) Geographical Expansion
 
 I am extending CarbonCast’s compatibility to support more regional electricity grids. Each model will be customized for local grid behavior and renewable energy characteristics. This involves tuning the model pipeline to adapt to each region’s energy mix, weather patterns, and reporting granularity.
 
-### System Refactoring and Modularity
+### 2) System Refactoring and Modularity
 
 The original CarbonCast system was built as a research artifact. To refine it into production-grade infrastructure, I am refactoring the codebase to improve modularity. This makes it easier to plug in new regions, update forecasting algorithms, and integrate new data sources.
 
