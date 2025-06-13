@@ -17,7 +17,6 @@ tags: [
   "lbl",
   "open source",
   "osre25",
-  "reproducibility",
   "UCB",
   "UC",
   "University of California Berkeley"
