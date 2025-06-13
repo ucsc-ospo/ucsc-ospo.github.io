@@ -6,22 +6,23 @@ authors:
 - jeanlucabez
 - surenbyna
 tags: [
-  "gsoc2025",
-  "osre25",
-  "uc",
+  "AIDRIN",
+  "AI readiness",
+  "data quality",
+  "dataset privacy",
+  "GSoC2025",
+  "HPC",
   "LBNL",
   "Lawrence Berkeley Lab",
   "lbl",
-  "UCB",
-  "University of California Berkeley",
-  "reproducibility",
-  "AIDRIN",
-  "AI readiness",
-  "dataset privacy",
-  "data quality",
   "open source",
-  "HPC"
+  "osre25",
+  "reproducibility",
+  "UCB",
+  "UC",
+  "University of California Berkeley"
 ]
+
 categories: ["Google Summer of Code", "GSoC 2025", "Open Source", "AI Readiness"]
 
 date: 2025-06-12
