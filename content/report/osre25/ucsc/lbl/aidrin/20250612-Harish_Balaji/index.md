@@ -53,7 +53,7 @@ AIDRIN is an open-source framework that helps researchers and practitioners eval
 In machine learning, one principle always holds true:  
 > "Garbage in, garbage out."
 
-Even the most advanced models can underperform or amplify harmful biases if trained on incomplete, imbalanced, or poorly understood data. This is where AIDRIN steps in. It provides practical tools to assess datasets across key dimensions like privacy, fairness, class balance, interpretability, and support for multiple modalities such as images, text, and audio.
+Even the most advanced models can underperform or amplify harmful biases if trained on incomplete, imbalanced, or poorly understood data. This is where AIDRIN steps in. It provides practical tools to assess datasets across key dimensions like privacy, fairness, class balance, interpretability, and support for multiple modalities.
 
 By making these characteristics measurable and transparent, AIDRIN empowers teams to make informed decisions early in the pipeline. It helps ensure that datasets are not only large or complex, but also trustworthy, representative, and purpose-fit.
 
