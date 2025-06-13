@@ -38,7 +38,7 @@ image:
   preview_only: false
 ---
 
-**Reading time: 4–5 minutes**
+⏱️ Reading time: 4–5 minutes
 
 Hi 👋
 
@@ -65,7 +65,7 @@ The goal is to expand AIDRIN’s reach without compromising on interpretability 
 
 ## What comes next
 
-As the AI community continues to evolve, there’s a growing shift toward data-centric practices. I believe frameworks like AIDRIN are essential for helping us move beyond the question of “Does the model work?” toward a deeper and more meaningful one: “Was the data ready in the first place?”
+As the AI community continues to evolve, there’s a growing shift toward data-centric practices. I believe frameworks like AIDRIN are essential for helping us move beyond the question of “*Does the model work?*” toward a deeper and more meaningful one: “*Was the data ready in the first place?*”
 
 Over the next few weeks, I’ll be working on development, testing, and integration. I’m excited to contribute to a tool that emphasizes transparency and reproducibility across the AI lifecycle, and to share lessons and ideas with others who care about responsible AI.
 
