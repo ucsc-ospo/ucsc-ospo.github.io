@@ -38,50 +38,35 @@ image:
   preview_only: false
 ---
 
-Hi, I’m **Harish Balaji** 👋
+Hi 👋
 
-I’m a Master’s student at NYU, focusing on Artificial Intelligence, Machine Learning, and Cybersecurity. I am particularly interested in how scalable systems and responsible AI practices can work together, especially in ensuring that data quality directly supports reliable model performance.
+I’m **Harish Balaji**, a Master’s student at NYU with a focus on Artificial Intelligence, Machine Learning, and Cybersecurity. I’m especially interested in building scalable systems that align with responsible AI principles. For me, data quality isn’t just a technical detail — it’s central to building models that are reliable, fair, and reproducible.
 
-This summer, I am contributing to **AIDRIN** (AI Data Readiness Inspector) through **Google Summer of Code 2025**, under the mentorship of **Dr. Jean Luca Bez** and **Prof. Suren Byna** from the [Scientific Data Management Group](https://crd.lbl.gov/divisions/scidata/sdm/) at **Lawrence Berkeley National Laboratory (LBNL)**.
+This summer, I’m contributing to **AIDRIN** (AI Data Readiness Inspector) through **Google Summer of Code 2025**, under the mentorship of **Dr. Jean Luca Bez** and **Prof. Suren Byna** from the [Scientific Data Management Group](https://crd.lbl.gov/divisions/scidata/sdm/) at **Lawrence Berkeley National Laboratory (LBNL)**.
 
----
+AIDRIN is an open-source framework that helps researchers and practitioners assess whether a dataset is truly ready to be used in real-world AI workflows.
 
-### Why Data Readiness Matters
+## Why this work matters
 
-In machine learning, one principle always applies:  
-> *"Garbage in, garbage out."*
+In machine learning, one principle always holds true:  
+> **"Garbage in, garbage out."**
 
-Even the most advanced models can fail if the data used for training is biased, incomplete, or poorly structured. **AIDRIN** tackles this problem by offering tools to assess dataset quality across key dimensions such as:
+Even the most advanced models can fail if trained on incomplete, biased, or unstructured data. That’s where AIDRIN comes in, offering practical tools to evaluate datasets across dimensions such as privacy, fairness, balance, interpretability, and support for multiple modalities.
 
-- **Privacy preservation**
-- **Fairness and class balance**
-- **Interpretability**
-- **Multimodal compatibility** (including structured data, images, text, and audio)
+By making these qualities measurable, AIDRIN helps ensure that datasets are not just large or complex, but also trustworthy and well-prepared for use in AI systems.
 
-By making these checks measurable and actionable, AIDRIN helps researchers and engineers make better-informed decisions before deploying models.
+## My focus this summer
 
----
+This summer, I’ll be focusing on extending AIDRIN’s evaluation capabilities. My work will include improving support for privacy metrics and enabling readiness assessments for non-tabular datasets. More technical details will follow in upcoming posts as the project develops.
 
-### What This Project Is About
+## What comes next
 
-Throughout GSoC 2025, I will be working to extend AIDRIN’s evaluation capabilities. This includes strengthening its privacy assessment tools and expanding support for datasets beyond traditional structured formats.
+As the AI community moves toward more data-centric practices, I believe frameworks like AIDRIN are essential. They help shift the conversation from "Does the model work?" to "Was the data ready in the first place?"
 
-Details of specific metrics, technical design choices, and implementation results will follow in future blog posts.
+In the coming weeks, I’ll be diving deeper into development, testing, and evaluation. I’m excited to contribute to a tool that emphasizes transparency and reproducibility in the AI lifecycle — and to share what I learn along the way.
 
----
-
-### Looking Ahead
-
-As the AI community shifts toward more responsible and data-centric development practices, I believe tools like AIDRIN will play a critical role in shaping how we evaluate and prepare datasets. This project gives me the opportunity to contribute to that vision by helping build infrastructure that encourages transparency, reproducibility, and trust in machine learning workflows.
-
-In the coming weeks, I’ll be diving deeper into design, development, and integration efforts. I’m looking forward to sharing technical progress and insights in future posts as the project evolves.
-
-If you're working on similar problems, exploring dataset quality, or just curious about building better AI from the ground up, I’d love to connect and exchange ideas.
-
-You can also check out my GSoC 2025 proposal for a deeper overview of the project goals.
+If you’re working on similar challenges or care about improving data quality for AI, I’d love to connect. You can also explore my GSoC 2025 proposal below for a broader overview of the project goals:
 
 👉 [Read my GSoC 2025 proposal here](https://drive.google.com/file/d/1RUyU2fHkc8GZ9vTj5SUr6jj84ZaRUvNt/view)
 
----
-
-
+*This is the first in a 3-part blog series documenting my GSoC journey with AIDRIN. Stay tuned for technical updates and behind-the-scenes insights as the summer unfolds!*
