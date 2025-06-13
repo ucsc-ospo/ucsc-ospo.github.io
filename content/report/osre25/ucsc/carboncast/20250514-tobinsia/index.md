@@ -4,7 +4,7 @@ subtitle: "Expanding Real-Time Carbon Intensity Forecasting and Visualization"
 summary:
 authors: 
   - tobinsia
-tags: ["gsoc25","uc","carboncast"]
+tags: ["osre25","uc","carboncast"]
 categories: ["web-development", "machine-learning", "api"]
 date: 2025-06-06
 lastmod: 2025-06-06
