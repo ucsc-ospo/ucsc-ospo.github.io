@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Master's student at New York University"
+role: "Master's student, New York University"
 
 # Organizations/Affiliations
 organizations:
