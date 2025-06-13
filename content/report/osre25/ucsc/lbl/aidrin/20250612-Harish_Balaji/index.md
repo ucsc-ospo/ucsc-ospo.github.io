@@ -52,7 +52,7 @@ AIDRIN addresses a critical yet often overlooked issue in machine learning: *gar
 - **Interpretability** 
 - **Multimodal Support, etc.**
 
-You can read my full Google Summer of Code 2025 (**GSoC 2025**) proposal [here](https://drive.google.com/file/d/1RUyU2fHkc8GZ9vTj5SUr6jj84ZaRUvNt/view).
+You can read my full **Google Summer of Code 2025** proposal [here](https://drive.google.com/file/d/1RUyU2fHkc8GZ9vTj5SUr6jj84ZaRUvNt/view).
 
 **My project focuses on two key goals**:
 1. Strengthening AIDRIN’s privacy and evaluation metrics for structured/tabular data  
