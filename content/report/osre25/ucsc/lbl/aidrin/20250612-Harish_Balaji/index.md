@@ -1,5 +1,5 @@
 ---
-title: Improving AI Data Pipelines in AIDRIN: A Privacy-Centric and Multimodal Expansion
+title: "Improving AI Data Pipelines in AIDRIN: A Privacy-Centric and Multimodal Expansion"
 summary: Enhancing AIDRIN with privacy metrics and multimodal support under mentorship from LBNL researchers as part of GSoC 2025.
 authors: 
 - harishbalaji
