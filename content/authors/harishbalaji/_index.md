@@ -42,4 +42,6 @@ user_groups:
 - 2025 Contributors
 ---
 
-Harish Balaji is a Master’s student at New York University with a focus on artificial intelligence, machine learning, and cybersecurity. His academic journey bridges deep technical learning with practical experience, spanning privacy-aware systems, secure data processing, and scalable ML pipelines. As part of GSoC 2025, Harish is contributing to AIDRIN, a framework for evaluating AI dataset readiness, under the mentorship of Dr. Jean Luca Bez and Prof. Suren Byna. He is passionate about building transparent and trustworthy AI infrastructure through open-source research.
+Harish Balaji is a Master’s student at New York University specializing in Artificial Intelligence, Machine Learning, and Cybersecurity. His academic and project work centers on developing scalable, privacy-preserving, and trustworthy AI systems. With a strong foundation in applied machine learning, Harish focuses on advancing data-centric AI through techniques such as dataset quality auditing, fairness evaluation, and risk-aware preprocessing for structured and multimodal data.
+
+His research interests include privacy-enhancing technologies, reproducible ML workflows, and the integration of vision-language models for real-world inference pipelines. Harish is passionate about bridging systems-level efficiency with ethical AI design to build robust, interpretable, and deployment-ready ML infrastructure.
