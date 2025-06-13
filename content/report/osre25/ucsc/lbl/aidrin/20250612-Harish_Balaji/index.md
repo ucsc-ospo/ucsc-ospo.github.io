@@ -22,7 +22,8 @@ tags: [
   "open source",
   "HPC"
 ]
-categories: ["GSoC'25", "gsoc2025", "open source"]
+categories: ["Google Summer of Code", "GSoC 2025", "Open Source", "AI Readiness"]
+
 date: 2025-06-12
 lastmod: 2025-06-12
 featured: true
@@ -41,16 +42,16 @@ Hi, I’m Harish Balaji 👋
 
 I'm a Master's student at NYU with a focus on artificial intelligence, machine learning, and cybersecurity. I’m especially interested in the intersection of scalable systems and responsible AI and how the quality of our datasets directly impacts the reliability of the models we train on them.
 
-This summer, through **GSoC 2025**, I’ll be contributing to **AIDRIN** (AI Data Readiness Inspector), a framework designed to evaluate the “readiness” of datasets for real-world AI workflows. I’ll be working under the guidance of Dr. {{% mention jeanbez %}} and Prof. Suren Byna from the [Scientific Data Management Group](https://crd.lbl.gov/divisions/scidata/sdm/) at Lawrence Berkeley National Laboratory (LBNL).
+This summer, through **GSoC 2025**, I’ll be contributing to **AIDRIN** (AI Data Readiness Inspector), a framework designed to evaluate the “readiness” of datasets for real-world AI workflows. I’ll be working under the guidance of Dr. Jean Luca Bez and Prof. Suren Byna from the [Scientific Data Management Group](https://crd.lbl.gov/divisions/scidata/sdm/) at Lawrence Berkeley National Laboratory (LBNL).
 
-AIDRIN addresses a problem we often overlook in machine learning: garbage in, garbage out. No matter how powerful your model is, poor-quality data will always hold it back. AIDRIN helps data scientists assess their datasets across dimensions like:
+AIDRIN addresses a critical yet often overlooked issue in machine learning: *garbage in, garbage out*. No matter how powerful your model is, poor-quality data will always hold it back. AIDRIN helps data scientists assess their datasets across dimensions like:
 
 - **Privacy**: k-Anonymity, l-Diversity, t-Closeness, MM Risk Score, and entropy-based disclosure risk  
 - **Fairness and Balance**: class imbalance and distribution skew  
 - **Interpretability**: correlation of features and model-specific metrics like MCC, ROC AUC, and F1 score  
-- **Multimodal Support**: extending to image datasets through pretrained embeddings (ViT, CLIP, DINOv2)
+- **Multimodal Support**: extending to image datasets through pretrained embeddings 
 
-My project focuses on two key goals:
+**My project focuses on two key goals**:
 1. Strengthening AIDRIN’s privacy and evaluation metrics for structured/tabular data  
 2. Extending the framework to support image-based datasets and readiness assessments using deep vision embeddings
 

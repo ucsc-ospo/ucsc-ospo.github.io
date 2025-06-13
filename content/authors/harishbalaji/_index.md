@@ -20,7 +20,7 @@ organizations:
   url: "https://engineering.nyu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Harish is a Master's student at NYU interested in AI, machine learning, and cybersecurity.
+bio: Harish is a Master’s student at New York University with a strong academic interest in Artificial Intelligence, Machine Learning, and Cybersecurity, particularly in building scalable and responsible AI systems that prioritize data quality, transparency, and privacy.
 
 # Social/Academic Networking
 social:
