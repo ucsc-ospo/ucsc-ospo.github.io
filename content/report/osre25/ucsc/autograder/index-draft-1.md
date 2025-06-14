@@ -1,7 +1,7 @@
 ---
 title: "LINQS: Autograder (LLM Detection)"
-subtitle: "Tool for detecting AI plag in code"
-summary:
+subtitle: A Tool for Detecting AI-Generated Code in Academic Submissions
+summary: This project aims to help academic institutions in identify AI-generated code in student assignments, supporting fair grading and upholding academic integrity.
 authors: 
   - anvichip
 tags: ["osre25"]

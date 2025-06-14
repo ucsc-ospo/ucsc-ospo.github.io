@@ -1,7 +1,7 @@
 ---
 title: "LINQS: Autograder (LLM Detection)"
-subtitle: "Tool for detecting AI plag in code"
-summary:
+subtitle: A Tool for Detecting AI-Generated Code in Academic Submissions
+summary: This project aims to help academic institutions in identify AI-generated code in student assignments, supporting fair grading and upholding academic integrity.
 authors: 
   - anvichip
 tags: ["osre25"]
@@ -39,8 +39,8 @@ This is the problem that I am working to address with my project **‘LLM Detect
 
 I aim to build a system that helps academic institutions ensure fairness and integrity in students' work. 
 To accomplish this goal, I will be working on 2 tasks: 
-* Building a tool which determines whether a given piece of code was written by AI or not. 
-* Computation of a confidence score indicating the likelihood of AI involvement. 
+* Building a tool which determines whether a given piece of code was written by AI or not.  
+* Designing and implementing a mechanism to compute a confidence score that indicates the likelihood of AI involvement in the code.
 
 This tool can discourage them from copying or completing entire assignments using AI tools, encouraging honest and independent work.
 
