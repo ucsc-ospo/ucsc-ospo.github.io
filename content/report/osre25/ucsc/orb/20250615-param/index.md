@@ -21,7 +21,7 @@ Hi! I'm Param Arora, a Computer Science student at Manipal Institute of Technolo
 
 This summer, I'm contributing to the [ORB](https://github.com/UC-OSPO-Network/orb-showcase) project as part of OSRE 2025 through Google Summer of Code. 
 
-My project, **"UC Open Source Repository Browser [UC ORB],"** is a discovery platform that maps and categorizes open source projects across the UC system. It offers a comprehensive web interface with intuitive search, advanced filtering capabilities, responsive design, and integrated visualizations of project metrics. 
+My project, **"UC Open Source Repository Browser [UC ORB]"**, is a discovery platform that maps and categorizes open source projects across the UC system. It offers a comprehensive web interface with intuitive search, advanced filtering capabilities, responsive design, and integrated visualizations of project metrics. 
 
 You can read my full [proposal here](https://drive.google.com/file/d/1zELT9lxPhLCUs9Xyfb2nU9EPc_tjzVki/view?usp=sharing). 
 My amazing mentor for this project is **Juanita Gomez**.

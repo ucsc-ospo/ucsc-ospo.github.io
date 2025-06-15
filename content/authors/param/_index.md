@@ -39,4 +39,4 @@ email: ""
 user_groups:
 - 2025 Contributors
 ---
-Param is currently a final year undergraduate student at [MIT Manipal](https://www.manipal.edu), pursuing Computer Science. His key areas of interest include Backend Engineering and AI. He is an avid supporter of open-source software.
+Param is a final-year undergraduate student at [MIT Manipal](https://www.manipal.edu), pursuing Computer Science. His key areas of interest include Backend Engineering and AI. He is an avid supporter of open-source software.
