@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Final Year Computer Science at MIT Manipal"
+role: "Computer Science student at MIT Manipal"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.manipal.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Param is a 4th year CS student at MIT Manipal.
+bio: Param is a final year CS student at MIT Manipal.
   
 # Social/Academic Networking
 social:
