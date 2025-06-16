@@ -53,7 +53,6 @@ This project will deliver three components, software, model training, validation
 
 
 ---
----
 title: "LLMSeqRec: LLM Enhanced Contextual Sequential Recommender"
 summary: ""
 authors: 
@@ -101,5 +100,3 @@ The project is currently progressing through stages including model training, em
 - Publishing findings and writing technical blogs
 
 As part of the [PROJECTNAME](/project/osre25/sf/LLMSeqRec) my [proposal](https://drive.google.com/file/d/1cs9lsjacSJUbXWzTfcHIukfKFwKJjUZF/view?usp=sharing) under the mentorship of Bin Dong and Linsey Pang aims to ...
-
-*Blog 1 of 3*
