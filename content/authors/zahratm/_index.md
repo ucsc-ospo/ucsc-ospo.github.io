@@ -20,8 +20,7 @@ organizations:
   url: "https://www.cis.udel.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer science student at the University of Delaware, currently engaged in a high-performance computing project with a focus on machine learning at the University of Delaware’s Computational Research and Programming Lab (CRPL). This project focuses on scientific machine learning for high-performance computing (HPC) systems ( CosmoFlowMLPerf HPC benchmarking) , training 3D convolutional neural networks to analyze large-scale n-body simulations and predict critical cosmological parameters. I use Frontier, the world's 2nd fastest supercomputer to run the training. 
-For this summer I am working with the Summer of Reproduciblity on the CC-Snapshot project for helping researchers capture and share reproducible experimental environments within the Chameleon Cloud testbed
+bio: I am a computer science student at the University of Delaware, currently engaged in a high-performance computing project with a focus on machine learning at the University of Delaware’s Computational Research and Programming Lab (CRPL). This project focuses on scientific machine learning for high-performance computing (HPC) systems ( CosmoFlowMLPerf HPC benchmarking) , training 3D convolutional neural networks to analyze large-scale n-body simulations and predict critical cosmological parameters. I use Frontier, the world's 2nd fastest supercomputer to run the training. For this summer I am working with the Summer of Reproduciblity on the CC-Snapshot project for helping researchers capture and share reproducible experimental environments within the Chameleon Cloud testbed.
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
