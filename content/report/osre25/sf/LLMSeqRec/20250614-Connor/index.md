@@ -50,9 +50,6 @@ This project will deliver three components, software, model training, validation
 - Movie Lense Data:  https://grouplens.org/datasets/movielens/  
 
 
-
-
----
 title: "LLMSeqRec: LLM Enhanced Contextual Sequential Recommender"
 summary: ""
 authors: 
@@ -99,4 +96,4 @@ The project is currently progressing through stages including model training, em
 - Running comparative experiments
 - Publishing findings and writing technical blogs
 
-As part of the [PROJECTNAME](/project/osre25/sf/LLMSeqRec) my [proposal](https://drive.google.com/file/d/1cs9lsjacSJUbXWzTfcHIukfKFwKJjUZF/view?usp=sharing) under the mentorship of Bin Dong and Linsey Pang aims to ...
+As part of the [PROJECTNAME](/project/osre25/sf/LLMSeqRec) my [proposal](https://drive.google.com/file/d/1cs9lsjacSJUbXWzTfcHIukfKFwKJjUZF/view?usp=sharing) under the mentorship of Dr. Bin Dong and Dr. Linsey Pang.
