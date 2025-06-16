@@ -3,7 +3,7 @@ title: "Assessing and Enhancing CC-Snapshot for Reproducible Experiment Envirome
 subtitle: ""
 summary:
 authors: 
-  - zahratm
+  - Zahra Temori
 tags: ["osre25", "reproducibility", "cc-snapshot"]
 categories: ["osre25", "reproducibility", "HPC", "cc-snapshot"]
 date: 2025-06-15
@@ -20,9 +20,9 @@ image:
   preview_only: false
 ---
 
-Hello, My name is Zahra Temori. I am a rising senior in Computer Science at University of Delaware. I’m excited to be working with the Summer of Reproduciblity  and the Chameleon Cloud community. My project is [cc-snapshot](https://github.com/ChameleonCloud/cc-snapshot) focuses on enhancing features for helping researchers capture and share reproducible experimental environments within the Chameleon Cloud testbed. 
+Hello, My name is Zahra Temori. I am a rising senior in Computer Science at University of Delaware. I’m excited to be working with the Summer of Reproduciblity  and the Chameleon Cloud community. My project is [cc-snapshot](https://github.com/ChameleonCloud/cc-snapshot) that focuses on enhancing features for helping researchers capture and share reproducible experimental environments within the Chameleon Cloud testbed. 
 
-Here is a detailed information abour my project and plans to work for summer [proposal](https://docs.google.com/document/d/1kFOFL-H4WrXF7EUuXzcHLZ2p5w_DxbbWOGi-IGx39LM/edit?tab=t.0).
+Here is a detailed information about my project and plans to work for summer [proposal](https://docs.google.com/document/d/1kFOFL-H4WrXF7EUuXzcHLZ2p5w_DxbbWOGi-IGx39LM/edit?tab=t.0).
 
 ### June 10 – June 14, 2025
 
@@ -33,6 +33,6 @@ Getting started with the first milestone and beginning to explore the Chameleon 
 - I met with my mentor to discuss the project goals and outline the next steps.
 - I experimented with the environment and captured a snapshot to understand the process.
 
-It has been less than a week and I have elearned a lot specilly about the Chameleon cloud and how it is different with other clouds like AWS. I am exited to learn and make progress.
+It has been less than a week and I have learned a lot specially about the Chameleon Cloud and how it is different from other clouds like AWS. I am exited to learn more and make progress.
 
-Thanks for reading, I will keep ypu updated an I work :)
+Thanks for reading, I will keep ypu updated as I work :)
