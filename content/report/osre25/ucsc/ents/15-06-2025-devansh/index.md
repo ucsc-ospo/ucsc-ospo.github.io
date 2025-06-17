@@ -4,7 +4,7 @@ subtitle: "Introducing my GSoC 2025 project with UCSC OSPO"
 summary: "Building a robust and extensible web platform for environmental sensor data visualization with ENTS."
 authors:
   - devansh
-tags: ["gsoc2025", "data-visualization", "environmental-sensing"]
+tags: ["gsoc2025", "data-visualization", "environmental-sensing", "OSRE25"]
 categories: ["full-stack", "web-platforms"]
 date: 2025-06-15
 lastmod: 2025-06-15
