@@ -1,7 +1,7 @@
 ---
 title: "Kolmogorov-Arnold-based Transformer for LLMs"
 subtitle: "Implementation, Evaluation and Benchmarking"
-summary: "First blood"
+summary: "Developing efficient and interpretable LLMs by integrating Kolmogorov-Arnold-based modules into Transformers to reduce parameters and maintain performance."
 authors: 
   - DentonJC
 tags: ["osre25"]
