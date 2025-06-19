@@ -30,7 +30,7 @@ social:
   link: https://github.com/devadigapratham
 - icon: globe
   icon_pack: fas
-  link: https://prathamesh-portfolio.com
+  link: https://prathameshdevadiga.vercel.app/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/prathamesh-devadiga/
