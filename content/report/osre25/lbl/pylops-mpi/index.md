@@ -4,7 +4,7 @@ subtitle: "GPU-to-GPU Communication in PyLops-MPI for Large-scale Inverse Proble
 summary:
 authors: 
   - tharitt 
-tags: ["osre25". "gsoc25","lbl","PyLops-MPI"]
+tags: ["osre25", "gsoc25","lbl","PyLops-MPI"]
 categories: ["High-performance Computing", "GPU", "NCCL", "Parallel Programming"]
 date: 2025-06-08
 lastmod: 2025-06-08
