@@ -38,3 +38,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 ---
+Zeyu Zou is a graduate student at the University of Northeastern. His interests include bioinformatics, machine learning, and open source software.
