@@ -38,6 +38,6 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
   - 2024 Contributors
-
+  - 2025 Contributors
 ---
 Nicole Brewer is a graduate research assistant and PhD student at Arizona State University, where she is studying computational reproducibility from both empirical and philosophical perspectives. Specifically, she is studying the reproducibility of Jupyter Notebooks used in scientific contexts. Before grad school, she was a research software engineer at Purdue University, where she developed Jupyter-based web applications to help domain scientists make their work accessible and reproducible. As a former [Better Scientific Software Fellow](https://bssw.io/fellows/nicole-brewer), Nicole had the opportunity to create templates and tutorials promote those uses of Juptyer Notebooks. Her fellowship resulted in the [Jupyter4Science](https://jupyter4.science/) blog and knowledge base for all things scientific Jupyter Notebooks. She formerly serveed on the steering committee of the [United States Research Software Engineering Association](https://us-rse.org/), and has been a member of the [notebook sub-committee](https://us-rse.org/usrse24/participate/#notebooks) for the US-RSE'23 and US-RSE'24 conferences. She holds a BS in Mathematics with Computer Science from Purdue University.
