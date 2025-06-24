@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "underaduate Computer Science student at The University of Khartoum"
+role: "undergraduate Computer Science student at The University of Khartoum"
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ahmed Alghali is an undergraduate in Computer Science at the University of Khartoum with interest in applied machine learning and data platforms.
+bio: Ahmed Alghali is an undergraduate Computer Science student at the University of Khartoum with interest in applied machine learning and data platforms.
 
 
 # Social/Academic Networking
