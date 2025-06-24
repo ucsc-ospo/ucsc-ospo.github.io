@@ -4,9 +4,7 @@ subtitle: "Streamlining Reproducible Machine Learning Research with Automated ML
 summary: " "
 authors: 
   - alghali
-tags: ["osre25","reproducibility","distributed systems", "mlops", "experiment tracking","machine learning research","research artifacts", "automation","chameleon testbed",]
-
-
+tags: ["osre25","reproducibility","summer of reproducibility", "experiment tracking","machine learning research", "automation","chameleon testbed"]
 categories: []
 date: 2025-06-22
 lastmod: 2025-06-22
@@ -27,7 +25,7 @@ Hello! I'm Ahmed, an undergraduate Computer Science student at the University of
 ### Reproducibility
 > *We argue that unless reproducing research becomes as vital and mainstream part of scientific exploration as reading papers is today, reproducibility will be hard to sustain in the long term because the incentives to make research results reproducible won’t outweigh the still considerable costs*
 >
-> — Three Pillars of Practical Reproducibility Paper 
+> — [Three Pillars of Practical Reproducibility Paper](https://www.chameleoncloud.org/media/filer_public/25/18/25189b96-c3a2-4a55-b99b-c25322fe6682/reproducibility_on_chameleon-3.pdf)
 
 ![Acadamic code quality](codquality.JPG)
 
