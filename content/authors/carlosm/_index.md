@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Retired Adjunct Professor, Sage Weil Presidential Chair for Open Source Software, Founder & Director of CROSS, OSPO
+role: Retired Adjunct Professor, former Sage Weil Presidential Chair for Open Source Software, Founder & former Director of CROSS, OSPO
 
 # Organizations/Affiliations
 organizations:

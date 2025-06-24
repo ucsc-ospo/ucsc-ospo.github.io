@@ -1,6 +1,6 @@
 ---
 title: Bank Information
-summary: How to support the Symposium.
+summary: How to support the 2024 Symposium.
 date: "2022-09-20T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -14,9 +14,13 @@ banner:
   image: "bank.png"
 ---
 
-There are three ways to sponsor the Symposium:
+**For those looking to become a sponsor for the 2024 Symposium please review our [Sponsorship Prospectus](https://drive.google.com/file/d/1cgxd-DRan9hC1JV2zefeHuXqWZpcRAsf/view?usp=drive_link)**
 
-1. During [registration](https://ucsc.irisregistration.com/Register/Form/Form?formId=10271) by credit card
+*Individual donation from participants looking to support the event are also much appreciated.* 
+
+There are three ways to support the 2024 Symposium:
+
+1. Per [OUR GIVING PAGE](https://give.ucsc.edu/campaigns/38026/donations/new?designation=opensourcesoftwareresearchcross&) 
 2. Per check:
   - Make check payable to "UC Regents"
   - Reference Open Source Symposium Sponsorship

@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Student pages
-subtitle: "Go to [last year's student pages](/osre23/#studentpages)"
+subtitle: "Go to [2023 student pages](/osre23/#studentpages)  \nReturn to [2025 student pages](/osre25/#studentpages)"
 
 # Position of this section on the page
 weight: 35

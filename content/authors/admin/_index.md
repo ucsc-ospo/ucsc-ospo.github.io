@@ -38,9 +38,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/company/open-source-program-office-uc-santa-cruz/?viewAsMember=true
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/UC_OSPO
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/UC_OSPO
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCCbqOaAyKrVuYIaehV2cF1g
@@ -59,8 +59,13 @@ Today’s universe of open source communities has immense potential to amplify t
 The OSPO's mission is to create partnerships with stakeholders within and outside the UC system to promote open source literacy and best practices, helping students learn from open source communities, letting scientists use open source to accelerate research efforts, and connecting students and scientists with sponsors from industry, government, and foundations. 
 
 Through a number of continually refined [programs](#programs) that are designed to amplify impact of the UC research enterprise the OSPO is building a community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective open source research efforts. 
+
+[Beginning in 2024](https://news.ucsc.edu/2024/04/uc-ospo-network.html), the UCSC OSPO teamed up with five other UC campuses to form the UC OSPO Network. Building on the UCSC OSPO's success, the Network strives to create a robust, interconnected network of OSPOs throughout the UC system. The Network is fostering innovation, promoting knowledge sharing, and establishing best practices for open-source software development and usage.
+
 <!--- The OSPO is formed by its [Community](#community) participants and [Members](#members). --->
 
-[Read more about the OSPO](/#about).
+[Read more about the UCSC OSPO](/#about).
+
+[Read more about the UC OSPO Network](https://ucospo.net/)
 
 <!--- about the group, join the [community](#community) or [become a supporter](#join) to get involved. --->
