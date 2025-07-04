@@ -32,6 +32,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kajal-jotwani/
+- icon: globe
+  link: https://kajal-jotwani-portfolio.vercel.app/
+  icon_pack: fas
   
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
