@@ -19,7 +19,7 @@ image:
 
 # Billion Vector Embeddings Dataset
 
-As part of the [Billion-Scale Embeddings Dataset project](/ucsc/embeddings/14062025-devadigapratham), my [proposal](./GSoC-proposal.pdf) under the mentorship of **Jayjeet Chakraborty** aims to create the first large-scale, real-world vector embeddings dataset—bridging the critical gap in Approximate Nearest Neighbor (ANN) benchmarks and Retrieval-Augmented Generation (RAG) systems.
+As part of the [Billion-Scale Embeddings Dataset project](/project/osre25/ucsc/embeddings), my [proposal](GSoC-proposal.pdf) under the mentorship of **Jayjeet Chakraborty** aims to create the first large-scale, real-world vector embeddings dataset—bridging the critical gap in Approximate Nearest Neighbor (ANN) benchmarks and Retrieval-Augmented Generation (RAG) systems.
 
 ## Motivation
 
