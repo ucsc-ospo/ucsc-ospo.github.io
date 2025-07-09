@@ -15,7 +15,7 @@ role: Undergraduate Computer Science student at Indraprastha Institute of Inform
 # Organizations/Affiliations
 organizations:
 - name: Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
-url: "https://iiitd.ac.in/"
+  url: "https://iiitd.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: BTech student at IIIT Delhi with experience in software development, network systems research and cryptography. Currently working on high-performance network benchmarking and protocol analysis.
@@ -34,17 +34,17 @@ education:
 # Social/Academic Networking
 social:
 - icon: envelope
-icon_pack: fas
-link: 'mailto:address.ankit@gmail.com'
+  icon_pack: fas
+  link: 'mailto:address.ankit@gmail.com'
 - icon: github
-icon_pack: fab
-link: https://github.com/ankitkat042
+  icon_pack: fab
+  link: https://github.com/ankitkat042
 - icon: linkedin
-icon_pack: fab
-link: https://www.linkedin.com/in/ankitk042
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ankitk042
 - icon: X
-icon_pack: ai
-link: https://x.com/ankitkat_042
+  icon_pack: ai
+  link: https://x.com/ankitkat_042
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "address.ankit@gmail.com"
