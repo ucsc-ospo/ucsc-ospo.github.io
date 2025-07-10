@@ -13,7 +13,7 @@ Our goal is to create a reproducible pipeline for:
 - Annotating or analyzing them using computer vision tools
 - Measuring bias across categories like skin tone, gender presentation, or status markers
 
-Project webpage: [https://github.com/YOUR_USERNAME/stable-diffusion-bias](https://github.com/YOUR_USERNAME/stable-diffusion-bias)
+Project webpage: [https://github.com/marzianizam/ucsc-ospo.github.io/tree/main/content/project/osre25/UCSC/FairFace](https://github.com/marzianizam/ucsc-ospo.github.io/tree/main/content/project/osre25/UCSC/FairFace)
 
 ### Project Idea: Measuring Bias in AI-Generated Portraits
 
