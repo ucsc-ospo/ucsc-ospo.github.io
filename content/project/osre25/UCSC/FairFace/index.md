@@ -34,7 +34,7 @@ Project webpage: [https://github.com/marzianizam/ucsc-ospo.github.io/tree/main/c
 
 Recent research has shown that text-to-image models can perpetuate racial and gender stereotypes through visual output. For instance, prompts like “CEO” or “nurse” often produce racially skewed results even when no explicit race or demographic cues are provided. This project examines whether similar disparities exist **along skin tone dimensions**, focusing on **subtle biases** rather than overt stereotypes.
 
-The key challenge is that visual bias is not always easy to measure. This project tackles that by using **melanin-level quantification**, a continuous and interpretable proxy for skin tone, combined with consistent prompt templating and multi-sample averaging for statistical rigor.
+The key challenge is that visual bias is not always easy to measure. This project addresses this issue by utilizing **melanin-level quantification**, a continuous and interpretable proxy for skin tone, in conjunction with consistent prompt templating and multi-sample averaging to ensure statistical rigor.
 
 ---
 
@@ -57,14 +57,7 @@ The key challenge is that visual bias is not always easy to measure. This projec
 
 ---
 
-### Ideal Contributors
 
-- Passionate about fairness in AI and social impact of generative tools
-- Comfortable with Python and image processing
-- Curious to experiment with prompt design and model behavior
-- Interested in research-style thinking and reproducibility
-
----
 
 
 
