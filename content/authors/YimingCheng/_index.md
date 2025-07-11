@@ -39,6 +39,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Summer of Reproducibility Mentors
+  - 2025 Contributors
 ---
 
 Yiming Cheng is a Pre-doc researcher in the Department of Computer Science at the University of Chicago, where he is pursuing an M.S. in Computer Science with a specialization in Machine Learning Systems (MLSys track). He graduated from Tsinghua University in 2024 with a Bachelor of Engineering in Electronic Engineering, along with minors in Statistics and Law.
