@@ -2,7 +2,7 @@
 title: "Mid-term Blog: StatWrap: Cross-Project Searching and Classification using Local Indexing"
 subtitle: "Enhancing Search Functionality and classification of Research projects"
 summary: ""
-authors: debangi29
+authors: [debangi29]
 tags: ["osre25","statwrap","reproducibility", "search", "indexing", "user interface"]
 categories: ["osre25","SoR"]
 date:  2025-07-15
