@@ -9,7 +9,7 @@ categories: ["web-development", "machine-learning", "api"]
 date: 2025-06-06
 lastmod: 2025-06-06
 featured: true
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
