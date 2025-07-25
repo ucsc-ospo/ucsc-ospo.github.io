@@ -36,15 +36,18 @@ The original version of the cc-snapshot tool had several usability challenges th
 To address this, I worked on the following improvements:
 
 **Problem:**: The command-line interface was limited and inflexible. Users couldn’t easily control features or customize behavior, which limited their ability to create snapshots in different scenarios.
+
 **Solution**: I enhanced the CLI by adding
 - A flag to disable automatic updates, giving users more control.
 - A --dry-run flag to simulate actions before actually running them — useful for testing and safety.
 - Support for a custom source path, allowing snapshots of specific directories. This makes the tool much more useful for testing smaller environments.
  
 **Problem**: The code lacked automated tests.Without tests, developers have to manually verify everything, which is time-consuming and error-prone.
+
 **Solution**: I implemented a basic test suite and integrated it with GitHub Actions, so the tool is automatically tested on every pull request.
 
 **Problem**: The tool didn’t follow a modular design. The logic was tightly coupled, making it hard to isolate or extend parts of the code.
+
 **Solution**: I refactored the code by extracting key functions into reusable components. This makes the code cleaner, easier to understand, and more maintainable in the long term.
 
 ## Next Steps – Phase Two: Performance Optimization
@@ -52,21 +55,24 @@ To address this, I worked on the following improvements:
 After improving the usability of the cc-snapshot tool, the next phase of the project focuses on addressing key performance bottlenecks. Currently, the snapshotting process can be slow and resource-intensive, which makes it less practical for frequent use especially with large environments.
 
 **Problem 1: Slow Image Compression** The current implementation uses the qcow2 image format with zlib compression, which is single-threaded and often inefficient for large disk images. This leads to long snapshot creation times and high CPU usage.
-**Solution** I will benchmark and compare different compression strategies, specifically qcow2 with no compression, qcow2 with zstd compression, which is faster and multi-threaded
+
+**Solution**: I will benchmark and compare different compression strategies, specifically qcow2 with no compression, qcow2 with zstd compression, which is faster and multi-threaded
 and raw image format, which has no compression but may benefit from simpler processing These tests will help determine which method provides the best tradeoff between speed, size, and resource usage.
 
 **Problem 2: Suboptimal Storage Backend** Snapshots are currently uploaded to Glance, which can be slow and unreliable. Uploading large images can take several minutes, and this slows down the user workflow.
-**Solution** I will compare Glance with a faster alternative, the Object Store. Smaller, compressed images may upload significantly faster to the Object Store (e.g., 30 seconds vs. 2 minutes). By measuring upload speeds and reliability, I can recommend a better default or optional backend for users.
+
+**Solution**: I will compare Glance with a faster alternative, the Object Store. Smaller, compressed images may upload significantly faster to the Object Store (e.g., 30 seconds vs. 2 minutes). By measuring upload speeds and reliability, I can recommend a better default or optional backend for users.
 
 ## How I will Measure Performance 
 
 To understand the impact of different strategies, I will collect detailed metrics across three stages:
-1. Image creation – How long it takes to build the image, depending on compression and format
-2. Image upload – How quickly the snapshot can be transferred to Glance or Object Store
-3. Instance boot time – How fast a new instance can start from that image (compressed formats must be decompressed)
+1. Image creation: How long it takes to build the image, depending on compression and format
+2. Image upload: How quickly the snapshot can be transferred to Glance or Object Store
+3. Instance boot time: How fast a new instance can start from that image (compressed formats must be decompressed)
+
 I will run multiple tests for each scenario and record performance metrics like CPU usage, memory usage, disk throughput, and total time for each step. This will help identify the most efficient and practical configuration for real-world use. 
 
-##Conclusion
+## Conclusion
 
 Addressing the current usability and performance issues in cc-snapshot is essential to improving the overall user experience. By making the tool easier to use, faster, and more flexible, we can support researchers and developers who depend on reproducible computing for their work. So far, I’ve worked on enhancing the tool’s interface, adding testing support, and refactoring the codebase for better maintainability. In the next phase, I’ll be focusing on benchmarking different compression methods, image formats, and storage backends to improve speed and efficiency.
 These improvements will help make cc-snapshot a more powerful and user-friendly tool for the scientific community. Stay tuned for the next update and thank you for following my journey!
