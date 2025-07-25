@@ -1,3 +1,4 @@
+---
 title: "Improving Usability and Performance in cc-snapshot: My Midterm Update"
 summary:
 authors: ["zahratm"]
@@ -12,7 +13,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption:
   focal_point: Center
   preview_only: false
 ---
@@ -28,6 +29,7 @@ cc-snapshot is a powerful tool on the Chameleon testbed that enables users to pa
 To structure the work, we divided the project into two main phases:
   1. Improving usability, and
   2. Optimizing performance.
+
 I’ve nearly completed the first phase and have just started working on the second.
 
 ## Phase One – Usability Improvements
@@ -35,9 +37,9 @@ I’ve nearly completed the first phase and have just started working on the sec
 The original version of the cc-snapshot tool had several usability challenges that made it difficult for users to interact with and for developers to maintain. These issues included a rigid interface, lack of flexibility, and limited testing support. All of which made the tool harder to use and extend.
 To address this, I worked on the following improvements:
 
-**Problem:**: The command-line interface was limited and inflexible. Users couldn’t easily control features or customize behavior, which limited their ability to create snapshots in different scenarios.
+**Problem**: The command-line interface was limited and inflexible. Users couldn’t easily control features or customize behavior, which limited their ability to create snapshots in different scenarios.
 
-**Solution**: I enhanced the CLI by adding
+**Solution**: I enhanced the CLI by adding:
 - A flag to disable automatic updates, giving users more control.
 - A --dry-run flag to simulate actions before actually running them — useful for testing and safety.
 - Support for a custom source path, allowing snapshots of specific directories. This makes the tool much more useful for testing smaller environments.
@@ -75,6 +77,8 @@ I will run multiple tests for each scenario and record performance metrics like 
 ## Conclusion
 
 Addressing the current usability and performance issues in cc-snapshot is essential to improving the overall user experience. By making the tool easier to use, faster, and more flexible, we can support researchers and developers who depend on reproducible computing for their work. So far, I’ve worked on enhancing the tool’s interface, adding testing support, and refactoring the codebase for better maintainability. In the next phase, I’ll be focusing on benchmarking different compression methods, image formats, and storage backends to improve speed and efficiency.
-These improvements will help make cc-snapshot a more powerful and user-friendly tool for the scientific community. Stay tuned for the next update and thank you for following my journey!
+These improvements will help make cc-snapshot a more powerful and user-friendly tool for the scientific community. 
+
+Stay tuned for the next update and thank you for following my journey!
 
 
