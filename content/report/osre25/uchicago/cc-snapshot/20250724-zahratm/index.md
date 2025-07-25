@@ -22,7 +22,7 @@ In this blog post, I’d love to share a midterm update on my project [cc-snapsh
 
 ## Project Overview 
 
-cc-snapshot is a powerful tool on the Chameleon testbed that enables users to package their customized environments for reproducibility and experiment replication. In research, reproducibility is essential. It allows scientists to run experiments consistently, share complete setups with others, and avoid environment-related errors. However, the current snapshotting mechanism has limitations that make it unreliable and inefficient, particularly in terms of usability and performance. These issues can slow down workflows and create barriers for users trying to reproduce results.Our goal is to improve both the usability and performance of the cc-snapshot tool. A more user-friendly and optimized system means that users can create and restore snapshots more quickly and easily, without needing to manually rebuild environments, ultimately saving time and improving reliability in scientific computing.
+CC-Snapshot is a powerful tool on the Chameleon testbed that enables users to package their customized environments for reproducibility and experiment replication. In research, reproducibility is essential. It allows scientists to run experiments consistently, share complete setups with others, and avoid environment-related errors. However, the current snapshotting mechanism has limitations that make it unreliable and inefficient, particularly in terms of usability and performance. These issues can slow down workflows and create barriers for users trying to reproduce results. Our goal is to improve both the usability and performance of the cc-snapshot tool. A more user-friendly and optimized system means that users can create and restore snapshots more quickly and easily, without needing to manually rebuild environments, ultimately saving time and improving reliability in scientific computing.
 
 ## Progress So Far
 
@@ -35,39 +35,45 @@ I’ve nearly completed the first phase and have just started working on the sec
 ## Phase One – Usability Improvements
 
 The original version of the cc-snapshot tool had several usability challenges that made it difficult for users to interact with and for developers to maintain. These issues included a rigid interface, lack of flexibility, and limited testing support. All of which made the tool harder to use and extend.
-To address this, I worked on the following improvements:
+To address these, I worked on the following improvements:
 
 **Problem**: The command-line interface was limited and inflexible. Users couldn’t easily control features or customize behavior, which limited their ability to create snapshots in different scenarios.
 
 **Solution**: I enhanced the CLI by adding:
 - A flag to disable automatic updates, giving users more control.
-- A --dry-run flag to simulate actions before actually running them — useful for testing and safety.
+- A --dry-run flag to simulate actions before actually running them which is useful for testing and safety.
 - Support for a custom source path, allowing snapshots of specific directories. This makes the tool much more useful for testing smaller environments.
  
-**Problem**: The code lacked automated tests.Without tests, developers have to manually verify everything, which is time-consuming and error-prone.
+**Problem**: The code lacked automated tests. Without tests, developers have to manually verify everything, which is time-consuming and error-prone.
 
 **Solution**: I implemented a basic test suite and integrated it with GitHub Actions, so the tool is automatically tested on every pull request.
 
 **Problem**: The tool didn’t follow a modular design. The logic was tightly coupled, making it hard to isolate or extend parts of the code.
 
-**Solution**: I refactored the code by extracting key functions into reusable components. This makes the code cleaner, easier to understand, and more maintainable in the long term.
+**Solution**: I refactored the code by extracting key functions. This makes the code cleaner, easier to understand, and more maintainable in the long term.
 
 ## Next Steps – Phase Two: Performance Optimization
 
 After improving the usability of the cc-snapshot tool, the next phase of the project focuses on addressing key performance bottlenecks. Currently, the snapshotting process can be slow and resource-intensive, which makes it less practical for frequent use especially with large environments.
 
-**Problem 1: Slow Image Compression** The current implementation uses the qcow2 image format with zlib compression, which is single-threaded and often inefficient for large disk images. This leads to long snapshot creation times and high CPU usage.
+**Problem 1: Slow Image Compression** 
+The current implementation uses the qcow2 image format with zlib compression, which is single-threaded and often inefficient for large disk images. This leads to long snapshot creation times and high CPU usage.
 
-**Solution**: I will benchmark and compare different compression strategies, specifically qcow2 with no compression, qcow2 with zstd compression, which is faster and multi-threaded
-and raw image format, which has no compression but may benefit from simpler processing These tests will help determine which method provides the best tradeoff between speed, size, and resource usage.
+**Solution**: I will benchmark and compare different compression strategies, specifically:
+- qcow2 with no compression
+- qcow2 with zstd compression, which is faster and multi-threaded
+- raw image format, which has no compression but may benefit from simpler processing 
 
-**Problem 2: Suboptimal Storage Backend** Snapshots are currently uploaded to Glance, which can be slow and unreliable. Uploading large images can take several minutes, and this slows down the user workflow.
+These tests will help determine which method provides the best tradeoff between speed, size, and resource usage.
 
-**Solution**: I will compare Glance with a faster alternative, the Object Store. Smaller, compressed images may upload significantly faster to the Object Store (e.g., 30 seconds vs. 2 minutes). By measuring upload speeds and reliability, I can recommend a better default or optional backend for users.
+**Problem 2: Suboptimal Storage Backend** 
+Snapshots are currently uploaded to Glance, which can be slow and unreliable. Uploading large images can take several minutes, and this slows down the user workflow.
+
+**Solution**: I will compare Glance with a faster alternative, the Object Store. Smaller, compressed images may upload significantly faster to the Object Store e.g. 30 seconds vs. 2 minutes. By measuring upload speeds and reliability, I can recommend a better default or optional backend for users.
 
 ## How I will Measure Performance 
 
-To understand the impact of different strategies, I will collect detailed metrics across three stages:
+To understand the impact of different strategies, I will try to collect detailed metrics across three stages:
 1. Image creation: How long it takes to build the image, depending on compression and format
 2. Image upload: How quickly the snapshot can be transferred to Glance or Object Store
 3. Instance boot time: How fast a new instance can start from that image (compressed formats must be decompressed)
