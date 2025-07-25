@@ -2,7 +2,7 @@
 title: "Improving Usability and Performance in cc-snapshot: My Midterm Update"
 summary:
 authors: ["zahratm"]
-tags: ["osre25", "reproducibility", "scalability"]
+tags: ["osre25", "reproducibility", "cc-snapshot"]
 categories: ["SummerofReproducibility25"]
 date: 2024-07-24
 lastmod: 2024-07-24
@@ -13,12 +13,12 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption:
+  caption: "CC-Snapshot performance and usability improvement"
   focal_point: Center
   preview_only: false
 ---
 Hi! I'm Zahra Temori, a rising junior studying Computer Science at the University of Delaware. This summer, I’ve had the exciting opportunity to participate in the Chameleon Summer Reproducibility Program, where I’ve been working under the mentorship of Paul Marshall.
-In this blog post, I’d love to share a midterm update on my project and highlight what I’ve accomplished so far, what I’ve learned, and what’s coming next. It's been a challenging but rewarding experience diving into real-world research and contributing to tools that help make science more reproducible!
+In this blog post, I’d love to share a midterm update on my project [cc-snapshot](https://github.com/ChameleonCloud/cc-snapshot) and highlight what I’ve accomplished so far, what I’ve learned, and what’s coming next. It's been a challenging but rewarding experience diving into real-world research and contributing to tools that help make science more reproducible!
 
 ## Project Overview 
 
