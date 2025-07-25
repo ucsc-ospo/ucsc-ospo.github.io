@@ -12,6 +12,8 @@ EnvGym is a general multi-agent framework designed to automate the construction 
 
 EnvGym addresses this gap by leveraging LLM-powered agents to analyze project instructions, resolve dependencies, configure execution environments, and validate results—thereby reducing human overhead and improving reproducibility at scale.
 
+![EnvGym Cover](cover.png)
+
 ## Progress
 
 ### New Tools
@@ -71,14 +73,16 @@ Key tasks include:
 
 - Judge Implementation: Develop an LLM-based judge function that takes (i) rubric and (ii) environment state, and returns a reproducibility score.
 
+![Example of a rubric tree](rubric-tree.png)
+Source: Starace, Giulio, et al. "PaperBench: Evaluating AI's Ability to Replicate AI Research." arXiv preprint arXiv:2504.01848 (2025).
+
 This will make EnvGym suitable for benchmarking. We will run our new method and obtain a score to compare with baseline methods!
 
+## Conclusion
+EnvGym has made strong progress toward automating reproducibility in computational research. Through modularization, agentic design, and prompt optimizations, we’ve surpassed existing baselines and laid the groundwork for even more improvement.
 
+The upcoming focus on metrics and benchmarking will elevate EnvGym from a functional prototype to a standardized reproducibility benchmark tool and also quantitatively prove that our new agentic method is better than existing tools such as Codex. Excited for what's to come!
 
-Here is the repo that we are working on:
-https://github.com/EaminC/EnvGym/tree/main
-
-More updates to come, thanks for reading!
 Autofill
 
 ;
