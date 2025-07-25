@@ -48,7 +48,7 @@ image:
 
 Hey everyone,
 
-If you've ever wondered what it takes to make AI data pipelines not just smarter, but safer and more transparent, you're in the right place. The last few weeks working on AIDRIN for GSoC have been a deep dive into the engine room of privacy and backend systems part of the AIDRIN project. My focus has been on building out the core privacy infrastructure and backend features that power AIDRIN's ability to give users real, actionable insights about their data. It's been challenging, sometimes messy, but incredibly rewarding to see these changes make a tangible difference.
+If you've ever wondered what it takes to make AI data pipelines not just smarter, but safer and more transparent, you're in the right place. The last few weeks working on AIDRIN for GSoC have been a deep dive into the engine room of privacy and backend systems. My focus has been on building out the core privacy infrastructure and backend features that power AIDRIN's ability to give users real, actionable insights about their data. It's been challenging, sometimes messy, but incredibly rewarding to see these changes make a tangible difference.
 
 Having Dr. Jean Luca Bez and Prof. Suren Byna as mentors, along with the support of the entire team, has truly made all the difference. Their guidance, encouragement, and collaborative spirit have been a huge part of this journey, whether I'm brainstorming new ideas or just trying to untangle a tricky bug.
 
