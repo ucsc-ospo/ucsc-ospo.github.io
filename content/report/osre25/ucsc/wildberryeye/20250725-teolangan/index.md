@@ -7,7 +7,7 @@ tags: ["osre25","wildberryeye"]
 categories: ["osre25","SoR"]
 date:  2025-07-25
 lastmod: 2025-07-25
-featured: false
+featured: true
 draft: false
 
 # Featured image
