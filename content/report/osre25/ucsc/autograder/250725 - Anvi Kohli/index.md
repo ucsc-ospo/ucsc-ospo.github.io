@@ -18,7 +18,7 @@ Hello everyone, I’m Anvi Kohli. In this blog post, I’ll be sharing my journe
 ## Project Overview
 
 Autograder is an open source tool used by UCSC to grade programming assignments. Due to the rise of AI tools like GitHub Co-pilot and ChatGPT, students are increasingly relying on these AI tools for completion their coursework. This poses a problem as it becomes challenging to uphold fairness in grading and ensure that students are learning.  
-Autograder aims to address this issue by creating a system that provides a confidence score to indicate that a piece of code was written by an AI tool.
+Our project aims to address this issue by creating a system that provides a confidence score to indicate that a piece of code was written by an AI tool.
 
 ## Progress, Challenges & Learnings
 
