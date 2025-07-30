@@ -6,8 +6,8 @@ authors:
   - sahil-tgs
 tags: ["osre25", "gsoc", "robotics", "probabilistic programming", "scenario specification", "uc", "simulation", "mujoco", "scenic", "manipulation", "control"]
 categories: ["GSoC 2025", "Robotics", "Open Source"]
-date: 2025-07-18
-lastmod: 2025-07-18
+date: 2025-07-30
+lastmod: 2025-07-30
 featured: true
 draft: false
 
