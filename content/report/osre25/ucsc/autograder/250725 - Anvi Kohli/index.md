@@ -14,7 +14,7 @@ draft: false
 ---
 
 Hello everyone, I’m Anvi Kohli and in this blog post, I’ll be sharing my journey as a GSoC contributor. 
-This summer I am contributing to [LINQS Autograder](https://ucsc-ospo.github.io/project/osre25/ucsc/autograder/) 
+This summer I am contributing to the [LINQS Autograder project](https://ucsc-ospo.github.io/project/osre25/ucsc/autograder/) 
 under the mentorship of Eriq Augustine and Lucas Ellenberger. 
 The goal of my project is to build a tool that can detect code generated with AI. 
 You can read my proposal here: [Proposal](https://summerofcode.withgoogle.com/programs/2025/projects/jxBUpvoM).
@@ -29,20 +29,25 @@ Our project aims to address this issue by creating a system that provides a conf
 
 ## Progress, Challenges & Learnings
 
-### Exploration of existing tools and systems
+### Exploration of Existing Tools and Systems
 
 My mentor, Eriq Augustine, advised me to begin with simpler methodologies before progressing to more complex ones. 
+There are a several possible approaches to detect AI generated code - from training models from scratch and designing custom detection algorithms, to using and adapting existing open-source tools. Since training a model from scratch requires an enormous amount of training data to be curated first, in the interest of time, we chose to begin by exploring pre-existing solutions and evaluating their performance.
 So first off, I conducted an in-depth exploration of open-source repositories that detect AI-generated code. 
-By building upon existing open source solutions, we can re-use pre-built tools and train them on more varied data improving their detection capabilities. This exploration helped me gain an understanding of the current work and ongoing efforts in AI-generated code detection. 
+By building upon existing open source solutions, we can focus on enhancing the capabilities of pre-built tools and fine-tuning pre-trained models.
+Training these models on more larger and diverse datasets can make them more accurate, robust, and adaptable.
+
+Exploring open source solutions helped me gain an understanding of the current work and ongoing efforts in the detection of AI-generated code. It highlighted the gaps that remain in the current tools and where there's room for improvement.
 
 ### Method 1: Transfer Learning
 
 While exploring existing tools and research papers, I found that transfer learning has shown promising results in the detection of AI-generated code. 
-Several pre-trained models like CodeBERT have been fine-tuned on labeled datasets containing AI and human-written code, and then used to classify new samples. 
+For example, fine-tuning pre-trained models like CodeBERT on labeled datasets containing AI and human-written code, and then using them to classify new samples. 
 Building on this, I curated a collection of publicly available datasets that could be used for this purpose.
-During this process, I noticed that open-source, relevant, and good quality datasets are limited, and they vary widely in format, language coverage, and quality. 
+However, during this process, I noticed that open-source, relevant, and good quality datasets are limited. 
+They also vary widely in format, language coverage, and overall quality. 
 Some focus on a single programming language, while others span multiple languages. 
-Often, these dataset also lack sufficient examples. 
+Often, these datasets also lack sufficient examples. 
 By standardizing these disorganized resources, we can create a comprehensive, multi-language dataset suitable for AI code detection. 
 
 Currently, I’m working on fine-tuning these models using the curated datasets and evaluating their effectiveness in classifying AI-generated from human written code.
@@ -52,11 +57,12 @@ Currently, I’m working on fine-tuning these models using the curated datasets 
 To help me get familiar with our existing codebase and gain hands-on experience with the Go programming language, my mentor assigned me an [Open Issue](https://github.com/edulinq/autograder-server/issues/141) of the repo. 
 Here is my progress on the same: [PR#194](https://github.com/edulinq/autograder-server/pull/194).
 
-Autograder is a tool used to grade programming assignments by measuring code similarity between student submissions. 
+The Autograder is a tool used to grade programming assignments by measuring code similarity between student submissions. 
+One of the features of the autograder server is it's ability to provide code analysis across a large number of code submissions.
 It leverages source code plagiarism detection engines like JPlag and Dolos to analyze and compare assignments during the grading process. 
 This pull request introduces the ability to pass custom arguments to these engines, allowing more control and flexibility in how similarity is calculated.
 
-As someone with no prior experience with either contributing to open source or in coding with go, I was consistently encouraged and supported by my mentors, Lucas and Eriq, who gave me valuable guidance on writing more cleaner, and efficient code. 
+As someone with no prior experience with either contributing to open source or in coding in the Go programming language, I was consistently encouraged and supported by my mentors, Lucas and Eriq, who gave me valuable guidance on writing cleaner, and efficient code. 
 This experience taught me about the importance of code quality and maintainability in production-level open-source collaborative projects.
 
 ## Learning
