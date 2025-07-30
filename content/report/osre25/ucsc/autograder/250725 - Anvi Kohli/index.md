@@ -10,7 +10,6 @@ date: 2025-07-25
 lastmod: 2025-07-25
 featured: true
 draft: false
-
 ---
 
 Hello everyone, I’m Anvi Kohli and in this blog post, I’ll be sharing my journey as a GSoC contributor. 
@@ -32,17 +31,18 @@ Our project aims to address this issue by creating a system that provides a conf
 ### Exploration of Existing Tools and Systems
 
 My mentor, Eriq Augustine, advised me to begin with simpler methodologies before progressing to more complex ones. 
-There are a several possible approaches to detect AI generated code - from training models from scratch and designing custom detection algorithms, to using and adapting existing open-source tools. Since training a model from scratch requires an enormous amount of training data to be curated first, in the interest of time, we chose to begin by exploring pre-existing solutions and evaluating their performance.
+There are a several possible approaches to detect AI generated code including training models from scratch and designing custom detection algorithms, to using and adapting existing open-source tools. 
+Since training a model from scratch requires an enormous amount of training data to be curated first, in the interest of time, we chose to begin by exploring pre-existing solutions and evaluating their performance.
 So first off, I conducted an in-depth exploration of open-source repositories that detect AI-generated code. 
 By building upon existing open source solutions, we can focus on enhancing the capabilities of pre-built tools and fine-tuning pre-trained models.
 Training these models on more larger and diverse datasets can make them more accurate, robust, and adaptable.
 
-Exploring open source solutions helped me gain an understanding of the current work and ongoing efforts in the detection of AI-generated code. It highlighted the gaps that remain in the current tools and where there's room for improvement.
+Exploring open source solutions helped me gain an understanding of the current work and ongoing efforts in the detection of AI-generated code. This exploration helped me identify the gaps that remain in the current tools and where there's room for improvement.
 
 ### Method 1: Transfer Learning
 
 While exploring existing tools and research papers, I found that transfer learning has shown promising results in the detection of AI-generated code. 
-For example, fine-tuning pre-trained models like CodeBERT on labeled datasets containing AI and human-written code, and then using them to classify new samples. 
+For example, many studies fine-tuned pre-trained models like CodeBERT on labeled datasets containing AI and human-written code.
 Building on this, I curated a collection of publicly available datasets that could be used for this purpose.
 However, during this process, I noticed that open-source, relevant, and good quality datasets are limited. 
 They also vary widely in format, language coverage, and overall quality. 
@@ -50,7 +50,7 @@ Some focus on a single programming language, while others span multiple language
 Often, these datasets also lack sufficient examples. 
 By standardizing these disorganized resources, we can create a comprehensive, multi-language dataset suitable for AI code detection. 
 
-Currently, I’m working on fine-tuning these models using the curated datasets and evaluating their effectiveness in classifying AI-generated from human written code.
+Currently, I’m working on fine-tuning these models using the open source datasets and evaluating their effectiveness in classifying AI-generated from human written code.
 
 ### Contributing to Autograder Repository
 
@@ -59,7 +59,7 @@ Here is my progress on the same: [PR#194](https://github.com/edulinq/autograder-
 
 The Autograder is a tool used to grade programming assignments by measuring code similarity between student submissions. 
 One of the features of the autograder server is it's ability to provide code analysis across a large number of code submissions.
-It leverages source code plagiarism detection engines like JPlag and Dolos to analyze and compare assignments during the grading process. 
+It leverages source code plagiarism detection engines like JPlag and Dolos to analyze all submissions for an assignment.
 This pull request introduces the ability to pass custom arguments to these engines, allowing more control and flexibility in how similarity is calculated.
 
 As someone with no prior experience with either contributing to open source or in coding in the Go programming language, I was consistently encouraged and supported by my mentors, Lucas and Eriq, who gave me valuable guidance on writing cleaner, and efficient code. 
