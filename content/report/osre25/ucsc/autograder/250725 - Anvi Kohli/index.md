@@ -62,7 +62,7 @@ One of the features of the autograder server is it's ability to provide code ana
 It leverages source code plagiarism detection engines like JPlag and Dolos to analyze all submissions for an assignment.
 This pull request introduces the ability to pass custom arguments to these engines, allowing more control and flexibility in how similarity is calculated.
 
-As someone with no prior experience with either contributing to open source or in coding in the Go programming language, I was consistently encouraged and supported by my mentors, Lucas and Eriq, who gave me valuable guidance on writing cleaner and efficient code. 
+As someone with no prior experience with either contributing to open source or in coding in the Go programming language, I was consistently encouraged and supported by my mentors, Lucas and Eriq, who gave me valuable guidance on writing cleaner and more efficient code. 
 This experience taught me about the importance of code quality and maintainability in production-level open-source collaborative projects.
 
 ## Learning
