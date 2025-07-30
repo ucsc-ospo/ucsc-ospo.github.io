@@ -49,26 +49,6 @@ This project will deliver three components, software, model training, validation
 - Amazon Dataset: https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews 
 - Movie Lense Data:  https://grouplens.org/datasets/movielens/  
 
-
-title: "LLMSeqRec: LLM Enhanced Contextual Sequential Recommender"
-summary: ""
-authors: 
-  - Connor
-  - bindong
-  - LinseyPang
-tags: ["osre25", "uc", "AI", "LLM", "Recommender"]
-categories: ["Google Summer of Code", "GSoC 2025", "Open Source", "LLM"]
-date: 2025-06-14
-lastmod: YYYY-06-14
-featured: true
-draft: false
-
-image:
-  caption: "LLMSeqRec workflow"
-  focal_point: "Top"
-  preview_only: false
----
-
 ## Introduction
 
 I'm Connor, a student at NYU studying CS and Math. This summer I've gotten the opportunity to work on LLMSeqRec under Dr. Bin Dong and Dr. Linsey Pang. 
@@ -96,4 +76,4 @@ The project is currently progressing through stages including model training, em
 - Running comparative experiments
 - Publishing findings and writing technical blogs
 
-As part of the [PROJECTNAME](/project/osre25/sf/LLMSeqRec) my [proposal](https://drive.google.com/file/d/1cs9lsjacSJUbXWzTfcHIukfKFwKJjUZF/view?usp=sharing) under the mentorship of Dr. Bin Dong and Dr. Linsey Pang.
+As part of the [LLMSeqRec](/project/osre25/sf/LLMSeqRec) my [proposal](https://drive.google.com/file/d/1cs9lsjacSJUbXWzTfcHIukfKFwKJjUZF/view?usp=sharing) under the mentorship of Dr. Bin Dong and Dr. Linsey Pang.
