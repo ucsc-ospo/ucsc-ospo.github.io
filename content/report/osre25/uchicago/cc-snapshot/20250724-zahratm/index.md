@@ -6,7 +6,7 @@ tags: ["osre25", "reproducibility", "cc-snapshot"]
 categories: ["SummerofReproducibility25"]
 date: 2024-07-24
 lastmod: 2024-07-24
-featured: false
+featured: true
 draft: false
 
 # Featured image
