@@ -1,14 +1,14 @@
 ---
-title: "YOUR TITLE"
-subtitle: "YOUR SUBTITLE (OPTIONAL)"
+title: "Reproducibility of Interactive Notebooks in Distributed Environments"
+subtitle: ""
 summary:
 authors: 
-  - USERNAME1
-  - USERNAME2
+  - rahmad
+  - tanu-malik
 tags: ["osre25"]
-categories: []
-date: YYYY-MM-DD
-lastmod: YYYY-MM-DD
+categories: [distribute systems, notebooks]
+date: 2025-07-25
+lastmod: 2025-07-25
 featured: false
 draft: false
 
