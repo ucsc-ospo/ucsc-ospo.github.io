@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-  Electronics Engineering Graduate(2025) | Computer Science and Robotics enthusiast! | Contributor: SoB'24 - RoboSats, GSoC'25 - Scenic 
+  IIITN'25 | B.Tech, Electronics and Communication Engineering | SoB'24 RoboSats
 # Social/Academic Networking
 social:
 - icon: envelope
