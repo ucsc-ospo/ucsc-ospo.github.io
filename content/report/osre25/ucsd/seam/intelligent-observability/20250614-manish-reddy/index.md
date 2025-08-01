@@ -7,7 +7,7 @@ tags: ["osre25"]
 categories: []
 date: 2025-06-14
 lastmod: 2025-06-14
-featured: false
+featured: True
 draft: false
 
 
