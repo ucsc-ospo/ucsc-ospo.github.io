@@ -1,5 +1,5 @@
 ---
-title: "Mid-Term: MPI Appliance for HPC Research on Chameleon"
+title: "Mid-Term Update: MPI Appliance for HPC Research on Chameleon"
 subtitle: ""
 summary:
 authors: 
@@ -20,8 +20,8 @@ image:
   preview_only: false
 ---
 
-Hi everyone! This is my mid-term blog update for my project, MPI Appliance for HPC Research on Chameleon, in collaboration with 
-Argonne National Laboratory and the Chameleon Cloud community.
+Hi everyone! This is my mid-term blog update for the project [MPI Appliance for HPC Research on Chameleon](https://ucsc-ospo.github.io/project/osre25/uchicago/mpi/), developed in collaboration with Argonne National Laboratory and the Chameleon Cloud community. 
+This blog follows up on my earlier post, which you can find [here](https://ucsc-ospo.github.io/report/osre25/uchicago/mpi/20250614-rohan-babbar/).
 
 ### 🔧 June 15 – June 29, 2025
 
