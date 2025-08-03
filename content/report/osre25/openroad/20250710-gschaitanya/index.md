@@ -24,7 +24,7 @@ image:
 
 This summer, under the guidance of my mentors Eder Monteiro and Augusto Berndt at the OpenROAD project, I am implementing support for **polygonal (specifically rectilinear) die shapes** in OpenROAD’s floorplanning flow.
 
-Here’s a link to my original [proposal](https://summerofcode.withgoogle.com/programs/2025/projects/XYZ123)
+Here’s a link to my original [proposal](https://summerofcode.withgoogle.com/programs/2025/projects/mcv3Hbgk)
 
 ## What is OpenROAD and why polygonal floorplans?
 
