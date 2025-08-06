@@ -3,11 +3,11 @@ title: "LLMSeqRec: LLM Enhanced Contextual Sequential Recommender"
 authors: [Connor,LinseyPang,bindong]
 author_notes: ["Salesforce","Research Scientist, Lawrence Berkeley Lab"]
 tags: ["osre25", "uc", "AI", "LLM", "Recommender"]
-date: 2025-02-06T10:15:56-07:00
-lastmod: 2025-02-06T10:15:56-07:00
+date: 2025-06-06T10:15:56-07:00 y
+lastmod: 2025-06-06T10:15:56-07:00
 ---
 
-###  Project Description
+###  Project Description 
 Sequential Recommender Systems are widely used in scientific and business applications to analyze and predict patterns over time. In biology and ecology, they help track species behavior by suggesting related research on migration patterns and environmental changes. Medical applications include personalized treatment recommendations based on patient history and predicting disease progression. In physics and engineering, these systems optimize experimental setups by suggesting relevant past experiments or simulations. Environmental and climate science applications include forecasting climate trends and recommending datasets for monitoring deforestation or pollution. In business and e-commerce, sequential recommenders enhance user experiences by predicting consumer behavior, suggesting personalized products, and optimizing marketing strategies based on browsing and purchase history. By leveraging sequential dependencies, these recommender systems enhance research efficiency, knowledge discovery, and business decision-making across various domains. Traditional sequential recommendation systems rely on historical user interactions to predict future preferences, but they often struggle with capturing complex contextual dependencies and adapting to dynamic user behaviors. Existing models primarily use predefined embeddings and handcrafted features, limiting their ability to generalize across diverse recommendation scenarios. To address these challenges, we propose LLM Enhanced Contextual Sequential Recommender (LLMSeqRec), which leverages Large Language Models (LLMs) to enrich sequential recommendations with deep contextual understanding and adaptive reasoning.
 By integrating LLM-generated embeddings and contextual representations, LLMSeqRec enhances user intent modeling, cold-start recommendations, and long-range dependencies in sequential data. Unlike traditional models that rely solely on structured interaction logs, LLMSeqRec dynamically interprets and augments sequences with semantic context, leading to more accurate and personalized recommendations. This fusion of LLM intelligence with sequential modeling enables a more scalable, adaptable, and explainable recommender system, bridging the gap between traditional sequence-based approaches and advanced AI-driven recommendations. 
 
