@@ -40,7 +40,7 @@ This project offers a great opportunity to work at the intersection of software 
 
 # **Deliverables**
 
-It has been more than six weeks since the project began, and significant progress has been made. Here's a breakdown:
+The project has reached the end of its scope after 12 weeks of work. Here's a breakdown:
 
 ## **1. Descriptive Comparison of Open-Source Libraries**  
 Compared various open-source search libraries based on evaluation criteria such as **indexing speed, search speed, memory usage, typo tolerance, fuzzy searching, partial matching, full-text queries, contextual search, Boolean support, exact word match, installation ease, maintenance, documentation**, and **developer experience**. Decided upon the weights to assign to each of the features and point out the best library to use. According to our weights assigned,
