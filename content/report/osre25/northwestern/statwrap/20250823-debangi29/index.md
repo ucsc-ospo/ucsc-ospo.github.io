@@ -27,7 +27,7 @@ I am Debangi Ghosh from India, an undergraduate student at the Indian Institute 
 
 # **About the Project**
 
-As part of the project, I am working on enhancing the usability of StatWrap by enabling efficient cross-project search capabilities. The goal is to make it easier for reserachers to discover relevant projects, notes, and assets across both current and archived work, using information that is either user-entered or passively collected by StatWrap.
+As part of the project, I am working on enhancing the usability of StatWrap by enabling efficient cross-project search capabilities. The goal is to make it easier for researchers to discover relevant projects, notes, and assets across both current and archived work, using information that is either user-entered or passively collected by StatWrap.
 
 Given the sensitivity of the data involved, one of the key requirements is that all indexing and search operations must be performed locally. To address this, my responsibilities include:
 
