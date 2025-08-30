@@ -57,7 +57,19 @@ The benchmark was measured in terms per seconds, higher values are better (excep
 FlexSearch performs queries up to 1,000,000 times faster compared to other libraries by also providing powerful search capabilities like multi-field search (document search), phonetic transformations, partial matching, tag-search, result highlighting or suggestions.
 Bigger workloads are scalable through workers to perform any updates or queries to the index in parallel through dedicated balanced threads.
 
-## **2. FlexSearch Features**  
+
+## **2. The Search User Interface**  
+
+![ui](image3.png)
+![ui2](image5.png)
+
+
+## **3. Complete Search Execution Pipeline**
+
+![ui2](Flowchart_.png)
+
+
+## **4. FlexSearch Features**  
 
 #### 1. **Persistent Indexing with Automatic Loading**
 - **Index persistence**: Search index automatically saves to disk and loads on startup
@@ -128,15 +140,6 @@ Bigger workloads are scalable through workers to perform any updates or queries 
 - **Expandable results**: Drill down into detailed information for each result
 - **Loading states**: Clear feedback during indexing and search operations
 - **Responsive tabs**: Organized results by type with badge counts
-
-## **3. The User interface**  
-
-![ui](image3.png)
-![ui2](image5.png)
-
-## **4. Complete Search Execution Pipeline**
-
-![ui2](Flowchart_.png)
 
 
 ## **5. Classification of Active and Past Projects**
