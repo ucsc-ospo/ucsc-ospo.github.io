@@ -15,7 +15,7 @@ image:
   preview_only: false
 ---
 
-My name is {{%Zahra Temori%}}, and I'm thrilled to collaborate with mentor {{%Paul Marshall%}} during this summer on the cc-snapshot project.
+My name is Zahra Temori, and I'm thrilled to collaborate with mentor Paul Marshall during this summer on the cc-snapshot project.
 
 ## Introduction
 Reproducibility is an important concept in high performance computing and research. It ensures that experiments can be repeated, validated, and extended with confidence. Achieving a reproducible environment requires identical software stacks, with the exact same dependencies, and configuration. The Chameleon Cloud testbed provides the cc-snapshot tool to support reproducibility by capturing the complete state of a running system. This allows researchers to rerun experiments exactly as before, share setups among each other, and avoid potential environmental issues such as missing dependencies or version mismatches. In this work, we explore how to enhance snapshotting as a reproducible method and make it an effective strategy for HPC research.
