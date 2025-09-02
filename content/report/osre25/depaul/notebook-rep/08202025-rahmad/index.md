@@ -4,8 +4,8 @@ subtitle: ""
 summary:
 authors: 
   - rahmad
-tags: ["osre25"]
-categories: [distribute systems, notebooks]
+tags: ["distributed systems", "notebooks", "osre25", "SoR", "reproducibility"]
+categories: ["osre25", "SoR"]
 date: 2025-08-20
 lastmod: 2025-08-20
 featured: false
