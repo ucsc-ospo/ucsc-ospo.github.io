@@ -1,4 +1,16 @@
-# Wrapping Up KALLM
+---
+title: "Wrapping Up KALLM"
+subtitle: ""
+summary: "The KANs are successfully reducing the number of weights required to achieve the same performance as the original model."
+authors: 
+  - DentonJC
+tags: ["osre25"]
+categories: ["machine-learning"]
+date: 2025-09-03
+lastmod: 2025-09-03
+featured: false
+draft: false
+---
 
 Large language models today look complicated, but if you peel back the layers, most of what you see is old technology: stacks of linear transformations. The Transformer architecture, the engine behind GPTs and their cousins, is often described as revolutionary. Yet the majority of its parameters are standard linear layers, the same kind of matrix multiplications you would find in a simple multilayer perceptron from the 1980s. For years these layers have gone unchallenged. They are fast, they scale, and they work. But maybe the time has come to ask: *can we do better than linear?*
 
