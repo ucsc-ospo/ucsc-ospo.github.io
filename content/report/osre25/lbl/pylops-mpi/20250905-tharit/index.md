@@ -6,8 +6,8 @@ authors:
   - tharitt 
 tags: ["osre25", "gsoc25","lbl","PyLops-MPI"]
 categories: ["High-performance Computing", "GPU", "NCCL", "Parallel Programming"]
-date: 2025-07-23
-lastmod: 2025-07-23
+date: 2025-09-05
+lastmod: 2025-09-05
 featured: true
 draft: false
 
