@@ -1,5 +1,5 @@
 ---
-title: "Improving Usability and Performance in cc-snapshot: My Midterm Update"
+title: "Final Blog:Improving Usability and Performance in cc-snapshot"
 summary:
 authors: ["Zahra Temori"]
 tags: ["osre25", "reproducibility", "cc-snapshot"]
