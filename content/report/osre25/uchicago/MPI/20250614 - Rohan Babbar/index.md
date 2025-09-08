@@ -5,7 +5,7 @@ summary:
 authors: 
   - rohanbabbar04
 tags: ["osre25", "reproducibility", "MPI", "cloud computing"]
-categories: ["osre25", "reproducibility", "HPC", "MPI"]
+categories: ["osre25", "reproducibility", "SOR", "HPC", "MPI"]
 date: 2025-06-14
 lastmod: 2025-06-14
 featured: false
