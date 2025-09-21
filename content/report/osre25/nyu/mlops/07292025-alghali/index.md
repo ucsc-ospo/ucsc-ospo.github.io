@@ -38,7 +38,7 @@ The progress on the project so far is as follows:
 
 Artifacts are now logged directly from the MLflow server to the Chameleon object store, without relying on a database backend or an intermediate MinIO S3 layer.
  
-#### Different jupyter lap images for each framework.
+#### Different jupyter lab images for each framework.
 We’ve started with the top ML frameworks — PyTorch Lightning, Keras/TensorFlow, and Scikit-Learn. Each framework now has its own image, which will later be tailored to the user’s selection.
 
 #### Github CLI and Hugging Face integration inside the container. 
