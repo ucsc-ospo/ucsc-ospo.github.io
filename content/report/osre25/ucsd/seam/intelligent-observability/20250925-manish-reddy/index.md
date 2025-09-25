@@ -8,7 +8,7 @@ categories: ["osre25"]
 date: 2025-09-25
 lastmod: 2025-09-25
 featured: false
-draft: false
+draft: True
 ---
 I'm excited to share the completion of my OSRE 2025 project, "*Intelligent Observability for NRP: A GenAI Approach*" and the significant learning journey it has been. We've successfully developed a novel InfoAgent architecture that delivers on our core goal: building an ML-powered service for NRP that analyzes monitoring data, detects anomalies, and provides trustworthy GenAI explanations.
 
