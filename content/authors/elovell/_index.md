@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "OSPO Incubator Fellow, UC Santa Cruz"
+role: "Associate Director, OSPO; Assistant Adjunct Professor, Computer Science and Engineering, UC Santa Cruz"
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:emme@soe.ucsc.edu
+  link: mailto:elovell@ucsc.edu
 - icon: home
   icon_pack: fas
   link: https://users.soe.ucsc.edu/~emme/
@@ -51,4 +51,4 @@ email: ""
 user_groups:
 - University of California Mentors
 ---
-Dr. Emily Lovell is an OSPO Incubator Fellow at UC Santa Cruz. Her research and teaching use novel domains to invite broader participation in computing, with her postdoctoral work focusing on newcomers to open source. Emily previously served on faculty at [Berea College](https://www.berea.edu), where she developed and taught courses on open source contribution and computational craft. She has also co-taught physical computing workshops at a variety of venues domestically and abroad, including outreach programs, design schools, museums, and festivals. Motivated by a desire to make e-textiles more accessible, Emily designed a low-cost, pre-programmed sewable microcontroller known as the [LilyTiny](https://www.sparkfun.com/products/10899) – which is open source and has been commercially available as part of the LilyPad Arduino product line for ten years now. She has a S.M. in Media Arts & Sciences from the [MIT Media Lab](https://www.media.mit.edu) and a Ph.D. in Computer Science from [UC Santa Cruz](https://www.ucsc.edu). Emily lives in the Santa Cruz Mountains with her rescue pup, Daphne.
+Dr. Emily Lovell is the Associate Director of the UC Santa Cruz Open Source Program Office. She also holds a faculty appointment in the Computer Science and Engineering department, supporting new contributors through research, teaching, and mentorship. Emily previously served on faculty at [Berea College](https://www.berea.edu), where she developed and taught courses on open source contribution and computational craft. She has also co-taught physical computing workshops at a variety of venues domestically and abroad, including outreach programs, design schools, museums, and festivals. Motivated by a desire to make e-textiles more accessible, Emily designed a low-cost, pre-programmed sewable microcontroller known as the [LilyTiny](https://www.sparkfun.com/products/10899) – which is open source and has been commercially available as part of the LilyPad Arduino product line for over ten years now. She has a S.M. in Media Arts & Sciences from the [MIT Media Lab](https://www.media.mit.edu) and a Ph.D. in Computer Science from [UC Santa Cruz](https://www.ucsc.edu). Emily lives in the Santa Cruz Mountains with her rescue pup, Daphne.
