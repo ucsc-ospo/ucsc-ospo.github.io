@@ -1,5 +1,5 @@
 ---
-title: 'United Nation's Reboot The Earth Hackathon Comes to UC Santa Cruz'
+title: "United Nation's Reboot The Earth Hackathon Comes to UC Santa Cruz"
 
 event: 'UN Reboot the Earth West Coast'
 #event_url: [https://example.org](https://news.ucsc.edu/2025/10/united-nations-baskin-engineering-reboot-the-earth-hackathon/)
