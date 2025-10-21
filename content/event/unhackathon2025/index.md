@@ -1,7 +1,7 @@
 ---
-title: 'UC Open Source Summit 2025'
+title: 'United Nation's Reboot The Earth Hackathon Comes to UC Santa Cruz'
 
-event: 'UC Open Source Summit 2025'
+event: 'UN Reboot the Earth West Coast'
 #event_url: [https://example.org](https://news.ucsc.edu/2025/10/united-nations-baskin-engineering-reboot-the-earth-hackathon/)
 
 location: 'UCSC Silicon Valley Campus'
