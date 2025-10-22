@@ -49,9 +49,35 @@ slides:
 projects:
 ---
 
-[Registration](https://forms.office.com/pages/responsepage.aspx?id=2zWeD09UYE-9zF6kFubccHmtLSqBYbBDoSCkHgfKhHpUQkJWWTk4R0tXQkxFWEQ0MDBOUTMyWk9JSy4u&route=shorturl)
+# [Registration](https://forms.office.com/pages/responsepage.aspx?id=2zWeD09UYE-9zF6kFubccHmtLSqBYbBDoSCkHgfKhHpUQkJWWTk4R0tXQkxFWEQ0MDBOUTMyWk9JSy4u&route=shorturl)
 
 The United Nations and UC Santa Cruz's Baskin School of Engineering are partnering to host the West Coast's first "Reboot the Earth" hackathon on November 7-8, 2025, at the UC Santa Cruz Silicon Valley Center. The event will bring together developers to create technological solutions addressing the climate crisis, specifically focusing on wildfire detection, response, and impact—challenges particularly relevant to California. Participants will work with open source tools, artificial intelligence, and open data sets to build solutions that can serve as digital public goods for local communities, with winning teams receiving six months of coaching from UN and Salesforce partners to scale their innovations. 
 
-See full story [here](https://news.ucsc.edu/2025/10/united-nations-baskin-engineering-reboot-the-earth-hackathon/)! If you are interested in participating as a judge or mentor please contact [Stephanie Lieggi](mailto:slieggi@ucsc.edu)
+## See full story [here](https://news.ucsc.edu/2025/10/united-nations-baskin-engineering-reboot-the-earth-hackathon/)! If you are interested in participating as a judge or mentor please contact [Stephanie Lieggi](mailto:slieggi@ucsc.edu)
+
+# Draft Agenda:
+November 7
+- 9:00am - Attendee Check In & Coffee/light refreshments
+- 10:00am - Opening & Welcome
+- 11:00am - Morning Working Session Begins (Workshops and mentor sessions TBC)
+- 12:15pm - Networking Lunch
+- 1:00pm - Afternoon Working Session Begins
+- 2:30pm - Coffee and Snacks
+- 5:30pm - End of Day 1
+
+November 8 
+- 8:30am  - Attendee Check In & Coffee/light refreshments
+- 9:30am  - Morning Working Session Begins  (Workshops and mentor sessions TBC)
+- 12:15pm  - Networking Lunch 
+- 12:45pm  - Afternoon Working Session Begins 
+- 2:00pm - Project Submission Deadline 
+- 2:05pm -   First Round Judging
+- 3:15pm -   First Round Winners Announced
+- 3:30pm  -  Pitches by First Round Winners
+- 4:00pm - Project Showcase for ALL Participating Projects and Social Hour
+- 5:00 -   Hackathon Winners Announced!
+- 5:30 - Event ends
+
+
+
 
