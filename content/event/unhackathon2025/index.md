@@ -61,33 +61,33 @@ Many more details available in this [Frequently Asked Questions (FAQ) document](
 
 ## Friday, November 7
 
-|Time|Session/Activity|
-|----:|:----------------|
-| 9:00am|Attendee Check-in & Coffee/Light Refreshments|
-|10:00am|Opening & Welcome|
-|11:00am|Morning Working Session Begins| 
-||(_Workshops and Mentor Sessions_)|
-|12:15pm|Lunch & Networking|
-|12:45pm|Afternoon Working Session Begins|
-||(_Workshops and Mentor Sessions_)|
-| 2:30pm|Coffee Break|
-| 5:30pm|Day 1 Concludes|
+|Time||Session/Activity|
+|----:|---|:----------------|
+| 9:00am|&nbsp;|Attendee Check-in & Coffee/Light Refreshments|
+|10:00am|&nbsp;|Opening & Welcome|
+|11:00am|&nbsp;|Morning Working Session Begins| 
+||&nbsp;|(_Workshops and Mentor Sessions_)|
+|12:15pm|&nbsp;|Lunch & Networking|
+|12:45pm|&nbsp;|Afternoon Working Session Begins|
+||&nbsp;|(_Workshops and Mentor Sessions_)|
+| 2:30pm|&nbsp;|Coffee Break|
+| 5:30pm|&nbsp;|Day 1 Concludes|
 
 ## Saturday, November 8 
 
-|Time|Session/Activity|
-|----:|:----------------|
-|9:00am|Attendee Check-in & Coffee/Light Refreshments|
-|9:30am|Morning Working Session Begins| 
-||(_Workshops and Mentor Sessions_)|
-|12:15pm|Lunch & Networking|
-|12:45pm|Afternoon Working Session Begins|
-|2:00pm|**Project Submission Deadline / Preliminary Round Judging Begins**| 
-|3:15pm|**Finalists Announced**|
-|3:30pm|**Pitches by Finalists**| 
-|4:00pm|_**Social Hour & Project Showcase for ALL Participating Projects**_|
-|5:00pm|**Hackathon Winners Announced!**|
-|5:30pm|Event Concludes|
+|Time||Session/Activity|
+|----:|---|:----------------|
+|9:00am|&nbsp;|Attendee Check-in & Coffee/Light Refreshments|
+|9:30am|&nbsp;|Morning Working Session Begins| 
+||&nbsp;|(_Workshops and Mentor Sessions_)|
+|12:15pm|&nbsp;|Lunch & Networking|
+|12:45pm|&nbsp;|Afternoon Working Session Begins|
+|2:00pm|&nbsp;|**Project Submission Deadline / Preliminary Round Judging Begins**| 
+|3:15pm|&nbsp;|**Finalists Announced**|
+|3:30pm|&nbsp;|**Pitches by Finalists**| 
+|4:00pm|&nbsp;|_**Social Hour & Project Showcase for ALL Participating Projects**_|
+|5:00pm|&nbsp;|**Hackathon Winners Announced!**|
+|5:30pm|&nbsp;|Event Concludes|
 
 
 
