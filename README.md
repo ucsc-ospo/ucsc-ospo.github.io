@@ -12,13 +12,13 @@ A project serves as the context for one or more project ideas. Each project is r
 - Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) 
 - Option B (via git):
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
-  - Create `content/project/osre25/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre24/ORGANIZATION/PROJECTNAME`
+  - Create `content/project/osre26/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre24/ORGANIZATION/PROJECTNAME`
   - In that directory create/update `index.md` and the project's image (`featured.png` or `featured.jpg`) 
   - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/project/osre22/ucsc/polyphorm/index.md)):
     - Add the project's title in `title:`, 
     - Date the project entry with `date:` and `lastmod:`, using the format `2022-05-27`. **Note that projects dated in the future will not display**.
     - Include a list of `authors:`, using either names in quotes or user names (see below for instructions on how to establish user names)
-    - **IMPORTANT**: set a list of tags that include `"osre25"` and either `"uc"` or `"reproducibility"` or both, depending on whether your project has a mentor affiliated with a UC campus or associated national lab (LBL, LANL, LLNL), or is a _Summer of Reproducibility_ project. Feel free to add additional tags.
+    - **IMPORTANT**: set a list of tags that include `"osre26"` and either `"uc"` or `"reproducibility"` or both, depending on whether your project has a mentor affiliated with a UC campus or associated national lab (LBL, LANL, LLNL), or is a _Summer of Reproducibility_ project. Feel free to add additional tags.
     - Below the frontmatter start with a description of the project and include links to the project's webpage. 
     - Add each project idea with level-3 header, i.e., `### ...` and add a list of **essential information** that includes *topics*, *skills*, *difficulty*, *size* (175 vs 350 hours), and *mentors*.
   - Make a pull request.
@@ -47,36 +47,36 @@ The website has five "lists":
 
 ## How to add a new annual edition of the Open Source Research Experience
 
-To archive the current year (e.g. 2024) and start a new OSRE edition: 
+To archive the current year (e.g. 2025) and start a new OSRE edition: 
 - Update `/content/osre/index.md`
-- Copy `/content/osre24` to `/content/osre25` 
-- Make the following updates within `/content/osre25`:
-  - Update `/content/osre25/intro.md`
-  - Rename and update `content/osre25/osre25.md`
+- Copy `/content/osre25` to `/content/osre26` 
+- Make the following updates within `/content/osre26`:
+  - Update `/content/osre26/intro.md`
+  - Rename and update `content/osre26/osre26.md`
   - For Student Pages:
-    - In `/content/osre25/studentpages.md` 
-      - Update `subtitle: "Go to [2024 student pages](/osre24/#studentpages)"`
-      - Update `tag: [osre25]`
-      - Update "OSRE 2025" in body
-    - In `/content/osre24/studentpages.md` update `subtitle: "Go to [2023 student pages](/osre23/#studentpages)  \nReturn to [2025 student pages](/osre25/#studentpages)"`
+    - In `/content/osre26/studentpages.md` 
+      - Update `subtitle: "Go to [2025 student pages](/osre25/#studentpages)"`
+      - Update `tag: [osre26]`
+      - Update "OSRE 2026" in body
+    - In `/content/osre25/studentpages.md` update `subtitle: "Go to [2024 student pages](/osre24/#studentpages)  \nReturn to [2026 student pages](/osre26/#studentpages)"`
   - For Projects:
-    - In `/content/osre25/projects.md` 
-      - Update `title: 2025 Projects`
-      - Update `subtitle: "Go to [2024 projects](/osre24/#projects)"`
-      - Update `tag: [osre25]`
-    - In `/content/osre24/projects.md"` update `subtitle: "Go to [2023 projects](/osre23/#projects)  \nReturn to [2025 projects](/content/osre25/#projects)"`
+    - In `/content/osre26/projects.md` 
+      - Update `title: 2026 Projects`
+      - Update `subtitle: "Go to [2025 projects](/osre25/#projects)"`
+      - Update `tag: [osre26]`
+    - In `/content/osre25/projects.md"` update `subtitle: "Go to [2024 projects](/osre24/#projects)  \nReturn to [2026 projects](/content/osre26/#projects)"`
   - For Timelines:
-    - In `/content/osre25/timeline.md` 
-      - Update `subtitle: "Go to [2024 timeline](/osre24/#timeline)"`
-      - In body update `caption="Table: OSRE 2025 Timeline"`
-      - Update `/content/osre25/timeline.csv`
-    - In `/content/osre24/timeline.md` update `subtitle: "Go to [2023 timeline](/osre23/#timeline)  \nReturn to [2025 timeline](/osre25/#timeline)"`
-- Copy `/content/report/osre24/ucsc/admin/20231006-admin` to `/content/report/osre25/ucsc/admin/20231021-admin` (or any other `YYYYMMDD-admin` name) and update tags (and any new instructions) in `index.md` of that directory:
-  - Update title to OSRE 2025
-  - Replace all `osre24` with `osre25`
-- Update `/content/osre25/intro.md` cta link `url: '/osre25/#projects'`
-- Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2025 (The OSRE documentation is updated in place -- use version control to find out about documentation of earlier years)
-- Copy `/content/sor24` to `/content/sor25`, make 2025 updates to `/content/sor25`, and update SoR links in `/content/oser25/osre25.md` to `/sor25` and vice versa.
+    - In `/content/osre26/timeline.md` 
+      - Update `subtitle: "Go to [2025 timeline](/osre24/#timeline)"`
+      - In body update `caption="Table: OSRE 2026 Timeline"`
+      - Update `/content/osre26/timeline.csv`
+    - In `/content/osre25/timeline.md` update `subtitle: "Go to [2024 timeline](/osre23/#timeline)  \nReturn to [2026 timeline](/osre26/#timeline)"`
+- Copy `/content/report/osre25/ucsc/admin/20241021-admin` to `/content/report/osre26/ucsc/admin/20241021-admin` (or any other `YYYYMMDD-admin` name) and update tags (and any new instructions) in `index.md` of that directory:
+  - Update title to OSRE 2026
+  - Replace all `osre25` with `osre26`
+- Update `/content/osre26/intro.md` cta link `url: '/osre26/#projects'`
+- Update `/content/osredocs` files for mentors, students, and mentor FAQs for OSRE 2026 (The OSRE documentation is updated in place -- use version control to find out about documentation of earlier years)
+- Outdated: Copy `/content/sor24` to `/content/sor25`, make 2025 updates to `/content/sor25`, and update SoR links in `/content/oser25/osre26.md` to `/sor25` and vice versa.
 
 ## How to fix the deployment workflow
 
