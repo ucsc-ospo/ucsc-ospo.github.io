@@ -44,7 +44,7 @@ Mentors are welcome to add information about themselves (see [example](https://o
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io) (or combine with pull request of adding/updating a project above)
   - Create `/content/authors/USERNAME` directory.
   - In that directory copy an `_index.md` file from another user and update it (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/authors/slieggi/_index.md))
-    - Many icons are available (see [documentation](https://wowchemy.com/docs/getting-started/page-builder/#icons))
+    - Many icons are available (see [documentation](https://bootstrap.hugoblox.com/getting-started/page-builder/#icons))
     - **IMPORTANT**: Under `user_groups:` add `- University of California Mentors`.
     - The short bio and any other information goes below the frontmatter.
   - Make a pull request and [email OSRE Admins](mailto:ospo-info-group@ucsc.edu)
