@@ -51,43 +51,43 @@ projects:
 
 # [Registration](https://forms.office.com/pages/responsepage.aspx?id=2zWeD09UYE-9zF6kFubccHmtLSqBYbBDoSCkHgfKhHpUQkJWWTk4R0tXQkxFWEQ0MDBOUTMyWk9JSy4u&route=shorturl)
 
-The United Nations and UC Santa Cruz's Baskin School of Engineering are partnering to host the West Coast's first "Reboot the Earth" hackathon on November 7-8, 2025, at the UC Santa Cruz Silicon Valley Center. The event will bring together developers to create technological solutions addressing the climate crisis, specifically focusing on wildfire detection, response, and impact—challenges particularly relevant to California. Participants will work with open source tools, artificial intelligence, and open data sets to build solutions that can serve as digital public goods for local communities, with winning teams receiving six months of coaching from UN and Salesforce partners to scale their innovations. 
+The United Nations and UC Santa Cruz's Baskin School of Engineering are partnering to host the West Coast's first "Reboot the Earth" hackathon on November 7-8, 2025, at the UC Santa Cruz Silicon Valley Center. The event will bring together developers to create technological solutions addressing the climate crisis, specifically focusing on wildfire detection, response, and impact — challenges particularly relevant to California. Participants will work with open source tools, artificial intelligence, and open data sets to build solutions that can serve as digital public goods for local communities, with winning teams receiving six months of coaching from UN and Salesforce partners to scale their innovations. 
 
-**See full story [here](https://news.ucsc.edu/2025/10/united-nations-baskin-engineering-reboot-the-earth-hackathon/)!** If you are interested in participating as a judge or mentor please contact [Stephanie Lieggi](mailto:slieggi@ucsc.edu)
+**See full story [here](https://news.ucsc.edu/2025/10/united-nations-baskin-engineering-reboot-the-earth-hackathon/)!** If you are interested in participating as a judge or mentor please contact [Stephanie Lieggi](mailto:slieggi@ucsc.edu).
 
-# Draft Agenda:
+Many more details available in this [Frequently Asked Questions (FAQ) document](https://docs.google.com/document/d/e/2PACX-1vQ1j5ubN_o60f03-eela3IfiA01MaTCI5Xd7scneumbqp1zjryvg1a8Apeqtn_P8_Fqv8RemvwVHVK6/pub) 💫
+
+# Draft Agenda
 
 ## Friday, November 7
 
 |Time||Session/Activity|
-|----|-|----------------|
-|09:00|-|Attendee Check In & Coffee/light refreshments|
-|10:00|-|Opening & Welcome|
-|11:00|-|Morning Working Session Begins| 
-|||(Workshops and mentor sessions TBC)|
-|12:15|-|Lunch & Networking|
-|12:45|-|Afternoon Working Session Begins|
-|||(Workshops and mentor sessions TBC)|
-|14:30|-|Coffee Break|
-|17:30pm|-|End of Day 1|
+|----:|---|:----------------|
+| 9:00am|&nbsp;|Attendee Check-in & Coffee/Light Refreshments|
+|10:00am|&nbsp;|Opening & Welcome|
+|11:00am|&nbsp;|Morning Working Session Begins| 
+||&nbsp;|(_Workshops and Mentor Sessions_)|
+|12:15pm|&nbsp;|Lunch & Networking|
+|12:45pm|&nbsp;|Afternoon Working Session Begins|
+||&nbsp;|(_Workshops and Mentor Sessions_)|
+| 2:30pm|&nbsp;|Coffee Break|
+| 5:30pm|&nbsp;|Day 1 Concludes|
 
 ## Saturday, November 8 
 
 |Time||Session/Activity|
-|----|-|----------------|
-|09:00|-|Attendee Check In & Coffee/light refreshments|
-|09:30|-|Morning Working Session Begins| 
-|||(Workshops and mentor sessions TBC)|
-|12:15|-|Lunch & Networking|
-|12:45|-|Afternoon Working Session Begins|
-||-|(Workshops and mentor sessions TBC)|
-|14:00|-|**Project Submission Deadline**| 
-|||**First Round Judging Begins**|
-|15:15|-|*First Round Winners Announced*|
-|15:30|-|Pitches by First Round Winners| 
-|16:00|-|*Project Showcase for ALL Participating Projects and Social Hour*|
-|17:00|-|**Hackathon Winners Announced!**|
-|17:30|-|Event ends|
+|----:|---|:----------------|
+|9:00am|&nbsp;|Attendee Check-in & Coffee/Light Refreshments|
+|9:30am|&nbsp;|Morning Working Session Begins| 
+||&nbsp;|(_Workshops and Mentor Sessions_)|
+|12:15pm|&nbsp;|Lunch & Networking|
+|12:45pm|&nbsp;|Afternoon Working Session Begins|
+|2:00pm|&nbsp;|**Project Submission Deadline / Preliminary Round Judging Begins**| 
+|3:15pm|&nbsp;|**Finalists Announced**|
+|3:30pm|&nbsp;|**Pitches by Finalists**| 
+|4:00pm|&nbsp;|_**Social Hour & Project Showcase for ALL Participating Projects**_|
+|5:00pm|&nbsp;|**Hackathon Winners Announced!**|
+|5:30pm|&nbsp;|Event Concludes|
 
 
 
