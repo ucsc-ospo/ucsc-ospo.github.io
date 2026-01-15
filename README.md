@@ -1,7 +1,7 @@
 # The UC Santa Cruz Open Source Program Office
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![twitter](https://img.shields.io/twitter/follow/UC_OSPO?style=social)](https://twitter.com/UC_OSPO)
+[![linkedin](https://img.shields.io/linkedin/follow/Open_Source_Program_Office,_UC_Santa_Cruz?style=social)](https://www.linkedin.com/company/ospoucsantacruz)
 
 ## How to add a new project idea to the Open Source Research Experience
 
@@ -12,7 +12,7 @@ A project serves as the context for one or more project ideas. Each project is r
 - Option A: email OSRE [administrators](mailto:slieggi@ucsc.edu) 
 - Option B (via git):
   - Fork [git repository](https://github.com/ucsc-ospo/ucsc-ospo.github.io)
-  - Create `content/project/osre26/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre24/ORGANIZATION/PROJECTNAME`
+  - Create `content/project/osre26/ORGANIZATION/PROJECTNAME` directory or copy it from previous year's `content/project/osre25/ORGANIZATION/PROJECTNAME`
   - In that directory create/update `index.md` and the project's image (`featured.png` or `featured.jpg`) 
   - In `index.md` fill in the frontmatter (see [example](https://raw.githubusercontent.com/ucsc-ospo/ucsc-ospo.github.io/main/content/project/osre22/ucsc/polyphorm/index.md)):
     - Add the project's title in `title:`, 
