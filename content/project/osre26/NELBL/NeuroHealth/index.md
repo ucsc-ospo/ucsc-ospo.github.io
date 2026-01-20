@@ -59,8 +59,8 @@ This project will deliver three components: model development, evaluation and va
 
 - **Topics**:  AI-Powered Health Assistant
 - **Skills**: Proficiency in Python, Github, LLM
-- **Difficulty**: Medium
-- **Size**: Large (175 hours)
+- **Difficulty**: Difficult
+- **Size**: Large (350 hours)
 - **Mentor**: {{% mention LinseyPang %}}, {{% mention bindong %}}
 
 ### References: 
