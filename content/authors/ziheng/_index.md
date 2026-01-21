@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate, University of California, Irvine
+role: Postdoctoral Researcher (Incoming), University of California, Irvine
 
 # Organizations/Affiliations
 organizations:
@@ -20,12 +20,9 @@ organizations:
   url: "https://uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational biology and machine learning.
+bio: I develop trustworthy machine learning methods for single-cell and spatial genomics, with applications to disease understanding and drug discovery.
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: graduation-cap
   icon_pack: fas
@@ -40,14 +37,9 @@ social:
   icon_pack: fas
   link: mailto:zihend1@uci.edu
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+# Organizational groups
 user_groups:
--  University of California Mentors
+- University of California Mentors
 ---
-I am a fourth-year CS Ph.D. candidate at the [University of California, Irvine](https://uci.edu/), advised by Prof. [Jing Zhang](https://www.ics.uci.edu/~jingz31/). 
-Previously, I graduated from the [College of Control Science and Technology, Zhejiang University](http://www.cse.zju.edu.cn/english/). 
-My main research goal is to develop trustworthy computational methods to understand single-cell gene regulation, especially in spatial contexts, and their contributions to various diseases.![alt text](avatar_square.jpg)
