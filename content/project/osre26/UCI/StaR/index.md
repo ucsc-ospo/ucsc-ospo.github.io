@@ -19,15 +19,11 @@ lastmod: 2026-01-20
 - **Size:** Large (350 hours)
 - **Mentors:** {{% mention ziheng %}} (contact person)
 
----
-
 ### **Project Idea Description**
 
 Spatial domain identification is a fundamental task in spatial transcriptomics (ST), aiming to partition tissue sections into biologically meaningful regions based on spatially resolved gene expression profiles. These spatial domains often correspond to distinct anatomical structures, cellular compositions, or functional microenvironments, and serve as a critical foundation for downstream biological analysis.
 
 Despite rapid methodological progress, **most existing spatial domain identification methods are highly sensitive to random initialization**. In practice, simply changing the random seed can lead to substantially different clustering results and large performance fluctuations, even when using identical hyperparameters and datasets. This instability severely undermines the reliability, reproducibility, and interpretability of spatial transcriptomics analyses.
-
----
 
 ### **Problem: Seed Sensitivity and Unstable Representations**
 
@@ -39,8 +35,6 @@ By systematically evaluating models across **hundreds to thousands of random see
 
 These observations suggest that instability is not a peripheral issue, but rather a **structural limitation of current representation learning approaches** for spatial transcriptomics.
 
----
-
 ### **Proposed Solution: StaR**
 
 This project proposes **StaR**, a **Stability-Aware Representation Learning framework** designed to explicitly address seed sensitivity in spatial domain identification.
@@ -51,8 +45,6 @@ By prioritizing stability during representation learning, StaR aims to produce e
 - Yield consistent spatial domain assignments across random seeds
 - Maintain competitive or improved clustering accuracy
 - Better reflect underlying biological structure
-
----
 
 ### **Project Objectives**
 
@@ -67,8 +59,6 @@ By prioritizing stability during representation learning, StaR aims to produce e
 5. **Biological Validation**
    - Assess whether stability-aware representations preserve biologically meaningful spatial patterns.
 
----
-
 ### **Project Deliverables**
 
 1. **StaR Framework Implementation**
@@ -79,8 +69,6 @@ By prioritizing stability during representation learning, StaR aims to produce e
    - Tools for visualizing performance landscapes, stability surfaces, and spatial domain consistency.
 4. **Documentation and Tutorials**
    - Clear examples enabling researchers to adopt StaR in their own analyses.
-
----
 
 ### **Impact**
 
