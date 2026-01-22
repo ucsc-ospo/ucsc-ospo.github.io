@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher (Incoming), University of California, Irvine
+role: Postdoctoral Researcher, University of California, Irvine
 
 # Organizations/Affiliations
 organizations:
@@ -43,3 +43,9 @@ email: ""
 user_groups:
 - University of California Mentors
 ---
+
+I earned my Ph.D. in Computer Science from the University of California, Irvine, where I was advised by Prof. Jing Zhang. I received my B.S. degree from the College of Control Science and Technology, Zhejiang University.
+
+My main research goal is to develop trustworthy computational methods to understand single-cell gene regulation, particularly in spatial contexts, and to translate these insights into applications for disease understanding and drug discovery.
+
+Currently, I am a Postdoctoral Researcher at the University of California, Irvine, where I continue to work on AI-driven approaches for single-cell and spatial genomics.

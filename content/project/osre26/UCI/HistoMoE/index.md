@@ -19,8 +19,6 @@ lastmod: 2026-01-20
 - **Size:** Large (350 hours)
 - **Mentors:** {{% mention ziheng %}} (contact person)
 
----
-
 ### **Project Idea Description**
 
 Histology imaging is one of the most widely available data modalities in biomedical research and clinical practice, capturing rich morphological information about tissues and disease states. In parallel, spatial transcriptomics (ST) technologies provide spatially resolved gene expression measurements, enabling unprecedented insights into tissue organization and cellular heterogeneity. However, the high cost and limited accessibility of ST experiments remain a major barrier to their widespread adoption.
@@ -29,7 +27,6 @@ Predicting gene expression directly from histology images offers a promising alt
 
 This project proposes **HistoMoE**, a **histology-guided mixture-of-experts (MoE) framework** that explicitly models biological heterogeneity by learning **specialized expert models** for different cancer types or organs, and dynamically routing histology image patches to the most relevant experts.
 
----
 
 ### **Key Idea and Technical Approach**
 
@@ -49,8 +46,6 @@ As illustrated in the figure above, HistoMoE integrates multiple data modalities
 
 By explicitly modeling biological structure through expert specialization, HistoMoE aims to improve both **prediction accuracy** and **interpretability**, allowing researchers to understand which biological experts drive each prediction.
 
----
-
 ### **Project Objectives**
 
 1. **Design and Implement the HistoMoE Framework**
@@ -62,7 +57,6 @@ By explicitly modeling biological structure through expert specialization, Histo
 4. **Interpretability Analysis**
    - Analyze expert routing behavior to reveal biologically meaningful patterns.
 
----
 
 ### **Project Deliverables**
 
@@ -74,8 +68,6 @@ By explicitly modeling biological structure through expert specialization, Histo
    - Tools for inspecting expert usage, routing weights, and gene-level predictions.
 4. **Documentation and Tutorials**
    - Clear instructions and examples to enable adoption by the research community.
-
----
 
 ### **Impact**
 
