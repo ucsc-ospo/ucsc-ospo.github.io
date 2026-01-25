@@ -19,13 +19,20 @@ The [LINQS Lab](https://linqs.org) has made many contributions to the maintain a
 As an open source project, there are endless opportunities for development, improvements, and collaboration.
 Here, we highlight some specific projects that will work well in the summer mentorship setting.
 
+All students interested in LINQS projects for OSRE/GSoC 2025 should fill out [this form](https://forms.gle/RxGqnQiCDeHSX6tq6).
+Towards the end of the application window, we will contact those who we believe to be a good fit for a LINQS project.
+The form will stop accepting responses once the application window closes.
+Do not post on any of the project repositories about OSRE/GSoC
+(e.g., comment on an issue that you want to tackle it as a part of OSRE/GSoC 2025).
+Remember, these are active repositories that were not created for OSRE/GSoC.
+
 ### LLM Detection
 
  - **Topics:** `AI/ML` `LLM` `Research` `Backend`
  - **Skills:** software development, backend, systems, data munging, go, docker
  - **Difficulty:** Challenging
  - **Size:** Large (350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Fabrice Kurmann](mailto:fkurmann@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Fabrice Kurmann](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 As [Large Language Model (LLM)](https://en.wikipedia.org/wiki/Large_language_model) tools like ChatGPT become more common and powerful,
 instructors need tools to help determine if students are the actual authors of the code they submit.
@@ -49,7 +56,7 @@ See Also:
  - **Skills:** software development, frontend, data munging, js, css, go
  - **Difficulty:** Easy
  - **Size:** Medium or Large (175 or 350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Fabrice Kurmann](mailto:fkurmann@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Fabrice Kurmann](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The Autograder has existing functionality to analyze the code in a student's submission for malicious content.
 Relevant to this project is that the Autograder can run a pairwise similarity analysis against all submitted code.
@@ -73,7 +80,7 @@ See Also:
  - **Skills:** software development, frontend, js, css
  - **Difficulty:** Easy
  - **Size:** Medium or Large (175 or 350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Fabrice Kurmann](mailto:fkurmann@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Fabrice Kurmann](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The Autograder contains dozens of [API endpoints](https://github.com/edulinq/autograder-server/blob/main/resources/api.json),
 most directly representing a piece of functionality exposed to the user.

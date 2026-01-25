@@ -45,6 +45,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - University of California Mentors
+- National Research Platform
 ---
 
 Mohammad Firas Sada is a researcher at UC San Diego, with a deep focus on high-performance networking, distributed systems, and cutting-edge infrastructure for scientific research. He is involved in advancing the integration of the National Research Platform (NRP) with key testbeds like FABRIC, focusing on the optimization of network architectures to support large-scale scientific workflows. His current research interests revolve around the development and optimization of software-defined networking (SDN) solutions, leveraging FPGA-based experimentation for performance enhancement in complex networking environments. These efforts contribute to advancing the SENSE (Software-Defined Network for End-to-End Networked Science at Exascale) platform, which aims to provide scalable, customizable network services to facilitate high-impact scientific research across multiple domains.

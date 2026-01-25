@@ -19,13 +19,20 @@ The [LINQS Lab](https://linqs.org) has made many contributions to the maintain a
 As an open source project, there are endless opportunities for development, improvements, and collaboration.
 Here, we highlight some specific projects that will work well in the summer mentorship setting.
 
+All students interested in LINQS projects for OSRE/GSoC 2025 should fill out [this form](https://forms.gle/RxGqnQiCDeHSX6tq6).
+Towards the end of the application window, we will contact those who we believe to be a good fit for a LINQS project.
+The form will stop accepting responses once the application window closes.
+Do not post on any of the project repositories about OSRE/GSoC
+(e.g., comment on an issue that you want to tackle it as a part of OSRE/GSoC 2025).
+Remember, these are active repositories that were not created for OSRE/GSoC.
+
 ### Canvas Import
 
  - **Topics:** `Backend` `Teaching Tools` `API`
  - **Skills:** software development, backend, rest api, data munging, http request inspection, python
  - **Difficulty:** Moderate
  - **Size:** Medium (175 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Lucas Ellenberger](mailto:lmellenb@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Lucas Ellenberger](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The Quiz Composer houses quizzes and quiz questions in a simple and unambiguous format based
 on [JSON](https://en.wikipedia.org/wiki/JSON) and [Markdown](https://en.wikipedia.org/wiki/Markdown) (specifically, the [CommonMark specification](https://commonmark.org)).
@@ -51,7 +58,7 @@ See Also:
  - **Skills:** software development, backend, rest api, data munging, python
  - **Difficulty:** Moderate
  - **Size:** Medium (175 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Lucas Ellenberger](mailto:lmellenb@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Lucas Ellenberger](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 The Quiz Composer can export quizzes to many different formats,
 each with a varying level of interactivity and feature support.
@@ -76,7 +83,7 @@ See Also:
  - **Skills:** software development, backend, data munging, python
  - **Difficulty:** Moderate-Challenging
  - **Size:** Large (350 hours)
- - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), [Lucas Ellenberger](mailto:lmellenb@ucsc.edu), [Lise Getoor](mailto:getoor@ucsc.edu)
+ - **Mentors:** [Eriq Augustine](mailto:linqs.osre25@gmail.com), [Lucas Ellenberger](mailto:linqs.osre25@gmail.com), [Lise Getoor](mailto:linqs.osre25@gmail.com)
 
 Questions in the Quiz Composer are described using [JSON](https://en.wikipedia.org/wiki/JSON) and [Markdown](https://en.wikipedia.org/wiki/Markdown)
 files which contain the question prompt, possible answers, and the correct answer.
