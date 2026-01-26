@@ -34,7 +34,7 @@ Build a decentralized extension distribution flow that archives WebExtensions in
   - Support curated extension hoards (`index.json`) and automated updates.
   - Clarify integrity assumptions and sandboxing expectations.
 
-More details in the issue: https://github.com/p2plabsxyz/peersky-browser/issues/42
+**More details in the issue:** https://github.com/p2plabsxyz/peersky-browser/issues/42
 
 ### Backup & Restore System (P2P JSON + Tabs Restore)
 
@@ -64,4 +64,4 @@ Implement a backup and restore pipeline for Peersky’s P2P app data and session
 - **Align with existing persistence:**
   - Reuse `lastOpened.json`, `tabs.json`, and `peersky-browser-tabs` localStorage for restores.
 
-More details in the issue: https://github.com/p2plabsxyz/peersky-browser/issues/60
+**More details in the issue:** https://github.com/p2plabsxyz/peersky-browser/issues/60
