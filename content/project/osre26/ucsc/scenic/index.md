@@ -1,7 +1,7 @@
 ---
 title: "Scenic: A Language for Design and Verification of Autonomous Cyber-Physical Systems"
 authors: [dfremont]
-author_notes: ["Assistant Professor, Computer Science and Engineering, UC Santa Cruz"]
+author_notes: ["Associate Professor, Computer Science and Engineering, UC Santa Cruz"]
 tags: ["osre26", "uc", "ai", "ml", "formal methods", "probabilistic programming"]
 date: 2026-01-24
 lastmod: 2026-01-24
