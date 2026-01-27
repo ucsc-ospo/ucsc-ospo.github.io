@@ -7,8 +7,6 @@ date: 2026-01-20
 lastmod: 2026-01-20
 ---
 
-![StaR Overview](featured.png)
-
 - **Topics:** spatial transcriptomics, spatial domain identification, representation learning, model robustness
 - **Skills:**
   - **Programming Languages:** Python; PyTorch experience preferred
