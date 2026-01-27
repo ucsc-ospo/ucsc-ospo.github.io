@@ -7,8 +7,6 @@ date: 2026-01-20
 lastmod: 2026-01-20
 ---
 
-![HistoMoE Architecture](featured.png)
-
 - **Topics:** computational pathology, spatial transcriptomics, gene expression prediction, mixture-of-experts, multimodal learning
 - **Skills:**
   - **Programming Languages:** Python; experience with PyTorch preferred
