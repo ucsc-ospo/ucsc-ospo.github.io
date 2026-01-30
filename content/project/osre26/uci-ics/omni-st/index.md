@@ -22,6 +22,10 @@ Spatial transcriptomics (ST) integrates spatially resolved gene expression with 
 
 However, most existing ST methods are task-specific and modality-siloed: separate models are trained for image-to-gene prediction, spatial domain identification, cell type classification, or text-based interpretation. This fragmentation limits cross-task generalization and scalability.
 
+
+![Omni-ST overview](omni-st-overview.png)
+
+
 **Omni-ST** proposes a single **instruction-driven any-to-any multimodal backbone** that treats each spatial transcriptomics modality as a “language” and formulates all tasks as:
 
 **Instruction + Input Modality → Output Modality**
