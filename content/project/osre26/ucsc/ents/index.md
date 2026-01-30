@@ -16,16 +16,16 @@ lastmod: 2026-01-30
   - *Nice to have:* Flask, Docker, CI/CD, AWS, Authentication
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "cjosephson" %}}, [John Madden](mailto:jtmadden@ucsc.edu), [Alec Levy](mailto:alevy1@ucsc.edu)
+- **Mentors:** {{% mention "cjosephson" %}}, [Alec Levy](mailto:alevy1@ucsc.edu), [John Madden](mailto:jtmadden@ucsc.edu)
 
-The Environmental NeTworked Sensor (ENTS) platform, formally Open Sensing Platform (OSP), implements data visualization website for monitoring microbial fuel cell sensors (see [GitHub](https://github.com/jlab-sensing/DirtViz)). The mission is to scale up the current platform to support other researchers or citizen scientists in integrating their novel sensing hardware or microbial fuel cell sensors for monitoring and data analysis. Examples of the types of sensors currently deployed are sensors measuring soil moisture, temperature, current, and voltage in outdoor settings. The focus of the software half of the project involves building upon our existing visualization web platform, and adding additional features to support the mission. A live version of the website is available [here](https://dirtviz.jlab.ucsc.edu/).
+The Environmental NeTworked Sensor (ENTS) platform, formally Open Sensing Platform (OSP), implements data visualization website for monitoring microbial fuel cell sensors (see [GitHub](https://github.com/jlab-sensing/ENTS-backend)). The mission is to scale up the current platform to support other researchers or citizen scientists in integrating their novel sensing hardware or microbial fuel cell sensors for monitoring and data analysis. Examples of the types of sensors currently deployed are sensors measuring soil moisture, temperature, current, and voltage in outdoor settings. The focus of the software half of the project involves building upon our existing visualization web platform, and adding additional features to support the mission. A live version of the website is available [here](https://dirtviz.jlab.ucsc.edu/).
 
 Below is a list of project ideas that would be beneficial to the ENTS project. You are not limited to the following projects, and encourage new ideas that enhance the platform:
-- Improve streaming functionality
-- Generic interface for sensor measurements
-- Logger registration
-- Over the air (OTA) configuration updates
-- Implement unit tests and API documentation
+- Drag and drop charts functionality
+- Creation of unique charts by users (with unique equations)
+- Customizable options of charts (color, line width, datapoint/line style, axis labels)
+- Exportable charts (with customizable options)
+- Saving layouts via url
 
 ### ENTS II: Hardware to for large-scale field sensor networks
 
