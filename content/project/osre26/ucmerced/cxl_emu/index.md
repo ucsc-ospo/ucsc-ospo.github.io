@@ -19,7 +19,7 @@ Streamline multi-host CXL emulation without specialized hardware.
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
 - **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), [Luanzheng "Lenny" Guo](mailto:lenny.guo@pnnl.gov)
-- 
+  
 Tasks:
 - Create automated deployment scripts and configuration templates for OCEAN-based CXL emulation topologies (single-host and multi-host).
 - Develop a standardized experiment harness for running memory performance benchmarks (e.g., OSU micro-benchmarks, STREAM-style tests) in emulated CXL environments.
