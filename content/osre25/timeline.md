@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 60
 title: Timeline
-subtitle: "Go to [2024 timeline](/osre24/#timeline)"
+subtitle: "Go to [2024 timeline](/osre24/#timeline)  \nReturn to [2026 timeline](/osre26/#timeline)"
 design:
   columns: "2"
   css_style: null

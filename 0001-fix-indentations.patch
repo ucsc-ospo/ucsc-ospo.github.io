@@ -1,0 +1,51 @@
+From 0883b1a2f26ebea9e2c3278d7439a5783a332af0 Mon Sep 17 00:00:00 2001
+From: Carlos Maltzahn <carlosm@ucsc.edu>
+Date: Mon, 7 Jul 2025 13:04:14 -0700
+Subject: [PATCH] fix indentations
+
+---
+ content/authors/ankitkat042/_index.md | 18 +++++++++---------
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+
+diff --git a/content/authors/ankitkat042/_index.md b/content/authors/ankitkat042/_index.md
+index 0c462ad..750f28c 100644
+--- a/content/authors/ankitkat042/_index.md
++++ b/content/authors/ankitkat042/_index.md
+@@ -15,7 +15,7 @@ role: Undergraduate Computer Science student at Indraprastha Institute of Inform
+ # Organizations/Affiliations
+ organizations:
+ - name: Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
+-url: "https://iiitd.ac.in/"
++  url: "https://iiitd.ac.in/"
+ 
+ # Short bio (displayed in user profile at end of posts)
+ bio: BTech student at IIIT Delhi with experience in software development, network systems research and cryptography. Currently working on high-performance network benchmarking and protocol analysis.
+@@ -34,17 +34,17 @@ education:
+ # Social/Academic Networking
+ social:
+ - icon: envelope
+-icon_pack: fas
+-link: 'mailto:address.ankit@gmail.com'
++  icon_pack: fas
++  link: 'mailto:address.ankit@gmail.com'
+ - icon: github
+-icon_pack: fab
+-link: https://github.com/ankitkat042
++  icon_pack: fab
++  link: https://github.com/ankitkat042
+ - icon: linkedin
+-icon_pack: fab
+-link: https://www.linkedin.com/in/ankitk042
++  icon_pack: fab
++  link: https://www.linkedin.com/in/ankitk042
+ - icon: X
+-icon_pack: ai
+-link: https://x.com/ankitkat_042
++  icon_pack: ai
++  link: https://x.com/ankitkat_042
+ 
+ # Enter email to display Gravatar (if Gravatar enabled in Config)
+ email: "address.ankit@gmail.com"
+-- 
+2.45.2
+

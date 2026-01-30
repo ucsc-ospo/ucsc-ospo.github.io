@@ -2,7 +2,7 @@
 title: "RAG-ST: Retrieval-Augmented Generation for Spatial Transcriptomics"
 authors: [ziheng]
 author_notes: [PhD Candidate at the University of California, Irvine]
-tags: [osre25, uc, reproducibility, machine learning, bioinformatics, spatial transcriptomics, RAG, large models, generation]
+tags: [osre25, uc, machine learning, bioinformatics, spatial transcriptomics, RAG, large models, generation]
 date: 2025-01-15
 lastmod: 2025-01-15
 ---
