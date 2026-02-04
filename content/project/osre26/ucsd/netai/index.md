@@ -60,8 +60,8 @@ The proposed work includes setting up **Kubernetes-based infrastructure** for de
 - **National Research Platform**: https://nrp.ai/
 - **NRP LLM Service**: https://nrp.ai/documentation/userdocs/ai/llm-managed/
 - **perfSONAR**: https://www.perfsonar.net/
-- **Iron Horse Vineyards Project**: https://gitlab.nrp-nautilus.io/ihv
-- **Omniverse Integration**: https://gitlab.nrp-nautilus.io/omniverse
+- **MaDDash**: https://github.com/esnet/maddash
+- **Network Monitoring Documentation**: https://nrp.ai/documentation/
 
 ## Background
 
