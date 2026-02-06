@@ -16,13 +16,11 @@ design:
 ---
 
 
-If you are interested, have a look at our [guidelines for students](/osredocs/forstudents), which includes timelines on when to contact mentors and proposal guidelines and expectations. 
+If you are interested, have a look at our [guidelines for students](/osredocs/forstudents), which includes timelines on when to contact mentors and proposal guidelines and expectations. Students may begin reaching out to mentors **after February 19, 2026**.
 
-Mentor project ideas will be published beginning in January and updated through February. Students should begin reaching out to mentors after February 28, 2025.
+**Students interested in applying to any of our projects must join our Slack channel before March 16, 2026 to be considered elgibile.** Email ospo-info-group@ucsc.edu to be added to our slack channel.
 
-**Students interested in applying to any of our projects must join our Slack channel before March 23, 2025 to be considered elgibile.** THIS DEADLINE HAS PASSED. 
-
-**The FINAL proposal deadline is April 8th at 18:00 UTC.** Proposals should be submitted through the [GSoC portal](https://summerofcode.withgoogle.com/)! Do not send proposal to the organization admins or mentors unless specifically requested by them. If your proposal is not submitted to the GSoC portal by this deadline you will not be eligible for selection.
+**The FINAL proposal deadline is March 31 at 18:00 UTC.** Proposals should be submitted through the [GSoC portal](https://summerofcode.withgoogle.com/)! Do not send proposal to the organization admins or mentors unless specifically requested by them. If your proposal is not submitted to the GSoC portal by this deadline you will not be eligible for selection.
 
 {{% callout note %}}
 Due to the open source nature of all OSRE projects, contributions are welcome from students or other newcomers from anywhere in the world. Please note that you must have work authorization in your country of residence to take part in this program. For students within the University of California system, you are welcome to participate but be aware we may not be able to place you with mentors from your own campus. Please contact ospo-info-group@ucsc.edu if you have any questions about your eligibility. 
