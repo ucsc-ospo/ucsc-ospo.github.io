@@ -15,7 +15,7 @@ comments: false  # Show comments?
 #  image: ""
 ---
 
-
+## [AI USAGE POLICY](https://ucsc-ospo.github.io/osredocs/aipolicy/) 
 
 ## How to apply to the be a contributor in our summer programs
 
