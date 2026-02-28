@@ -1,6 +1,6 @@
 ---
 title: "Reproducible CXL Emulation"
-authors: ["Mujahid Al Rafi", "Luanzheng Guo"]
+authors: ["Mujahid Al Rafi",kakulo]
 author_notes: ["Graduate Student Researcher, UC Merced", "Computer Scientist, Pacific Northwest National Laboratory"]
 tags: ["reproducibility", "osre26", "CXL emulation", "memory systems", "uc", "PNNL", "multi-host systems"]
 date: 2026-01-30
@@ -18,7 +18,7 @@ Streamline multi-host CXL emulation without specialized hardware.
 - **Skills:** C/C++, Virtualization (QEMU), Scripting, Performance Modeling
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
-- **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), [Luanzheng "Lenny" Guo](mailto:lenny.guo@pnnl.gov)
+- **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), {{% mention kakulo %}}.
   
 Tasks:
 - Create automated deployment scripts and configuration templates for OCEAN-based CXL emulation topologies (single-host and multi-host).
@@ -37,7 +37,7 @@ Investigate security and isolation properties of CXL-based memory systems using 
 - **Skills:** C/C++, Virtualization (QEMU), Scripting, Computer Architecture, Security
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
-- **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), [Luanzheng "Lenny" Guo](mailto:lenny.guo@pnnl.gov)
+- **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), {{% mention kakulo %}}.
 
 Tasks:
 - Study the CXL memory model and fabric architecture to identify potential security and isolation risks in multi-host shared memory environments (e.g., contention, timing variation, and resource interference).
