@@ -35,7 +35,7 @@ social:
   link: https://www.linkedin.com/in/lijinghua-zhang/
 - icon: envelope
   icon_pack: fas
-  link: mailto:lijinghz@uci.edu
+  link: mailto:lijinghuazhang@proton.me
 
 email: ""
 
