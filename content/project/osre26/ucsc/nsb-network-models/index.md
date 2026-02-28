@@ -1,6 +1,6 @@
 ---
 title: "Network Simulation Bridge • Enabling Interactive Network Models"
-authors: [Harikrishna Kuttivelil]
+authors: [harikrishna-kuttivelil]
 author_notes: ["PhD Candidate, CSE, UC Santa Cruz"]
 tags: ["osre26", "uc", "networking", "simulation", "iot", "software engineering"]
 date: 2026-01-28

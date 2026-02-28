@@ -7,8 +7,6 @@ date: 2026-01-21
 lastmod: 2026-01-21
 ---
 
-![CauST Overview](featured.png)
-
 - **Topics:** spatial transcriptomics, spatial domain identification, causal inference, gene intervention
 - **Skills:**
   - **Programming Languages:** Python (PyTorch preferred)

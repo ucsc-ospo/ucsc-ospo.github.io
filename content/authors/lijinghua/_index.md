@@ -20,7 +20,7 @@ organizations:
   url: "https://uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develop trustworthy machine learning methods for single-cell and spatial genomics, with applications to disease understanding and drug discovery.
+bio: I develop trustworthy machine learning methods for single-cell and spatial genomics, with applications to disease understanding and drug discovery. 
 
 # Social/Academic Networking
 social:
@@ -35,7 +35,7 @@ social:
   link: https://www.linkedin.com/in/lijinghua-zhang/
 - icon: envelope
   icon_pack: fas
-  link: mailto:lijinghz@uci.edu
+  link: mailto:lijinghuazhang@proton.me
 
 email: ""
 
@@ -43,3 +43,7 @@ email: ""
 user_groups:
 - University of California Mentors
 ---
+
+I am a third year Ph.D. student in Statistics at the University of California, Irvine. 
+
+My main research goal is to develop trustworthy computational methods to understand single-cell gene regulation, particularly in spatial contexts, and to translate these insights into applications for disease understanding and drug discovery. I am interested in causal inference and natural language processing.
