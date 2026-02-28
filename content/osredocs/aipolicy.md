@@ -16,7 +16,7 @@ editable: true
 #  image: ""
 ---
 
-# General AI Use Policy for Contributions to OSRE Affiliated Projects
+
 *Note that individual projects and mentor teams may have their own policy with regards to AI tools that go beyond the expectations set below. When in conflict, project specific policies supersede these general OSRE guidelines.* 
 
 While the administrators of the OSRE permit some use of AI/ML tools that help contributors improve efficiency and productivity, we do not condone the use of these tools as a replacement for **necessary technical skill, personal judgment, or individual accountability**.  
