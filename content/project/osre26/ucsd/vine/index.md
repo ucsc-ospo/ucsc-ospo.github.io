@@ -1,6 +1,6 @@
 ---
 title: "VINE: Precision Agriculture Data Platform & Digital Twin"
-authors: [mfsada, tdefanti]
+authors: [mfsada]
 author_notes: ["Researcher, UC San Diego"]
 tags: ["osre26", "uc", "web development", "educational technologies", "ucsd", "sdsc", "precision agriculture", "iot", "digital twin", "ai", "sensors", "cenic", "nrp"]
 date: 2026-02-05
@@ -23,7 +23,7 @@ The proposed work includes building **data pipelines** to ingest, process, and p
 - **Skills:** Python, Pandas, NumPy, Data Validation, REST APIs, Docker, Kubernetes, Data Processing
 - **Difficulty:** Medium to Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}
+- **Mentors:** {{% mention "mfsada" %}}
 
 ### VINE / AI/ML Models for Agricultural Analytics on NRP
 
@@ -33,7 +33,7 @@ The proposed work includes developing and training **machine learning models** f
 - **Skills:** Python, PyTorch/TensorFlow, scikit-learn, OpenCV, Pandas, NumPy, MLOps, NRP Kubernetes, GPU Computing
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}
+- **Mentors:** {{% mention "mfsada" %}}
 
 ### VINE / Digital Twin & AI-Driven Visualization
 
@@ -43,7 +43,7 @@ The proposed work includes creating **AI-enhanced digital twin** systems for agr
 - **Skills:** Python, 3D Graphics (Omniverse/Unity/Blender), GIS tools, WebGL, React/Three.js, ML Integration, NRP Deployment
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}
+- **Mentors:** {{% mention "mfsada" %}}
 
 ### VINE / Web Dashboard & NRP Integration Platform
 
@@ -53,7 +53,7 @@ The proposed work includes building a **comprehensive web dashboard** for visual
 - **Skills:** React, Flask/FastAPI, PostgreSQL, D3.js/Plotly, Bootstrap/Tailwind CSS, REST APIs, Kubernetes, NRP APIs
 - **Difficulty:** Medium to Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "mfsada" %}}, {{% mention "tdefanti" %}}
+- **Mentors:** {{% mention "mfsada" %}}
 
 ## Project Resources
 
