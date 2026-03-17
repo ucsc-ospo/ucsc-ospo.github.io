@@ -2,7 +2,7 @@
 title: 'UC Open Source Summit 2026'
 
 event: 'UC Open Source Summit 2026'
-#event_url: [https://ucospo.net/events/uc-open-2026/]
+#event_url: 
 
 location: Brower Center
 address:  2150 Allston Way, Berkeley, CA 94704
@@ -49,7 +49,7 @@ slides:
 projects:
 ---
 
-{{< cta cta_link="https://ucospo.net/events/uc-open-2026//" cta_text="REGISTRATION & FULL AGENDA" >}}
+REGISTRATION & FULL AGENDA Coming Soon!
 
 As open source reshapes research, infrastructure, and how academia connects with industry, the UC Open Source Summit 2026 brings together two days of collaboration and partnership. Researchers, developers, students, and industry leaders from across the University of California system will explore what’s next—from AI’s impact on academia to building sustainable research infrastructure.
 
