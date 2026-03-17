@@ -18,12 +18,12 @@ design:
 
 If you are interested, have a look at our [guidelines for students](/osredocs/forstudents), which includes timelines on when to contact mentors and proposal guidelines and expectations. Students may begin reaching out to mentors **after February 19, 2026**.
 
-**Students interested in applying to any of our projects must join our Slack channel before March 16, 2026 to be considered elgibile.** Email ospo-info-group@ucsc.edu to be added to our slack channel.
+**Student must have requested to join the OSRE Slack Channel before March 16 to be eligible for consideration for this year's program. If you missed this deadline we will not consider you application if submitted via GSoC.**
 
-**The FINAL proposal deadline is March 31 at 18:00 UTC.** Proposals should be submitted through the [GSoC portal](https://summerofcode.withgoogle.com/)! Do not send proposal to the organization admins or mentors unless specifically requested by them. If your proposal is not submitted to the GSoC portal by this deadline you will not be eligible for selection.
+**The FINAL proposal deadline is March 31 at 18:00 UTC.** Proposals should be submitted through the [GSoC portal](https://summerofcode.withgoogle.com/)! Do not send proposal to the organization admins or mentors unless specifically requested by them. If your proposal is not submitted to the GSoC portal by this deadline you will not be eligible for selection. Note you can submit early drafts and **continue to update up until the March 31 deadline.** We highly suggest that you submit a draft in advance of that deadline to avoid any last minute glitches. 
 
 {{% callout note %}}
-Due to the open source nature of all OSRE projects, contributions are welcome from students or other newcomers from anywhere in the world. Please note that you must have work authorization in your country of residence to take part in this program. For students within the University of California system, you are welcome to participate but be aware we may not be able to place you with mentors from your own campus. Please contact ospo-info-group@ucsc.edu if you have any questions about your eligibility. 
+Due to the open source nature of all OSRE projects, contributions are welcome from students or other newcomers from anywhere in the world. Please note that you must have work authorization in your country of residence to take part in this program. Please contact ospo-info-group@ucsc.edu if you have any questions about your eligibility. 
 {{% /callout %}}
 
 We typically support the work of undergraduate students; however graduate students may also apply to work on more advanced project ideas. Please check out the project ideas page and contact the mentor if you have questions.
