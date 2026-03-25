@@ -1,6 +1,6 @@
 ---
 title: "NETAI: AI-Powered Network Anomaly Detection and Diagnostics Platform"
-authors: [dmishin, dweitzel]
+authors: [mfsada]
 author_notes: ["Researcher, UC San Diego"]
 tags: ["osre26", "uc", "web development", "educational technologies", "ucsd", "sdsc", "kubernetes", "llm", "ai", "network diagnostics", "perfsonar", "nrp"]
 date: 2026-02-05
@@ -23,7 +23,7 @@ The proposed work includes developing a **Kubernetes-native chatbot** that integ
 - **Skills:** Python, Kubernetes, LLM APIs (Qwen3-VL, GLM-4.7, GPT-OSS), Prompt Engineering, REST APIs, Docker, GPU Computing
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "dmishin" %}}, {{% mention "dweitzel" %}}
+- **Mentors:** {{% mention "mfsada" %}}
 
 ### NETAI / Network Anomaly Detection Models
 
@@ -33,7 +33,7 @@ The proposed work includes developing **deep learning models** for network anoma
 - **Skills:** Python, PyTorch/TensorFlow, scikit-learn, Pandas, NumPy, SQLite, Kubernetes, GPU Pods, MLOps
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "dmishin" %}}, {{% mention "dweitzel" %}}
+- **Mentors:** {{% mention "mfsada" %}}
 
 ### NETAI / Predictive Analytics & Forecasting
 
@@ -43,7 +43,7 @@ The proposed work includes developing **predictive models** that can forecast ne
 - **Skills:** Python, PyTorch/TensorFlow, Prophet, ARIMA, Pandas, NumPy, Time-Series Analysis, Kubernetes, GPU Computing
 - **Difficulty:** Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "dmishin" %}}, {{% mention "dweitzel" %}}
+- **Mentors:** {{% mention "mfsada" %}}
 
 ### NETAI / Kubernetes Deployment & Infrastructure
 
@@ -53,7 +53,7 @@ The proposed work includes setting up **Kubernetes-based infrastructure** for de
 - **Skills:** Kubernetes, Helm, GitLab CI/CD, Prometheus, Grafana, Docker, GPU Pods, Persistent Storage, Infrastructure Automation
 - **Difficulty:** Medium to Hard
 - **Size:** Large (350 hours)
-- **Mentors:** {{% mention "dmishin" %}}, {{% mention "dweitzel" %}}
+- **Mentors:** {{% mention "mfsada" %}}
 
 ## Project Resources
 
