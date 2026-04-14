@@ -48,7 +48,7 @@ slides:
 projects:
 ---
 
-The [LINQS lab](https://linqs.org) and [UCSC's Open Source Programs Office (OSRE)](https://ucsc-ospo.github.io/)
+The [LINQS lab](https://linqs.org) and [UCSC's Open Source Programs Office (OSPO)](https://ucsc-ospo.github.io/)
 are hosting a "qualify first" coding contest.
 
 If you want to compete,
