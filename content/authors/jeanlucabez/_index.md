@@ -15,16 +15,14 @@ role: "Research Scientist, Lawrence Berkeley National Laboratory"
 
 # Organizations/Affiliations
 organizations:
-- name: Scientific Data Management Research
-  url: "https://crd.lbl.gov/divisions/scidata/sdm"
 - name: Computing Sciences Research Division
-  url: "https://crd.lbl.gov"
+  url: "https://cs.lbl.gov"
 - name: Lawrence Berkeley National Laboratory
   url: "https://www.lbl.gov"
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jean Luca's research interests are in high-performance computing + I/O + storage. 
+bio: Jean Luca is a Career-Track Research Scientist at Lawrence Berkeley National Laboratory (LBNL), USA. Jean Luca's research interests are in High Performance Computing (HPC), data management, I/O, storage, and AI data readiness.
 
 
 
@@ -35,7 +33,7 @@ bio: Jean Luca's research interests are in high-performance computing + I/O + st
 social:
 - icon: home
   icon_pack: fas
-  link: https://crd.lbl.gov/divisions/scidata/sdm/staff/jean-luca-bez/
+  link: https://profiles.lbl.gov/148621-jean-luca-bez
 - icon: github
   icon_pack: fab
   link: https://github.com/jeanbez

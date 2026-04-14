@@ -10,17 +10,17 @@ authors:
 superuser: false
 
 # Role/position
-role: "Principal Applied Scientist, Salesforce"
+role: "Distinguished Scientist, Paypal"
 
 
 # Organizations/Affiliations
 organizations:
-- name: Salesforce 
-  url: "https://www.salesforce.com/"
+- name: Paypal
+  url: "https://www.paypal.com/"
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Linsey's research interests are in Deep Learning + Machine Learning + AI. 
+bio: Linsey's research interests are in  Machine Learning + AI. 
 
 
 
@@ -50,6 +50,6 @@ user_groups:
 - University of California Mentors
 - Summer of Reproducibility Mentors
 ---
-Linsey Pang is a Principal Machine Learning Scientist at Salesforce, working on deep learning recommendation modeling projects. Prior to this, she was a Principal Data Scientist at Walmart Lab. She was leading the Pricing, One demand data science projects. Prior to joining Walmart Lab, she worked as an applied scientist at eBay Inc.  She finished her PhD degree in machine learning research at the University of Sydney. She co-organizes multiple workshops and tutorials at CIKM, KDD, and WSDM etc in top data mining conferences.
+Linsey Pang is a Distinguished Scientist at Paypal. Previously she was a Principal Machine Learning Scientist at Salesforce. Prior to this, she was a Principal Data Scientist at Walmart Lab.Prior to joining Walmart Lab, she worked as an applied scientist at eBay Inc.  She finished her PhD degree in machine learning research at the University of Sydney. She co-organizes multiple workshops and tutorials at CIKM, KDD, and WSDM etc in top data mining conferences.
 
 

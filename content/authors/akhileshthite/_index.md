@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Masters' student at the University of California, Santa Cruz | Founder, P2P Labs
+role: Founder, P2P Labs
 
 # Organizations/Affiliations
 organizations:
@@ -28,6 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:athite@ucsc.edu
+- icon: globe
+  icon_pack: fas
+  link: https://akhilesh.art/
 - icon: github
   icon_pack: fab
   link: https://github.com/akhileshthite
@@ -44,4 +47,6 @@ user_groups:
   - University of California Mentors
 ---
 
-Akhilesh is a hacker and artist who enjoys building decentralized tools that contribute to a more resilient, accessible, and user-empowered internet.
+Akhilesh is a hacker and artist building decentralized tools for a more resilient, accessible, and user-empowered internet.
+
+He is currently developing the [Peersky Browser](https://peersky.p2plabs.xyz/) and collaborating on various open-source projects within the [decentralized web](https://getdweb.net/principles) (DWeb) space, helping to shape the future of digital freedom and privacy.
