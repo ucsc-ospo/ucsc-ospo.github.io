@@ -2,7 +2,7 @@
 title: "Quality First Coding Competition"
 
 event: 'Quality First Coding Competition - Spring 2026'
-event_url: [github.com/linqs/qfcc](https://github.com/linqs/qfcc/blob/main/events/20260407-ucsc.md)
+event_url: '[github.com/linqs/qfcc](https://github.com/linqs/qfcc/blob/main/events/20260407-ucsc.md)'
 
 location: 'Engineering 2 - 180'
 #location_url: 'https://siliconvalley.ucsc.edu/'
