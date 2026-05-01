@@ -43,7 +43,6 @@ Supporting Materials
 The following project materials are available for reference:
 
 [Preliminary Report](2025OFApresentation/diifprelimrio2025.pdf)
-[Presentation Slides](2025OFApresentation/Lieggi_rio_Nov19.pptx.pdf)
 
 
 *This research is ongoing. A final report incorporating findings from expert interviews across the trade security and OSS security practitioner communities is forthcoming.*
