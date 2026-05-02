@@ -42,7 +42,7 @@ The work is a collaboration between researchers at UCSC OSPO, the [Berkeley Inst
 Supporting Materials
 The following project materials are available for reference:
 
-[Preliminary Report](/diifprelimrio2025.pdf)
+[Preliminary Report](https://ucsc-ospo.github.io/post/2025ofapresentation/diifprelimrio2025.pdf)
 
 
 *This research is ongoing. A final report incorporating findings from expert interviews across the trade security and OSS security practitioner communities is forthcoming.*
