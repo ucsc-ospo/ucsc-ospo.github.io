@@ -12,7 +12,7 @@ featured: true
 draft: false
 
 image:
-  caption: "Harshal Atre, GSoC 2026"
+  caption: "PeerSky Mobile"
   focal_point: "Center"
   preview_only: false
 ---
