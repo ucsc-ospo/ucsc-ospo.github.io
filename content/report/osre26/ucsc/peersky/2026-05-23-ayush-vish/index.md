@@ -25,7 +25,7 @@ One major goal of the project is preserving critical peer-to-peer application st
 
 Before this, I contributed to the PeerSky Browser ecosystem, working on features including the native bookmarks system, P2P app management interfaces, archive management tooling, memory saver functionality, scoped logging, and PeerChat synchronization improvements. These contributions gave me deep familiarity with PeerSky’s session persistence, IPC architecture, and decentralized networking stack.
 
-You can read my full [proposal here](https://drive.google.com/file/d/1LrDEpysZcdr-tRpa2QG8BSA1dj7KThVO/view)
+You can read my full [proposal here](https://drive.google.com/file/d/1LrDEpysZcdr-tRpa2QG8BSA1dj7KThVO/view).
 
 My mentor for this project is Akhilesh Thite.
 
