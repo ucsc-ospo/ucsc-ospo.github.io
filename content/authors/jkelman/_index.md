@@ -3,7 +3,7 @@
 title: Jake Kelman
 
 # Username (this should match the folder # name)
-# authors:
+authors:
 - jkelman
 
 # Is this the primary user of the site?
