@@ -40,13 +40,13 @@ social:
 email: "j.d.kelman95@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 2026 Contributors
 ---
-Jake Kelman is a mathematics and statistics enthusiast and novice open source softare developer. 
-Jake studied computer science at Cal Poly San Luis Obispo and business administration at Cal State University Channel Islands. 
-Jake has experience programming Google Apps Scripts 
+Jake Kelman is a mathematics and statistics enthusiast and novice open source software developer.
+He studied computer science at Cal Poly San Luis Obispo and business administration at Cal State University Channel Islands.
+He has experience programming Google Apps Scripts
 to help automate department workflows and improve visibility of data via automated emails and texts.
 Through Google Summer of Code via UC Santa Cruz OSPO 2026,
 Jake will be contributing to the [LMS-Toolkit](/project/osre26/ucsc/lms-toolkit) project.
