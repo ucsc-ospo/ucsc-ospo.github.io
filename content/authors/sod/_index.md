@@ -16,7 +16,7 @@ role: "NRP 2026 Contributor"
 organizations:
 - name: University of Benin, Nigeria
   url: "https://www.uniben.edu"
-- name: UO People
+- name: University of the People
   url: "https://www.uopeople.edu"
 
 
