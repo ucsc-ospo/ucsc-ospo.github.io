@@ -15,8 +15,8 @@ featured: true
 draft: false
 
 image:
-  caption: "EnergyAPI Web-App"
-  focal_point: "Center"
+  caption: ""
+  focal_point: ""
   preview_only: false
 ---
 
