@@ -4,6 +4,7 @@ subtitle: "A Stability-Aware Representation Learning Framework for Spatial Domai
 summary:
 authors: 
   - Xindi Wei
+  - Ziheng Duan
 tags: ["osre26"]
 categories: []
 date: 2026-06-18
