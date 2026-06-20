@@ -41,3 +41,11 @@ The central contribution of this project is the development of StaR, a framework
 (2)Integrate KL Regularization
 (3)Apply Advanced Optimization Techniques
 (4)Conduct Comprehensive Benchmarking and Mechanistic Proofs
+
+# StaR.pdf
+<a href="https://pan.baidu.com/s/1jI73Y-bfDAmifKu9kF5tyA?pwd=wr4y" target="_blank">
+  <button style="padding:7px 18px;font-size:14px;background:#0969da;color:#fff;border:none;border-radius:6px;cursor:pointer;">
+    👉 StaR.pdf
+  </button>
+</a>
+<br>
