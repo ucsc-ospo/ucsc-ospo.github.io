@@ -17,7 +17,7 @@ image:
   preview_only: false
 ---
 
-Hi! I'm **Mehbub**, an indie hacker and full stack engineer from India ([GitHub](https://github.com/devleo10)). I'm a **Google Summer of Code 2026** contributor with **UC OSPO**, working on the [Environmental NeTworked Sensor (ENTS)](/project/osre26/ucsc/ents) project under {{% mention "cjosephson" %}}, [John Madden](mailto:jtmadden@ucsc.edu), and [Alec Levy](mailto:alevy1@ucsc.edu).
+Hi! I'm **Mehbub**, an indie hacker and full stack engineer from India ([GitHub](https://github.com/devleo10)). I'm a **Google Summer of Code 2026** contributor with **UC OSPO**, working on the [Environmental NeTworked Sensor (ENTS)](/project/osre26/ucsc/ents) project under {{% mention "cjosephson" %}}, [John Madden](mailto:jtmadden@ucsc.edu), and [Alec Levy](mailto:alevy1@ucsc.edu). You can read my full [proposal here](https://drive.google.com/file/d/1Zi8G1u9xBfSHJ71oPjFmsbd_PaWYnzVI/view?usp=sharing).
 
 [ENTS](https://github.com/jlab-sensing/ENTS-backend) — also known as **DirtViz** — is an open sensing platform for monitoring microbial fuel cell sensors and other environmental measurements in the field. You can see it live at [dirtviz.jlab.ucsc.edu](https://dirtviz.jlab.ucsc.edu/).
 
