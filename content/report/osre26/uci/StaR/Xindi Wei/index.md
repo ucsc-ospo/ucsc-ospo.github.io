@@ -21,7 +21,13 @@ image:
   preview_only: false
 ---
 
-Hey there, I'm Xindi Wei. I'll be contributing to the StaR project under the mentorship of Ziheng Duan.
+Hey there, I'm Xindi Wei. I'll be contributing to the StaR project under the mentorship of <a href="https://ucsc-ospo.github.io/author/ziheng-duan/" target="_blank">
+  <button style="padding:6px 16px;background:#0969da;color:#fff;border:none;border-radius:6px;">
+    Ziheng Duan
+  </button>
+</a>
+.
+
 
 # What is the project about?
 
