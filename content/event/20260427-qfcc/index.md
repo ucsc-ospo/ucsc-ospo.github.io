@@ -49,7 +49,7 @@ projects:
 ---
 
 The [LINQS lab](https://linqs.org) and [UCSC's Open Source Programs Office (OSPO)](https://ucsc-ospo.github.io/)
-are hosting a "qualify first" coding contest.
+are hosting a "quality first" coding contest.
 
 If you want to compete,
 please fill out this [Google Form](https://forms.gle/dKaDrpeZJtGjhMJM6).
@@ -140,3 +140,15 @@ For the love of programming and to improve your skills!
  - First: $50
  - Second: $25
  - Third: $15
+
+## Update: Results
+
+Congratulations to our winners!
+
+| Name    | Number of Compiles / Runs | Time (mins) |
+|---------|---------------------------|-------------|
+| Liam    | 2                         | 58          |
+| Nishant | 4                         | 53          |
+| Umair   | 8                         | 93          |
+
+![winners](winners.jpg)
