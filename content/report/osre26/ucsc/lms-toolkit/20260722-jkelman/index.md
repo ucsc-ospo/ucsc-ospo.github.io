@@ -23,7 +23,7 @@ Due to Moodle's lack of an API for adding assignments, programmatically loading 
 My approach involved investigating the changes to Moodle's [MySQL](https://www.oracle.com/mysql/what-is-mysql/) database before and after adding an assignment in the browser.
 The generally obscure nature of the database, as well as the circular dependencies within it, added to the complexity of this task.
 After a number of iterations, I identified the necessary database table changes and how to apply them so assignments would register correctly in the LMS.
-However, the system displaced only a general overview of the assignments upon the first successful load.
+However, the system displayed only a general overview of the assignments upon the first successful load.
 Through additional research and targeted database updates, all assignment data was integrated.
 
 Initially, I expected fetching assignment data to be simple because I had already written similar code to fetch users.
