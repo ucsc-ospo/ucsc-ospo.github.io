@@ -17,7 +17,7 @@ image:
   preview_only: false
 ---
 
-Hello! I’m {{% mention sod %}}, and this is my midterm update for the NRPilot backend project under UC OSPO and Google Summer of Code 2026. In my [introductory blog](/report/osre26/ucsd/netai/20260617-sod/), I shared the broader vision for the project: building an AI-powered assistant that helps researchers and students better understand and troubleshoot the National Research Platform (NRP). Since then, my work has focused on turning that vision into a working backend foundation.
+Hello! This midterm update follows the [introductory blog](/report/osre26/ucsd/netai/20260617-sod/) and reflects the progress made so far on the NRPilot backend project under UC OSPO and Google Summer of Code 2026. The earlier post outlined the broader vision for an AI-powered assistant that helps researchers and students better understand and troubleshoot the National Research Platform (NRP); this update focuses on the work that has turned that vision into a working backend foundation.
 
 The project is open source and lives on GitHub at [nrpilot-api](https://github.com/Segun-Ogundipe/nrpilot-api). At a high level, the goal is to make NRP operations more accessible. Instead of relying only on manual inspection of Kubernetes resources or documentation, the system should let users ask questions in plain English and receive grounded answers that are informed by both live cluster data and official NRP guidance.
 
