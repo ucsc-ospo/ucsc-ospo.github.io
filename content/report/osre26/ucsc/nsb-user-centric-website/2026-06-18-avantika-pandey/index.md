@@ -5,7 +5,7 @@ summary: "First blog introducing my GSoC 2026 project with UC OSPO — building 
 authors:
   - avantika-pandey
 tags: ["osre26", "gsoc26", "web-development", "open-source", "documentation"]
-categories: []
+categories: ["GSoC 2026", "NSB"]
 date: 2026-06-18
 lastmod: 2026-06-18
 featured: false
