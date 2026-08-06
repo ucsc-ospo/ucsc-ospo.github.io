@@ -3,7 +3,7 @@ title: "My GSoC 2026 Midterm Update: Building the Foundation for EnergyAPI"
 subtitle: "From understanding CarbonCast to designing a provider-agnostic API for carbon-aware scheduling"
 summary: "Midterm update for my Google Summer of Code 2026 project with UC OSPO, covering CarbonCast, EnergyAPI, regional forecasting models, and the initial implementation of JobAPI and TemporalAPI."
 authors:
-  - prarthana-patil
+  - Prarthana-1910
 tags: ["osre26", "gsoc26", "energyapi", "carboncast", "machine-learning", "open-source"]
 categories: ["GSoC 2026", "EnergyAPI"]
 date: 2026-08-06
@@ -16,7 +16,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: ""
   preview_only: false
 ---
 
@@ -28,9 +28,14 @@ When I started, I expected to spend most of my time building APIs. Instead, the 
 
 The first milestone was getting the entire CarbonCast repository running locally. From there, I traced the complete forecasting pipeline, from weather data acquisition and preprocessing to feature generation, model training, and carbon intensity forecasting. Understanding how these pieces fit together gave me the context needed to start contributing instead of treating the project as a black box.
 
-Another major part of the project involved preparing the training data. CarbonCast relies on weather forecasts for multiple electricity grid regions, so I downloaded, processed, and organized hundreds of gigabytes of weather data spanning United States of America and Europe. Once the data pipeline was ready, I began training regional forecasting models and have currently initiated training for around 40 regions while validating the workflow and outputs.
+Another major part of the project involved preparing the training data. CarbonCast relies on weather forecasts for multiple electricity grid regions, so I downloaded, processed, and organized hundreds of gigabytes of weather data spanning North America and Europe. Once the data pipeline was ready, I began training regional forecasting models and have currently initiated training for around thirty regions while validating the workflow and outputs. As part of this effort, we extended the CarbonCast pipeline to generate 168-hour (7-day) carbon intensity forecasts. The figure below presents a representative 48-hour segment of one of these forecasts, comparing the predicted carbon intensity against the observed values.
 
-{{< figure src="feature.png">}}
+
+
+![Predicted vs Actual carbon intensity forecasts](feature.png)
+*Comparison of 48 hours of predicted and observed carbon intensity for the FMPP region. The model is trained to generate 168-hour (7-day) forecasts, with a representative 48-hour window shown here for clarity.*
+
+
 
 Alongside the forecasting work, I worked closely with my mentor, **Abel Souza**, on designing the architecture of EnergyAPI.
 
