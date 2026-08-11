@@ -61,11 +61,15 @@ Prior to starting at CROSS, Stephanie was a senior researcher and adjunct profes
 
 
 ## SELECTED PUBLICATIONS:
-- Lead Author, “Harnessing Open Source Innovation in Academia – How the OSPO Approach is Taking Shape at the University of California and Beyond,” (forthcoming) RedHat Research Quarterly, Spring 2024
+- Lead Author, "Securing Open Source: Applying the Logic of Post-9/11 Trade Security to the Software Supply Chain" (forthcoming) D//F Project Report
+- Lead Author, "Summer of Reproducibility: Building Global Capacity for Practical Reproducibility through Hands-On Mentorship," Proceedings of the 3rd ACM Conference on Reproducibility and Replicability (ACM REP '25) https://doi.org/10.1145/3736731.3746149
+- Co-Author, "Recipe for Discovery: A Framework for Systematic Open Source Project Identification," arXiv:2506.18359v2, https://doi.org/10.48550/arXiv.2506.18359
+- Co-Author, "Contributor Catalyst: A Pilot Program to Support HBCU Undergraduates Contributing to Open Source" 2024 IEEE Frontiers in Education Conference (FIE), https://doi.org/10.1109/FIE61694.2024.10892950. 
+- Lead Author, “Harnessing Open Source Innovation in Academia – How the OSPO Approach is Taking Shape at the University of California and Beyond,” Red Hat Research Quarterly, Spring 2024
 - Co-Author, “Response to Office of the National Cyber Director’s Request for Information on Open-Source Software Security,” November 2023, https://www.regulations.gov/comment/ONCD-2023-0002-0083 
 - Lead Author, “Summer of Reproducibility: Exposing Students to Research Advancing Practical Reproducibility,” Better Scientific Software (BSSw), December 2023, https://bssw.io/blog_posts/summer-of-reproducibility-exposing-students-to-research-advancing-practical-reproducibility 
 - Co-author, “Policy recommendations to ensure that research software is openly accessible and reusable,” PLoS Biol 21(7): e3002204, https://doi.org/10.1371/journal.pbio.3002204
-- “Building a University OSPO - Bolstering Academic Research Through Open Source,” RedHat Research Quarterly, Vol 3 Issue 4, Spring 2022
+- “Building a University OSPO - Bolstering Academic Research Through Open Source,” Red Hat Research Quarterly, Vol 3 Issue 4, Spring 2022
 - Co-author, “The CROSS Incubator: A Case Study for funding and training RSEs,” RSE-HPC 2020, November 2020
 - “Open Source Technology Essential in Facing COVID-19 Challenges,” CROSS Blog, May 2020, https://cross.ucsc.edu/news/blog/covid19response.html
 
