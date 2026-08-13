@@ -49,7 +49,7 @@ slides:
 projects:
 ---
 
-[**REGISTRATION NOW OPEN**](https://ucospo.net/events/uc-open-2026/)
+[**Event Site**](https://ucospo.net/events/uc-open-2026/)
 
 As open source reshapes research, infrastructure, and how academia connects with industry, the UC Open Source Summit 2026 brings together two days of collaboration and partnership. Researchers, developers, students, and industry leaders from across the University of California system will explore what’s next—from AI’s impact on academia to building sustainable research infrastructure.
 
