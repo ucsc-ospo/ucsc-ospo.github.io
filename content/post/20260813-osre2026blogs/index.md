@@ -10,7 +10,6 @@ featured: true
 draft: false
 summary: "All our student contributors progress reports are available."
 ---
-![OSRE 2026](featured.png)
 
 We are excited to share the progress of the [2026 cohort](/post/osre2026cohort/) of the Open Source Research Experience (OSRE) program, which includes participants in the Summer of Reproducibility (SoR) and Google Summer of Code (GSoC). 
 
