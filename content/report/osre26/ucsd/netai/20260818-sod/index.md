@@ -17,7 +17,7 @@ image:
   preview_only: false
 ---
 
-This final update concludes my Google Summer of Code 2026 work with UC OSPO on [NRPilot](https://github.com/nrp-nautilus/nrpilot-api), an AI-powered assistant for the National Research Platform (NRP). In my [introductory post](/report/osre26/ucsd/netai/20260617-sod/), I described the goal of making complex platform and network operations easier to understand through natural language interaction. At [midterm](/report/osre26/ucsd/netai/20260727-sod/``), the focus was on establishing a clean and safe backend foundation. Since then, that foundation has become a deployed, open-source service with a fuller set of diagnostics and documentation capabilities.
+This final update concludes my Google Summer of Code 2026 work with UC OSPO on [NRPilot](https://github.com/nrp-nautilus/nrpilot-api), an AI-powered assistant for the National Research Platform (NRP). In my [introductory post](/report/osre26/ucsd/netai/20260617-sod/), I described the goal of making complex platform and network operations easier to understand through natural language interaction. At [midterm](/report/osre26/ucsd/netai/20260727-sod/), the focus was on establishing a clean and safe backend foundation. Since then, that foundation has become a deployed, open-source service with a fuller set of diagnostics and documentation capabilities.
 
 The deployed project is available at [NRPilot API documentation](https://nrpilot-api.nrp-nautilus.io/docs).
 
