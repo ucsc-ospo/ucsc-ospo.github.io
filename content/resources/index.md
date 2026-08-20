@@ -61,6 +61,16 @@ image:
 -   [Linux Foundation Open Source Guides](https://www.linuxfoundation.org/resources/open-source-guides)
 -   ["Open Source Masterclass" MOOC](https://opensourcemasterclass.org/)
 
+## So you want to open source your project...
+
+Getting started with open source can feel overwhelming. Here are curated resources to help you begin:
+
+- [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+- [How to Write a README](https://www.makeareadme.com/)
+- [Choosing an Open Source License](https://choosealicense.com/)
+- [Best Practices for Maintainers](https://opensource.guide/best-practices/)
+- [Building Welcoming Communities](https://opensource.guide/building-community/)
+
 ## Finding an Issue/Project
 
 -   [Up for Grabs](https://up-for-grabs.net/)
