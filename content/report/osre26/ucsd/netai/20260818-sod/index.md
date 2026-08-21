@@ -57,6 +57,6 @@ The main implementation milestones are available in the project's pull requests,
 
 My biggest lesson from this project is that an operational AI assistant must be designed around trustworthy boundaries. The assistant should know when to consult Kubernetes and when to consult documentation. Read-only tools, explicit service boundaries, source-linked documentation, and thorough tests are all practical mechanisms for earning that trust.
 
-The project also strengthened my experience with cloud-native backend development, dependency injection, AI orchestration, and designing software that can evolve safely. There is still room to extend NRPilot with conversation persistence, authentication, streaming responses, additional observability integrations, and a user interface. The backend delivered this summer provides a stable base for those next steps.
+The project also strengthened my experience with cloud-native backend development, dependency injection, AI orchestration, and designing software that can evolve safely. There is still room to extend NRPilot with conversation persistence, authentication, additional observability integrations, and a user interface. The backend delivered this summer provides a stable base for those next steps.
 
 I am grateful to my mentors and the UC OSPO and NRP communities for their guidance throughout the summer. It has been rewarding to turn an early idea for an AI-powered NRP support assistant into a deployed service that can help make Kubernetes diagnostics and platform guidance more accessible.
