@@ -23,11 +23,7 @@ address:
 url_slides: ''
 url_video: ''
 url_code: ''
-links:
-  - icon: ticket
-    icon_pack: fas
-    name: Register
-    url: '' # TODO: registration link
+
 
 image:
   caption: ''
@@ -46,9 +42,10 @@ TODO:
 
 CruzCon brings together UC researchers, faculty, students, campus leadership, and industry partners for a day exploring open source in research and innovation — hosted by the [UC Santa Cruz Open Source Program Office (CROSS)](https://ucsc-ospo.github.io/) and [CITRIS](https://citris-uc.org/) at the Seymour Center, UC Santa Cruz.
 
-[REGISTER NOW](#) <!-- TODO: link -->
+### EVENT IS BY INVITATION ONLY -- REGISTRATION OPEN SOON 
+<!-- [REGISTER NOW](#) TODO: link -->
 
-CruzCon is scheduled to coincide with [US-RSE](https://us-rse.org/) and [PyTorch Conference](https://pytorch.org/) events in San Jose, so out-of-town attendees can make the most of a single trip to the Bay Area. Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immediately following the conference.
+Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immediately following the conference.
 
 ## Schedule
 
