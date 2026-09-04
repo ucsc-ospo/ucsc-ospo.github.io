@@ -47,7 +47,7 @@ CruzCon brings together UC researchers, faculty, students, campus leadership, an
 
 Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immediately following the conference.
 
-## Schedule
+## Schedule [draft subject to change]
 
 **Thursday, October 22, 2026 · 10:00 AM – 5:00 PM**
 
@@ -60,7 +60,7 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | 1:00–2:00 | **Panel 2: Campus Infrastructure Supporting Open Source and Impact** |
 | 2:00–2:45 | **Keynote** |
 | 2:45–3:00 | Break |
-| 3:00–4:15 | **Directed Discussion: Institutional RSE Hubs and OSPOs** |
+| 3:00–4:15 | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
 | 4:15–4:30 | **Closing Remarks** |
 | 5:00 onward | CROSS Annual Oktoberfest |
 
