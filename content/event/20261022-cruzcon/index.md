@@ -9,6 +9,7 @@ date: '2026-10-22T10:00:00-07:00'
 publishDate: '2026-09-04T00:00:00-07:00'
 end_date: '2026-10-22T17:00:00-07:00'
 all_day: true
+featured: true
 
 # Location
 location: "Seymour Center"
