@@ -1,4 +1,10 @@
-# GSoC 2026 Final Work Product — StaR
+---
+title: "GSoC 2026 Final Work Product — StaR"
+date: 2026-08-26
+authors: ["xindiwei"]
+tags: ["osre26", "reproducibility"]
+summary: "A stability-aware representation learning framework for spatial domain identification."
+---
 
 **Contributor:** Xindi Wei
 **Mentor:** Ziheng Duan
