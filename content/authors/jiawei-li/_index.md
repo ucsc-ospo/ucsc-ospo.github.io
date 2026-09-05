@@ -43,4 +43,4 @@ user_groups:
 ---
 Jiawei Li is a graduate student at the University of Southern California working at the intersection of machine learning and computational biology.
 His interests include spatial transcriptomics, graph representation learning, and causal inference for biological data.
-Through Google Summer of Code via UC Santa Cruz OSPO 2026, Jiawei will be contributing to the [CauST](/project/osre26/ucsc/caust) project.
+Through Google Summer of Code via UC Santa Cruz OSPO 2026, Jiawei will be contributing to the [CauST](/project/osre26/uci/caust/) project.
