@@ -53,15 +53,16 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | Time | Session |
 | ---- | ------- |
 | 10:00–10:20 | **Opening Session** |
-| 10:20–11:20 | **Panel 1: Open Source Ecosystems as a Pathway to University Innovation** |
-| 11:20–11:50 | **Fireside Chat** |
-| 11:50–1:00 | **Lunch and Demos** |
-| 1:00–2:00 | **Panel 2: Campus Infrastructure Supporting Open Source and Impact** |
-| 2:00–2:45 | **Keynote** |
-| 2:45–3:00 | Break |
-| 3:00–4:15 | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
-| 4:15–4:30 | **Closing Remarks** |
-| 5:00 onward | CROSS Annual Oktoberfest |
+| 10:20–11:35 | **Panel 1: Open Source Ecosystems as a Pathway to University Innovation** |
+| 11:35–11:50 | Break |
+| 11:50–12:30 | **Fireside Chat** |
+| 12:30–1:45 | **Lunch** |
+| 1:45–3:00 | **Panel 2: Campus Infrastructure Supporting Open Source and Impact** |
+| 3:00–3:40 | **Keynote** |
+| 3:40–4:00 | Break |
+| 4:00–5:00 | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
+| 5:00-5:15 | **Closing Remarks** |
+| 5:15-7:30 | CROSS Annual Oktoberfest |
 
 <!-- TODO: session times above are placeholders spaced to fit the 10–5 window; confirm/adjust once finalized -->
 <!-- TODO: link each session title to its panel page once created, e.g. [Panel 1: ...](/event/20261022-cruzcon/panel-1) -->
