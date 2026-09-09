@@ -9,6 +9,7 @@ date: '2026-10-22T10:00:00-07:00'
 publishDate: '2026-09-04T00:00:00-07:00'
 end_date: '2026-10-22T17:00:00-07:00'
 all_day: true
+featured: true
 
 # Location
 location: "Seymour Center"
@@ -33,17 +34,15 @@ image:
 
 <!--
 TODO:
-- Confirm final registration link and swap into `links:` above
 - Confirm venue address / parking details in Logistics section below
-- Add featured.png (recommended 1200x630) alongside this index.md for social/og image
 - Replace placeholder session times with confirmed times once agenda is locked
 - Participant/speaker names to be added on separate panel pages (linked from schedule below)
 -->
 
-CruzCon brings together UC researchers, faculty, students, campus leadership, and industry partners for a day exploring open source in research and innovation — hosted by the [UC Santa Cruz Open Source Program Office (CROSS)](https://ucsc-ospo.github.io/) and [CITRIS](https://citris-uc.org/) at the Seymour Center, UC Santa Cruz.
+CruzCon brings together UC researchers, faculty, students, campus leadership, and industry partners for a day exploring open source in research and innovation — hosted by the [UC Santa Cruz Open Source Program Office (CROSS)](https://ucsc-ospo.github.io/) and [CITRIS and the Banatao Institute](https://citris-uc.org/) at the Seymour Center, UC Santa Cruz.
 
-### EVENT IS BY INVITATION ONLY -- REGISTRATION OPEN SOON 
-<!-- [REGISTER NOW](#) TODO: link -->
+### [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSe9kqcmwp-OotTb9cUlhJ5CGttoGitT-aHg8JIqcKZC1-T0WQ/viewform?usp=header) 
+
 
 Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immediately following the conference.
 
@@ -69,11 +68,11 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 
 ## Logistics
 
-**Event Venue:** [Seymour Marine Discovery Center, UC Santa Cruz](https://www.openstreetmap.org/search?query=Seymour%20Marine%20Discovery%20Center) <!-- TODO: confirm address/link -->
+**Event Venue:** [Seymour Marine Discovery Center, UC Santa Cruz](https://www.openstreetmap.org/search?query=Seymour%20Marine%20Discovery%20Center) 
 
-**Parking:** TODO
+<!--**Parking:** TODO
 
-**Accessibility:** TODO
+**Accessibility:** TODO -->
 
 ## Code of Conduct
 
