@@ -58,7 +58,7 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | 11:50–12:30 | **Fireside Chat** |
 | 12:30–1:45 | **Lunch** |
 | 1:45–3:00 | **Panel 2: Campus Infrastructure Supporting Open Source and Impact** |
-| 3:00–3:40 | **Keynote** |
+| 3:00–3:40 | **Keynote - Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)** |
 | 3:40–4:00 | Break |
 | 4:00–5:00 | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
 | 5:00-5:15 | **Closing Remarks** |
