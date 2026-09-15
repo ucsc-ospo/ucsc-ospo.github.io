@@ -48,14 +48,14 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 
 ## Event Program [draft subject to change]
 
-**Thursday, October 22, 2026 · 10:00 AM – 5:00 PM**
+**Thursday, October 22, 2026**
 
 | Time | Session |
 | ---- | ------- |
 | 10:00–10:20 | **Opening Session** |
 | 10:20–11:35 | **Panel 1: Open Source Ecosystems as a Pathway to University Innovation** |
 | 11:35–11:50 | Break |
-| 11:50–12:30 | **Fireside Chat** |
+| 11:50–12:30 | **Keynote - Dan Katz, Chief Scientist at the National Center for Supercomputing Applications** |
 | 12:30–1:45 | **Lunch** |
 | 1:45–3:00 | **Panel 2: Campus Infrastructure Supporting Open Source and Impact** |
 | 3:00–3:40 | **Keynote - Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)** |
