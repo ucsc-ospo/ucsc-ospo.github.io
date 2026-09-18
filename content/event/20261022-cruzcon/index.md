@@ -52,20 +52,19 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 
 | Time | Session |
 | ---- | ------- |
-| 10:00–10:20 | **Opening Session** |
-| | CROSS and CITRIS |
-| 10:20–11:35 | **Panel 1: Open Source Ecosystems as a Pathway to University Innovation** |
+| <span style="white-space:nowrap">10:00–10:20</span> | **Opening Session - CROSS and CITRIS** |
+| <span style="white-space:nowrap">10:20–11:35</span> | **Panel 1: Open Source Ecosystems as a Pathway to University Innovation** |
 | | Moderator: Emily Lovell; Panelists: Daniel Fremont, Katia Obraczka, J. Xavier Prochaska, Others TBC |
-| 11:35–11:50 | Break |
-| 11:50–12:30 | **Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign** |
-| 12:30–1:45 | **Lunch** |
-| 1:45–3:00 | **Panel 2: Campus Infrastructure Supporting Open Source and Impact** |
-| | Moderator: James Davis; Panelists: Stephanie Lieggi, Jason Nielsen, Benedict Paten, Jeff Weekley  |
-| 3:00–3:40 | **Keynote - Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)** |
-| 3:40–4:00 | Break |
-| 4:00–5:00 | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
-| 5:00-5:15 | **Closing Remarks** |
-| 5:15-7:30 | CROSS Annual Oktoberfest |
+| <span style="white-space:nowrap">11:35–11:50</span> | Break |
+| <span style="white-space:nowrap">11:50–12:30</span> | **Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign** |
+| <span style="white-space:nowrap">12:30–1:45</span> | **Lunch** |
+| <span style="white-space:nowrap">1:45–3:00</span> | **Panel 2: Campus Infrastructure Supporting Open Source and Impact** |
+| | Moderator: James Davis; Panelists: Stephanie Lieggi, Jason Nielsen, Benedict Paten, Jeff Weekley |
+| <span style="white-space:nowrap">3:00–3:40</span> | **Keynote - Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)** |
+| <span style="white-space:nowrap">3:40–4:00</span> | Break |
+| <span style="white-space:nowrap">4:00–5:00</span> | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
+| <span style="white-space:nowrap">5:00-5:15</span> | **Closing Remarks** |
+| <span style="white-space:nowrap">5:15-7:30</span> | CROSS Annual Oktoberfest |
 
 <!-- TODO: session times above are placeholders spaced to fit the 10–5 window; confirm/adjust once finalized -->
 <!-- TODO: link each session title to its panel page once created, e.g. [Panel 1: ...](/event/20261022-cruzcon/panel-1) -->
