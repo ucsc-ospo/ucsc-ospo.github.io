@@ -10,6 +10,7 @@ publishDate: '2026-09-04T00:00:00-07:00'
 end_date: '2026-10-22T17:00:00-07:00'
 all_day: true
 featured: true
+layout: single
 
 # Location
 location: "Seymour Center"
@@ -53,7 +54,7 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | Time | Session |
 | ---- | ------- |
 | <span style="white-space:nowrap">10:00–10:20</span> | **Opening Session - CROSS and CITRIS** |
-| <span style="white-space:nowrap">10:20–11:35</span> | **[Panel 1: Open Source Ecosystems as a Pathway to University Innovation](session_one/index.md)** |
+| <span style="white-space:nowrap">10:20–11:35</span> | **[Panel 1: Open Source Ecosystems as a Pathway to University Innovation]({{< relref "/event/20261022-cruzcon/session_one" >}})** |
 | | Moderator: Emily Lovell; Panelists: Daniel Fremont, Leilani Gilpin, Katia Obraczka, J. Xavier Prochaska |
 | <span style="white-space:nowrap">11:35–11:50</span> | Break |
 | <span style="white-space:nowrap">11:50–12:30</span> | **Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign** |
