@@ -30,7 +30,7 @@ This panel brings together leaders from campus research centers and infrastructu
 </div>
 
 <div style="overflow:auto; margin-bottom:1.5rem;">
-  <img src="paten.jpg" alt="Benedict Paten" style="float:left; width:110px; height:110px; object-fit:cover; border-radius:50%; margin:0 1rem 0.5rem 0;">
+  <img src="paten.jfif" alt="Benedict Paten" style="float:left; width:110px; height:110px; object-fit:cover; border-radius:50%; margin:0 1rem 0.5rem 0;">
   <p style="margin:0;"><strong>Benedict Paten</strong> is a Professor of Biomolecular Engineering at UC Santa Cruz and associate director of the UCSC Genomics Institute, where he directs the Computational Genomics Lab. He is a PI on genomics efforts including NHGRI AnVIL, the Human Cell Atlas, and the Human Pangenome Reference Consortium.</p>
 </div>
 
