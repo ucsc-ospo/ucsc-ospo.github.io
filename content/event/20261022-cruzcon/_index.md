@@ -46,7 +46,15 @@ CruzCon brings together UC researchers, faculty, students, campus leadership, an
 *Please note that is not an open event as space is limit. It is meant primarily for UC affiliates, industry partners and invited guests. If you are an external participant who has not received a direct invitation please email cross-info@ucsc.edu to request one before registering.* 
 
 Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immediately following the conference.
-
+<style>
+  .article-style table td,
+  .article-style table th {
+    padding: 0.5rem 1rem;
+  }
+  .article-style table td:first-child {
+    padding-right: 2rem;
+  }
+</style>
 ## Event Program [draft subject to change]
 
 **Thursday, October 22, 2026**
@@ -57,11 +65,11 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | <span style="white-space:nowrap">10:20–11:35</span> | **[Panel 1: Open Source Ecosystems as a Pathway to University Innovation]({{< relref "/event/20261022-cruzcon/session_one" >}})** |
 | | Moderator: Emily Lovell; Panelists: Daniel Fremont, Leilani Gilpin, Katia Obraczka, J. Xavier Prochaska |
 | <span style="white-space:nowrap">11:35–11:50</span> | Break |
-| <span style="white-space:nowrap">11:50–12:30</span> | **Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign** |
+| <span style="white-space:nowrap">11:50–12:30</span> | **[Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign]({{< relref "/event/20261022-cruzcon/session_two_kn" >}})** |
 | <span style="white-space:nowrap">12:30–1:45</span> | **Lunch** |
-| <span style="white-space:nowrap">1:45–3:00</span> | **Panel 2: Campus Infrastructure Supporting Open Source and Impact** |
+| <span style="white-space:nowrap">1:45–3:00</span> | **[Panel 2: Campus Infrastructure Supporting Open Source and Impact]({{< relref "/event/20261022-cruzcon/session_three" >}})** |
 | | Moderator: James Davis; Panelists: Stephanie Lieggi, Jason Nielsen, Benedict Paten, Jeff Weekley |
-| <span style="white-space:nowrap">3:00–3:40</span> | **Keynote - Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)** |
+| <span style="white-space:nowrap">3:00–3:40</span> | **[Keynote - Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)]({{< relref "/event/20261022-cruzcon/session_four_kn" >}})** |
 | <span style="white-space:nowrap">3:40–4:00</span> | Break |
 | <span style="white-space:nowrap">4:00–5:00</span> | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
 | <span style="white-space:nowrap">5:00-5:15</span> | **Closing Remarks** |
