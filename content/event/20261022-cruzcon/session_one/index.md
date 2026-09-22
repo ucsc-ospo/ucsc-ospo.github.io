@@ -1,8 +1,12 @@
 ---
 title: "Panel: Open Source Ecosystems as a Pathway to University Innovation"
 summary: "UCSC researchers and faculty discuss how open source ecosystems create pathways for university research to reach broader impact."
+date: '2026-10-22T10:20:00-07:00'
+date_end: '2026-10-22T11:35:00-07:00'
+publishDate: '2026-09-04T00:00:00-07:00'
+location: "Seymour Center"
+profile: false
 ---
-
 
 UCSC faculty discuss how open source ecosystems create pathways for university research to reach broader impact.
 
