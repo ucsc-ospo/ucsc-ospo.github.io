@@ -30,6 +30,6 @@ UCSC faculty discuss how open source ecosystems create pathways for university r
 </div>
 
 <div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1.5rem;">
-  <img src="prochaska.jpeg" alt="J. Xavier Prochaska" style="width:110px; height:110px; object-fit:cover; border-radius:50%; flex-shrink:0; margin:0;">
+  <img src="Prochaska.jpeg" alt="J. Xavier Prochaska" style="width:110px; height:110px; object-fit:cover; border-radius:50%; flex-shrink:0; margin:0;">
   <div><strong>J. Xavier Prochaska</strong> is a Distinguished Professor of Astronomy and Astrophysics at UC Santa Cruz. An observational astrophysicist, he studies gas within, around, and between distant galaxies. He co-leads development of PypeIt, an open-source, community-developed Python pipeline for reducing astronomical spectroscopic data.</div>
 </div>
