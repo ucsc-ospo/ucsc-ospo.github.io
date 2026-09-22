@@ -54,7 +54,7 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | ---- | ------- |
 | <span style="white-space:nowrap">10:00–10:20</span> | **Opening Session - CROSS and CITRIS** |
 | <span style="white-space:nowrap">10:20–11:35</span> | **Panel 1: Open Source Ecosystems as a Pathway to University Innovation** |
-| | Moderator: Emily Lovell; Panelists: Daniel Fremont, Katia Obraczka, J. Xavier Prochaska, Others TBC |
+| | Moderator: Emily Lovell; Panelists: Daniel Fremont, Leilani Gilpin, Katia Obraczka, J. Xavier Prochaska |
 | <span style="white-space:nowrap">11:35–11:50</span> | Break |
 | <span style="white-space:nowrap">11:50–12:30</span> | **Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign** |
 | <span style="white-space:nowrap">12:30–1:45</span> | **Lunch** |
