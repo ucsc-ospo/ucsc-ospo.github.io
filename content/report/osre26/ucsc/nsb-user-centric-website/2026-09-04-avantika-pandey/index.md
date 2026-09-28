@@ -1,16 +1,29 @@
 ---
-
 title: "GSoC 2026 Final Update: From Blank Folder to a Complete NSB Website"
 subtitle: "All seven sections live, tested end to end, and ready for contributors"
 summary: "Final blog wrapping up my GSoC 2026 project with UC OSPO — a user-centric documentation and onboarding website for the Network Simulation Bridge (NSB)."
+
 authors:
   - avantika-pandey
-tags: ["osre26", "gsoc26", "web-development", "open-source", "documentation", "nsb"]
-categories: ["GSoC 2026", "NSB"]
+
+tags:
+  - osre26
+  - gsoc26
+  - web-development
+  - open-source
+  - documentation
+  - nsb
+
+categories:
+  - GSoC 2026
+  - NSB
+
 date: 2026-09-04
 lastmod: 2026-09-04
+
 featured: true
 draft: false
+
 image:
   caption: ""
   focal_point: "Smart"
