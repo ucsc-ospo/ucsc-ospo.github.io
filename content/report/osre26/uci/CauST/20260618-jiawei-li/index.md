@@ -20,10 +20,10 @@ image:
 
 I'm **Jiawei Li**, a current graduate student at the University of Southern California working at the
 intersection of machine learning and computational biology. I'm thrilled to be part of
-the **Open Source Research Experience (OSRE'26)** this year, contributing to
-[UC Santa Cruz OSPO](/project/osre26/ucsc/caust) under the mentorship of
-**Lijinghua Zhang**. This post is a short introduction to me and to the project I'll be
-building over the coming months.
+the **Open Source Research Experience (OSRE'26)** this year, contributing to the
+[CauST](/project/osre26/uci/caust/) project under the mentorship of
+{{% mention lijinghua %}} at the University of California, Irvine. This post is a short
+introduction to me and to the project I'll be building over the coming months.
 
 ## The project: CauST
 
