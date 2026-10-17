@@ -43,7 +43,7 @@ TODO:
 CruzCon brings together UC researchers, faculty, students, campus leadership, and industry partners for a day exploring open source in research and innovation — hosted by the UCSC OSPO, [Center for Research in Open Source Software (CROSS)](https://ucsc-ospo.github.io/) and [CITRIS and the Banatao Institute](https://citris-uc.org/) at the Seymour Center, UC Santa Cruz.
 
 ### [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSe9kqcmwp-OotTb9cUlhJ5CGttoGitT-aHg8JIqcKZC1-T0WQ/viewform?usp=header) 
-*Registration is required. Please register by Oct 19 to secure a spot*
+*Registration is required. Please register by Oct 20 to secure a spot*
 
 Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immediately following the conference.
 <style>
@@ -86,9 +86,9 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 
 **Event Venue:** [Seymour Marine Discovery Center, UC Santa Cruz](https://www.openstreetmap.org/search?query=Seymour%20Marine%20Discovery%20Center) 
 
-<!--**Parking:** TODO
+*Parking and Transport:* Paid parking is available via ParkMobile for all participants. UCSC affiliates can use their campus parking permits. From main campus, participants can also use the [Westside Connector](https://transportation.ucsc.edu/buses-shuttles/wsc/). Santa Cruz Metro Route 20 also provides regular service directly to McAllister Way/Seymour Center from downtown Santa Cruz and the UCSC area. 
 
-**Accessibility:** TODO -->
+*Lunch provided for all participants. Please indicate any food issues when registering. The Oktoberfest reception also includes buffet dinner. Note the Oktoberfest is a 21+ event and IDs will be checked* 
 
 ## Code of Conduct
 
