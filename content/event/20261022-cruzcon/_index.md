@@ -1,7 +1,7 @@
 ---
 title: "CruzCon: Open Source for Research & Innovation"
 subtitle: ""
-summary: "A one-day conference on open source in research and innovation, co-hosted by CROSS and CITRIS at UC Santa Cruz."
+summary: "A one-day conference on open source's impact on research and innovation, co-hosted by CROSS and CITRIS at UC Santa Cruz."
 authors: [slieggi]
 tags: [events]
 categories: []
@@ -61,18 +61,22 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 
 | Time | Session |
 | ---- | ------- |
-| <span style="white-space:nowrap">10:00–10:20</span> | **Opening Session - CROSS and CITRIS** |
-| <span style="white-space:nowrap">10:20–11:35</span> | **[Panel 1: Open Source Ecosystems as a Pathway to University Innovation]({{< relref "/event/20261022-cruzcon/session_one" >}})** |
+| <span style="white-space:nowrap">10:00–10:30</span> | **Opening Session** |
+| | Welcome and housekeeping: CITRIS and CROSS |
+| | **Opening Remarks: Chancellor Cynthia Larive, UC Santa Cruz** |
+| | Remarks: Scott Brandt, Chair, Computer Science and Engineering  |
+| <span style="white-space:nowrap">10:30–11:40</span> | **[Panel 1: Open Source Ecosystems as a Pathway to University Innovation]({{< relref "/event/20261022-cruzcon/session_one" >}})** |
 | | Moderator: Emily Lovell; Panelists: Daniel Fremont, Leilani Gilpin, Katia Obraczka, J. Xavier Prochaska |
-| <span style="white-space:nowrap">11:35–11:50</span> | Break |
-| <span style="white-space:nowrap">11:50–12:30</span> | **[Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign]({{< relref "/event/20261022-cruzcon/session_two_kn" >}})** |
-| <span style="white-space:nowrap">12:30–1:45</span> | **Lunch** |
+| <span style="white-space:nowrap">11:40–11:55</span> | Break |
+| <span style="white-space:nowrap">11:55–12:35</span> | **[Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign]({{< relref "/event/20261022-cruzcon/session_two_kn" >}})** |
+| <span style="white-space:nowrap">12:35–1:45</span> | **Lunch** |
 | <span style="white-space:nowrap">1:45–3:00</span> | **[Panel 2: Campus Infrastructure Supporting Open Source and Impact]({{< relref "/event/20261022-cruzcon/session_three" >}})** |
 | | Moderator: James Davis; Panelists: Stephanie Lieggi, Jason Nielsen, Benedict Paten, Jeff Weekley |
-| <span style="white-space:nowrap">3:00–3:40</span> | **[Keynote - Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)]({{< relref "/event/20261022-cruzcon/session_four_kn" >}})** |
+| <span style="white-space:nowrap">3:00–3:40</span> | **[Keynote - Everything old is new again: the deepened importance of humans learning together in the age of AI. Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)]({{< relref "/event/20261022-cruzcon/session_four_kn" >}})** |
 | <span style="white-space:nowrap">3:40–4:00</span> | Break |
 | <span style="white-space:nowrap">4:00–5:00</span> | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
 | <span style="white-space:nowrap">5:00-5:15</span> | **Closing Remarks** |
+| | Roberto Manduchi, Baskin Engineering Interim Dean |
 | <span style="white-space:nowrap">5:15-7:30</span> | CROSS Annual Oktoberfest |
 
 <!-- TODO: session times above are placeholders spaced to fit the 10–5 window; confirm/adjust once finalized -->
