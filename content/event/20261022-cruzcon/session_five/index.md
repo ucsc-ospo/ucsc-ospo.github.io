@@ -18,6 +18,6 @@ This closing session invites everyone in the room to weigh in on how academic Op
 </div>
 
 <div style="overflow:auto; margin-bottom:1.5rem;">
-  <img src="authors/harikrishna-kuttivelil/avatar.png" alt="Hari Kuttivelil" style="float:left; width:110px; height:110px; object-fit:cover; border-radius:50%; margin:0 1rem 0.5rem 0;">
+  <img src="hari.png" alt="Hari Kuttivelil" style="float:left; width:110px; height:110px; object-fit:cover; border-radius:50%; margin:0 1rem 0.5rem 0;">
   <p style="margin:0;"><strong>Hari Kuttivelil</strong> is a graduate student at UC Santa Cruz and member of core team of the Network Simulation Bridge (NSB) open source project.</p>
 </div>
