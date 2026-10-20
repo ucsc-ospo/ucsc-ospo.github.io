@@ -86,4 +86,4 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 
 ## Code of Conduct
 
-All participants are required to follow the [UCSC OSPO Code of Conduct](/codeofconduct/).
+All participants are required to follow the [UCSC OSPO Code of Conduct](/codeofconduct/coc/).
