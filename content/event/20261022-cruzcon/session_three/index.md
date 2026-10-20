@@ -39,6 +39,6 @@ This panel brings together leaders from campus research centers and infrastructu
   <p style="margin:0;"><strong>Jeffrey D. Weekley</strong> is Director of Research IT at UC Santa Cruz, leading HPC and research cyberinfrastructure for roughly 1,100 researchers, and brings over 30 years of HPC and networking experience. A PhD student in Computational Media at UCSC, he studies generative AI for neurodiverse STEM learners.</p>
 </div>
 <div style="overflow:auto; margin-bottom:1.5rem;">
-  <img src="zhang.jpg" alt="Yi Zhang" style="float:left; width:110px; height:110px; object-fit:cover; border-radius:50%; margin:0 1rem 0.5rem 0;">
+  <img src="zhang.png" alt="Yi Zhang" style="float:left; width:110px; height:110px; object-fit:cover; border-radius:50%; margin:0 1rem 0.5rem 0;">
   <p style="margin:0;"><strong>Yi Zhang</strong> is a Professor and Director of the Generative AI Center at UC Santa Cruz and co-founder of Rul.ai, named one of Forbes' 50 Most Promising AI Companies. Her research spans information retrieval, natural language processing, AI, and robotics. Honors include the ACM SIGIR Test of Time Award.</p>
 </div>
