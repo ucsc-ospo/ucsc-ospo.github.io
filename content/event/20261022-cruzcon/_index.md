@@ -74,7 +74,7 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | | Moderator: James Davis; Panelists: Stephanie Lieggi, Jason Nielsen, Benedict Paten, Jeff Weekley |
 | <span style="white-space:nowrap">3:00–3:40</span> | **[Keynote - Everything old is new again: the deepened importance of humans learning together in the age of AI. Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)]({{< relref "/event/20261022-cruzcon/session_four_kn" >}})** |
 | <span style="white-space:nowrap">3:40–4:00</span> | Break |
-| <span style="white-space:nowrap">4:00–5:00</span> | **Closing Discussion: Open Source Infrastructure, Institutionalized** |
+| <span style="white-space:nowrap">4:00–5:00</span> | **[Directed Discussion: Institutional Infrastructure, Research & OSPOs]({{< relref "/event/20261022-cruzcon/session_five" >}})** |
 | <span style="white-space:nowrap">5:00-5:15</span> | **Closing Remarks** |
 | | Roberto Manduchi, Baskin Engineering Interim Dean |
 | <span style="white-space:nowrap">5:15-7:30</span> | CROSS Annual Oktoberfest |
