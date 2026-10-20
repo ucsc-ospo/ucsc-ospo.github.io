@@ -33,12 +33,6 @@ image:
   preview_only: false
 ---
 
-<!--
-TODO:
-- Confirm venue address / parking details in Logistics section below
-- Replace placeholder session times with confirmed times once agenda is locked
-- Participant/speaker names to be added on separate panel pages (linked from schedule below)
--->
 
 CruzCon brings together UC researchers, faculty, students, campus leadership, and industry partners for a day exploring open source in research and innovation — hosted by the UCSC OSPO, [Center for Research in Open Source Software (CROSS)](https://ucsc-ospo.github.io/) and [CITRIS and the Banatao Institute](https://citris-uc.org/) at the Seymour Center, UC Santa Cruz.
 
@@ -55,7 +49,7 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
     padding-right: 2rem;
   }
 </style>
-## Event Program [draft subject to change]
+## Event Program
 
 **Thursday, October 22, 2026**
 
@@ -79,8 +73,7 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | | Roberto Manduchi, Baskin Engineering Interim Dean |
 | <span style="white-space:nowrap">5:15-7:30</span> | CROSS Annual Oktoberfest |
 
-<!-- TODO: session times above are placeholders spaced to fit the 10–5 window; confirm/adjust once finalized -->
-<!-- TODO: link each session title to its panel page once created, e.g. [Panel 1: ...](/event/20261022-cruzcon/panel-1) -->
+
 
 ## Logistics
 
@@ -92,4 +85,4 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 
 ## Code of Conduct
 
-All participants are required to follow the [UCSC OSPO Events Code of Conduct](#). 
+All participants are required to follow the [UCSC OSPO Code of Conduct](/code-of-conduct/).
