@@ -1,5 +1,5 @@
 ---
-title: "Panel: Campus Infrastructure Supporting Open Source and Impact"
+title: "Panel: Campus Infrastructure Supporting Open Source and Research Impact"
 summary: "Campus research and infrastructure leaders discuss what it takes to build and resource sustainable open source support, and what funders stand to gain by backing it."
 date: '2026-10-22T13:45:00-07:00'
 date_end: '2026-10-22T15:00:00-07:00'

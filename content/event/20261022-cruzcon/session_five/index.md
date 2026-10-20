@@ -17,8 +17,7 @@ This closing session invites everyone in the room to weigh in on how academic Op
   <p style="margin:0;"><strong>Stephanie Lieggi</strong> is Executive Director of the Center for Research in Open Source Software (CROSS) and the UC Santa Cruz Open Source Program Office, and Chair of the UC OSPO Network.</p>
 </div>
 
-<!-- TODO: Add Hari's bio (under 50 words) -->
 <div style="overflow:auto; margin-bottom:1.5rem;">
-  <img src="kuttivelil.jpg" alt="Hari Kuttivelil" style="float:left; width:110px; height:110px; object-fit:cover; border-radius:50%; margin:0 1rem 0.5rem 0;">
+  <img src="hari.png" alt="Hari Kuttivelil" style="float:left; width:110px; height:110px; object-fit:cover; border-radius:50%; margin:0 1rem 0.5rem 0;">
   <p style="margin:0;"><strong>Hari Kuttivelil</strong> is a graduate student at UC Santa Cruz and member of core team of the Network Simulation Bridge (NSB) open source project.</p>
 </div>
