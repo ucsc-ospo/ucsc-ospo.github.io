@@ -70,7 +70,7 @@ Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immedi
 | <span style="white-space:nowrap">11:40–11:55</span> | Break |
 | <span style="white-space:nowrap">11:55–12:35</span> | **[Keynote - Research software engineering and research software engineers: Successes and challenges. Daniel S. Katz, University of Illinois Urbana-Champaign]({{< relref "/event/20261022-cruzcon/session_two_kn" >}})** |
 | <span style="white-space:nowrap">12:35–1:45</span> | **Lunch** |
-| <span style="white-space:nowrap">1:45–3:00</span> | **[Panel 2: Campus Infrastructure Supporting Open Source and Impact]({{< relref "/event/20261022-cruzcon/session_three" >}})** |
+| <span style="white-space:nowrap">1:45–3:00</span> | **[Panel 2: Campus Infrastructure Supporting Open Source and Research Impact]({{< relref "/event/20261022-cruzcon/session_three" >}})** |
 | | Moderator: James Davis; Panelists: Stephanie Lieggi, Jason Nielsen, Benedict Paten, Jeff Weekley |
 | <span style="white-space:nowrap">3:00–3:40</span> | **[Keynote - Everything old is new again: the deepened importance of humans learning together in the age of AI. Kirstie Whitaker, Berkeley Institute for Data Science (BIDS)]({{< relref "/event/20261022-cruzcon/session_four_kn" >}})** |
 | <span style="white-space:nowrap">3:40–4:00</span> | Break |
