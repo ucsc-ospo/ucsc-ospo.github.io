@@ -36,8 +36,10 @@ image:
 
 CruzCon brings together UC researchers, faculty, students, campus leadership, and industry partners for a day exploring open source in research and innovation — hosted by the UCSC OSPO, [Center for Research in Open Source Software (CROSS)](https://ucsc-ospo.github.io/) and [CITRIS and the Banatao Institute](https://citris-uc.org/) at the Seymour Center, UC Santa Cruz.
 
-### [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSe9kqcmwp-OotTb9cUlhJ5CGttoGitT-aHg8JIqcKZC1-T0WQ/viewform?usp=header) 
-*Registration is required. Please register by Oct 20 to secure a spot*
+<!-- [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSe9kqcmwp-OotTb9cUlhJ5CGttoGitT-aHg8JIqcKZC1-T0WQ/viewform?usp=header) -->
+### Registration is now closed. *Pre-registration is required to attend. We will not be able to accommodate walk-ins.* 
+*Please contact cross-info@ucsc.edu for questions about the event.*
+
 
 Attendees are also invited to join the **CROSS Annual Oktoberfest**, held immediately following the conference.
 <style>
