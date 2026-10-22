@@ -1,15 +1,15 @@
 ---
-title: "Our Contributor Catalyst Journey As Mentors"
+title: "A Growing Catalyst Community: Looking Back on Contributor Catalyst 2026"
 authors:
   - SilasVM
   - Jordin221
 date: 2026-09-15
 lastmod: 2026-09-15
-tags: ["ContributorCatalyst", "Mentorship", "HBCU", "uc"]
+tags: ["Contributor Catalyst", "mentorship", "HBCU", "UC", "summer"]
 categories: ["programs"]
 featured: true
 draft: false
-summary: "2026 Contributor Catalyst program overview"
+summary: "Contributor Catalyst 2026 Program Recap"
 ---
 
 Contributor Catalyst is a program designed to introduce HBCU undergraduates and recent graduates to open-source software, collaborative development, and the communities behind technology. Through hands-on projects, mentorship, and teamwork, participants gain real-world experience while learning how to contribute to meaningful open-source projects.  
@@ -32,7 +32,7 @@ These moments brought out the human side of the program. Contributor Catalyst ga
 
 <img src="CCBonfire.png"/>
 
-## Jordin’s take
+## Jordin’s Take
 
 My journey with Contributor Catalyst has been especially meaningful because I first joined the program as a participant and later returned in mentorship roles. As a participant, I learned how open-source communities work and became more comfortable asking questions, sharing ideas, and contributing code. Returning as a mentor allowed me to use those experiences to guide others through challenges that I once faced myself.  
 
