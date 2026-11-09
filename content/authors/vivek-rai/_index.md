@@ -26,6 +26,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Odysseus707
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vivek-rai-iit/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
