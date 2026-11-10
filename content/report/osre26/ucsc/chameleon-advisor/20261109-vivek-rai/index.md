@@ -14,8 +14,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "The advisor answering a CHI@Edge camera question with live availability and a ready-to-run reservation"
-  focal_point: "Top"
+  caption: "Chameleon testbed"
+  focal_point: "Center"
   preview_only: true
 ---
 
