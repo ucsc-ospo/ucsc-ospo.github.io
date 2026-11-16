@@ -10,7 +10,7 @@ summary: "A stability-aware representation learning framework for spatial domain
 **Mentor:** Ziheng Duan
 **Organisation:** UC Santa Cruz Open Source Program Office (UC OSPO) / OSRE 2026
 **Project:** StaR — A Stability-Aware Representation Learning Framework for Spatial Domain Identification
-**Code:** this repository ([`star/`](star/), [`scripts/`](scripts/), [`slurm/`](slurm/))
+**Code:** [clyty019/StaR](https://github.com/clyty019/StaR) ([`star/`](https://github.com/clyty019/StaR/tree/main/star), [`scripts/`](https://github.com/clyty019/StaR/tree/main/scripts), [`slurm/`](https://github.com/clyty019/StaR/tree/main/slurm))
 **License:** MIT
 
 > **In one sentence:** we showed that state-of-the-art spatial-domain methods
@@ -48,7 +48,7 @@ reported as such — see [§6](#6-challenges-and-lessons-learned).
 | # | Deliverable | State |
 |---|---|---|
 | 1 | Seed-sensitivity study: 6 methods × 1,000 seeds × 12 DLPFC sections (72,000 training runs) | ✅ Complete |
-| 2 | StaR model: structured spatial prior + VGAE ([`star/model.py`](star/model.py)) | ✅ Complete |
+| 2 | StaR model: structured spatial prior + VGAE ([`star/model.py`](https://github.com/clyty019/StaR/blob/main/star/model.py)) | ✅ Complete |
 | 3 | Benchmark against 5 published baselines under an identical protocol | ✅ Complete |
 | 4 | Leave-one-out component ablation + α/β hyperparameter sweeps | ✅ Complete |
 | 5 | Mechanistic follow-ups: prior-only probe, gene-coverage sweep, K-robustness | ✅ Complete |
@@ -136,12 +136,12 @@ Everything in this repository is work produced for this project. Nothing is
 vendored from upstream projects; the baselines are invoked through their own
 published packages.
 
-### 4.1 Library — [`star/`](star/)
+### 4.1 Library — [`star/`](https://github.com/clyty019/StaR/tree/main/star)
 
 | File | What it contains |
 |---|---|
-| [`star/model.py`](star/model.py) | The method. `StaR` encoder/decoder (GAT), `compute_spatial_prior` (the deterministic graph-diffusion anchor), `kl_divergence_structured` (KL against a non-zero prior mean), `train_star` (training loop with β-annealing and SWA), `mclust_labels` (fixed-seed Mclust readout), `spatial_label_refine` (neighbourhood majority vote). |
-| [`star/paths.py`](star/paths.py) | Dataset/result roots, overridable with `STAR_DATA_ROOT`, `STAR_STEREOSEQ_ROOT`, `STAR_RESULTS_ROOT`, so the code runs off the machine it was developed on. |
+| [`star/model.py`](https://github.com/clyty019/StaR/blob/main/star/model.py) | The method. `StaR` encoder/decoder (GAT), `compute_spatial_prior` (the deterministic graph-diffusion anchor), `kl_divergence_structured` (KL against a non-zero prior mean), `train_star` (training loop with β-annealing and SWA), `mclust_labels` (fixed-seed Mclust readout), `spatial_label_refine` (neighbourhood majority vote). |
+| [`star/paths.py`](https://github.com/clyty019/StaR/blob/main/star/paths.py) | Dataset/result roots, overridable with `STAR_DATA_ROOT`, `STAR_STEREOSEQ_ROOT`, `STAR_RESULTS_ROOT`, so the code runs off the machine it was developed on. |
 
 The core idea in two lines:
 
@@ -155,30 +155,30 @@ Library defaults are the canonical configuration behind every number in
 Mclust seed 2020), so `train_star(data, adata)` with no arguments reproduces
 the reported setup.
 
-### 4.2 Experiments — [`scripts/`](scripts/)
+### 4.2 Experiments — [`scripts/`](https://github.com/clyty019/StaR/tree/main/scripts)
 
 | File | Produces |
 |---|---|
-| [`scripts/smoke_test.py`](scripts/smoke_test.py) | 30-second synthetic end-to-end check; needs no dataset, and demonstrates the prior's stabilising effect in miniature. |
-| [`scripts/experiments/seed_sensitivity/`](scripts/experiments/seed_sensitivity/) | The 1,000-seed sweeps for STAGATE, GraphST, SpaceFlow, stCluster. |
-| [`scripts/experiments/star_v2/run_star_1000.py`](scripts/experiments/star_v2/run_star_1000.py), [`run_spagcn_1000.py`](scripts/experiments/star_v2/run_spagcn_1000.py) | The 1,000-seed runs for StaR and SpaGCN. |
-| [`scripts/experiments/star_v2/run_star_improve.py`](scripts/experiments/star_v2/run_star_improve.py) | The canonical 50-seed configuration sweep the ablation and β sweep are measured against. |
-| [`scripts/experiments/star_v2/run_star_ablation.py`](scripts/experiments/star_v2/run_star_ablation.py), [`run_beta_alpha05.py`](scripts/experiments/star_v2/run_beta_alpha05.py) | Leave-one-out ablation, α and β sweeps. |
-| [`scripts/experiments/star_v2/ablation_prior_only.py`](scripts/experiments/star_v2/ablation_prior_only.py), [`ablation_prior_probe.py`](scripts/experiments/star_v2/ablation_prior_probe.py) | The prior-only probe (§3.4). |
-| [`scripts/experiments/star_v2/ablation_hvg.py`](scripts/experiments/star_v2/ablation_hvg.py) | Gene-coverage sweep, HVG 3,000 → 200. |
-| [`scripts/experiments/star_v2/run_k_robustness.py`](scripts/experiments/star_v2/run_k_robustness.py) | Sensitivity to a misspecified cluster count (K ± 1). |
-| [`scripts/experiments/star_v2/run_mosta_hemibrain.py`](scripts/experiments/star_v2/run_mosta_hemibrain.py), [`run_hemibrain_baselines.py`](scripts/experiments/star_v2/run_hemibrain_baselines.py), [`run_gen_extra_baselines.py`](scripts/experiments/star_v2/run_gen_extra_baselines.py), [`run_hemibrain_fig20.py`](scripts/experiments/star_v2/run_hemibrain_fig20.py) | The six-method Stereo-seq generalisation study. |
-| [`scripts/analyze_1000seed.py`](scripts/analyze_1000seed.py) | Aggregates the per-seed CSVs into every table in §3 (mean/median/P5/P95/Std/CV and the Wilcoxon tests). |
-| [`scripts/figures/`](scripts/figures/) | Figures for the results in [§3](#3-results). |
-| [`scripts/run_star_dlpfc.py`](scripts/run_star_dlpfc.py) | Self-contained single-file DLPFC reproduction, for readers who want the method without the package. |
-| [`slurm/`](slurm/) | SLURM array wrappers for every experiment above. |
+| [`scripts/smoke_test.py`](https://github.com/clyty019/StaR/blob/main/scripts/smoke_test.py) | 30-second synthetic end-to-end check; needs no dataset, and demonstrates the prior's stabilising effect in miniature. |
+| [`scripts/experiments/seed_sensitivity/`](https://github.com/clyty019/StaR/tree/main/scripts/experiments/seed_sensitivity) | The 1,000-seed sweeps for STAGATE, GraphST, SpaceFlow, stCluster. |
+| [`scripts/experiments/star_v2/run_star_1000.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_star_1000.py), [`run_spagcn_1000.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_spagcn_1000.py) | The 1,000-seed runs for StaR and SpaGCN. |
+| [`scripts/experiments/star_v2/run_star_improve.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_star_improve.py) | The canonical 50-seed configuration sweep the ablation and β sweep are measured against. |
+| [`scripts/experiments/star_v2/run_star_ablation.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_star_ablation.py), [`run_beta_alpha05.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_beta_alpha05.py) | Leave-one-out ablation, α and β sweeps. |
+| [`scripts/experiments/star_v2/ablation_prior_only.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/ablation_prior_only.py), [`ablation_prior_probe.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/ablation_prior_probe.py) | The prior-only probe (§3.4). |
+| [`scripts/experiments/star_v2/ablation_hvg.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/ablation_hvg.py) | Gene-coverage sweep, HVG 3,000 → 200. |
+| [`scripts/experiments/star_v2/run_k_robustness.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_k_robustness.py) | Sensitivity to a misspecified cluster count (K ± 1). |
+| [`scripts/experiments/star_v2/run_mosta_hemibrain.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_mosta_hemibrain.py), [`run_hemibrain_baselines.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_hemibrain_baselines.py), [`run_gen_extra_baselines.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_gen_extra_baselines.py), [`run_hemibrain_fig20.py`](https://github.com/clyty019/StaR/blob/main/scripts/experiments/star_v2/run_hemibrain_fig20.py) | The six-method Stereo-seq generalisation study. |
+| [`scripts/analyze_1000seed.py`](https://github.com/clyty019/StaR/blob/main/scripts/analyze_1000seed.py) | Aggregates the per-seed CSVs into every table in §3 (mean/median/P5/P95/Std/CV and the Wilcoxon tests). |
+| [`scripts/figures/`](https://github.com/clyty019/StaR/tree/main/scripts/figures) | Figures for the results in [§3](#3-results). |
+| [`scripts/run_star_dlpfc.py`](https://github.com/clyty019/StaR/blob/main/scripts/run_star_dlpfc.py) | Self-contained single-file DLPFC reproduction, for readers who want the method without the package. |
+| [`slurm/`](https://github.com/clyty019/StaR/tree/main/slurm) | SLURM array wrappers for every experiment above. |
 
 ---
 
 ## 5. Reproducing the work
 
 ```bash
-git clone https://github.com/GITHUB_USER/StaR.git
+git clone https://github.com/clyty019/StaR.git
 cd StaR
 conda create -n star python=3.8 -y && conda activate star
 pip install -r requirements.txt && pip install -e .
@@ -261,7 +261,7 @@ repository given the public datasets.
    (STAGATE, GraphST) — the original "plug-in framework" ambition of the
    proposal, now with evidence about which component to plug in.
 
-Anyone picking this up should start at [`star/model.py`](star/model.py);
+Anyone picking this up should start at [`star/model.py`](https://github.com/clyty019/StaR/blob/main/star/model.py);
 items 2 and 4 are both localised to `compute_spatial_prior`.
 
 ---
