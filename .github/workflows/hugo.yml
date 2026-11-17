@@ -29,6 +29,7 @@ defaults:
 jobs:
   # Build job
   build:
+    if: github.repository == 'ucsc-ospo/ucsc-ospo.github.io'
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.119.0
@@ -63,6 +64,7 @@ jobs:
 
   # Deployment job
   deploy:
+    if: github.repository == 'ucsc-ospo/ucsc-ospo.github.io'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
